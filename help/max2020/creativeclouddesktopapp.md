@@ -1,0 +1,64 @@
+---
+title: Application pour postes de travail Creative Cloud
+description: L’application pour postes de travail Creative Cloud est votre plate-forme principale pour la gestion des applications CC, des services et de la collaboration, et bien plus encore !
+role: User
+level: Beginner, Intermediate
+exl-id: 5a45d334-3581-4b85-acb6-57764efa6f0a
+source-git-commit: 6b819aef801e003e5a160d24ba69522cf6a7e715
+workflow-type: tm+mt
+source-wordcount: '153'
+ht-degree: 5%
+
+---
+
+# Application pour postes de travail Creative Cloud
+
+![Image de héros du tutoriel](../assets/CCDA.jpg)
+
+L’application pour postes de travail Creative Cloud est votre plate-forme principale pour la gestion des applications CC, des services et de la collaboration, et bien plus encore !
+
+## Parcourir les Tutorials de produit
+
+<table style="table-layout:fixed">
+<tr>
+ <td>
+   <a href="creativeclouddesktopapp.md#tutorial1">
+      <img alt="Explorez l’application pour postes de travail CC : Votre concentrateur pour 
+Creative Cloud" src="../assets/ccda_overview_sokol_thumbnail.jpg" />
+   </a>
+    <div>
+   <a href="creativeclouddesktopapp.md#tutorial1"><strong>Explorez l’application pour postes de travail CC : Votre Hub pour Creative Cloud</strong></a>
+    </div>
+    <em>L’application pour postes de travail Creative Cloud est votre plate-forme principale pour la gestion des applications CC, des services et de la collaboration, et bien plus encore !</em>
+    <br>
+  </td>
+  <td>
+    <img alt="Espacement" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Espacement" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
+</tr>
+</table>
+
+## Explorez l’application pour postes de travail CC : Votre Hub pour Creative Cloud (2:50) {#tutorial1}
+
+>[!VIDEO](https://video.tv.adobe.com/v/327095?hidetitle=true)
+
+****
+DescriptionL’application pour postes de travail Creative Cloud est votre plate-forme principale pour la gestion des applications CC, des services et de la collaboration, et bien plus encore !
+
+Dans ce tutoriel, vous apprendrez à :
+* Lancement et mise à jour de vos applications pour postes de travail
+* Recherche d’applications mobiles et web
+* Gestion et partage d’actifs
+* Accès à Adobe Fonts
+* Découverte de tutoriels
+* Partage de votre travail sur Behance
+
+**Présenté par :**
+Patti Sokol, consultant principal en solutions (Digital Media)
