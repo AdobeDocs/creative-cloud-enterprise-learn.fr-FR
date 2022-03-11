@@ -1,6 +1,6 @@
 ---
-title: Création d'une image de marque cohérente avec de superbes dégradés et des ressources  [!DNL Stock] d'Adobe
-description: Créez l'unité de marque avec des images variables en combinant couleurs et dégradés dans votre campagne publicitaire.
+title: Création d'images de marque cohérentes avec de superbes dégradés et Adobes [!DNL Stock] ressources
+description: Créez une unité de marque avec différentes images en associant des couleurs et des dégradés dans votre campagne publicitaire
 role: User
 level: Beginner, Intermediate
 thumbnail: 331809.jpg
@@ -12,8 +12,8 @@ ht-degree: 0%
 
 ---
 
-# Création d&#39;une image de marque cohérente avec de superbes dégradés et des ressources [!DNL Stock] d&#39;Adobe
+# Création d&#39;images de marque cohérentes avec de superbes dégradés et Adobes [!DNL Stock] ressources
 
-Importez des animations dans vos images de newsletter avec des vecteurs modifiables pour l’Adobe [!DNL Stock].
+Animez les graphismes de vos newsletters à l&#39;aide de vecteurs modifiables pour l&#39;Adobe [!DNL Stock].
 
 >[!VIDEO](https://video.tv.adobe.com/v/331809?hidetitle=true)

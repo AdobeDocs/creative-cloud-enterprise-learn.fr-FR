@@ -1,12 +1,12 @@
 ---
 title: Illustrator sur iPad
-description: Adobe Illustrator sur l’iPad est une expérience de design vectoriel réinventée pour le toucher, l’Apple Pencil et l’iPad.
+description: Adobe Illustrator sur iPad est une expérience de design vectoriel réinventée pour les appareils tactiles, Apple Pencil et iPad
 role: User
 level: Beginner, Intermediate
 exl-id: 268b9891-77f6-4606-964c-343c443eafcb
 source-git-commit: e3982cf31ebb0dac5927baa1352447b3222785c9
 workflow-type: tm+mt
-source-wordcount: '234'
+source-wordcount: '232'
 ht-degree: 0%
 
 ---
@@ -15,57 +15,57 @@ ht-degree: 0%
 
 ![Image de héros du tutoriel](../assets/AIoniPad.jpg)
 
-Adobe Illustrator sur l’iPad est une expérience de design vectoriel réinventée pour le toucher, l’Apple Pencil et l’iPad.
+Adobe Illustrator sur iPad est une expérience de design vectoriel réinventée pour les appareils tactiles, Apple Pencil et iPad.
 
-## Parcourir les Tutorials de produit
+## Parcourir les Tutorials de produits
 
 <table style="table-layout:fixed">
 <tr>
  <td>
    <a href="illustratoripad.md#tutorial1">
-      <img alt="Introduction à Illustrator sur l'iPad" src="../assets/illustrator-iPad_repeat_weinberg_thumbnail.jpg" />
+      <img alt="Présentation d’Illustrator sur iPad" src="../assets/illustrator-iPad_repeat_weinberg_thumbnail.jpg" />
    </a>
     <div>
-   <a href="illustratoripad.md#tutorial1"><strong>Introduction à Illustrator sur l'iPad</strong></a>
+   <a href="illustratoripad.md#tutorial1"><strong>Présentation d’Illustrator sur iPad</strong></a>
     </div>
-    <em>Créez une icône d’emplacement en détresse et transformez-la en modèle que vous pouvez appliquer à votre projet [ ! Dimension DNL] et Zazzle !</em>
+    <em>Créez une icône d’emplacement endommagé et transformez-la en motif que vous pouvez appliquer à votre [!DNL Dimension] et projet Zazzle !</em>
     <br>
   </td>
   <td>
-    <img alt="Espacement" src="../assets/Whitespacer.png" />
+    <img alt="Espaceur" src="../assets/Whitespacer.png" />
     <div>
     <br>
   </td>
   <td>
-    <img alt="Espacement" src="../assets/Whitespacer.png" />
+    <img alt="Espaceur" src="../assets/Whitespacer.png" />
     <div>
     <br>
   </td>
 </tr>
 </table>
 
-## Introduction à Illustrator sur l&#39;iPad (9:21) {#tutorial1}
+## Présentation d’Illustrator sur iPad (9:21) {#tutorial1}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326823?hidetitle=true)
 
-****
-DescriptionCette présentation rapide d’Illustrator pour iPad vous permettra de créer rapidement une icône d’emplacement en détresse et de la transformer en motif que vous pouvez appliquer à votre projet  [!DNL Dimension] et Zazzle !
+**Description**
+Cette présentation rapide d’Illustrator pour iPad vous permet d’être rapidement opérationnel pour créer une icône de lieu en détresse et la transformer en motif que vous pouvez appliquer à votre [!DNL Dimension] et projet Zazzle !
 
 Dans ce tutoriel, vous apprendrez à :
-* Illustrator repensé pour iPad transforme la productivité, accélère la collaboration, développe les compétences créatives et renforce la créativité pour tous
-* L’interface tactile permet une expérience plus tactile et plus précise à l’aide de l’Apple Pencil
-* Accès aux images et couleurs depuis les bibliothèques CC
-* Flux aller-retour dans Illustrator pour les terminaux mobiles et les postes de travail
+* Illustrator réinventé pour iPad transforme la productivité, accélère la collaboration, développe les compétences créatives et donne plus de pouvoir à la créativité pour tous
+* L’interface tactile permet une expérience tactile et de précision accrue avec Apple Pencil
+* Accès aux images et aux couleurs depuis les bibliothèques CC
+* Workflow aller-retour sur Illustrator pour ordinateur et appareils mobiles
 
 **Présenté par :**
-Dave Weinberg, consultant principal en solutions (Digital Media)
+Dave Weinberg, consultant senior en solutions (médias numériques)
 
 ![Logo Illustrator sur iPad](../assets/ai_appicon_96.png)
 
-**Ressources d’Illustrator sur iPad**
+**Ressources Illustrator sur iPad**
 
-[Découvrez et ](https://helpx.adobe.com/support/illustrator.html) aidez votre hub pour des tutoriels supplémentaires, des  [nouveautés](https://helpx.adobe.com/illustrator/using/whats-new/mobile-2021.html) et des liens vers des forums communautaires.
+[Formation et support](https://helpx.adobe.com/support/illustrator.html) est votre centre de tutoriels supplémentaires, [Nouveautés de la version](https://helpx.adobe.com/illustrator/using/whats-new/mobile-2021.html)et des liens vers des forums communautaires.
 
 **Version d’octobre 2020**
 
-Commencez à utiliser ces fonctionnalités (et bien plus encore). en téléchargeant la dernière mise à jour depuis votre application pour postes de travail Creative Cloud.
+Commencez à utiliser ces fonctionnalités (et bien plus encore !) en téléchargeant la dernière mise à jour depuis l’application pour postes de travail de votre Creative Cloud.

@@ -1,6 +1,6 @@
 ---
-title: Décodage de la soupe alphabétique des formats graphiques
-description: Les fichiers JPG, PNG, SVG, GIF et EPS sont couramment utilisés dans le design, certains pour des pages web, d’autres pour des présentations, des publications et des projets créatifs. Mais qu'est-ce qu'ils veulent dire, et que devriez-vous choisir ?
+title: Décodage de la soupe Alphabet des formats graphiques
+description: JPG, PNG, SVG, GIF, and EPS files are all commonly used in design, some for web pages, others for presentations, publications and creative projects. Mais qu'est-ce qu'ils veulent dire, et lequel choisir ?
 role: User
 level: Beginner, Intermediate
 kt: 8038
@@ -13,14 +13,14 @@ ht-degree: 0%
 
 ---
 
-# Décodage de la soupe alphabétique des formats graphiques
+# Décodage de la soupe d&#39;alphabets de formats graphiques
 
-Les fichiers JPG, PNG, SVG, GIF et EPS sont couramment utilisés dans la conception, certains pour des pages web, d’autres pour des présentations, des publications et des projets créatifs. Mais, qu&#39;est-ce qu&#39;ils veulent dire, et que devriez-vous choisir ? Renseignez-vous sur cet atelier pratique de 15 minutes. Apprenez rapidement à appliquer des effets de transparence dans Photoshop pour donner une nouvelle dimension à vos compétences en matière de présentation, tout en explorant différents paramètres d&#39;exportation et d&#39;optimisation graphiques. Suivez les instructions de Chris Converse, designer/développeur, pour créer une animation attrayante dans PowerPoint à l’aide de graphiques personnalisés exportés depuis Photoshop.
+Les fichiers JPG, PNG, SVG, GIF et EPS sont tous couramment utilisés dans le design, certains pour les pages web, d’autres pour les présentations, les publications et les projets créatifs. Mais que veulent-ils dire et que devriez-vous choisir ? Découvrez-le dans cet atelier pratique de 15 minutes. Quickly learn how to apply transparency effects in Photoshop that can bring your presentation skills to a new level while exploring different graphic export and optimization settings. Follow along with designer/developer Chris Converse to create a compelling animation in PowerPoint using customized graphics exported from Photoshop.
 
 >[!VIDEO](https://video.tv.adobe.com/v/333805?hidetitle=true)
 
 <br> 
 
-[**Télécharger le guide PDF de référence rapide**](../quick-reference/Decodingthealphabetsoupofgraphicformats.pdf)
+[**Télécharger le Guide du PDF de référence rapide**](../quick-reference/Decodingthealphabetsoupofgraphicformats.pdf)
 
-[![Image de la première page du guide de référence rapide](assets/DecodingthealphabetsoupofgraphicformatsPage1.png)](../quick-reference/Decodingthealphabetsoupofgraphicformats.pdf)
+[![Image de la première page du guide de référence rapide] (assets/DecodingthealphabetsoupofgraphicformatsPage1.png)](../quick-reference/Decodingthealphabetsoupofgraphicformats.pdf)

@@ -1,6 +1,6 @@
 ---
 title: Création d’animations pour les e-mails avec Adobe [!DNL Stock] et Photoshop
-description: Donnez à vos e-mails les moyens d’animer des actions d’arrêt avec Adobe [!DNL Stock] et Photoshop
+description: Dynamisez vos e-mails avec des animations en action avec Adobe [!DNL Stock] et Photoshop
 role: User
 level: Beginner, Intermediate
 thumbnail: 331838.jpg
@@ -12,8 +12,8 @@ ht-degree: 0%
 
 ---
 
-# Création d’animations pour les e-mails avec l’Adobe [!DNL Stock] et Photoshop
+# Création d’animations pour les e-mails avec Adobe [!DNL Stock] et Photoshop
 
-Donnez à vos courriers électroniques les moyens d’animer des actions d’arrêt avec l’Adobe [!DNL Stock] et Photoshop.
+Dynamisez vos e-mails avec des animations en action avec Adobe [!DNL Stock] et Photoshop.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331838?hidetitle=true)

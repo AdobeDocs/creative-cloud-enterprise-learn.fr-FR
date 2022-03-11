@@ -1,6 +1,6 @@
 ---
-title: Administration d’entreprise
-description: Gestion des droits et actifs d’Adobe dans l’ensemble de votre organisation
+title: Administration Enterprise
+description: Gérez les droits et ressources d’Adobe dans toute votre organisation
 role: User
 level: Beginner, Intermediate
 exl-id: 1b8f0957-b1f9-4bae-9466-a1dcf585071a
@@ -11,13 +11,13 @@ ht-degree: 3%
 
 ---
 
-# Administration d’entreprise
+# Administration Enterprise
 
 ![Image de héros du tutoriel](../assets/hero_cce.jpg)
 
-Gérez les droits d’Adobe et les actifs dans l’ensemble de votre organisation.
+Gérez les droits et ressources d’Adobe dans toute votre organisation.
 
-## Parcourir les Tutorials d’administration d’entreprise
+## Parcourir les Tutorials d&#39;administration Enterprise
 
 <table style="table-layout:fixed">
 <tr>
@@ -28,16 +28,16 @@ Gérez les droits d’Adobe et les actifs dans l’ensemble de votre organisatio
     <div>
    <a href="enterprise.md#tutorial1"><strong>Adobe Fonts</strong></a>
     </div>
-    <em>Explorez les près de 200 familles d'Adobe Fonts et la facilité d'utilisation du service Adobe Fonts.</em>
+    <em>Découvrez les quelque 200 familles d’utilisateurs d’Adobe Fonts et la simplicité d’utilisation du service Adobe Fonts</em>
     <br>
   </td>
   <td>
-    <img alt="Espacement" src="../assets/Whitespacer.png" />
+    <img alt="Espaceur" src="../assets/Whitespacer.png" />
     <div>
     <br>
   </td>
   <td>
-    <img alt="Espacement" src="../assets/Whitespacer.png" />
+    <img alt="Espaceur" src="../assets/Whitespacer.png" />
     <div>
     <br>
   </td>
@@ -50,19 +50,19 @@ Gérez les droits d’Adobe et les actifs dans l’ensemble de votre organisatio
 
 **Description :**
 
-Explorez les près de 200 familles d&#39;Adobe Fonts et la facilité d&#39;utilisation du service Adobe Fonts.
+Découvrez les quelque 200 familles d’utilisateurs d’Adobe Fonts et la simplicité d’utilisation du service Adobe Fonts.
 
 Dans ce tutoriel, vous apprendrez à :
-* Utilisez la puissante interface de navigation pour trouver rapidement et facilement la bonne police.
-* Gagnez du temps et de l’argent en utilisant les intégrations de Creative Cloud natives
-* Gestion de toutes vos polices à un seul endroit du Adobe Admin Console
+* Utilisez la puissante interface de navigation pour trouver rapidement et facilement la bonne police
+* Gagnez du temps et de l’argent en utilisant des intégrations de Creative Cloud natif
+* Gérez toutes vos polices au même endroit dans Adobe Admin Console
 
 **Présenté par :**
 
-Todd Burke, consultant principal en solutions (Digital Media)
+Todd Burke, consultant principal en solutions (médias numériques)
 
-**Ressources d’administration d’entreprise :**
+**Ressources d&#39;administration Enterprise :**
 
 [Guide de l’utilisateur Adobe Fonts](https://helpx.adobe.com/fonts/user-guide.html)
 
-[Guide de l’administrateur d’entreprise](https://helpx.adobe.com/enterprise/admin-guide.html)
+[Guide d’administration Enterprise](https://helpx.adobe.com/enterprise/admin-guide.html)

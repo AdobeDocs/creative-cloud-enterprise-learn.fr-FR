@@ -1,6 +1,6 @@
 ---
-title: Ajout de flair à la typographie à l'aide de masques et d'animations
-description: Donnez vie à votre texte avec des éléments d’Adobe [!DNL Stock] et des styles d’animation d’After Effects
+title: Maîtrisez la typographie avec des masques et des animations
+description: Donnez vie à votre texte avec des éléments d’Adobe [!DNL Stock] et des styles d’animation After Effects
 role: User
 level: Beginner, Intermediate
 thumbnail: 331807.jpg
@@ -12,8 +12,8 @@ ht-degree: 0%
 
 ---
 
-# Ajout de flair à la typographie à l&#39;aide de masques et d&#39;animations
+# Maîtrisez la typographie avec des masques et des animations
 
-Donnez vie à votre texte avec des éléments d’Adobe [!DNL Stock] et des styles d’animation d’After Effects.
+Donnez vie à votre texte avec des éléments d’Adobe [!DNL Stock] et des styles d’animation After Effects.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331807?hidetitle=true)

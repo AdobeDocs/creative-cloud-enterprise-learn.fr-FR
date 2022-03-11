@@ -1,6 +1,6 @@
 ---
-title: Création d’un libellé gras avec des modèles  [!DNL Stock] d’Adobe et des objets dynamiques Photoshop
-description: Conception et visualisation de vos designs personnalisés avec des modèles de packages réalistes d’Adobe [!DNL Stock]
+title: Création d’un libellé gras avec Adobe [!DNL Stock] modèles et objets dynamiques Photoshop
+description: Concevez et visualisez vos designs personnalisés à l’aide des templates de packaging réalistes d’Adobe [!DNL Stock]
 role: User
 level: Beginner, Intermediate
 thumbnail: 331823.jpg
@@ -12,8 +12,8 @@ ht-degree: 0%
 
 ---
 
-# Création d’un libellé gras avec des modèles [!DNL Stock] d’Adobe et des objets dynamiques Photoshop
+# Création d’un libellé gras avec Adobe [!DNL Stock] modèles et objets dynamiques Photoshop
 
-Conception et visualisation de vos designs personnalisés avec des modèles de packages réalistes d&#39;Adobe [!DNL Stock]    .
+Concevez et visualisez vos designs personnalisés à l’aide des templates de packaging réalistes d’Adobe [!DNL Stock]    .
 
 >[!VIDEO](https://video.tv.adobe.com/v/331823?hidetitle=true)

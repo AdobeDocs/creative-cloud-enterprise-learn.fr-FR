@@ -1,6 +1,6 @@
 ---
 title: Création de bibliothèques de Creative Cloud pour les équipes
-description: Découvrez comment partager des actifs au sein d’un groupe ou d’une équipe à l’aide des bibliothèques de Creative Cloud pour les équipes
+description: Découvrez comment partager des ressources au sein d’un groupe ou d’une équipe à l’aide des bibliothèques de Creative Cloud pour les équipes
 role: User
 level: Beginner, Intermediate
 kt: 8209
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 # Création de bibliothèques de Creative Cloud pour les équipes
 
-Dans ce tutoriel vidéo, découvrez comment partager des ressources au sein d’un groupe ou d’une équipe à l’aide des bibliothèques de Creative Cloud pour les équipes. Ces types de bibliothèques ne sont pas liés à un compte d’utilisateur individuel, mais la bibliothèque appartient à l’équipe. Vous pouvez identifier les bibliothèques d’équipe à l’aide de l’icône ![de création d’image](assets/Smock_Building_18_N.png).
+Dans ce tutoriel vidéo, découvrez comment partager des ressources au sein d’un groupe ou d’une équipe à l’aide des Bibliothèques Creative Cloud pour les équipes. Ces types de bibliothèques ne sont pas liés à un compte d’utilisateur individuel, mais appartiennent à l’équipe. Vous pouvez identifier les bibliothèques d’équipe par le ![image de construction](assets/Smock_Building_18_N.png) s’affiche.
 
 >[!TIP]
 >
->Utilisez les bibliothèques de Creative Cloud pour les équipes chaque fois que votre entreprise doit conserver la propriété des ressources de création. Voici quelques exemples : guide de style d’entreprise, projets partagés et éléments de conception d’interface utilisateur.
+>Utilisez les Bibliothèques Creative Cloud pour les équipes chaque fois que votre entreprise doit conserver la propriété des ressources de création. Voici quelques exemples : guide de style d’entreprise, projets partagés et éléments de design d’interface utilisateur.
 
 <br> 
 

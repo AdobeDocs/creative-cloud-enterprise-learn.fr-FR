@@ -1,6 +1,6 @@
 ---
 title: Fresco
-description: Adobe Fresco est une application multiplate-forme qui permet de créer des dessins et des peintures à l’aide de méthodes basées sur des formes combinant des workflows vectoriels et pixellisés avec des documents en ligne.
+description: Adobe Fresco est une application multiplateforme permettant de créer des dessins et des peintures à l’aide de méthodes basées sur les pinceaux, en associant des workflows vectoriels et pixellisés à des documents en ligne
 role: User
 level: Beginner, Intermediate
 exl-id: 1e621e3a-ce7b-4cb1-8fdb-2f20e70be017
@@ -15,77 +15,77 @@ ht-degree: 0%
 
 ![Image de héros du tutoriel](../assets/Fresco.jpg)
 
-Adobe Fresco est une application multiplate-forme qui permet de créer des dessins et des peintures à l’aide de méthodes basées sur des pinceaux combinant des workflows vectoriels et pixellisés avec des documents en ligne.
+Adobe Fresco est une application multiplateforme qui permet de créer des dessins et des peintures à l’aide de pinceaux en associant des workflows vectoriels et matriciels à des documents en ligne.
 
-## Parcourir les Tutorials de produit
+## Parcourir les Tutorials de produits
 
 <table style="table-layout:fixed">
 <tr>
  <td>
    <a href="fresco.md#tutorial1">
-      <img alt="Initiation au dessin avec Adobe Fresco" src="../assets/fresco_drawingPaintingIntro_tanonis_thumbnail.jpg" />
+      <img alt="Introduction au dessin avec Adobe Fresco" src="../assets/fresco_drawingPaintingIntro_tanonis_thumbnail.jpg" />
    </a>
     <div>
-   <a href="fresco.md#tutorial1"><strong>Initiation au dessin avec Adobe Fresco</strong></a>
+   <a href="fresco.md#tutorial1"><strong>Introduction au dessin avec Adobe Fresco</strong></a>
     </div>
-    <em>Utilisez les puissants outils de sélection et de modification des couleurs de la fresque d’Adobe pour modifier radicalement une image en fonction des besoins de votre marque d’entreprise.</em>
+    <em>Tirez parti des puissants outils de sélection et de modification des couleurs d'Adobe Fresco pour transformer radicalement une image afin de l'adapter à vos besoins de branding</em>
     <br>
   </td>
   <td>
    <a href="fresco.md#tutorial2">
-      <img alt="Créer une illustration texturée - Fresco à Illustrator" src="../assets/fresco_textureToVector_tanonis_thumbnail.jpg" />
+      <img alt="Création d’une illustration texturée, Fresco à Illustrator" src="../assets/fresco_textureToVector_tanonis_thumbnail.jpg" />
    </a>
     <div>
-   <a href="fresco.md#tutorial2"><strong>Créer une illustration texturée - Fresco à Illustrator</strong></a>
+   <a href="fresco.md#tutorial2"><strong>Création d’une illustration texturée, Fresco à Illustrator</strong></a>
     </div>
-    <em>Peindre et dessiner des textures dans Adobe Fresco et apprendre à les utiliser dans Illustrator</em>
+    <em>Peignez et dessinez des textures dans Adobe Fresco et apprenez à les utiliser dans Illustrator</em>
     <br>
   </td>
   <td>
-    <img alt="Espacement" src="../assets/Whitespacer.png" />
+    <img alt="Espaceur" src="../assets/Whitespacer.png" />
     <div>
     <br>
   </td>
 </tr>
 </table>
 
-## Intro to Drawing with Adobe Fresco (19:07, disponible en anglais uniquement) {#tutorial1}
+## Introduction au dessin avec Adobe Fresco (19:07) {#tutorial1}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326946?hidetitle=true)
 
-****
-DescriptionDécouvrez Adobe Fresco pour la création de dessins et de peintures à l’aide de méthodes de pinceau combinant des workflows vectoriels et pixellisés avec des documents en ligne.
+**Description**
+Découvrez Adobe Fresco pour créer des dessins et des peintures à l’aide de méthodes basées sur les pinceaux en associant des workflows vectoriels et pixellisés à des documents en ligne.
 
 Dans ce tutoriel, vous apprendrez à :
-* Utilisez des formes dynamiques uniques qui imitent l’aquarelle et la peinture à l’huile avec vos formes pixellisées et vectorielles préférées.
+* Utilisez des pinceaux dynamiques uniques qui imitent l’aquarelle et la peinture à l’huile avec vos pinceaux pixellisés et vectoriels préférés
 * Création d’effets texturés en superposant différents pinceaux et en utilisant des masques
-* Créez n’importe où avec la nouvelle application Fresco pour iPhone
-* Exportation de votre travail vers différents formats à utiliser dans d’autres applications mobiles et de bureau
+* Création en tout lieu avec la nouvelle application de Fresco pour iPhone
+* Exportez votre travail dans différents formats pour l’utiliser dans d’autres applications mobiles et de bureau
 
 **Présenté par :**
-Liz Tanonis, Consultant en solutions (Digital Media)
+Liz Tanonis, consultante en solutions (médias numériques)
 
-## Création d&#39;une illustration texturée - Fresco à Illustrator (4:10) {#tutorial2}
+## Create Textured Artwork—Fresco to Illustrator (4:10, disponible en anglais uniquement) {#tutorial2}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326947?hidetitle=true)
 
-****
-DescriptionPeignez et dessinez des textures dans Adobe Fresco et apprenez à les utiliser dans Illustrator.
+**Description**
+Peignez et dessinez des textures dans Adobe Fresco et apprenez à les utiliser dans Illustrator.
 
 Dans ce tutoriel, vous apprendrez à :
-* Créez des illustrations dans l’application Adobe Fresco pour iPhone et exportez-les pour les utiliser dans d’autres applications Creative Cloud.
-* Utilisation de l’outil Vectorisation de l’image dans Illustrator pour convertir des illustrations en vecteurs
-* Application de textures artisanales à des illustrations vectorielles dans Illustrator
+* Créez une illustration dans l’application Adobe Fresco pour iPhone et exportez-la pour l’utiliser dans d’autres applications de Creative Cloud
+* Utilisez l’outil Vectorisation de l’image dans Illustrator pour convertir une illustration en vecteurs
+* Application de textures manuscrites à des illustrations vectorielles dans Illustrator
 
 **Présenté par :**
-Liz Tanonis, Consultant en solutions (Digital Media)
+Liz Tanonis, consultante en solutions (médias numériques)
 
 ![Logo du Fresco](../assets/fr_appicon_96.png)
 
-**Ressources Fresco**
+**Ressources du Fresco**
 
-[Découvrez et ](https://helpx.adobe.com/support/adobe-fresco.html) aidez votre hub pour des tutoriels supplémentaires, des  [nouveautés](https://helpx.adobe.com/fresco/using/whats-new.html) et des liens vers des forums communautaires.
+[Formation et support](https://helpx.adobe.com/support/adobe-fresco.html) est votre centre de tutoriels supplémentaires, [Nouveautés de la version](https://helpx.adobe.com/fresco/using/whats-new.html)et des liens vers des forums communautaires.
 
 **Version d’octobre 2020**
 
-Commencez à utiliser ces fonctionnalités (et bien plus encore). en téléchargeant la dernière mise à jour depuis votre application pour postes de travail Creative Cloud.
+Commencez à utiliser ces fonctionnalités (et bien plus encore !) en téléchargeant la dernière mise à jour depuis l’application pour postes de travail de votre Creative Cloud.

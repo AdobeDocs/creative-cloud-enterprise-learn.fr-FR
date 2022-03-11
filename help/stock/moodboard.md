@@ -1,6 +1,6 @@
 ---
-title: Créez des planches d’ambiance inspirantes en un clin d’oeil avec Adobe [!DNL Stock]
-description: Création d’une carte d’ambiance de projet pour transmettre des informations, des idées, des visuels et des palettes de couleurs à des équipes/clients
+title: Créez des planches de tendances originales en un temps record avec Adobe [!DNL Stock]
+description: Créez une planche de tendances pour communiquer des informations, des idées, des visuels et des palettes de couleurs à vos équipes/clients
 role: User
 level: Beginner, Intermediate
 thumbnail: 331816.jpg
@@ -12,8 +12,8 @@ ht-degree: 0%
 
 ---
 
-# Créez rapidement des tableaux d’ambiance originaux avec l’Adobe [!DNL Stock]
+# Créez des planches de tendances originales en un temps record avec Adobe [!DNL Stock]
 
-Créez un tableau d’ambiance de projet pour transmettre des informations, des idées, des visuels et des palettes de couleurs à des équipes/clients.
+Créez une planche de tendances pour communiquer des informations, des idées, des visuels et des palettes de couleurs à vos équipes/clients.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331816?hidetitle=true)

@@ -1,6 +1,6 @@
 ---
 title: Bibliothèques CC
-description: Conserver vos ressources à portée de main et vos projets en toute marque
+description: Gardez vos ressources à portée de main et préservez la cohérence de marque dans vos projets
 role: User
 level: Beginner, Intermediate
 exl-id: e68a8d5b-3dca-4ac8-87d1-b31dbe0e13ce
@@ -15,9 +15,9 @@ ht-degree: 2%
 
 ![Image de héros du tutoriel](../assets/CCLibs.jpg)
 
-Gardez vos actifs à portée de main et vos projets sur la marque.
+Gardez vos ressources à portée de main et préservez la cohérence de marque dans vos projets.
 
-## Parcourir les Tutorials de produit
+## Parcourir les Tutorials de produits
 
 <table style="table-layout:fixed">
 <tr>
@@ -28,7 +28,7 @@ Gardez vos actifs à portée de main et vos projets sur la marque.
     <div>
    <a href="cclibraries.md#tutorial1"><strong>Création de bibliothèques CC</strong></a>
     </div>
-    <em>Grâce aux bibliothèques Adobe Creative Cloud, vous pouvez gérer, organiser et accéder à vos logos, couleurs, etc. dans vos applications Creative Cloud préférées.</em>
+    <em>Les bibliothèques Adobe Creative Cloud vous permettent de gérer et d’organiser vos logos, couleurs et autres depuis vos applications de Creative Cloud préférées, et d’y accéder</em>
     <br>
   </td>
    <td>
@@ -38,11 +38,11 @@ Gardez vos actifs à portée de main et vos projets sur la marque.
     <div>
    <a href="cclibraries.md#tutorial2"><strong>Partage de bibliothèques CC</strong></a>
     </div>
-    <em>Gagnez en efficacité, garantissez la cohérence créative et restez en parfaite synchronisation avec votre équipe</em>
+    <em>Gagnez en efficacité, garantissez une cohérence créative et restez en phase avec votre équipe</em>
     <br>
   </td>
   <td>
-    <img alt="Espacement" src="../assets/Whitespacer.png" />
+    <img alt="Espaceur" src="../assets/Whitespacer.png" />
     <div>
     <br>
   </td>
@@ -53,36 +53,36 @@ Gardez vos actifs à portée de main et vos projets sur la marque.
 
 >[!VIDEO](https://video.tv.adobe.com/v/326802?hidetitle=true)
 
-****
-DescriptionGrâce aux bibliothèques Adobe Creative Cloud, vous pouvez gérer, organiser et accéder à vos logos, couleurs, etc. dans vos applications Creative Cloud préférées.
+**Description**
+Les bibliothèques Adobe Creative Cloud vous permettent de gérer et d’organiser vos logos, couleurs et autres depuis vos applications de Creative Cloud préférées, et d’y accéder.
 
 Dans ce tutoriel, vous apprendrez à :
-* Conserver vos ressources à portée de main et vos projets en toute marque
+* Gardez vos ressources à portée de main et préservez la cohérence de marque dans vos projets
 * Nouveau! Intégration complète avec Adobe XD
 
 **Présenté par :**
-Ashley Dvorin, conseillère principale en solutions (médias numériques)
+Ashley Dvorin, consultante senior en solutions (médias numériques)
 
 ## Partage de bibliothèques CC (4:14) {#tutorial2}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326803?hidetitle=true)
 
-****
-DescriptionTravaillez plus efficacement, assurez la cohérence créative et restez facilement synchronisé avec votre équipe.
+**Description**
+Gagnez en efficacité, garantissez une cohérence créative et restez en phase avec votre équipe.
 
 Dans ce tutoriel, vous apprendrez à :
-* Conserver vos ressources à portée de main et vos projets en toute marque
+* Gardez vos ressources à portée de main et préservez la cohérence de marque dans vos projets
 * Collaborez facilement sur des projets directement depuis vos applications préférées
 
 **Présenté par :**
-Ashley Dvorin, conseillère principale en solutions (médias numériques)
+Ashley Dvorin, consultante senior en solutions (médias numériques)
 
-![Logo des bibliothèques CC](../assets/cc_appicon_96.png)
+![Logo Bibliothèques CC](../assets/cc_appicon_96.png)
 
 **Ressources des bibliothèques CC**
 
-[Découvrez et ](https://helpx.adobe.com/creative-cloud/help/libraries.html) aidez votre hub pour des tutoriels supplémentaires, des nouveautés et des liens vers des forums communautaires.
+[Formation et support](https://helpx.adobe.com/creative-cloud/help/libraries.html) est votre centre d’informations sur les nouveautés et les tutoriels supplémentaires, ainsi que des liens vers les forums de la communauté.
 
 **Version d’octobre 2020**
 
-Commencez à utiliser ces fonctionnalités (et bien plus encore). en téléchargeant la dernière mise à jour depuis votre application pour postes de travail Creative Cloud.
+Commencez à utiliser ces fonctionnalités (et bien plus encore !) en téléchargeant la dernière mise à jour depuis l’application pour postes de travail de votre Creative Cloud.

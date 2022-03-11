@@ -1,6 +1,6 @@
 ---
-title: Création d’un graphique de comparaison de fonctionnalités de produit à l’aide d’Adobe [!DNL Stock]
-description: Créez un graphique comparant les formules de tarification des produits pour donner aux clients potentiels les informations dont ils ont besoin d’un coup d’oeil.
+title: Création d’un tableau comparatif des fonctionnalités des produits avec Adobe [!DNL Stock]
+description: Créez un graphique comparant les formules de tarification des produits pour fournir aux prospects les informations dont ils ont besoin en un coup d'oeil
 role: User
 level: Beginner, Intermediate
 thumbnail: 331817.jpg
@@ -12,8 +12,8 @@ ht-degree: 0%
 
 ---
 
-# Création d’un graphique de comparaison des fonctionnalités de produit à l’aide de l’Adobe [!DNL Stock]
+# Création d’un tableau comparatif des fonctionnalités des produits avec Adobe [!DNL Stock]
 
-Créez un graphique comparant les formules de tarification des produits pour donner aux clients potentiels les informations dont ils ont besoin d’un coup d’oeil.
+Créez un graphique comparant les formules de tarification des produits pour fournir aux prospects les informations dont ils ont besoin en un coup d&#39;oeil.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331817?hidetitle=true)

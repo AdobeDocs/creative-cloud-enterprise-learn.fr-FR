@@ -1,6 +1,6 @@
 ---
-title: Création d’une composition semi-surréaliste avec l’Adobe  [!DNL Stock]
-description: Création d'une image éditoriale mémorable en combinant plusieurs images avec des effets de masquage, de mouvement et de couleur
+title: Création d’une composition surréaliste avec Adobe [!DNL Stock]
+description: Créez une image éditoriale mémorable en associant plusieurs images avec des effets de couleur, de mouvement et de masquage
 role: User
 level: Beginner, Intermediate
 thumbnail: 331824.jpg
@@ -12,8 +12,8 @@ ht-degree: 0%
 
 ---
 
-# Création d’une composition semi-surréaliste avec l’Adobe [!DNL Stock]
+# Création d’une composition surréaliste avec Adobe [!DNL Stock]
 
-Créez une image éditoriale mémorable en combinant plusieurs images avec des effets de masquage, de mouvement et de couleur.
+Créez une image éditoriale mémorable en associant plusieurs images avec des effets de couleur, de mouvement et de masquage.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331824?hidetitle=true)

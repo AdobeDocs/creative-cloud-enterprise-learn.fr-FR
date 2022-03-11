@@ -1,6 +1,6 @@
 ---
-title: Créez des images web attrayantes en combinant des images  [!DNL Stock] Adobe avec CSS.
-description: Créez l'unité de marque avec des images variables en combinant couleurs et dégradés dans votre campagne publicitaire.
+title: Création d'illustrations web attrayantes en combinant des Adobes [!DNL Stock] images avec CSS
+description: Créez une unité de marque avec différentes images en associant des couleurs et des dégradés dans votre campagne publicitaire
 role: User
 level: Beginner, Intermediate
 thumbnail: 331812.jpg
@@ -12,8 +12,8 @@ ht-degree: 0%
 
 ---
 
-# Création d&#39;illustrations web attrayantes en combinant des images [!DNL Stock] Adobes avec CSS
+# Création d&#39;illustrations web attrayantes en combinant des Adobes [!DNL Stock] images avec CSS
 
-Créez l&#39;unité de votre marque avec des images variables en combinant couleurs et dégradés dans votre campagne publicitaire.
+Créez une unité de marque avec différentes images en associant des couleurs et des dégradés dans toute votre campagne publicitaire.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331812?hidetitle=true)

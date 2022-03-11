@@ -1,6 +1,6 @@
 ---
 title: Personnalisation d’une animation d’écran de chargement avec Adobe [!DNL Stock] et XD
-description: Personnalisation d'illustrations vectorielles à partir d'Adobe [!DNL Stock] pour créer une animation d'écran de chargement pour une application mobile
+description: Personnalisation des illustrations vectorielles de l’Adobe [!DNL Stock] pour créer une animation d’écran de chargement glaçante pour une application mobile
 role: User
 level: Beginner, Intermediate
 thumbnail: 331814.jpg
@@ -12,8 +12,8 @@ ht-degree: 0%
 
 ---
 
-# Personnalisation d’une animation d’écran de chargement avec l’Adobe [!DNL Stock] et XD
+# Personnalisation d’une animation d’écran de chargement avec Adobe [!DNL Stock] et XD
 
-Personnalisez les illustrations vectorielles à partir de l’Adobe [!DNL Stock] pour créer une animation d’écran de chargement pour une application mobile.
+Personnalisation des illustrations vectorielles de l’Adobe [!DNL Stock] pour créer une animation d’écran de chargement glaçante pour une application mobile.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331814?hidetitle=true)

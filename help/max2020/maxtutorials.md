@@ -1,23 +1,23 @@
 ---
 title: MAX 2020 Tutorials
-description: Ces tutoriels vous aideront à découvrir les nouvelles fonctionnalités de la version 2021 du Creative Cloud, du point de vue de l’entreprise.
+description: Ces tutoriels vous aideront à découvrir les nouvelles fonctionnalités de la version 2021 de Creative Cloud, d’un point de vue professionnel
 role: User
 level: Beginner, Intermediate
 exl-id: e27874b7-ba02-46b7-a5e4-fe2485d9c148
 source-git-commit: e3982cf31ebb0dac5927baa1352447b3222785c9
 workflow-type: tm+mt
-source-wordcount: '324'
+source-wordcount: '322'
 ht-degree: 6%
 
 ---
 
 # Tutoriels
 
-![Image Héros Max 2020](../assets/MAX.jpg)
+![Image héros Max 2020](../assets/MAX.jpg)
 
-En tant que créatif d’entreprise, vous devez collaborer avec des équipes distribuées, établir des processus évolutives et respecter les systèmes et les directives de l’entreprise. Ces tutoriels vous aideront à découvrir les nouvelles fonctionnalités de la version 2021 de Creative Cloud, du point de vue de l’entreprise.
+En tant que créatif d’entreprise, vous devez collaborer avec des équipes réparties dans le monde entier, mettre en place des processus évolutifs et respecter les directives et les systèmes de l’entreprise. Ces tutoriels vous aideront à découvrir les nouvelles fonctionnalités de la version 2021 de Creative Cloud, du point de vue de l’entreprise.
 
-## Tutorials par produits de bureau
+## Tutorials, par Produits pour ordinateurs
 
 <table style="table-layout:fixed">
 <tr>
@@ -28,7 +28,7 @@ En tant que créatif d’entreprise, vous devez collaborer avec des équipes dis
     <div>
     <a href="acrobat-sign.md"><strong>Acrobat et Adobe Sign</strong></a>
     </div>
-    <em>Création, modification et signature de documents et de formulaires PDF</em>
+    <em>Création, modification et signature de documents et formulaires PDF</em>
     <br>
   </td>
   <td>
@@ -38,7 +38,7 @@ En tant que créatif d’entreprise, vous devez collaborer avec des équipes dis
     <div>
     <a href="dimension.md"><strong>Dimension</strong></a>
     </div>
-    <em>Création d’images 3D photoréalistes pour la création de marques, de plans de produits et de packs</em>
+    <em>Créez des images 3D photoréalistes pour l'identité visuelle des marques, les photos de produits et le design de packaging</em>
     <br>
   </td>
   <td>
@@ -48,7 +48,7 @@ En tant que créatif d’entreprise, vous devez collaborer avec des équipes dis
     <div>
     <a href="illustrator.md"><strong>Illustrator</strong></a>
     </div>
-    <em>Graphiques vectoriels et illustration</em>
+    <em>Dessin vectoriel et illustration</em>
     <br>
   </td>
 </tr>
@@ -60,7 +60,7 @@ En tant que créatif d’entreprise, vous devez collaborer avec des équipes dis
     <div>
     <a href="indesign.md"><strong>InDesign</strong></a>
     </div>
-    <em>Conception et mise en page pour l’impression et la publication numérique</em>
+    <em>Création de mises en page pour l'impression et la publication digitale</em>
     <br>
   </td>
   <td>
@@ -70,7 +70,7 @@ En tant que créatif d’entreprise, vous devez collaborer avec des équipes dis
     <div>
     <a href="photoshop.md"><strong>Photoshop</strong></a>
     </div>
-    <em>Montage, composition et création d'images, d'illustrations et d'illustrations de qualité sur un poste de travail</em>
+    <em>Retouchez, composez et créez de superbes images, illustrations et oeuvres d’art sur ordinateur</em>
     <br>
   </td>
   <td>
@@ -80,7 +80,7 @@ En tant que créatif d’entreprise, vous devez collaborer avec des équipes dis
     <div>
     <a href="rush.md"><strong>Rush</strong></a>
     </div>
-    <em>Création et partage de vidéos en ligne, où que vous soyez</em>
+    <em>Créez et partagez des vidéos où que vous soyez</em>
     <br>
   </td>
 </tr>
@@ -92,16 +92,16 @@ En tant que créatif d’entreprise, vous devez collaborer avec des équipes dis
     <div>
     <a href="xd.md"><strong>XD</strong></a>
     </div>
-    <em>Conception, création de prototypes et partage d’expériences utilisateur</em>
+    <em>Concevez, prototypez et partagez des projets d’UX design</em>
     <br>
   </td>
   <td>
-    <img alt="Espacement" src="../assets/WhiteBanner_Spacer.png" />
+    <img alt="Espaceur" src="../assets/WhiteBanner_Spacer.png" />
     <div>
     <br>
   </td>
   <td>
-    <img alt="Espacement" src="../assets/WhiteBanner_Spacer.png" />
+    <img alt="Espaceur" src="../assets/WhiteBanner_Spacer.png" />
     <div>
     <br>
   </td>
@@ -119,7 +119,7 @@ En tant que créatif d’entreprise, vous devez collaborer avec des équipes dis
     <div>
     <a href="capture.md"><strong>Capture</strong></a>
     </div>
-    <em>Transformation d'une image en thème de couleur, en image vectorielle, en forme, etc.</em>
+    <em>Transformez n’importe quelle image en thème de couleur, illustration vectorielle, pinceau, etc</em>
     <br>
   </td>
   <td>
@@ -129,7 +129,7 @@ En tant que créatif d’entreprise, vous devez collaborer avec des équipes dis
     <div>
     <a href="fresco.md"><strong>Fresco</strong></a>
     </div>
-    <em>Redécouvrir la joie du dessin et de la peinture partout</em>
+    <em>Redécouvrez le plaisir du dessin et de la peinture, où que vous soyez</em>
     <br>
   </td>
   <td>
@@ -139,7 +139,7 @@ En tant que créatif d’entreprise, vous devez collaborer avec des équipes dis
     <div>
     <a href="illustratoripad.md"><strong>Illustrator sur iPad</strong></a>
     </div>
-    <em>Graphiques vectoriels et illustration</em>
+    <em>Dessin vectoriel et illustration</em>
     <br>
   </td>
 </tr>
@@ -151,16 +151,16 @@ En tant que créatif d’entreprise, vous devez collaborer avec des équipes dis
     <div>
     <a href="photoshopipad.md"><strong>Photoshop sur iPad</strong></a>
     </div>
-    <em>Montage, composition et création d'images, d'illustrations et d'illustrations de qualité sur un poste de travail et un iPad</em>
+    <em>Retouchez, composez et créez de superbes images, illustrations et oeuvres d'art sur ordinateur et iPad</em>
     <br>
   </td>
   <td>
-    <img alt="Espacement" src="../assets/GrayBanner_Spacer.png" />
+    <img alt="Espaceur" src="../assets/GrayBanner_Spacer.png" />
     <div>
     <br>
   </td>
   <td>
-    <img alt="Espacement" src="../assets/GrayBanner_Spacer.png" />
+    <img alt="Espaceur" src="../assets/GrayBanner_Spacer.png" />
     <div>
     <br>
   </td>
@@ -178,7 +178,7 @@ En tant que créatif d’entreprise, vous devez collaborer avec des équipes dis
     <div>
     <a href="aem.md"><strong>AEM Assets et Asset Link</strong></a>
     </div>
-    <em>Gestion des actifs numériques nouvelle génération</em>
+    <em>Gestion des assets digitaux de nouvelle génération</em>
     <br>
   </td>
   <td>
@@ -186,9 +186,9 @@ En tant que créatif d’entreprise, vous devez collaborer avec des équipes dis
       <img alt="Application pour postes de travail Creative Cloud" src="../assets/CCDA.jpg" />
     </a>
     <div>
-    <a href="creativeclouddesktopapp.md"><strong>Application pour postes de travail Creative Cloud</strong></a>
+    <a href="creativeclouddesktopapp.md"><strong>Application de bureau Creative Cloud</strong></a>
     </div>
-    <em>L’application pour postes de travail Creative Cloud est votre plate-forme principale pour la gestion des applications CC, des services et de la collaboration, et bien plus encore !</em>
+    <em>L’application pour postes de travail Creative Cloud est votre centre de gestion des applications, services et collaborations CC, et bien plus encore !</em>
     <br>
   </td>
   <td>
@@ -198,7 +198,7 @@ En tant que créatif d’entreprise, vous devez collaborer avec des équipes dis
     <div>
     <a href="cclibraries.md"><strong>Bibliothèques CC</strong></a>
     </div>
-    <em>Conserver vos ressources à portée de main et vos projets en toute marque</em>
+    <em>Gardez vos ressources à portée de main et préservez la cohérence de marque dans vos projets</em>
     <br>
   </td>
 </tr>
@@ -210,7 +210,7 @@ En tant que créatif d’entreprise, vous devez collaborer avec des équipes dis
     <div>
     <a href="indesignserver.md"><strong>InDesign Server</strong></a>
     </div>
-    <em>Les outils sophistiqués de l'InDesign associés à l'automatisation personnalisée</em>
+    <em>Les outils sophistiqués de l'InDesign couplés à l'automatisation personnalisée</em>
     <br>
   </td>
  <td>
@@ -220,38 +220,38 @@ En tant que créatif d’entreprise, vous devez collaborer avec des équipes dis
     <div>
     <a href="stock.md"><strong>Adobe [!DNL Stock]</strong></a>
     </div>
-    <em>Images numériques, illustrations, vidéos, audio, modèles et bien plus encore</em>
+    <em>Images, illustrations, vidéos, contenus audio et modèles digitaux de qualité, et bien plus encore</em>
     <br>
   </td>
   <td>
-    <img alt="Espacement" src="../assets/GrayBanner_Spacer.png" />
+    <img alt="Espaceur" src="../assets/GrayBanner_Spacer.png" />
     <div>
     <br>
   </td>
 </tr>
 </table>
 
-### Projet manuel : Création d&#39;un masque de saisie
+### Projet pratique : Création de votre propre masque de visage
 
 <table style="table-layout:fixed">
 <tr>
  <td>
     <a href="handsonproject.md">
-      <img alt="Création d'un masque de saisie" src="../assets/faceMaskSplash.jpg" />
+      <img alt="Création de votre propre masque de visage" src="../assets/faceMaskSplash.jpg" />
     </a>
     <div>
-    <a href="handsonproject.md"><strong>Création d'un masque de saisie</strong></a>
+    <a href="handsonproject.md"><strong>Création de votre propre masque de visage</strong></a>
     </div>
-    <em>Avec le module externe Adobe Design to Print, vous pouvez visualiser vos designs sur des centaines de produits Zazzle et les publier directement sur leur marché en ligne.</em>
+    <em>Avec le plug-in Adobe Design to Print, vous pouvez visualiser vos designs sur des centaines de produits Zazzle et les publier directement sur leur marketplace en ligne</em>
     <br>
   </td>
   <td>
-    <img alt="Espacement" src="../assets/Whitespacer.png" />
+    <img alt="Espaceur" src="../assets/Whitespacer.png" />
     <div>
     <br>
   </td>
   <td>
-    <img alt="Espacement" src="../assets/Whitespacer.png" />
+    <img alt="Espaceur" src="../assets/Whitespacer.png" />
     <div>
     <br>
   </td>

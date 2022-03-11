@@ -1,6 +1,6 @@
 ---
-title: Personnalisation des couleurs dans une illustration vectorielle  [!DNL Stock] Adobe
-description: Ajoutez de l'élégance à n'importe quel projet avec une superbe illustration. Recherchez le vecteur parfait dans Adobe [!DNL Stock], puis faites correspondre les couleurs à la palette de votre projet à l’aide d’Adobe Illustrator.
+title: Personnalisation des couleurs d’un Adobe [!DNL Stock] illustration vectorielle
+description: Peaufinez n’importe quel projet avec une superbe illustration. Trouvez le vecteur parfait dans Adobe [!DNL Stock], puis faites correspondre les couleurs à la palette de votre projet à l’aide d’Adobe Illustrator
 role: User
 level: Beginner, Intermediate
 thumbnail: 331826.jpg
@@ -12,8 +12,8 @@ ht-degree: 0%
 
 ---
 
-# Personnalisation des couleurs dans une illustration vectorielle [!DNL Stock] Adobe
+# Personnalisation des couleurs d’un Adobe [!DNL Stock] illustration vectorielle
 
-Ajoutez de l&#39;élégance à n&#39;importe quel projet avec une superbe illustration. Recherchez le vecteur parfait dans l’Adobe [!DNL Stock], puis faites correspondre les couleurs à la palette de votre projet à l’aide d’Adobe Illustrator.
+Peaufinez n’importe quel projet avec une superbe illustration. Trouvez le vecteur parfait dans Adobe [!DNL Stock], puis faites correspondre les couleurs à la palette de votre projet à l’aide d’Adobe Illustrator.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331826?hidetitle=true)

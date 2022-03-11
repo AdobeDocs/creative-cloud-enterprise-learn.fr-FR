@@ -1,6 +1,6 @@
 ---
-title: Testez la main du Fresco sur l'iPad (et l'iPhone)
-description: Découvrez un tout nouveau monde de dessin et de peinture numériques avec Adobe Fresco dans cet atelier pratique de 15 minutes
+title: Essayez-vous à Fresco sur iPad (et iPhone)
+description: Explorez un tout nouvel univers de dessin et de peinture numériques avec Adobe Fresco dans cet atelier pratique de 15 minutes
 role: User
 level: Beginner, Intermediate
 kt: 8039
@@ -13,14 +13,14 @@ ht-degree: 0%
 
 ---
 
-# Testez la main du Fresco sur l&#39;iPad (et l&#39;iPhone)
+# Essayez-vous à Fresco sur iPad (et iPhone)
 
-Découvrez un tout nouveau monde de dessin et de peinture numériques avec Adobe Fresco dans cet atelier pratique de 15 minutes. Découvrez rapidement comment utiliser des calques et des masques d’écrêtage pour uniformiser la peinture et les textures avec une forme de base. Suivez les conseils de Chris Converse, designer/développeur, pour recréer une partie d’une illustration à vie fixe à l’aide de Fresco et Adobe Stock.
+Explorez un tout nouvel univers de dessin et de peinture numériques avec Adobe Fresco dans cet atelier pratique de 15 minutes. Apprenez rapidement à utiliser des calques et des masques d’écrêtage pour adapter la peinture et les textures à une forme de base. Suivez le designer et développeur Chris Converse pour recréer une partie d&#39;une illustration de nature morte à l&#39;aide de Fresco et Adobe Stock.
 
 >[!VIDEO](https://video.tv.adobe.com/v/333804?hidetitle=true)
 
 <br> 
 
-[**Télécharger le guide PDF de référence rapide**](../quick-reference/Frescoworkshop.pdf)
+[**Télécharger le Guide du PDF de référence rapide**](../quick-reference/Frescoworkshop.pdf)
 
-[![Image de la première page du guide de référence rapide](assets/FrescoworkshopPage1.png)](../quick-reference/Frescoworkshop.pdf)
+[![Image de la première page du guide de référence rapide] (assets/FrescoworkshopPage1.png)](../quick-reference/Frescoworkshop.pdf)

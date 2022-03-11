@@ -1,6 +1,6 @@
 ---
 title: Tutoriels
-description: Bienvenue dans le Creative Cloud pour le centre d’apprentissage d’entreprise
+description: Bienvenue dans le Creative Cloud pour Enterprise Learning Hub
 role: User
 level: Beginner, Intermediate, Experienced
 exl-id: d0223157-24aa-486b-806a-fc6f6a36d7cf
@@ -11,11 +11,11 @@ ht-degree: 10%
 
 ---
 
-# Creative Cloud pour Tutorials d&#39;entreprise
+# Creative Cloud pour Tutorials d’entreprise
 
-![Image du héros Creative Cloud](assets/hero_cce.jpg)
+![Image de héros Creative Cloud](assets/hero_cce.jpg)
 
-Bienvenue dans le Creative Cloud for enterprise Learning Hub. Vous trouverez un large éventail d’expériences d’apprentissage axées sur le Creative Cloud pour entreprise. Nos tutoriels, webinaires et exemples d’utilisation sont conçus pour permettre aux débutants et aux administrateurs d’être rapidement informés sur le Creative Cloud des produits d’entreprise.
+Welcome to the Creative Cloud for enterprise Learning Hub. Vous y trouverez un large éventail d’expériences d’apprentissage axées sur le Creative Cloud d’entreprise. Nos tutoriels, webinaires et cas d’usage sont conçus pour offrir rapidement aux débutants et administrateurs des informations actualisées sur le Creative Cloud des produits d’entreprise.
 
 ## Parcourir les rubriques
 
@@ -28,7 +28,7 @@ Bienvenue dans le Creative Cloud for enterprise Learning Hub. Vous trouverez un 
     <div>
    <a href="cce/overview-cce.md"><strong>Creative Cloud abonnement Entreprise</strong></a>
     </div>
-    <em>Découvrez les nouvelles fonctionnalités de la dernière version de Creative Cloud, du point de vue de l’entreprise</em>
+    <em>Learn new features in the latest release of Creative Cloud—from an enterprise perspective</em>
     <br>
   </td>
   <td>
@@ -38,7 +38,7 @@ Bienvenue dans le Creative Cloud for enterprise Learning Hub. Vous trouverez un 
     <div>
    <a href="stock/overview-stock.md"><strong>Adobe Stock</strong></a>
     </div>
-    <em>Images numériques, illustrations, vidéos, audio, modèles et bien plus encore</em>
+    <em>Images, illustrations, vidéos, contenus audio et modèles digitaux de qualité, et bien plus encore</em>
     <br>
   </td>
   <td>
@@ -48,19 +48,19 @@ Bienvenue dans le Creative Cloud for enterprise Learning Hub. Vous trouverez un 
     <div>
    <a href="xd/overview-xd.md"><strong>Adobe XD</strong></a>
     </div>
-    <em>Conception, création de prototypes et partage d’expériences utilisateur</em>
+    <em>Design, prototype, and share user experiences</em>
     <br>
   </td>
 </tr>
 <tr>
   <td>
    <a href="3di/overview-3di.md">
-      <img alt="Adobe 3D et VR" src="assets/Dimenio.jpg" />
+      <img alt="Adobe 3D &amp; VR" src="assets/Dimenio.jpg" />
     </a>
     <div>
    <a href="3di/overview-3di.md"><strong>Adobe 3D et VR</strong></a>
     </div>
-    <em>Création d’images 3D photoréalistes pour la création de marques, de plans de produits et de packs</em>
+    <em>Créez des images 3D photoréalistes pour l'identité visuelle des marques, les photos de produits et le design de packaging</em>
     <br>
   </td>
   <td>
@@ -70,17 +70,17 @@ Bienvenue dans le Creative Cloud for enterprise Learning Hub. Vous trouverez un 
     <div>
    <a href="dva/overview-dva.md"><strong>Vidéo Adobe</strong></a>
     </div>
-    <em>Donnez vie à vos idées grâce aux logiciels et applications d'Adobe pour le montage vidéo, les animations graphiques, les effets visuels, les animations, etc.</em>
+    <em>Bring your ideas to life with Adobe software and apps for video editing, motion graphics, visual effects, animation, and more</em>
     <br>
   </td>
   <td>
     <a href="max2020/overview-max.md">
-      <img alt="MAX 2020 — Sessions d'entreprise" src="assets/MAX.jpg" />
+      <img alt="MAX 2020 : les sessions Entreprise" src="assets/MAX.jpg" />
     </a>
     <div>
-   <a href="max2020/overview-max.md"><strong>MAX 2020 — Sessions d'entreprise</strong></a>
+   <a href="max2020/overview-max.md"><strong>MAX 2020 : les sessions Entreprise</strong></a>
     </div>
-    <em>En savoir plus sur les sessions d’entreprise MAX 2020</em>
+    <em>Tout savoir sur les sessions MAX 2020 pour les entreprises</em>
     <br>
   </td>
 </tr>
