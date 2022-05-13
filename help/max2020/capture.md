@@ -4,10 +4,10 @@ description: Adobe [!DNL Capture] transforme les smartphones et les tablettes en
 role: User
 level: Beginner, Intermediate
 exl-id: dcd379c5-3f60-4056-9d60-589890d4de66
-source-git-commit: e3982cf31ebb0dac5927baa1352447b3222785c9
+source-git-commit: 591ecf1cf915c81fb53d9d9185e7e234d5a339b9
 workflow-type: tm+mt
-source-wordcount: '199'
-ht-degree: 1%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -28,7 +28,7 @@ Adobe [!DNL Capture] transforme les smartphones et les tablettes en collection d
     <div>
    <a href="capture.md#tutorial1"><strong>Trouvez l'inspiration dans le monde qui vous entoure</strong></a>
     </div>
-    <em>Utilisez les puissants outils de sélection et de modification des couleurs de Capture d'Adobe pour transformer radicalement une image afin de l'adapter aux besoins de votre entreprise en matière de branding</em>
+    <em>Tirez parti des puissants outils de sélection et de modification des couleurs d'Adobe Capture pour transformer radicalement une image afin de l'adapter à l'image de votre entreprise</em>
     <br>
   </td>
   <td>
