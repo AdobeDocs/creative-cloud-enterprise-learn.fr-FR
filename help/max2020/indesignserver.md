@@ -4,9 +4,9 @@ description: Adobe Adobe® InDesign® Server offre un moteur robuste et évoluti
 role: User
 level: Beginner, Intermediate
 exl-id: 534124fb-a903-430e-ad56-f124e4f024a0
-source-git-commit: 6b819aef801e003e5a160d24ba69522cf6a7e715
+source-git-commit: 6e04256e587cdf82fc5ce150451697f8c8322b45
 workflow-type: tm+mt
-source-wordcount: '269'
+source-wordcount: '268'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 ![Image de héros du tutoriel](../assets/InDesignServer.jpg)
 
-Adobe Adobe® InDesign® Server offre un moteur robuste et évolutif qui exploite les fonctions de conception, de mise en page et de typographie d&#39;InDesign pour vous permettre de créer par programmation des documents automatisés attrayants.
+Adobe InDesign® Server est un moteur robuste et évolutif qui exploite les fonctions de design, de mise en page et de typographie d&#39;InDesign pour vous permettre de créer par programmation des documents automatisés attrayants.
 
 ## Parcourir les Tutorials de produits
 
