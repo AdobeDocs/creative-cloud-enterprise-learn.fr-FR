@@ -5,9 +5,9 @@ role: User
 level: Beginner, Intermediate
 keywords: Éclairage 3D, 600 Global MSV
 exl-id: 05eb729e-35b8-46e2-9c56-590250097d0b
-source-git-commit: e3982cf31ebb0dac5927baa1352447b3222785c9
+source-git-commit: 01d80f9b296bc7d13b5e931cf0ca22d1335271dc
 workflow-type: tm+mt
-source-wordcount: '2738'
+source-wordcount: '2739'
 ht-degree: 0%
 
 ---
@@ -203,4 +203,4 @@ Cela signifie qu’il y aura beaucoup d’interactions complexes de lancer de ra
 
 J’espère que cette présentation illustre l’importance de la maîtrise des éclairages 3D dans diverses situations. Vous devriez être prêt à produire des résultats plus convaincants.
 
-Bon éclairage ! Téléchargez le fichier [dernière version](https://creativecloud.adobe.com/apps/download/[!DNL Dimension]) de Dimension aujourd&#39;hui.
+Bon éclairage ! Téléchargez le fichier [dernière version](https://creativecloud.adobe.com/apps/download/Dimension) de Dimension aujourd&#39;hui.

@@ -4,16 +4,16 @@ description: Des Tutorials pour vous aider à être rapidement opérationnel sur
 role: User
 level: Beginner, Intermediate
 exl-id: 83e1af30-489f-474c-874a-8cd8b36d4a38
-source-git-commit: e3982cf31ebb0dac5927baa1352447b3222785c9
+source-git-commit: 9dcf4a3054e528cd2cddeaa371f0b36e0039638d
 workflow-type: tm+mt
-source-wordcount: '1194'
+source-wordcount: '1196'
 ht-degree: 0%
 
 ---
 
 # Adobe [!DNL Stock] tutoriels
 
-!![Creative Cloud Hero Image](../assets/[!DNL Stock].jpg)
+![Image de héros Creative Cloud](../assets/Stock.jpg)
 
 Les créatifs sont mis sous pression pour diffuser rapidement un nouveau contenu visuellement attrayant qui capte et retient l’attention. Adobe [!DNL Stock] L’abonnement Entreprise permet aux équipes de création d’accéder à plus de 200 millions d’images, de vidéos, de templates, d’illustrations, de fichiers audio et de ressources 3D, le tout depuis les applications de création Adobe qu’elles utilisent au quotidien.
 
