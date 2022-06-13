@@ -4,9 +4,9 @@ description: L’octroi de licences de produits Adobes via le système de licenc
 role: User
 level: Beginner, Intermediate
 exl-id: 9dbdb057-6684-4750-bf9d-8af7a32bfe14
-source-git-commit: 6b819aef801e003e5a160d24ba69522cf6a7e715
+source-git-commit: 82f7d93855e57500669e83af6b1a73f5335ae813
 workflow-type: tm+mt
-source-wordcount: '637'
+source-wordcount: '633'
 ht-degree: 2%
 
 ---
@@ -17,7 +17,7 @@ Dans le contexte actuel, la direction IT a dû rapidement se tourner vers une ex
 
 L’octroi de licences de produits Adobes via le système de licences nominatives (NUL) permet aux administrateurs informatiques de déployer et de gérer facilement des outils Adobes à l’aide du Admin Console et permet aux utilisateurs finaux d’accéder à des applications de création et de productivité de pointe et à des services Adobe Cloud, même si l’ensemble du personnel est à distance.
 
-Si votre organisation n’est pas sur la base de la valeur NUL et utilise toujours le déploiement sérialisé pour les produits Adobe, vos numéros de série risquent d’expirer bientôt. Pour éviter toute interruption de service, il est important de planifier votre migration vers NUL avant de [les numéros de série expirent](https://blogs.adobe.com/deployment/understanding-serialnumberexpiration).
+Si votre organisation n’est pas sur la base de la valeur NUL et utilise toujours le déploiement sérialisé pour les produits Adobe, vos numéros de série risquent d’expirer bientôt. Pour éviter toute interruption de service, il est important de planifier votre migration vers NUL avant l’expiration de vos numéros de série.
 
 ## À propos des licences nominatives
 
