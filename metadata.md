@@ -1,7 +1,7 @@
 ---
 cloud: Creative Cloud
 mini-toc-levels: 2
-git-repo: https://git.corp.adobe.com/AdobeDocs/creative-cloud-enterprise-learn.fr-FR
+git-repo: https://github.com/AdobeDocs/creative-cloud-enterprise-learn.fr-FR
 solution: Creative Cloud
 index: true
 source-git-commit: 1f3b82b031beb84a1adba932fccf678c257164c2
@@ -14,21 +14,21 @@ ht-degree: 0%
 
 # Métadonnées pour utilisation interne
 
-Le fichier metadata.md comprend des métadonnées au niveau du repo qui sont transmises aux fichiers du guide de l’utilisateur TOC.md dans le repo. Si vous souhaitez modifier le contenu metadata.md pour n’importe quel guide d’utilisateur, faites-le dans n’importe quel fichier TOC.md.
+Le fichier metadata.md comprend des métadonnées au niveau du référentiel qui sont transmises aux fichiers TOC.md du guide d’utilisation dans le référentiel. Si vous souhaitez modifier le contenu metadata.md pour n’importe quel guide d’utilisation, faites-le dans n’importe quel fichier TOC.md.
 
-| métadonnées | ce qu&#39;il fait |
+| métadonnées | ce que cela produit |
 |--- |--- |
-| titre de la solution | Utilisé dans l’en-tête d’article en tant que lien |
+| solution-title | Utilisé dans l’en-tête d’article comme lien |
 | solution-hub-url | Ouvre la page centrale helpx |
-| icône de solution | Affiche l’icône de solution en regard du titre de la solution. Pas encore mis en oeuvre |
-| get-started-url | Lien vers la page Prise en main de l’aide |
-| tutorials-url | Lien vers des tutoriels vidéo : tutoriels d’aide ou tutoriels d’AC |
-| niveaux mini-table des matières | Détermine le nombre de niveaux d’intitulé qui apparaissent dans le rail droit. par défaut est 2 |
-| git-repo | Spécifie l&#39;emplacement du référentiel maître pour une utilisation interne. |
+| solution-icon | Affiche l’icône de la solution en regard du titre. Pas encore mis en oeuvre |
+| getting-started-url | Lien vers la page Prise en main helpx |
+| tutorials-url | Lien vers des tutoriels vidéo : tutoriels helpx ou tutoriels KT |
+| mini-toc-levels | Détermine le nombre de niveaux de titre qui apparaissent dans le rail droit. la valeur par défaut est 2 |
+| git-repo | Spécifie l&#39;emplacement du référentiel maître pour une utilisation interne |
 
 Dans le fichier TOC.md
 
-| métadonnées | ce qu&#39;il fait |
+| métadonnées | ce que cela produit |
 |--- |--- |
-| user-guide-title | Utilisé dans l’en-tête d’article en tant que lien |
+| user-guide-title | Utilisé dans l’en-tête d’article comme lien |
 | user-guide-url | Ouvre la page centrale helpx |
