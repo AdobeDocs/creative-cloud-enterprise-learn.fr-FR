@@ -4,10 +4,10 @@ description: Des Tutorials pour vous aider à vous familiariser avec le Creative
 role: User
 level: Beginner, Intermediate
 exl-id: eea91ea5-9adc-4a7f-93c0-6cdfe650cfb7
-source-git-commit: e3982cf31ebb0dac5927baa1352447b3222785c9
+source-git-commit: b31d4d2f7c8d141d65c7e4b72595fbc1c1252fd2
 workflow-type: tm+mt
-source-wordcount: '1366'
-ht-degree: 0%
+source-wordcount: '1390'
+ht-degree: 1%
 
 ---
 
@@ -19,6 +19,23 @@ En tant que créatif d’entreprise, vous devez collaborer avec des équipes ré
 
 
 ## Cliquer pour afficher un tutoriel de produit
+
+### Adobe Acrobat
+
+<table style="table-layout:fixed">
+<tr>
+ <td>
+   <a href="assets/AcrobatforContentCreators.pdf">
+      <img alt="Acrobat pour les créateurs de contenu" src="assets/AcrobatforContentCreators.jpg" />
+   </a>
+    <div>
+   <a href="assets/AcrobatforContentCreators.pdf"><strong>Acrobat pour les créateurs de contenu (PDF)</strong></a>
+    </div>
+    <em>Découvrez les outils Acrobat qui simplifient les workflows de création</em>
+    <br>
+  </td>
+</tr>
+</table>
 
 ### Creative Cloud abonnement Entreprise
 
@@ -53,7 +70,7 @@ En tant que créatif d’entreprise, vous devez collaborer avec des équipes ré
 </table>
 
 
-### Spark
+### Adobe Express (anciennement Adobe Spark)
 
 <table style="table-layout:fixed">
 <tr>
@@ -64,7 +81,7 @@ En tant que créatif d’entreprise, vous devez collaborer avec des équipes ré
     <div>
    <a href="assets/AddingaGlideshowtoyourSparkPageAdobeBlog.pdf"><strong>Ajout d'un diaporama à votre Spark Page (PDF)</strong></a>
     </div>
-    <em>Adobe Spark Page offre des composants de mise en page étonnants et faciles à utiliser qui donnent vie à vos récits web</em>
+    <em>Adobe Express offre des composants de mise en page étonnants et faciles à utiliser qui donnent vie à vos articles Web</em>
     <br>
   </td>
   <td>
@@ -74,7 +91,7 @@ En tant que créatif d’entreprise, vous devez collaborer avec des équipes ré
     <div>
    <a href="assets/CreatingYourBrandinAdobeSpark.pdf"><strong>Création de votre marque dans Adobe Spark (PDF)</strong></a>
     </div>
-    <em>Adobe Spark vous aide à définir votre marque</em>
+    <em>L'Adobe Express facilite la définition de votre marque</em>
     <br>
   </td>
   <td>
@@ -84,7 +101,7 @@ En tant que créatif d’entreprise, vous devez collaborer avec des équipes ré
     <div>
    <a href="assets/MeetYourNewProductionArtistAdobeSparkPost.pdf"><strong>Rencontrez Votre Nouvel Artiste De Production : Adobe Spark Post (PDF)</strong></a>
     </div>
-    <em>Adobe Spark apprend de vous lors de la création de mises en page, de la définition de couleurs, de l’importation d’illustrations et de l’agencement d’éléments dans vos compositions</em>
+    <em>Adobe Express apprend de vous lors de la création de mises en page, de la définition de couleurs, de l’importation d’illustrations et de l’agencement d’éléments dans vos compositions</em>
     <br>
   </td>
 </tr>

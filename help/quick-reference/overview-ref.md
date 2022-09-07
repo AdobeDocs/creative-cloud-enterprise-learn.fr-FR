@@ -4,9 +4,9 @@ description: Des Tutorials pour vous aider à vous familiariser avec le Creative
 role: User
 level: Beginner, Intermediate
 exl-id: 5c981e46-7599-4b49-99be-f5dcee60636d
-source-git-commit: e3982cf31ebb0dac5927baa1352447b3222785c9
+source-git-commit: b31d4d2f7c8d141d65c7e4b72595fbc1c1252fd2
 workflow-type: tm+mt
-source-wordcount: '1196'
+source-wordcount: '1200'
 ht-degree: 0%
 
 ---
@@ -79,7 +79,7 @@ En tant que créatif d’entreprise, vous devez collaborer avec des équipes ré
 </table>
 
 
-### Spark
+### Adobe Express (anciennement Adobe Spark)
 
 <table>
 <tr>
