@@ -4,9 +4,9 @@ description: Des Tutorials pour vous aider à vous familiariser avec le Creative
 role: User
 level: Beginner, Intermediate
 exl-id: eea91ea5-9adc-4a7f-93c0-6cdfe650cfb7
-source-git-commit: 48f5ce6a9d19018a14cb1bf092994641b9c42cd5
+source-git-commit: ba9266ed28d6c9db6f5fe64989b43374c4166673
 workflow-type: tm+mt
-source-wordcount: '1401'
+source-wordcount: '1419'
 ht-degree: 0%
 
 ---
@@ -230,8 +230,6 @@ En tant que créatif d’entreprise, vous devez collaborer avec des équipes ré
     <em>Éliminez la corvée et gagnez un temps considérable en utilisant les actions de Photoshop</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="assets/WorkSmarterNotHarderwithPhotoshop.pdf">
       <img alt="Travailler plus intelligemment, pas plus dur, avec Photoshop" src="assets/WorkSmarterNotHarderwithPhotoshop.jpg" />
@@ -260,11 +258,6 @@ En tant que créatif d’entreprise, vous devez collaborer avec des équipes ré
     <a href="assets/GreenScreenisNotJustforVideo.pdf"><strong>Le fond vert n'est pas que pour la vidéo (PDF)</strong></a>
     </div>
     <em>Vous pouvez utiliser un fond vert dans un studio photo et utiliser After Effects pour préparer l’utilisation de la photo dans Photoshop</em>
-    <br>
-  </td>
-  <td>
-    <img alt="Espaceur" src="../assets/acrobat_PDF_whitespacer_96.png" />
-    <div>
     <br>
   </td>
 </tr>  
@@ -396,6 +389,16 @@ En tant que créatif d’entreprise, vous devez collaborer avec des équipes ré
 
 <table  style="table-layout:fixed">
 <tr>
+<td>
+   <a href="assets/TamingTypeAnxiety.pdf">
+      <img alt="Anxiété du type de communication" src="assets/TamingTypeAnxiety.jpg" />
+   </a>
+    <div>
+   <a href="assets/TamingTypeAnxiety.pdf"><strong>Anxiété du type d'association (PDF)</strong></a>
+    </div>
+    <em>Découvrez comment accéder et utiliser plus de 20 000 polices conçues par des professionnels dans Creative Cloud</em>
+    <br>
+  </td>
   <td>
    <a href="assets/CreatingBeautifulTypographywithCreativeCloud.pdf">
       <img alt="Création d’une superbe typographie avec Creative Cloud" src="assets/CreatingBeautifulTypographywithCreativeCloud.jpg" />
@@ -426,12 +429,6 @@ En tant que créatif d’entreprise, vous devez collaborer avec des équipes ré
     <em>Le format OpenType permet à une police de contenir jusqu’à 65 536 glyphes</em>
     <br>
   </td>
-  <td>
-    <img alt="Espaceur" src="../assets/acrobat_PDF_whitespacer_96.png" />
-    <div>
-    <br>
-  </td>
-</tr>
 </table>
 
 ### InDesign
