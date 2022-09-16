@@ -4,9 +4,9 @@ description: Des Tutorials pour vous aider à être rapidement opérationnel sur
 role: User
 level: Beginner, Intermediate
 exl-id: 83e1af30-489f-474c-874a-8cd8b36d4a38
-source-git-commit: 9dcf4a3054e528cd2cddeaa371f0b36e0039638d
+source-git-commit: 7db89df9d3fed62368eb9fb1d3caf1f6b969060b
 workflow-type: tm+mt
-source-wordcount: '1196'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -15,8 +15,7 @@ ht-degree: 0%
 
 ![Image de héros Creative Cloud](../assets/Stock.jpg)
 
-Les créatifs sont mis sous pression pour diffuser rapidement un nouveau contenu visuellement attrayant qui capte et retient l’attention. Adobe [!DNL Stock] L’abonnement Entreprise permet aux équipes de création d’accéder à plus de 200 millions d’images, de vidéos, de templates, d’illustrations, de fichiers audio et de ressources 3D, le tout depuis les applications de création Adobe qu’elles utilisent au quotidien.
-
+Les créatifs sont mis sous pression pour diffuser rapidement du contenu visuel attrayant. Adobe Stock permet aux équipes de création d&#39;accéder à plus de 300 millions d&#39;images, de vidéos, de fichiers audio, de templates, d&#39;illustrations et de ressources 3D libres de droits depuis les applications de Creative Cloud qu&#39;elles utilisent au quotidien. Bénéficiez d’un accès illimité aux ressources Adobe Stock standard avec Creative Cloud Édition Pro. Découvrez les dernières collections sur stock.adobe.com.
 
 ## Cliquer pour afficher un Adobe [!DNL Stock] tutoriel
 
@@ -88,10 +87,10 @@ Les créatifs sont mis sous pression pour diffuser rapidement un nouveau contenu
 <tr>
    <td>
       <a href="changecolors.md">
-         <img alt="Modification d’un Adobe [!DNL Stock] des couleurs de l’image adaptées à votre histoire" src="assets/changecolors.jpg" />
+         <img alt="Modification d’un Adobe [!DNL Stock] les couleurs de l'image pour votre récit" src="assets/changecolors.jpg" />
       </a>
       <div>
-      <a href="changecolors.md"><strong>Modification d’un Adobe [!DNL Stock] des couleurs de l’image adaptées à votre histoire</strong></a>
+      <a href="changecolors.md"><strong>Modification d’un Adobe [!DNL Stock] les couleurs de l'image pour votre récit</strong></a>
       </div>
       <em>Recherche d'une photo originale dans Adobe [!DNL Stock] puis ajustez la couleur dans Adobe Photoshop en fonction de vos besoins</em>
       <br>
