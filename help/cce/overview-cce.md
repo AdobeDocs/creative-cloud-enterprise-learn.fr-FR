@@ -4,7 +4,7 @@ description: Des Tutorials pour vous aider à vous familiariser avec le Creative
 role: User
 level: Beginner, Intermediate
 exl-id: eea91ea5-9adc-4a7f-93c0-6cdfe650cfb7
-source-git-commit: b529575f0c128b55509cadafc07fe3d008c987a3
+source-git-commit: 384f104dd62a89b5874f7c5ba666fca56755c905
 workflow-type: tm+mt
 source-wordcount: '1453'
 ht-degree: 0%
@@ -316,11 +316,11 @@ En tant que créatif d’entreprise, vous devez collaborer avec des équipes ré
 <table  style="table-layout:fixed">
 <tr>
 <td>
-   <a href="assets/TamingTypeAnxiety.pdf">
+   <a href="Taming-font-anxiety.md">
       <img alt="Anxiété du type de communication" src="assets/TamingTypeAnxiety.jpg" />
    </a>
     <div>
-   <a href="assets/TamingTypeAnxiety.pdf"><strong>Anxiété du type d'association (PDF)</strong></a>
+   <a href="Taming-font-anxiety.md"><strong>Anxiété du type d'association (PDF)</strong></a>
     </div>
     <em>Découvrez comment accéder et utiliser plus de 20 000 polices conçues par des professionnels dans Creative Cloud</em>
     <br>

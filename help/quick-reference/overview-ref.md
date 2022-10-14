@@ -4,9 +4,9 @@ description: Des Tutorials pour vous aider à vous familiariser avec le Creative
 role: User
 level: Beginner, Intermediate
 exl-id: 5c981e46-7599-4b49-99be-f5dcee60636d
-source-git-commit: e213f4535acfa0d032e829a5a2f91bccf77020c3
+source-git-commit: 70e1e436f8fe439259fea2c48b263f255002fb10
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '1194'
 ht-degree: 0%
 
 ---
@@ -375,12 +375,12 @@ En tant que créatif d’entreprise, vous devez collaborer avec des équipes ré
     <br>
   </td>
   <td>
-    <img alt="Espaceur" src="../assets/GrayBanner_Spacer.png" />
+    <img alt="Espaceur" src="../assets/Whitespacer.png" />
     <div>
     <br>
   </td>
   <td>
-    <img alt="Espaceur" src="../assets/GrayBanner_Spacer.png" />
+    <img alt="Espaceur" src="../assets/Whitespacer.png" />
     <div>
     <br>
   </td>
