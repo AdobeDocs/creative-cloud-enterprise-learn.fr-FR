@@ -4,9 +4,9 @@ breadcrumb-title: Creative Cloud abonnement Entreprise
 user-guide-description: Consultez les tutoriels et les guides de référence rapides consacrés au Creative Cloud pour les entreprises.
 solution: Creative Cloud
 type: Tutorial
-source-git-commit: b99fa53168d2d2d4bb6c14ebf3a9a52e8f0af379
+source-git-commit: a8ce127bd9eee259bd1d37640abcfb41631a5fe3
 workflow-type: tm+mt
-source-wordcount: '362'
+source-wordcount: '374'
 ht-degree: 8%
 
 ---
@@ -18,6 +18,7 @@ ht-degree: 8%
 + CCE {#cceoverview}
    + [Présentation](cce/overview-cce.md)
    + Tutoriels {#ccetutorials}
+      + [Acrobat pour les créateurs de contenu](cce/acrobat-content-creators.md)
       + [Création de bibliothèques de Creative Cloud pour les équipes](cce/ccteamlibraries.md)
       + [Partage de ressources de marque avec les Bibliothèques Creative Cloud pour les équipes](cce/sharecclibraries.md)
       + [Création de compositions originales avec Adobe [!DNL Stock] et Photoshop pour iPad](cce/compositepsipad.md)
@@ -34,7 +35,7 @@ ht-degree: 8%
       + [Animation d’un Adobe [!DNL Stock] illustration vectorielle dans Photoshop](stock/animatevector.md)
       + [Commencez votre rapport annuel par une vidéo sur Adobe [!DNL Stock] et Spark Video](stock/annualreport.md)
       + [Donnez vie à vos idées avec des animations personnalisées par Adobe [!DNL Stock]](stock/customanimations.md)
-      + [Modification d’un Adobe [!DNL Stock] des couleurs de l’image adaptées à votre histoire](stock/changecolors.md)
+      + [Modification d’un Adobe [!DNL Stock] les couleurs de l&#39;image pour votre récit](stock/changecolors.md)
       + [Création d’un collage 3D pour une affiche à l’aide d’Adobe [!DNL Stock] images](stock/collage.md)
       + [Création d’un libellé gras avec Adobe [!DNL Stock] modèles et objets dynamiques Photoshop](stock/boldlabel.md)
       + [Création d&#39;une infographie de directives d&#39;entreprise avec Adobe [!DNL Stock]](stock/infographic.md)
@@ -51,10 +52,6 @@ ht-degree: 8%
       + [Personnalisation d’une animation d’écran de chargement avec Adobe [!DNL Stock] et XD](stock/loadingscreen.md)
       + [Personnalisation d’un Adobe [!DNL Stock] un template de présentation professionnel](stock/presentationtemplate.md)
       + [Personnalisation des couleurs d’un Adobe [!DNL Stock] illustration vectorielle](stock/customizecolors.md)
-+ XD {#xdoverview}
-   + [Présentation](xd/overview-xd.md)
-   + Tutoriels {#xdtutorials}
-   + [Familiarisez-vous avec [!UICONTROL Composants] dans Adobe XD](xd/components.md)
 + 3D et réalité virtuelle {#3doverview}
    + [Présentation](3di/overview-3di.md)
    + Tutoriels {#3dtutorials}
@@ -62,7 +59,14 @@ ht-degree: 8%
       + [Création de photographies virtuelles photoréalistes avec rendu 3D et composition](3di/photorealistic.md)
       + [Personnalisez et conférez une marque à un modèle 3D avec [!DNL Dimension] et Adobe [!DNL Stock]](3di/3ddimensionstock.md)
 + Vidéo {#videooverview}
-   + [Tutoriels](dva/overview-dva.md)
+   + [Présentation](dva/overview-dva.md)
+   + Tutoriels {#videotutorials}
+      + [Révision vidéo avec Frame.io](dva/video-review-frame-io.md)
+   + [Guides de référence rapide](dva/overview-dva-ref.md)
++ XD {#xdoverview}
+   + [Présentation](xd/overview-xd.md)
+   + Tutoriels {#xdtutorials}
+   + [Familiarisez-vous avec [!UICONTROL Composants] dans Adobe XD](xd/components.md)
 + Déploiement et gestion {#deploy}
    + [Présentation](deploy/overview-deploy.md)
    + [Expiration du numéro de série](deploy/cceserial.md)
@@ -86,7 +90,7 @@ ht-degree: 8%
          + [Photoshop sur iPad](max2020/photoshopipad.md)
       + Intégrations {#integrations}
          + [AEM](max2020/aem.md)
-         + [Application pour postes de travail Creative Cloud](max2020/creativeclouddesktopapp.md)
+         + [Application de bureau Creative Cloud](max2020/creativeclouddesktopapp.md)
          + [Bibliothèques CC](max2020/cclibraries.md)
          + [InDesign Server](max2020/indesignserver.md)
          + [[!DNL Stock]](max2020/stock.md)
