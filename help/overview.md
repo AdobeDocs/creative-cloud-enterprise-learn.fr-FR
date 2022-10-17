@@ -1,21 +1,21 @@
 ---
-title: Tutoriels
-description: Bienvenue dans le Creative Cloud pour Enterprise Learning Hub
+title: Creative Cloud abonnement Entreprise Tutorials
+description: Bienvenue dans le hub de formation Creative Cloud abonnement Entreprise
 role: User
 level: Beginner, Intermediate, Experienced
 exl-id: d0223157-24aa-486b-806a-fc6f6a36d7cf
-source-git-commit: cdb318618d08ab0eab1ec88c3faa3354e11f2fab
+source-git-commit: ab1ccf6b37a5fd9ca55edf9d9b7bee66bf7c73e3
 workflow-type: tm+mt
-source-wordcount: '167'
-ht-degree: 10%
+source-wordcount: '173'
+ht-degree: 9%
 
 ---
 
-# Creative Cloud pour Tutorials d’entreprise
+# Tutoriels Creative Cloud abonnement Entreprise
 
 ![Image de héros Creative Cloud](assets/hero_cce.jpg)
 
-Welcome to the Creative Cloud for enterprise Learning Hub. Vous y trouverez un large éventail d’expériences d’apprentissage axées sur le Creative Cloud d’entreprise. Nos tutoriels, webinaires et cas d’usage sont conçus pour offrir rapidement aux débutants et administrateurs des informations actualisées sur le Creative Cloud des produits d’entreprise.
+Bienvenue dans le hub de formation Creative Cloud abonnement Entreprise. Vous trouverez ici un large éventail d’expériences d’apprentissage axées sur le Creative Cloud d’entreprise. Nos tutoriels, webinaires et cas d’usage sont conçus pour offrir rapidement aux débutants et administrateurs des informations actualisées sur le Creative Cloud des produits d’entreprise.
 
 ## Parcourir les rubriques
 
@@ -28,7 +28,7 @@ Welcome to the Creative Cloud for enterprise Learning Hub. Vous y trouverez un l
     <div>
    <a href="cce/overview-cce.md"><strong>Creative Cloud abonnement Entreprise</strong></a>
     </div>
-    <em>Learn new features in the latest release of Creative Cloud—from an enterprise perspective</em>
+    <em>Découvrez les nouvelles fonctionnalités de la dernière version de Creative Cloud, du point de vue de l’entreprise</em>
     <br>
   </td>
   <td>
@@ -42,20 +42,8 @@ Welcome to the Creative Cloud for enterprise Learning Hub. Vous y trouverez un l
     <br>
   </td>
   <td>
-    <a href="xd/overview-xd.md">
-      <img alt="Adobe XD" src="assets/XD.jpg" />
-    </a>
-    <div>
-   <a href="xd/overview-xd.md"><strong>Adobe XD</strong></a>
-    </div>
-    <em>Design, prototype, and share user experiences</em>
-    <br>
-  </td>
-</tr>
-<tr>
-  <td>
    <a href="3di/overview-3di.md">
-      <img alt="Adobe 3D &amp; VR" src="assets/Dimenio.jpg" />
+      <img alt="Adobe 3D et VR" src="assets/Dimenio.jpg" />
     </a>
     <div>
    <a href="3di/overview-3di.md"><strong>Adobe 3D et VR</strong></a>
@@ -63,6 +51,8 @@ Welcome to the Creative Cloud for enterprise Learning Hub. Vous y trouverez un l
     <em>Créez des images 3D photoréalistes pour l'identité visuelle des marques, les photos de produits et le design de packaging</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
   <a href="dva/overview-dva.md">
       <img alt="Vidéo Adobe" src="assets/CCEbanner-DVA.png" />
@@ -70,7 +60,17 @@ Welcome to the Creative Cloud for enterprise Learning Hub. Vous y trouverez un l
     <div>
    <a href="dva/overview-dva.md"><strong>Vidéo Adobe</strong></a>
     </div>
-    <em>Bring your ideas to life with Adobe software and apps for video editing, motion graphics, visual effects, animation, and more</em>
+    <em>Donnez vie à toutes vos idées avec nos applications de montage vidéo, d’animation graphique, d’effets visuels, d’animation, etc., et nos Adobes</em>
+    <br>
+  </td>
+  <td>
+    <a href="xd/overview-xd.md">
+      <img alt="Adobe XD" src="assets/XD.jpg" />
+    </a>
+    <div>
+   <a href="xd/overview-xd.md"><strong>Adobe XD</strong></a>
+    </div>
+    <em>Concevez, prototypez et partagez des projets d’UX design</em>
     <br>
   </td>
   <td>
