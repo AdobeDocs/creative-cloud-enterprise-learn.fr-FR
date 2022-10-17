@@ -4,7 +4,7 @@ breadcrumb-title: Creative Cloud abonnement Entreprise
 user-guide-description: Voir les tutoriels et les guides de référence rapide consacrés au Creative Cloud pour les entreprises
 solution: Creative Cloud
 type: Tutorial
-source-git-commit: 54260475720010fa756d67dd5175888e9bd5cc05
+source-git-commit: 9ba263d5a4d9b870653bf0e7cb848b910836cfd8
 workflow-type: tm+mt
 source-wordcount: '393'
 ht-degree: 9%
@@ -28,7 +28,7 @@ ht-degree: 9%
       + [Décodage de la soupe d&#39;alphabets de formats graphiques](cce/alphabetsoup.md)
       + [S&#39;initier à Fresco sur iPad et iPhone](cce/frescoworkshop.md)
    + Repères de référence rapide {#ccerefguides}
-   + [Guides CCE](quick-reference/overview-ref.md)
+      + [Guides CCE](quick-reference/overview-ref.md)
 + [!DNL Adobe Stock] {#stockoverview}
    + [Présentation](stock/overview-stock.md)
    + Tutoriels {#stocktutorials}
