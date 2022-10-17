@@ -4,7 +4,7 @@ description: Des Tutorials pour vous aider à être rapidement opérationnel sur
 role: User
 level: Beginner, Intermediate
 exl-id: 4a0c57f5-053f-4e47-a42e-05f2d2a1bd15
-source-git-commit: 36a413f40c7f8743d81628c36daba0062844679b
+source-git-commit: 442c619a9119b0c6b45bd86ff53caf7bdb3387df
 workflow-type: tm+mt
 source-wordcount: '87'
 ht-degree: 0%
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 ![Image de héros Creative Cloud](../assets/CCEbanner-DVA.png)
 
-Donnez vie à toutes vos idées avec les applications de montage vidéo, d&#39;animation graphique, d&#39;effets visuels, d&#39;animation, etc., et leurs Adobes.
-
-## Cliquer pour visionner un tutoriel vidéo sur l’Adobe
+Donnez vie à toutes vos idées avec les applications de montage vidéo, d&#39;animation graphique, d&#39;effets visuels, d&#39;animation, etc., et leurs Adobes. Sélectionnez une image pour voir un tutoriel.
 
 <table>
 <tr>

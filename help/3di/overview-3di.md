@@ -4,9 +4,9 @@ description: Des Tutorials pour vous aider à vous familiariser avec la 3D et la
 role: User
 level: Beginner, Intermediate
 exl-id: f9d03c3d-0767-476f-a7e1-0b283cf16cd3
-source-git-commit: e3982cf31ebb0dac5927baa1352447b3222785c9
+source-git-commit: f5976ce274daea03ef5066f1c292c3ed6a6ad92f
 workflow-type: tm+mt
-source-wordcount: '274'
+source-wordcount: '275'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 ![Image de héros Creative Cloud](../assets/Dimenio.jpg)
 
-Créez plus rapidement du contenu 3D attrayant grâce à des modèles, des matières et des éclairages de haute qualité. [!DNL Dimension] permet de créer facilement des visuels de marque, des illustrations, des maquettes de produits, des designs de packaging et bien plus encore.
-
-## Cliquer pour visionner un tutoriel sur la 3D et la réalité virtuelle dans Adobe
+Créez plus rapidement du contenu 3D attrayant grâce à des modèles, des matières et des éclairages de haute qualité. [!DNL Dimension] permet de créer facilement des visuels de marque, des illustrations, des maquettes de produits, des designs de packaging et bien plus encore. Sélectionnez une image pour voir un tutoriel.
 
 <table>
 <tr>
@@ -51,9 +49,7 @@ Créez plus rapidement du contenu 3D attrayant grâce à des modèles, des mati�
     <em>Lorsque vous voulez voir à quoi ressembleront vos produits dans le monde réel, Adobe [!DNL Dimension] est votre application de prédilection</em>
     <br>
   </td>
-</tr>
-   <tr>
- <td>
+  <td>
    <a href="mastering3dlighting.md">
       <img alt="Conseils et techniques pour maîtriser l’éclairage 3D dans CGI" src="assets/Mastering3dlighting_1.gif" />
    </a>
@@ -63,6 +59,8 @@ Créez plus rapidement du contenu 3D attrayant grâce à des modèles, des mati�
     <em>Découvrez l’éclairage 3D et apprenez à créer différentes conditions d’éclairage susceptibles de modifier totalement une scène générée par ordinateur et l’apparence des objets qu’elle contient</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
    <a href="photorealistic.md">
       <img alt="Création de photographies virtuelles photoréalistes avec rendu 3D et composition" src="assets/Photorealistic_TOC.png" />
@@ -81,6 +79,16 @@ Créez plus rapidement du contenu 3D attrayant grâce à des modèles, des mati�
    <a href="3ddimensionstock.md"><strong>Personnalisez et conférez une marque à un modèle 3D avec [!DNL Dimension] et Adobe [!DNL Stock]</strong></a>
     </div>
     <em>Personnalisez un modèle 3D et définissez sa marque dans [!DNL Dimension] en utilisant des matériaux, des propriétés environnementales, l’éclairage et la photographie, pour créer des images photoréalistes pour n’importe quel projet de design</em>
+    <br>
+  </td>
+  <td>
+    <img alt="Espaceur" src="../assets/Gray_thumbnail.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Espaceur" src="../assets/Gray_thumbnail.png" />
+    <div>
     <br>
   </td>
 </tr>
