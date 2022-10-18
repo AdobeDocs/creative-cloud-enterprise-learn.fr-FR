@@ -4,9 +4,9 @@ description: Des Tutorials pour vous aider à vous familiariser avec le Creative
 role: User
 level: Beginner, Intermediate
 exl-id: eea91ea5-9adc-4a7f-93c0-6cdfe650cfb7
-source-git-commit: b20d263758d627eae81d574059646e4911f8ca57
+source-git-commit: 079372e8ba0d139fc9b3fac171e8af62f580c483
 workflow-type: tm+mt
-source-wordcount: '1453'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,7 @@ En tant que créatif d’entreprise, vous devez collaborer avec des équipes ré
 <tr>
  <td>
    <a href="acrobat-content-creators.md">
-      <img alt="Acrobat pour les créateurs de contenu" src="assets/AcrobatforContentCreators.jpg" />
+      <img alt="Acrobat pour les créateurs de contenu" src="assets/Acrobatforcontentcreators.png" />
    </a>
     <div>
    <a href="acrobat-content-creators.md"><strong>Acrobat pour les créateurs de contenu (PDF)</strong></a>
