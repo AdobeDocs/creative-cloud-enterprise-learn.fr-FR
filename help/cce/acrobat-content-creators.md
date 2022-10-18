@@ -4,9 +4,9 @@ description: Découvrez les outils clés d’Adobe Acrobat qui simplifient les w
 role: User
 level: Beginner, Intermediate
 thumb: KT-10962.jpg
-source-git-commit: cd46d5d1011d9a7613e8a78c3e89f75bf34d8beb
+source-git-commit: b20d263758d627eae81d574059646e4911f8ca57
 workflow-type: tm+mt
-source-wordcount: '63'
+source-wordcount: '68'
 ht-degree: 0%
 
 ---
@@ -15,6 +15,17 @@ ht-degree: 0%
 
 En tant que créateur de contenu, vous générez probablement des PDF, puis visualisez régulièrement ces fichiers de PDF dans Acrobat. Acrobat inclut également de nombreux outils qui simplifient les workflows de création classiques.
 
-**Sélectionnez l’image ci-dessous pour télécharger Acrobat pour les créateurs de contenu (PDF).**
-
-[![Image du tutoriel Acrobat](assets/AcrobatforContentCreators_400.jpg)](assets/AcrobatforContentCreators.pdf)
+<table style="table-layout:fixed">
+<tr>
+ <td>
+   <a href="assets/AcrobatforContentCreators.pdf" target="_blank">
+      <img alt="Acrobat pour les créateurs de contenu" src="assets/AcrobatforContentCreators_400.jpg" />
+   </a>
+    <div>
+   <a href="assets/AcrobatforContentCreators.pdf" target="_blank"><strong>Acrobat pour les créateurs de contenu (PDF)</strong></a>
+    </div>
+    <em>Découvrez les outils Acrobat qui simplifient les workflows de création</em>
+    <br>
+  </td>
+</tr>
+</table>
