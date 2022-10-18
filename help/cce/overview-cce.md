@@ -4,9 +4,9 @@ description: Des Tutorials pour vous aider à vous familiariser avec le Creative
 role: User
 level: Beginner, Intermediate
 exl-id: eea91ea5-9adc-4a7f-93c0-6cdfe650cfb7
-source-git-commit: 079372e8ba0d139fc9b3fac171e8af62f580c483
+source-git-commit: 5ba204bfda788cb616d1576fc6901acbf030a639
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '1453'
 ht-degree: 0%
 
 ---
@@ -141,7 +141,7 @@ En tant que créatif d’entreprise, vous devez collaborer avec des équipes ré
 <tr>
   <td>
    <a href="cc-workflows-cc-libraries.md">
-      <img alt="Améliorer les workflows CC avec les bibliothèques CC" src="assets/Improveccworkflowswithcclibraries.jpg" />
+      <img alt="Améliorer les workflows CC avec les bibliothèques CC" src="assets/Improveccworkflowswithcclibraries.png" />
    </a>
    <div>
    <a href="cc-workflows-cc-libraries.md"><strong>Améliorer les workflows CC avec les bibliothèques CC</strong></a>
@@ -316,7 +316,7 @@ En tant que créatif d’entreprise, vous devez collaborer avec des équipes ré
 <tr>
 <td>
    <a href="taming-type-anxiety.md">
-      <img alt="Anxiété du type de communication" src="assets/TamingTypeAnxiety.jpg" />
+      <img alt="Anxiété du type de communication" src="assets/TamingTypeAnxiety.png" />
    </a>
     <div>
    <a href="taming-type-anxiety.md"><strong>Anxiété du type d'association (PDF)</strong></a>
