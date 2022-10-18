@@ -4,9 +4,9 @@ description: Découvrez comment l’extension Frame.io pour Adobe Premiere Pro v
 role: User
 level: Beginner, Intermediate
 thumb: KT-11296.jpg
-source-git-commit: 86d38929a610846a56def4b71b22da3f111a4761
+source-git-commit: 72274ddcf4419935bb7ac2abf5170c1138a4b86b
 workflow-type: tm+mt
-source-wordcount: '86'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -15,6 +15,6 @@ ht-degree: 0%
 
 Collaborez là où vous créez. Découvrez comment l’extension Frame.io pour Adobe Premiere Pro vous permet de centraliser et de partager des actifs, de recevoir des commentaires en temps réel, de suivre les révisions et d’obtenir des validations plus rapidement, le tout sans quitter le montage chronologique de ce tutoriel pratique.
 
-**Sélectionnez l’image ci-dessous pour télécharger la révision vidéo avec Frame.io (PDF).**
+Sélectionnez l’image ci-dessous pour afficher ou télécharger ce tutoriel de PDF.
 
-[![Image du tutoriel Acrobat](assets/Videoreviewwithframe_400.jpg)](assets/Video-review-with-Frame.io.pdf)
+[![Image de la première page du tutoriel](assets/Videoreviewwithframe.jpg){&quot;width=680&quot;}](assets/Video-review-with-Frame.io.pdf){target=&quot;blank&quot;}

@@ -4,9 +4,9 @@ description: Découvrez comment les bibliothèques de Creative Cloud permettent 
 role: User
 level: Intermediate
 thumb: KT-11193.jpg
-source-git-commit: 70e1e436f8fe439259fea2c48b263f255002fb10
+source-git-commit: 7d00d1309550538ac1ab3b2c0eb3eeb290268eea
 workflow-type: tm+mt
-source-wordcount: '63'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -15,6 +15,6 @@ ht-degree: 0%
 
 Suivez ces tutoriels pratiques pour savoir comment les Bibliothèques Creative Cloud permettent aux designers et aux équipes d’assurer la cohérence d’un projet afin de garantir la cohérence des éléments de conception.
 
-**Sélectionnez l’image ci-dessous pour télécharger Améliorer les workflows CC avec les bibliothèques CC (PDF).**
+Sélectionnez l’image ci-dessous pour afficher ou télécharger ce tutoriel de PDF.
 
-[![Image du tutoriel Bibliothèques CC](assets/Improveccworkflowswithcclibraries_400.jpg)](assets/ImproveCCWorkflowsCCLibraries.pdf)
+[![Image de la première page du tutoriel](assets/Improveccworkflowswithcclibraries.jpg){&quot;width=680&quot;}](assets/ImproveCCWorkflowsCCLibraries.pdf){target=&quot;blank&quot;}

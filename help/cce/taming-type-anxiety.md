@@ -4,9 +4,9 @@ description: Découvrez comment accéder et utiliser plus de 20 000 polices con�
 role: User
 level: Beginner, Intermediate
 thumb: KT-10963.jpg
-source-git-commit: 52f7fef0c7b7317b84e8f4508b274eac5cf162dd
+source-git-commit: 72274ddcf4419935bb7ac2abf5170c1138a4b86b
 workflow-type: tm+mt
-source-wordcount: '80'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -15,6 +15,6 @@ ht-degree: 0%
 
 Parmi les nombreux avantages d’un abonnement à Adobe Creative Cloud, citons l’accès gratuit à plus de 20 000 polices Adobe Fonts conçues et sélectionnées par des professionnels. À l’origine appelées Typekit, les applications Adobe Fonts sont disponibles via un contrat de licence unique qui permet aux designers d’utiliser un nombre illimité de ressources de création pour des projets personnels ou commerciaux.
 
-**Sélectionnez l&#39;image ci-dessous pour télécharger Taming type anxiety (PDF).**
+Sélectionnez l’image ci-dessous pour afficher ou télécharger ce tutoriel de PDF.
 
-[![Image du tutoriel de texte](assets/TamingTypeAnxiety_400.jpg)](assets/TamingTypeAnxiety.pdf)
+[![Image de la première page du tutoriel](assets/TamingTypeAnxiety.jpg){&quot;width=680&quot;}](assets/TamingTypeAnxiety.pdf){target=&quot;blank&quot;}
