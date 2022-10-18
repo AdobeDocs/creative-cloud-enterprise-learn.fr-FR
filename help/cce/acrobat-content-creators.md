@@ -4,9 +4,9 @@ description: Découvrez les outils clés d’Adobe Acrobat qui simplifient les w
 role: User
 level: Beginner, Intermediate
 thumb: KT-10962.jpg
-source-git-commit: 05689444c056feb01a147579150b20ce4b8e0f20
+source-git-commit: e64a8848737b8fa2d8105b652368f9aa78063bed
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '67'
 ht-degree: 0%
 
 ---
@@ -17,4 +17,4 @@ En tant que créateur de contenu, vous générez probablement des PDF, puis visu
 
 <br> 
 
-[![Image de la première page du tutoriel](assets/Acrobatforcontentcreators.png){&quot;width=680&quot;}](https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/assets/AcrobatforContentCreators.pdf target=&quot;_blank&quot;)
+[![Image de première page du tutoriel] (assets/Acrobatforcontentcreators.png)](assets/AcrobatforContentCreators.pdf)
