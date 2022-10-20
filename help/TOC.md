@@ -4,9 +4,9 @@ breadcrumb-title: Creative Cloud abonnement Entreprise
 user-guide-description: Voir les tutoriels et les guides de référence rapide consacrés au Creative Cloud pour les entreprises
 solution: Creative Cloud
 type: Tutorial
-source-git-commit: 9ba263d5a4d9b870653bf0e7cb848b910836cfd8
+source-git-commit: 8776e5bf06700702223c284d5be437019654a793
 workflow-type: tm+mt
-source-wordcount: '393'
+source-wordcount: '396'
 ht-degree: 9%
 
 ---
@@ -32,6 +32,7 @@ ht-degree: 9%
 + [!DNL Adobe Stock] {#stockoverview}
    + [Présentation](stock/overview-stock.md)
    + Tutoriels {#stocktutorials}
+      + [Des ressources numériques époustouflantes](stock/stunning-digital-assets.md)
       + [Adobe de recherche [!DNL Stock] historique des licences](stock/searchstock.md)
       + [Ajout d’un dessin à la main à un Adobe [!DNL Stock] images](stock/handdrawn.md)
       + [Maîtrisez la typographie avec des masques et des animations](stock/flairtypography.md)
