@@ -4,9 +4,9 @@ description: Des Tutorials pour vous aider à être rapidement opérationnel sur
 role: User
 level: Beginner, Intermediate
 exl-id: 83e1af30-489f-474c-874a-8cd8b36d4a38
-source-git-commit: 8776e5bf06700702223c284d5be437019654a793
+source-git-commit: 5c7eea176959609a3f2fcdc51ed8e02f9f15dec9
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '1242'
 ht-degree: 0%
 
 ---
@@ -21,10 +21,10 @@ Les créatifs sont mis sous pression pour diffuser rapidement du contenu visuel 
 <tr>
    <td>
       <a href="stunning-digital-assets.md">
-         <img alt="Des ressources numériques époustouflantes" src="assets/Stunningdigitalassets.png" />
+         <img alt="Ressources numériques étonnantes (PDF)" src="assets/Stunningdigitalassets.png" />
       </a>
       <div>
-      <a href="stunning-digital-assets.md"><strong>Des ressources numériques époustouflantes</strong></a>
+      <a href="stunning-digital-assets.md"><strong>Ressources numériques étonnantes (PDF)</strong></a>
       </div>
       <em>Apprenez à intégrer Adobe Stock aux Bibliothèques CC pour obtenir des designs homogènes et professionnels pour l'impression et les écrans dans ce tutoriel pratique</em>
       <br>
