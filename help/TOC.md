@@ -4,10 +4,10 @@ breadcrumb-title: Creative Cloud abonnement Entreprise
 user-guide-description: Voir les tutoriels et les guides de référence rapide consacrés au Creative Cloud pour les entreprises
 solution: Creative Cloud
 type: Tutorial
-source-git-commit: 8776e5bf06700702223c284d5be437019654a793
+source-git-commit: 6213900f0618e843bed50af6386bed8f1d4b3ab3
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '407'
+ht-degree: 9%
 
 ---
 
@@ -21,6 +21,8 @@ ht-degree: 0%
       + [Acrobat pour les créateurs de contenu](cce/acrobat-content-creators.md)
       + [Améliorer les workflows CC avec les bibliothèques CC](cce/cc-workflows-cc-libraries.md)
       + [Anxiété de type Dressage](cce/taming-type-anxiety.md)
+      + [Adobe Express : Du contenu qui se démarque](cce/adobe-express-content-that-stands-out.md)
+      + [Collaboration : L&#39;avenir de la créativité](cce/collaboration-the-future-of-creativity.md)
       + [Création de bibliothèques de Creative Cloud pour les équipes](cce/ccteamlibraries.md)
       + [Partage de ressources de marque avec les Bibliothèques Creative Cloud pour les équipes](cce/sharecclibraries.md)
       + [Création de compositions originales avec Adobe [!DNL Stock] et Photoshop pour iPad](cce/compositepsipad.md)
