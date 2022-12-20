@@ -4,9 +4,9 @@ description: Des Tutorials pour vous aider à vous familiariser avec le Creative
 role: User
 level: Beginner, Intermediate
 exl-id: eea91ea5-9adc-4a7f-93c0-6cdfe650cfb7
-source-git-commit: b55059508f33e040d6238fadf3a15a18e0131d0a
+source-git-commit: ad7b21fc0ba8742117ff09b31e594d8d11dee51d
 workflow-type: tm+mt
-source-wordcount: '1534'
+source-wordcount: '1530'
 ht-degree: 0%
 
 ---
@@ -156,10 +156,10 @@ En tant que créatif d’entreprise, vous devez collaborer avec des équipes ré
 <tr>
   <td>
    <a href="cc-workflows-cc-libraries.md">
-      <img alt="Améliorer les workflows CC avec les bibliothèques CC (PDF)" src="assets/Improveccworkflowswithcclibraries.png" />
+      <img alt="Améliorer les workflows CC avec les bibliothèques CC" src="assets/Improveccworkflowswithcclibraries.png" />
    </a>
    <div>
-   <a href="cc-workflows-cc-libraries.md"><strong>Améliorer les workflows CC avec les bibliothèques CC (PDF)</strong></a>
+   <a href="cc-workflows-cc-libraries.md"><strong>Améliorer les workflows CC avec les bibliothèques CC</strong></a>
     </div>
     <em>Découvrez comment les bibliothèques de Creative Cloud permettent de rassembler les éléments de conception et d’assurer ainsi la cohérence du projet pour les designers et les équipes</em>
     <br>
@@ -331,10 +331,10 @@ En tant que créatif d’entreprise, vous devez collaborer avec des équipes ré
 <tr>
 <td>
    <a href="taming-type-anxiety.md">
-      <img alt="Anxiété du type d'association (PDF)" src="assets/TamingTypeAnxiety.png" />
+      <img alt="Anxiété du type de communication" src="assets/TamingTypeAnxiety.png" />
    </a>
     <div>
-   <a href="taming-type-anxiety.md"><strong>Anxiété du type d'association (PDF)</strong></a>
+   <a href="taming-type-anxiety.md"><strong>Anxiété du type de communication</strong></a>
     </div>
     <em>Découvrez comment accéder et utiliser plus de 20 000 polices conçues par des professionnels dans Creative Cloud</em>
     <br>

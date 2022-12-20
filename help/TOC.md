@@ -4,9 +4,9 @@ breadcrumb-title: Creative Cloud abonnement Entreprise
 user-guide-description: Voir les tutoriels et les guides de référence rapide consacrés au Creative Cloud pour les entreprises
 solution: Creative Cloud
 type: Tutorial
-source-git-commit: 6213900f0618e843bed50af6386bed8f1d4b3ab3
+source-git-commit: ad7b21fc0ba8742117ff09b31e594d8d11dee51d
 workflow-type: tm+mt
-source-wordcount: '407'
+source-wordcount: '415'
 ht-degree: 9%
 
 ---
@@ -61,12 +61,14 @@ ht-degree: 9%
 + Adobe 3D et VR {#3doverview}
    + [Présentation](3di/overview-3di.md)
    + Tutoriels {#3dtutorials}
+      + [Design et rendu 3D](3di/substance-3d-stager.md)
       + [Conseils et techniques pour maîtriser l’éclairage 3D dans CGI](3di/mastering3dlighting.md)
       + [Création de photographies virtuelles photoréalistes avec rendu 3D et composition](3di/photorealistic.md)
       + [Personnalisez et conférez une marque à un modèle 3D avec [!DNL Dimension] et Adobe [!DNL Stock]](3di/3ddimensionstock.md)
 + Vidéo Adobe {#videooverview}
    + [Présentation](dva/overview-dva.md)
    + Tutoriels {#videotutorials}
+      + [Templates d’animations graphiques professionnels](dva/motion-graphics-templates.md)
       + [Révision vidéo avec Frame.io](dva/video-review-frame-io.md)
    + Repères de référence rapide {#videorefguides}
       + [Guides vidéo](dva/overview-dva-ref.md)
