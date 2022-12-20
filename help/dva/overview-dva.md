@@ -4,9 +4,9 @@ description: Des Tutorials pour vous aider à être rapidement opérationnel sur
 role: User
 level: Beginner, Intermediate
 exl-id: 4a0c57f5-053f-4e47-a42e-05f2d2a1bd15
-source-git-commit: ad7b21fc0ba8742117ff09b31e594d8d11dee51d
+source-git-commit: a9ac2b3752113ae5ae722a091e8f1242de0273e7
 workflow-type: tm+mt
-source-wordcount: '121'
+source-wordcount: '120'
 ht-degree: 0%
 
 ---
@@ -34,7 +34,7 @@ Donnez vie à toutes vos idées avec les applications de montage vidéo, d&#39;a
       <img alt="Révision vidéo avec Frame-io" src="assets/Videoreviewwithframe.png" />
    </a>
     <div>
-   <a href="video-review-frame-io.md"><strong>Révision vidéo avec Frame.io (PDF)</strong></a>
+   <a href="video-review-frame-io.md"><strong>Révision vidéo avec Frame.io</strong></a>
     </div>
     <em>Découvrez comment l’extension Frame.io pour Adobe Premiere Pro vous permet de centraliser et de partager des actifs, de recevoir des commentaires en temps réel, de suivre les révisions et d’obtenir des validations plus rapidement, le tout sans quitter le montage</em>
     <br>
