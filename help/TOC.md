@@ -1,13 +1,13 @@
 ---
 user-guide-title: Creative Cloud pour Tutorials d’entreprise
-breadcrumb-title: Creative Cloud abonnement Entreprise
+breadcrumb-title: Creative Cloud abonnement Entreprise
 user-guide-description: Voir les tutoriels et les guides de référence rapide consacrés au Creative Cloud pour les entreprises
 solution: Creative Cloud
 type: Tutorial
 source-git-commit: ad7b21fc0ba8742117ff09b31e594d8d11dee51d
 workflow-type: tm+mt
 source-wordcount: '415'
-ht-degree: 9%
+ht-degree: 0%
 
 ---
 
@@ -33,7 +33,7 @@ ht-degree: 9%
       + [Guides CCE](quick-reference/overview-ref.md)
 + [!DNL Adobe Stock] {#stockoverview}
    + [Présentation](stock/overview-stock.md)
-   + Tutoriels {#stocktutorials}
+   + Tutorials {#stocktutorials}
       + [Des ressources numériques époustouflantes](stock/stunning-digital-assets.md)
       + [Adobe de recherche [!DNL Stock] historique des licences](stock/searchstock.md)
       + [Ajout d’un dessin à la main à un Adobe [!DNL Stock] images](stock/handdrawn.md)
@@ -60,21 +60,21 @@ ht-degree: 9%
       + [Personnalisation des couleurs d’un Adobe [!DNL Stock] illustration vectorielle](stock/customizecolors.md)
 + Adobe 3D et VR {#3doverview}
    + [Présentation](3di/overview-3di.md)
-   + Tutoriels {#3dtutorials}
+   + Tutorials {#3dtutorials}
       + [Design et rendu 3D](3di/substance-3d-stager.md)
       + [Conseils et techniques pour maîtriser l’éclairage 3D dans CGI](3di/mastering3dlighting.md)
       + [Création de photographies virtuelles photoréalistes avec rendu 3D et composition](3di/photorealistic.md)
       + [Personnalisez et conférez une marque à un modèle 3D avec [!DNL Dimension] et Adobe [!DNL Stock]](3di/3ddimensionstock.md)
 + Vidéo Adobe {#videooverview}
    + [Présentation](dva/overview-dva.md)
-   + Tutoriels {#videotutorials}
+   + Tutorials {#videotutorials}
       + [Templates d’animations graphiques professionnels](dva/motion-graphics-templates.md)
       + [Révision vidéo avec Frame.io](dva/video-review-frame-io.md)
    + Repères de référence rapide {#videorefguides}
       + [Guides vidéo](dva/overview-dva-ref.md)
 + Adobe XD {#xdoverview}
    + [Présentation](xd/overview-xd.md)
-   + Tutoriels {#xdtutorials}
+   + Tutorials {#xdtutorials}
    + [Familiarisez-vous avec [!UICONTROL Composants] dans Adobe XD](xd/components.md)
 + Déploiement et gestion {#deploy}
    + [Présentation](deploy/overview-deploy.md)
@@ -82,7 +82,7 @@ ht-degree: 9%
    + [Système de licences nominatives](deploy/nameduserlicensing.md)
 + MAX 2020 {#max2020}
    + [Présentation](max2020/overview-max.md)
-   + Tutoriels {#tutorials}
+   + Tutorials {#tutorials}
       + [Présentation](max2020/maxtutorials.md)
       + Produits pour ordinateurs {#desktop-products}
          + [Acrobat et Adobe Sign](max2020/acrobat-sign.md)
@@ -99,9 +99,9 @@ ht-degree: 9%
          + [Photoshop sur iPad](max2020/photoshopipad.md)
       + Intégrations {#integrations}
          + [AEM](max2020/aem.md)
-         + [Application de bureau Creative Cloud](max2020/creativeclouddesktopapp.md)
+         + [Application pour postes de travail Creative Cloud](max2020/creativeclouddesktopapp.md)
          + [Bibliothèques CC](max2020/cclibraries.md)
-         + [InDesign Server](max2020/indesignserver.md)
+         + [InDesign Server ](max2020/indesignserver.md)
          + [[!DNL Stock]](max2020/stock.md)
          + [Administration Enterprise](max2020/enterprise.md)
       + Projet pratique {#project}
