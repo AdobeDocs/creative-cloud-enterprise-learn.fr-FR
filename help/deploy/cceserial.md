@@ -4,9 +4,9 @@ description: Présentation de l’expiration des numéros de série dans Creativ
 role: User
 level: Beginner, Intermediate
 exl-id: bc457be0-86dc-4e8a-b6b2-34bc76af2d21
-source-git-commit: 6b819aef801e003e5a160d24ba69522cf6a7e715
+source-git-commit: 524d071b6f4e059823601381f04c337aedc55970
 workflow-type: tm+mt
-source-wordcount: '848'
+source-wordcount: '844'
 ht-degree: 3%
 
 ---
@@ -41,7 +41,7 @@ Les applications Acrobat et Creative Cloud abonnement Entreprise commenceront à
 
 ### Expérience Creative Cloud abonnement Entreprise
 
-Les informations suivantes décrivent l’expérience de l’utilisateur final. Vous trouverez ci-dessous une courte vidéo dans laquelle vous passerez en revue l’expérience de l’utilisateur final.
+Les informations suivantes décrivent l’expérience de l’utilisateur final. Vous trouverez ci-dessous une courte vidéo suivie d’un aperçu de l’expérience de l’utilisateur final.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331746?hidetitle=true)
 
@@ -57,7 +57,7 @@ Une fois le numéro de série expiré, les utilisateurs n’auront plus accès a
 
 ![Message CCE après expiration](assets/cceafterexpire.png)
 
-Pour toutes les tentatives ultérieures de lancement des applications, l’utilisateur final sera invité à **Se connecter maintenant** , puis l’option de création de leur propre Adobe ID et de passer en mode d’évaluation. Cependant, tout nouvel Adobe ID créé par l’utilisateur final ne sera pas associé aux licences de votre entreprise et entraînera une confusion supplémentaire pour vos utilisateurs. Pour éviter toute interruption d’activité et/ou confusion inutile, migrez vos utilisateurs vers des licences nominatives avant l’expiration de vos numéros de série.
+Pour toutes les tentatives ultérieures de lancement des applications, l’utilisateur final sera invité à **Se connecter maintenant** , puis l’option de création de leur propre Adobe ID et de passer en mode d’évaluation. Cependant, tout nouvel Adobe ID créé par l’utilisateur final ne sera pas associé aux licences de votre organisation et entraînera une confusion supplémentaire pour vos utilisateurs. Pour éviter toute interruption d’activité et/ou confusion inutile, migrez vos utilisateurs vers des licences nominatives avant l’expiration de vos numéros de série.
 
 ![Boîte de dialogue Connexion CCE 1](assets/ccesignin1.png)
 
@@ -65,7 +65,7 @@ Pour toutes les tentatives ultérieures de lancement des applications, l’utili
 
 ### Expérience Acrobat
 
-Les informations suivantes décrivent l’expérience de l’utilisateur final. Vous trouverez ci-dessous une courte vidéo dans laquelle vous passerez en revue l’expérience de l’utilisateur final.
+Les informations suivantes décrivent l’expérience de l’utilisateur final. Vous trouverez ci-dessous une courte vidéo suivie d’un aperçu de l’expérience de l’utilisateur final.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331749?hidetitle=true)
 
@@ -82,15 +82,15 @@ Une fois le numéro de série expiré, les utilisateurs n’auront plus accès �
 
 ![Message Acrobat après expiration](assets/acrobatafterexpire.png)
 
-Pour toutes les tentatives ultérieures de lancement d’Acrobat, l’utilisateur final sera invité à **Se connecter maintenant** , puis l’option de création de leur propre Adobe ID et de passer en mode d’évaluation. Cependant, tout nouvel Adobe ID créé par l’utilisateur final ne sera pas associé aux licences de votre entreprise et entraînera une confusion supplémentaire pour vos utilisateurs.
+Pour toutes les tentatives ultérieures de lancement d’Acrobat, l’utilisateur final sera invité à **Se connecter maintenant** , puis l’option de création de leur propre Adobe ID et de passer en mode d’évaluation. Cependant, tout nouvel Adobe ID créé par l’utilisateur final ne sera pas associé aux licences de votre organisation et entraînera une confusion supplémentaire pour vos utilisateurs.
 
-![Boîte de dialogue de connexion à Acrobat 1](assets/acrobatsignin1.png)
+![Acrobat Sign dans la boîte de dialogue 1](assets/acrobatsignin1.png)
 
-![Boîte de dialogue de connexion à Acrobat 2](assets/acrobatsignin2.png)
+![Acrobat Sign dans la boîte de dialogue 2](assets/acrobatsignin2.png)
 
 ## Contactez-nous si vous avez besoin d’aide
 
 Si vous avez des questions concernant l’utilisation du [AdobeExpiryCheck](https://helpx.adobe.com/enterprise/kb/volume-license-expiration-check.html) ou avez besoin d’aide pour migrer du déploiement par numéro de série vers l’utilisateur nommé, vous disposez de quelques options :
 * Envoyer un e-mail à l’équipe d’intégration Adobe Enterprise - **entonb@adobe.com**
 * Ouvrez un ticket d’assistance dans [Admin Console](https://adminconsole.adobe.com/support)
-* Contactez votre gestionnaire de compte Adobe ou responsable de la réussite client
+* Contactez votre équipe en charge du compte d’Adobe
