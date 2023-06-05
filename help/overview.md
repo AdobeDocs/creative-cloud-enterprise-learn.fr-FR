@@ -4,9 +4,9 @@ description: Bienvenue dans le hub de formation Creative Cloud abonnement Entrep
 role: User
 level: Beginner, Intermediate, Experienced
 exl-id: d0223157-24aa-486b-806a-fc6f6a36d7cf
-source-git-commit: ab1ccf6b37a5fd9ca55edf9d9b7bee66bf7c73e3
+source-git-commit: 715226411355dce6411212f6d51043afc77998be
 workflow-type: tm+mt
-source-wordcount: '173'
+source-wordcount: '201'
 ht-degree: 9%
 
 ---
@@ -32,6 +32,26 @@ Bienvenue dans le hub de formation Creative Cloud abonnement Entreprise. Vous tr
     <br>
   </td>
   <td>
+    <a href="express/overview-express.md">
+      <img alt="Adobe Express" src="assets/Express.png" />
+    </a>
+    <div>
+   <a href="express/overview-express.md"><strong>Adobe Express</strong></a>
+    </div>
+    <em>Un outil de création facile à utiliser, sans expérience requise</em>
+    <br>
+  </td>
+  <td>
+    <a href="firefly/overview-firefly.md">
+      <img alt="Luciole Adobe" src="assets/firefly.png" />
+    </a>
+    <div>
+   <a href="firefly/overview-firefly.md"><strong>Luciole Adobe</strong></a>
+    </div>
+    <em>La nouvelle gamme de modèles d'IA créatifs et génératifs qui fait leur entrée dans les produits Adobes</em>
+    <br>
+  </td>
+  <td>
     <a href="stock/overview-stock.md">
       <img alt="Adobe Stock" src="assets/Stock.jpg" />
     </a>
@@ -41,6 +61,7 @@ Bienvenue dans le hub de formation Creative Cloud abonnement Entreprise. Vous tr
     <em>Images, illustrations, vidéos, contenus audio et modèles digitaux de qualité, et bien plus encore</em>
     <br>
   </td>
+</tr>
   <td>
    <a href="3di/overview-3di.md">
       <img alt="Adobe 3D et VR" src="assets/Dimenio.jpg" />
@@ -51,8 +72,6 @@ Bienvenue dans le hub de formation Creative Cloud abonnement Entreprise. Vous tr
     <em>Créez des images 3D photoréalistes pour l'identité visuelle des marques, les photos de produits et le design de packaging</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
   <a href="dva/overview-dva.md">
       <img alt="Vidéo Adobe" src="assets/CCEbanner-DVA.png" />

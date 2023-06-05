@@ -4,9 +4,9 @@ breadcrumb-title: Creative Cloud abonnement Entreprise
 user-guide-description: Voir les tutoriels et les guides de référence rapide consacrés au Creative Cloud pour les entreprises
 solution: Creative Cloud
 type: Tutorial
-source-git-commit: 360291c15785a2d0e42295190425f6bb1975662c
+source-git-commit: 65ca74fa255996d8ce81e1d4f5211a3d52c2eb92
 workflow-type: tm+mt
-source-wordcount: '416'
+source-wordcount: '470'
 ht-degree: 10%
 
 ---
@@ -31,6 +31,26 @@ ht-degree: 10%
       + [S&#39;initier à Fresco sur iPad et iPhone](cce/frescoworkshop.md)
    + Repères de référence rapide {#ccerefguides}
       + [Guides CCE](quick-reference/overview-ref.md)
++ [!DNL Adobe Express] {#expressoverview}
+   + [Présentation](express/overview-express.md)
+   + Tutoriels {#expresstutorials}
+      + [Prise en main d’Adobe Express](express/get-started.md)
+      + [Adobe Express pour débutants](express/adobe-express-beginners.md)
+      + [Trouvez l&#39;inspiration rapidement](express/get-inspiration.md)
+      + [Création de modèles](express/create-templates.md)
+      + [Ajout de ressources de création](express/add-design-assets.md)
+      + [Grouper des objets](express/group-objects.md)
+      + [Sélection et déplacement de calques](express/layers.md)
+      + [Création de plusieurs pages](express/multiple-pages.md)
+      + [Annulation et rétablissement](express/undo-redo.md)
+      + [Utilisation des bibliothèques CC](express/cc-libraries.md)
+      + [Application de votre marque](express/brand.md)
+      + [Intégration de Google Drive](express/google-drive.md)
+      + [Supprimer un arrière-plan](express/remove-background.md)
+      + [Amélioration d’un découpage](express/refine-cutout.md)
+      + [Utilisation d’effets de texte](express/text-effects.md)
+      + [Utilisation d’effets](express/image-effects.md)
+      + [Création de texte incurvé](express/create-curved-text.md)
 + [!DNL Adobe Firefly] {#fireflyoverview}
    + [Présentation](firefly/overview-firefly.md)
 + [!DNL Adobe Stock] {#stockoverview}
