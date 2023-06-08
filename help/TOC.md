@@ -4,10 +4,10 @@ breadcrumb-title: Creative Cloud abonnement Entreprise
 user-guide-description: Voir les tutoriels et les guides de référence rapide consacrés au Creative Cloud pour les entreprises
 solution: Creative Cloud
 type: Tutorial
-source-git-commit: 65ca74fa255996d8ce81e1d4f5211a3d52c2eb92
+source-git-commit: 91984a5d4fd32db0af0007a65cb9245ff2a5b960
 workflow-type: tm+mt
-source-wordcount: '470'
-ht-degree: 10%
+source-wordcount: '476'
+ht-degree: 9%
 
 ---
 
@@ -36,6 +36,8 @@ ht-degree: 10%
    + Tutoriels {#expresstutorials}
       + [Prise en main d’Adobe Express](express/get-started.md)
       + [Adobe Express pour débutants](express/adobe-express-beginners.md)
+      + [Programmer les publications sociales](express/schedule.md)
+      + [Inviter des collaborateurs de projet](express/collaborate.md)
       + [Trouvez l&#39;inspiration rapidement](express/get-inspiration.md)
       + [Création de modèles](express/create-templates.md)
       + [Ajout de ressources de création](express/add-design-assets.md)
