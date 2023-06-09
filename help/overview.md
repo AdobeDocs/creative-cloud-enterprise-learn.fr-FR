@@ -4,7 +4,7 @@ description: Bienvenue dans le hub de formation Creative Cloud abonnement Entrep
 role: User
 level: Beginner, Intermediate, Experienced
 exl-id: d0223157-24aa-486b-806a-fc6f6a36d7cf
-source-git-commit: 715226411355dce6411212f6d51043afc77998be
+source-git-commit: 2d9140f3143aa8ff3fe2ec940e32930441fbdc5e
 workflow-type: tm+mt
 source-wordcount: '201'
 ht-degree: 9%
@@ -46,7 +46,7 @@ Bienvenue dans le hub de formation Creative Cloud abonnement Entreprise. Vous tr
       <img alt="Luciole Adobe" src="assets/firefly.png" />
     </a>
     <div>
-   <a href="firefly/overview-firefly.md"><strong>Luciole Adobe</strong></a>
+   <a href="firefly/overview-firefly.md"><strong>Adobe Firefly</strong></a>
     </div>
     <em>La nouvelle gamme de modèles d'IA créatifs et génératifs qui fait leur entrée dans les produits Adobes</em>
     <br>
@@ -93,11 +93,11 @@ Bienvenue dans le hub de formation Creative Cloud abonnement Entreprise. Vous tr
     <br>
   </td>
   <td>
-    <a href="max2020/overview-max.md">
+    <a href="max/overview-max.md">
       <img alt="MAX 2020 : les sessions Entreprise" src="assets/MAX.jpg" />
     </a>
     <div>
-   <a href="max2020/overview-max.md"><strong>MAX 2020 : les sessions Entreprise</strong></a>
+   <a href="max/overview-max.md"><strong>MAX 2020 : les sessions Entreprise</strong></a>
     </div>
     <em>Tout savoir sur les sessions MAX 2020 pour les entreprises</em>
     <br>
