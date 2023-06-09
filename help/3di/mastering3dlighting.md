@@ -5,9 +5,9 @@ role: User
 level: Beginner, Intermediate
 keywords: Éclairage 3D, 600 Global MSV
 exl-id: 05eb729e-35b8-46e2-9c56-590250097d0b
-source-git-commit: 01d80f9b296bc7d13b5e931cf0ca22d1335271dc
+source-git-commit: 5e47268715a213c3bdc58cd61cdc7646ba333dd8
 workflow-type: tm+mt
-source-wordcount: '2739'
+source-wordcount: '2733'
 ht-degree: 0%
 
 ---
@@ -16,9 +16,9 @@ ht-degree: 0%
 
 Découvrez l’éclairage 3D et apprenez à créer différentes conditions d’éclairage susceptibles de modifier totalement une scène générée par ordinateur et l’apparence des objets.
 
-Nous percevons le monde qui nous entoure en utilisant nos sens : on entend, on sent, on sent, on voit. Nous pouvons voir parce que nos yeux captent l&#39;information qui nous est apportée par des particules élémentaires appelées photons. Cette information est traitée par notre cerveau pour produire une image. Ce que nous interprétons comme une couleur d’objet, une brillance, une translucidité ou des qualités métalliques sont tous les produits de l’interaction entre les photons et la surface de l’objet.
+Nous percevons le monde qui nous entoure en utilisant nos sens : on entend, on sent, on sent, on voit. Nous pouvons voir parce que nos yeux captent l&#39;information qui nous est apportée par des particules élémentaires appelées photons. Cette information est traitée par notre cerveau pour produire une image. Ce que nous interprétons comme une couleur d&#39;objet, brillance, translucidité ou qualités métalliques sont tous les produits de l&#39;interaction entre les photons et la surface de l&#39;objet.
 
-La mécanique de la lumière dans une scène 3D générée par ordinateur suit le même principe naturel de diffusion des photons, grâce à un processus appelé [lancer de rayon](https://en.wikipedia.org/wiki/Ray_tracing_(graphics)). Les rayons rebondissent sur les formes et interagissent avec leurs matériaux, définissant ainsi efficacement l’apparence des objets dans l’image finale. La lumière expose la profondeur de tout ce qui existe dans une scène 3D.
+La mécanique de la lumière dans une scène 3D générée par ordinateur suit le même principe naturel de diffusion des photons, grâce à un processus appelé lancer de rayon. Les rayons rebondissent sur les formes et interagissent avec leurs matériaux, définissant ainsi efficacement l’apparence des objets dans l’image finale. La lumière expose la profondeur de tout ce qui existe dans une scène 3D.
 
 Certains matériaux sont plus sensibles aux conditions d’éclairage que d’autres. Prenez les métaux par exemple : un objet chrome est en fait un reflet de tout ce qui l&#39;entoure. Si une lumière est déplacée, devient plus claire ou plus grande, toutes ces informations sont visibles directement sur la surface du chrome dans des détails presque miroirs, de sorte qu&#39;il peut apparaître complètement différent d&#39;une condition de lumière à l&#39;autre.
 
@@ -35,21 +35,21 @@ Le processus de création d’un rendu 3D n’est jamais tout à fait le même, 
 1. Création ou affectation de matières
 1. Rendu
 
-Lorsque vous arrivez à la phase d’éclairage, il est idéal de configurer vos lumières avant de travailler sur les matériaux. Pour ce faire, vous pouvez affecter un matériau gris neutre et mat à l’ensemble de la scène. Ainsi, vous pourrez mieux voir et comprendre comment les lumières affectent les silhouettes des objets dans la scène. Une fois les matériaux terminés, l’éclairage peut nécessiter d’autres améliorations.
+Lorsque vous arrivez à la phase d’éclairage, il est idéal de configurer vos lumières avant de travailler sur les matériaux. Pour ce faire, vous pouvez affecter un matériau gris neutre et mat à l’ensemble de la scène. Ainsi, vous pourrez voir et comprendre plus clairement comment les lumières affectent les silhouettes des objets dans la scène. Une fois les matériaux terminés, l’éclairage peut nécessiter d’autres améliorations.
 
 ![Comparaison entre le salon CGI et le matériau mat gris neutre à gauche et les matériaux finis à droite](assets/Mastering3dlighting_2.jpg)
 
-Il est préférable de travailler sur les lumières une par une. La lumière active doit être la seule visible dans la scène, tandis que toutes les autres lumières doivent être temporairement éteintes. De cette façon, vous pourrez voir comment une lumière spécifique influence la scène et la modifier en travaillant sur ses propriétés, telles que la position, la direction, l’intensité, etc.
+Il est préférable de travailler sur les lumières une par une. La lumière active doit être la seule visible dans la scène, tandis que toutes les autres lumières doivent être temporairement éteintes. De cette façon, vous pourrez voir comment une lumière spécifique influe sur la scène et la modifier en travaillant sur ses propriétés, telles que la position, la direction, l’intensité, etc.
 
 ![Exemple de 3 lumières éclairant un modèle de voiture 3D individuellement et les 3 d&#39;entre eux travaillant ensemble](assets/Mastering3dlighting_3.gif)
 
-Une autre astuce utile est de créer une sphère avec un matériau métallique brillant (un chrome ou un miroir). Cette &quot;boule en miroir&quot; réfléchit efficacement toute la scène qui l’entoure, ce qui vous permet de déterminer facilement la position, la direction ou la taille de la lumière. Dans le cas des éclairages de l’environnement, vous pourrez voir son reflet dans la boule du miroir, ce qui vous aidera à régler son orientation dans l’espace.
+Une autre astuce utile est de créer une sphère avec un matériau métallique brillant (un chrome ou un miroir). Cette &quot;boule réfléchissante&quot; réfléchit efficacement toute la scène qui l’entoure, ce qui vous permet de déterminer facilement la position, la direction ou la taille de la lumière. Dans le cas des lumières de l&#39;environnement, vous pourrez voir son reflet dans la boule du miroir, ce qui aidera à établir son orientation dans l&#39;espace.
 
 ![Utilisation d’une boule en miroir (sphère à texture métallique) pour voir et orienter la lumière ambiante dans une scène 3D](assets/Mastering3dlighting_4.gif)
 
 ## Types de lumières dans l’Adobe [!DNL Dimension]
 
-### Lumières environnementales
+### Éclairages d’environnement
 
 Les éclairages d’environnement sont des images équirectangulaires (sphériques) qui sont enroulées autour de la scène entière. Comme leur nom l&#39;indique, ces lampes servent à émuler l&#39;ensemble de l&#39;environnement, y compris les sources lumineuses qui y sont stockées.
 
@@ -91,7 +91,7 @@ Vous pouvez modifier la couleur et l’intensité des lumières directionnelles,
 
 ![Modification de la forme d’une lumière directionnelle dans un Adobe [!DNL Dimension]](assets/Mastering3dlighting_12.gif)
 
-Si vous rendez la source de lumière plus petite que l’objet, les ombres seront plus nettes et le contour plus net, car les rayons ne peuvent pas dépasser l’objet éclairé. Les sources lumineuses plus grandes produisent des ombres plus douces, car dans ce cas, les rayons proviennent de tous les côtés de l’objet (marqués en rouge dans l’illustration ci-dessous), ce qui crée un ensemble d’ombres. Ces ombres sont adoucies par les rayons provenant de la direction opposée.
+Si vous rendez la source de lumière plus petite que l’objet, les ombres seront plus nettes, avec un contour plus net, car les rayons ne peuvent pas dépasser l’objet éclairé. Les sources lumineuses plus grandes produisent des ombres plus douces, car dans ce cas, les rayons proviennent de tous les côtés de l’objet (marqués en rouge dans l’illustration ci-dessous), ce qui crée un ensemble d’ombres. Ces ombres sont adoucies par les rayons provenant de la direction opposée.
 
 ![Diagramme illustrant l’effet de l’intensité, de la direction et de la taille de l’éclairage sur la façon dont un objet 3D est éclairé et sur l’ombre projetée](assets/Mastering3dlighting_13.jpg)
 
@@ -125,7 +125,7 @@ Vous pouvez contrôler la douceur des ombres en redimensionnant l’objet lumine
 
 ![En modifiant la taille de l’objet, la lumière augmente la quantité de lumière et adoucit les ombres](assets/Mastering3dlighting_19.gif)
 
-Contrairement aux éclairages précédents que nous avons étudiés, ceux-ci peuvent également utiliser des textures, en plus des couleurs unies. Les textures peuvent être fixées à la couleur de base de leurs matériaux, et l&#39;intensité lumineuse est contrôlée par l&#39;intermédiaire d&#39;un curseur de lueur.
+Contrairement aux types de lumières précédents que nous avons couverts, ces lumières peuvent également utiliser des textures, en plus des couleurs unies. Les textures peuvent être fixées à la couleur de base de leurs matériaux, et l&#39;intensité lumineuse est contrôlée par l&#39;intermédiaire d&#39;un curseur de lueur.
 
 ![Application d’une texture à un éclairage d’objet éclairant un modèle de voiture 3D](assets/Mastering3dlighting_20.gif)
 
@@ -147,7 +147,7 @@ Cette configuration se compose de trois lumières :
 
    ![Exemple de rétroéclairage éclairant un modèle de casque 3D](assets/Mastering3dlighting_23.jpg)
 
-1. **Lumière de fond :** moins intensif et servant à remplir les zones plus sombres, il est utilisé pour les zones que les deux lumières précédentes n’atteignent pas.
+1. **Lumière de fond :** moins intensif et servant à remplir les zones plus sombres, il est utilisé pour les zones que les deux lumières précédentes n&#39;atteignent pas.
 
    ![Exemple de lumière de remplissage éclairant un modèle de casque 3D](assets/Mastering3dlighting_24.jpg)
 
@@ -183,7 +183,7 @@ Le moyen le plus simple de régler cette lumière est d&#39;utiliser des avions 
 
 ![Illustration illustrant la position des lumières de fond et de découpe dans un salon 3D à l’intérieur pour éclairer la scène](assets/Mastering3dlighting_30.jpg)
 
-L’intensité de la lumière est contrôlée par la propriété de la lueur sur les matériaux des avions. Vous pouvez ajouter une couleur ou même une texture, qui peut être utilisée pour projeter des ombres intéressantes. L’utilisation de matériaux luisants produira également un affaiblissement de l’intensité lumineuse, ce qui est très important pour l’éclairage intérieur.
+L&#39;intensité de la lumière est contrôlée par la propriété de la lueur sur les matériaux des avions. Vous pouvez ajouter une couleur ou même une texture, qui peut être utilisée pour projeter des ombres intéressantes. L’utilisation de matériaux luisants produira également un affaiblissement de l’intensité lumineuse, ce qui est très important pour l’éclairage intérieur.
 
 ![Exemple d’éclairage d’environnement, d’environnement et d’éclairage clé, et d’environnement, d’éclairage de fond et d’éclairage éclairant une scène de salon 3D](assets/Mastering3dlighting_31.gif)
 
