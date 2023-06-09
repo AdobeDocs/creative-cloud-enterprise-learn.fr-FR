@@ -3,18 +3,18 @@ title: Adobe [!DNL Firefly] Présentation
 description: Soyez rapidement opérationnel sur l’Adobe [!DNL Firefly]
 role: User
 level: Beginner
-source-git-commit: 6a4b1174482f607b70a7e9ac8683325e808aae7e
+source-git-commit: 0697674f779ffe2feba72d64da222a5b0506ce45
 workflow-type: tm+mt
-source-wordcount: '115'
+source-wordcount: '132'
 ht-degree: 0%
 
 ---
 
 # Adobe [!DNL Firefly] overview
 
-![Image de Firefly Hero](../assets/firefly.png)
+![Image de héros Firefly](../assets/firefly.png)
 
-Firefly est la nouvelle famille de modèles d’IA créatifs qui s’invitent dans les produits Adobes. Elle se concentre d’abord sur la génération d’images et d’effets de texte. Firefly propose de nouveaux moyens d’idéation, de création et de communication, tout en améliorant considérablement les workflows de création.
+Firefly est la nouvelle famille de modèles d’IA créatifs qui s’invitent dans les produits Adobes. Elle se concentre d’abord sur la génération d’images et d’effets de texte. Firefly offre de nouveaux moyens d’idéation, de création et de communication, tout en améliorant considérablement les workflows de création.
 
 <br> 
 
@@ -24,16 +24,16 @@ Firefly est la nouvelle famille de modèles d’IA créatifs qui s’invitent da
 
 >[!VIDEO](https://video.tv.adobe.com/v/3416970t1?quality=12&learn=on&hidetitle=true)
 
-## En savoir plus sur l’Adobe Firefly
+## En savoir plus sur Adobe Firefly
 
 <table>
 <tr>
    <td>
       <a href="https://firefly.adobe.com/" target="_blank">
-         <img alt="Adobe Firefly (Beta)" src="assets/firefly-beta.png" />
+         <img alt="Luciole Adobe (Beta)" src="assets/firefly-beta.png" />
       </a>
       <div>
-      <a href="https://firefly.adobe.com/" target="_blank"><strong>Adobe Firefly (Beta)</strong></a>
+      <a href="https://firefly.adobe.com/" target="_blank"><strong>Luciole Adobe (Beta)</strong></a>
       </div>
       <em>Rejoignez le programme Beta Adobe Firefly.</em>
       <br>
@@ -52,6 +52,11 @@ Firefly est la nouvelle famille de modèles d’IA créatifs qui s’invitent da
       <a href="webinar-experimenting.md">
          <img alt="Tester l&apos;Adobe Firefly" src="assets/webinar-experimenting.png" />
       </a>
+      <div>
+      <a href="webinar-experimenting.md"><strong>Test du webinaire Firefly</strong></a>
+      </div>
+      <em>Découvrez la version bêta du Firefly avec Howard Pinsky dans ce webinaire</em>
+      <br>
   </td>
   <td>
     <img alt="Espaceur" src="../assets/Whitespacer.png" />
