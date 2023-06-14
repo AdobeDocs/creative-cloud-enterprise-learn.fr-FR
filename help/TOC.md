@@ -4,7 +4,7 @@ breadcrumb-title: Creative Cloud abonnement Entreprise
 user-guide-description: Voir les tutoriels et les guides de référence rapide consacrés au Creative Cloud pour les entreprises
 solution: Creative Cloud
 type: Tutorial
-source-git-commit: 0a38a173e0b2c14db9eb3a082e1ebd4635058214
+source-git-commit: 30be3c5c619e689bd4078ad53019fbc287e712d4
 workflow-type: tm+mt
 source-wordcount: '492'
 ht-degree: 9%
@@ -56,7 +56,7 @@ ht-degree: 9%
       + [Création de texte incurvé](express/create-curved-text.md)
 + [!DNL Adobe Firefly] {#fireflyoverview}
    + [Présentation](firefly/overview-firefly.md)
-   + [Tutoriels] {#firefly-tutorials}
+   + Tutoriels {#firefly-tutorials}
       + [Remplissage générateur dans Photoshop](firefly/generative-fill.md)
    + Webinaires {#firefly-webinars}
       + [Tester l&#39;Adobe Firefly](firefly/webinar-experimenting.md)
