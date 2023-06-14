@@ -3,9 +3,9 @@ title: Adobe [!DNL Firefly] Présentation
 description: Soyez rapidement opérationnel sur l’Adobe [!DNL Firefly]
 role: User
 level: Beginner
-source-git-commit: 0697674f779ffe2feba72d64da222a5b0506ce45
+source-git-commit: 0a38a173e0b2c14db9eb3a082e1ebd4635058214
 workflow-type: tm+mt
-source-wordcount: '132'
+source-wordcount: '149'
 ht-degree: 0%
 
 ---
@@ -14,17 +14,17 @@ ht-degree: 0%
 
 ![Image de héros Firefly](../assets/firefly.png)
 
-Firefly est la nouvelle famille de modèles d’IA créatifs qui s’invitent dans les produits Adobes. Elle se concentre d’abord sur la génération d’images et d’effets de texte. Firefly offre de nouveaux moyens d’idéation, de création et de communication, tout en améliorant considérablement les workflows de création.
+Firefly est la nouvelle famille de modèles d’IA créatifs qui s’invitent dans les produits Adobe. Elle se concentre d’abord sur la génération d’effets d’image et de texte. Firefly propose de nouveaux moyens d’idéation, de création et de communication, tout en améliorant considérablement les workflows de création.
 
 <br> 
 
-## Regardez ce que vous pouvez faire avec l&#39;Adobe Firefly
+## Regardez ce que vous pouvez faire avec la luciole d&#39;Adobe
 
 <br> 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3416970t1?quality=12&learn=on&hidetitle=true)
 
-## En savoir plus sur Adobe Firefly
+## En savoir plus sur l’Adobe Firefly
 
 <table>
 <tr>
@@ -35,7 +35,7 @@ Firefly est la nouvelle famille de modèles d’IA créatifs qui s’invitent da
       <div>
       <a href="https://firefly.adobe.com/" target="_blank"><strong>Luciole Adobe (Beta)</strong></a>
       </div>
-      <em>Rejoignez le programme Beta Adobe Firefly.</em>
+      <em>Rejoignez le programme Adobe Firefly Beta.</em>
       <br>
   </td>
   <td>
@@ -59,9 +59,14 @@ Firefly est la nouvelle famille de modèles d’IA créatifs qui s’invitent da
       <br>
   </td>
   <td>
-    <img alt="Espaceur" src="../assets/Whitespacer.png" />
-    <div>
-    <br>
+      <a href="generative-fill.md">
+         <img alt="Remplissage générateur dans Photoshop" src="assets/generative-fill.png" />
+      </a>
+      <div>
+      <a href="generative-fill.md"><strong>Remplissage générateur dans Photoshop</strong></a>
+      </div>
+      <em>Apprenez à utiliser le Remplissage générateur avec Adobe Firefly</em>
+      <br>
   </td>
 </tr>
 </table>
