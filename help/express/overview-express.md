@@ -4,7 +4,7 @@ description: Soyez rapidement opérationnel sur l’Adobe [!DNL Express]
 role: User
 level: Beginner
 exl-id: 0feb9a09-008e-4d38-a5c2-23f8d001eeb4
-source-git-commit: f2885238c7a57953b176881f352afd541d9ce7b7
+source-git-commit: 0e2af14d75ceb0468fecb88ce0e76f2c9d4c9d92
 workflow-type: tm+mt
 source-wordcount: '101'
 ht-degree: 0%
@@ -51,12 +51,12 @@ L’Adobe Express est un outil de création facile à utiliser, sans expérience
   </td>
 </tr>
 <tr>
-  <td>
+ <td>
       <a href="schedule.md">
          <img alt="Programmer les publications sociales" src="assets/schedule.png" />
       </a>
   </td>
- <td>
+   <td>
    <a href="collaborate.md">
       <img alt="Inviter des collaborateurs de projet" src="assets/collaborate.png" />
    </a>
@@ -95,12 +95,12 @@ L’Adobe Express est un outil de création facile à utiliser, sans expérience
   </td>
 </tr>
 <tr>
-  <td>
+   <td>
       <a href="undo-redo.md">
          <img alt="Annulation et rétablissement" src="assets/undo-redo.png" />
       </a>
-  </td>
- <td>
+   </td>
+  <td>
       <a href="cc-libraries.md">
          <img alt="Utilisation des bibliothèques CC" src="assets/cc-libraries.png" />
       </a>
@@ -116,12 +116,13 @@ L’Adobe Express est un outil de création facile à utiliser, sans expérience
       </a>
   </td>
 </tr>
-  <td>
+<tr>
+   <td>
       <a href="remove-background.md">
          <img alt="Supprimer un arrière-plan" src="assets/background.png" />
       </a>
   </td>
-  <td>
+   <td>
       <a href="refine-cutout.md">
          <img alt="Amélioration d’un découpage" src="assets/cutouts.png" />
       </a>
@@ -138,11 +139,10 @@ L’Adobe Express est un outil de création facile à utiliser, sans expérience
   </td>
 </tr>
 <tr>
-
-<td>
-      <a href="create-curved-text.md">
-         <img alt="Création de texte incurvé" src="assets/curved-text.png" />
-      </a>
+  <td>
+   <a href="create-curved-text.md">
+      <img alt="Création de texte incurvé" src="assets/curved-text.png" />
+   </a>
   </td>
   <td>
   <td>
