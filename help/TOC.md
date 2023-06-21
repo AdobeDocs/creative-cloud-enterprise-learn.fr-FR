@@ -4,9 +4,9 @@ breadcrumb-title: Creative Cloud abonnement Entreprise
 user-guide-description: Voir les tutoriels et les guides de référence rapide consacrés au Creative Cloud pour les entreprises
 solution: Creative Cloud
 type: Tutorial
-source-git-commit: 30be3c5c619e689bd4078ad53019fbc287e712d4
+source-git-commit: e0d7d7951b1a6faadfe77151952e68eedda8bf4e
 workflow-type: tm+mt
-source-wordcount: '492'
+source-wordcount: '495'
 ht-degree: 9%
 
 ---
@@ -57,7 +57,8 @@ ht-degree: 9%
 + [!DNL Adobe Firefly] {#fireflyoverview}
    + [Présentation](firefly/overview-firefly.md)
    + Tutoriels {#firefly-tutorials}
-      + [Remplissage générateur dans Photoshop](firefly/generative-fill.md)
+      + [Variations de bannières publicitaires dans [!DNL Photoshop]](firefly/web-banner-ad.md)
+      + [Remplir de manière générique [!DNL Photoshop]](firefly/generative-fill.md)
    + Webinaires {#firefly-webinars}
       + [Tester l&#39;Adobe Firefly](firefly/webinar-experimenting.md)
 + [!DNL Adobe Stock] {#stockoverview}

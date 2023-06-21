@@ -3,9 +3,10 @@ title: Adobe [!DNL Firefly] Présentation
 description: Soyez rapidement opérationnel sur l’Adobe [!DNL Firefly]
 role: User
 level: Beginner
-source-git-commit: 0a38a173e0b2c14db9eb3a082e1ebd4635058214
+exl-id: 6ba5adc4-b67b-45dd-95e6-13d642b991b8
+source-git-commit: 36effc4e0896ef572130bf3fee4b5059c481f23c
 workflow-type: tm+mt
-source-wordcount: '149'
+source-wordcount: '174'
 ht-degree: 0%
 
 ---
@@ -14,11 +15,11 @@ ht-degree: 0%
 
 ![Image de héros Firefly](../assets/firefly.png)
 
-Firefly est la nouvelle famille de modèles d’IA créatifs qui s’invitent dans les produits Adobe. Elle se concentre d’abord sur la génération d’effets d’image et de texte. Firefly propose de nouveaux moyens d’idéation, de création et de communication, tout en améliorant considérablement les workflows de création.
+Firefly est la nouvelle famille de modèles d’IA créatifs qui s’invitent dans les produits Adobes. Elle se concentre d’abord sur la génération d’images et d’effets de texte. Firefly propose de nouveaux moyens d’idéation, de création et de communication, tout en améliorant considérablement les workflows de création.
 
 <br> 
 
-## Regardez ce que vous pouvez faire avec la luciole d&#39;Adobe
+## Regardez ce que vous pouvez faire avec l&#39;Adobe Firefly
 
 <br> 
 
@@ -69,4 +70,30 @@ Firefly est la nouvelle famille de modèles d’IA créatifs qui s’invitent da
       <br>
   </td>
 </tr>
+<tr>
+   <td>
+      <a href="web-banner-ad.md">
+         <img alt="Variations de bannières publicitaires dans Photoshop" src="assets/banner-ad-variations.png" />
+      </a>
+      <div>
+      <a href="web-banner-ad.md"><strong>Variations de bannières publicitaires dans Photoshop</strong></a>
+      </div>
+      <em>Découvrez comment utiliser l’outil Remplissage générateur pour accélérer la création de bannières publicitaires sur le web</em>
+      <br>
+  </td>
+  <td>
+    <img alt="Espaceur" src="../assets/Gray_thumbnail.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Espaceur" src="../assets/Gray_thumbnail.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Espaceur" src="../assets/Gray_thumbnail.png" />
+    <div>
+    <br>
+  </td>
 </table>
