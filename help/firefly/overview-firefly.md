@@ -4,9 +4,9 @@ description: Soyez rapidement opérationnel sur l’Adobe [!DNL Firefly]
 role: User
 level: Beginner
 exl-id: 6ba5adc4-b67b-45dd-95e6-13d642b991b8
-source-git-commit: 0068e905d3f9f5eb5161157b90aa99eff97cb0fb
+source-git-commit: 5fcd683659a7a35679838f3b4074ab1e27f6f1ba
 workflow-type: tm+mt
-source-wordcount: '92'
+source-wordcount: '93'
 ht-degree: 0%
 
 ---
@@ -15,17 +15,17 @@ ht-degree: 0%
 
 ![Image de héros Firefly](../assets/firefly.png)
 
-Firefly est la nouvelle famille de modèles d’IA créatifs qui s’invitent dans les produits Adobe. Elle se concentre d’abord sur la génération d’effets d’image et de texte. Firefly propose de nouveaux moyens d’idéation, de création et de communication, tout en améliorant considérablement les workflows de création.
+Firefly est la nouvelle famille de modèles d’IA créatifs qui s’invitent dans les produits Adobes. Elle se concentre d’abord sur la génération d’images et d’effets de texte. Firefly propose de nouveaux moyens d’idéation, de création et de communication, tout en améliorant considérablement les workflows de création.
 
 <br> 
 
-## Regardez ce que vous pouvez faire avec l&#39;Adobe Firefly
+## Regardez ce que vous pouvez faire avec la luciole d&#39;Adobe
 
 <br> 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3416970t1?quality=12&learn=on&hidetitle=true)
 
-## En savoir plus sur l’Adobe Firefly
+## En savoir plus sur Adobe Firefly
 
 <table style="table-layout:fixed">
 <tr>
@@ -56,7 +56,7 @@ Firefly est la nouvelle famille de modèles d’IA créatifs qui s’invitent da
 
 <table style="table-layout:fixed">
 <tr>
-  <td>
+   <td>
       <a href="generative-fill.md">
          <img alt="Remplissage générateur dans Photoshop" src="assets/generative-fill.png" />
       </a>
@@ -67,9 +67,9 @@ Firefly est la nouvelle famille de modèles d’IA créatifs qui s’invitent da
       </a>
   </td>
   <td>
-    <img alt="Espaceur" src="../assets/Whitespacer.png" />
-    <div>
-    <br>
+      <a href="text-effects.md">
+         <img alt="Effets de texte" src="assets/text-effects.png" />
+      </a>
   </td>
   <td>
     <img alt="Espaceur" src="../assets/Whitespacer.png" />
