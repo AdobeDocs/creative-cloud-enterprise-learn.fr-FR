@@ -4,7 +4,7 @@ description: Soyez rapidement opérationnel sur l’Adobe [!DNL Firefly]
 role: User
 level: Beginner
 exl-id: 6ba5adc4-b67b-45dd-95e6-13d642b991b8
-source-git-commit: 3ebd0493d0d31835571ecf9b5359617049977fbb
+source-git-commit: 0068e905d3f9f5eb5161157b90aa99eff97cb0fb
 workflow-type: tm+mt
 source-wordcount: '92'
 ht-degree: 0%
@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # Adobe [!DNL Firefly] overview
 
-![Image de Firefly Hero](../assets/firefly.png)
+![Image de héros Firefly](../assets/firefly.png)
 
-Firefly est la nouvelle famille de modèles d’IA créatifs qui s’invitent dans les produits Adobe. Elle se concentre d’abord sur la génération d’effets d’image et de texte. Firefly offre de nouveaux moyens d’idéation, de création et de communication, tout en améliorant considérablement les workflows de création.
+Firefly est la nouvelle famille de modèles d’IA créatifs qui s’invitent dans les produits Adobe. Elle se concentre d’abord sur la génération d’effets d’image et de texte. Firefly propose de nouveaux moyens d’idéation, de création et de communication, tout en améliorant considérablement les workflows de création.
 
 <br> 
 
@@ -25,7 +25,7 @@ Firefly est la nouvelle famille de modèles d’IA créatifs qui s’invitent da
 
 >[!VIDEO](https://video.tv.adobe.com/v/3416970t1?quality=12&learn=on&hidetitle=true)
 
-## En savoir plus sur Adobe Firefly
+## En savoir plus sur l’Adobe Firefly
 
 <table style="table-layout:fixed">
 <tr>
@@ -61,8 +61,6 @@ Firefly est la nouvelle famille de modèles d’IA créatifs qui s’invitent da
          <img alt="Remplissage générateur dans Photoshop" src="assets/generative-fill.png" />
       </a>
   </td>
-</tr>
-<tr>
    <td>
       <a href="web-banner-ad.md">
          <img alt="Variations de bannières publicitaires dans Photoshop" src="assets/banner-ad-variations.png" />
