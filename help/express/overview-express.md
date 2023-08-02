@@ -4,9 +4,9 @@ description: Soyez rapidement opérationnel sur l’Adobe [!DNL Express]
 role: User
 level: Beginner
 exl-id: 0feb9a09-008e-4d38-a5c2-23f8d001eeb4
-source-git-commit: 0ba5727c6f6d188e4cfe9124f93700a4c43a635d
+source-git-commit: f67b18917de0c0c0af365cda07b2de94ab877004
 workflow-type: tm+mt
-source-wordcount: '104'
+source-wordcount: '110'
 ht-degree: 0%
 
 ---
@@ -35,10 +35,9 @@ L’Adobe Express est un outil de création facile à utiliser, sans expérience
       </a>
   </td>
   <td>
-      <a href="create-blog-graphics.md">
-         <img alt="Création d&apos;illustrations de blog avec Firefly" src="assets/blog-graphic.png" />
+      <a href="create-on-boarding.md">
+         <img alt="Création de contenu de recrutement et d’intégration avec Firefly" src="assets/on-boarding.png" />
       </a>
-  </td>
   <td>
       <a href="create-social-posters.md">
          <img alt="Création d&apos;affiches via Firefly" src="assets/social-firefly.png" />
@@ -52,6 +51,11 @@ L’Adobe Express est un outil de création facile à utiliser, sans expérience
 </tr>
 <tr>
  <td>
+      <a href="create-webinar-poster.md">
+         <img alt="Création d&apos;affiches de webinaires avec Firefly" src="assets/webinar-poster.png" />
+      </a>
+  </td>
+  <td>
       <a href="schedule.md">
          <img alt="Programmer les publications sociales" src="assets/schedule.png" />
       </a>
@@ -66,36 +70,36 @@ L’Adobe Express est un outil de création facile à utiliser, sans expérience
          <img alt="Trouvez l&apos;inspiration rapidement" src="assets/inspiration.png" />
       </a>
   </td>
-  <td>
+</tr>
+<tr>
+   <td>
    <a href="create-templates.md">
       <img alt="Création de modèles" src="assets/templates.png" />
    </a>
   </td>
+   <td>
+         <a href="add-design-assets.md">
+            <img alt="Ajout de ressources de création" src="assets/design-assets.png" />
+         </a>
+   </td>
+   <td>
+         <a href="group-objects.md">
+            <img alt="Grouper des objets" src="assets/group-objects.png" />
+         </a>
+   </td>
+   <td>
+         <a href="layers.md">
+            <img alt="Sélection et déplacement de calques" src="assets/layers.png" />
+         </a>
+   </td>
 </tr>
 <tr>
-<td>
-      <a href="add-design-assets.md">
-         <img alt="Ajout de ressources de création" src="assets/design-assets.png" />
-      </a>
-  </td>
- <td>
-      <a href="group-objects.md">
-         <img alt="Grouper des objets" src="assets/group-objects.png" />
-      </a>
-  </td>
-  <td>
-      <a href="layers.md">
-         <img alt="Sélection et déplacement de calques" src="assets/layers.png" />
-      </a>
-  </td>
   <td>
       <a href="multiple-pages.md">
          <img alt="Création de plusieurs pages" src="assets/multiple-pages.png" />
       </a>
   </td>
-</tr>
-<tr>
-   <td>
+  <td>
       <a href="undo-redo.md">
          <img alt="Annulation et rétablissement" src="assets/undo-redo.png" />
       </a>
@@ -110,13 +114,13 @@ L’Adobe Express est un outil de création facile à utiliser, sans expérience
          <img alt="Application de votre marque" src="assets/brand.png" />
       </a>
   </td>
-  <td>
+</tr>
+<tr>
+ <td>
       <a href="google-drive.md">
          <img alt="Intégration de Google Drive" src="assets/google-drive.png" />
       </a>
   </td>
-</tr>
-<tr>
   <td>
       <a href="remove-background.md">
          <img alt="Supprimer un arrière-plan" src="assets/background.png" />
@@ -132,22 +136,17 @@ L’Adobe Express est un outil de création facile à utiliser, sans expérience
          <img alt="Utilisation d’effets de texte" src="assets/text-effects.png" />
       </a>
   </td>
-  <td>
+</tr>
+<tr>
+   <td>
       <a href="image-effects.md">
          <img alt="Utilisation d’effets" src="assets/image-effects.png" />
       </a>
   </td>
-</tr>
-<tr>
    <td>
       <a href="create-curved-text.md">
          <img alt="Création de texte incurvé" src="assets/curved-text.png" />
       </a>
-   </td>
-   <td>
-      <img alt="Espaceur" src="../assets/Gray_thumbnail.png" />
-      <div>
-      <br>
    </td>
    <td>
       <img alt="Espaceur" src="../assets/Gray_thumbnail.png" />

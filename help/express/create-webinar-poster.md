@@ -1,11 +1,11 @@
 ---
 title: Création d'affiches de webinaires avec Firefly
-description: Découvrez comment utiliser les effets de transformation de texte en image et de texte, optimisés par l’Adobe Firefly
+description: Apprenez à créer une affiche de webinaire pour un événement de réalité virtuelle
 role: User
 level: Beginner
-source-git-commit: b9d3493d2596d724970e79e0fa0920bd110fb59a
+source-git-commit: f67b18917de0c0c0af365cda07b2de94ab877004
 workflow-type: tm+mt
-source-wordcount: '62'
+source-wordcount: '61'
 ht-degree: 4%
 
 ---
