@@ -1,11 +1,11 @@
 ---
 title: Création de contenu de recrutement et d’intégration avec Firefly
-description: Apprenez à créer des illustrations originales pour le recrutement des employés et le contenu d'intégration
+description: Apprenez à utiliser la fonctionnalité Transcription, optimisée par l'Adobe Firefly, dans Adobe Express pour créer des images originales destinées au recrutement et à l'intégration des employés
 role: User
 level: Beginner
-source-git-commit: f67b18917de0c0c0af365cda07b2de94ab877004
+source-git-commit: f6b51be9a78af74e0ff166f36e610ce0d4a5f847
 workflow-type: tm+mt
-source-wordcount: '78'
+source-wordcount: '90'
 ht-degree: 3%
 
 ---
