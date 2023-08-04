@@ -1,9 +1,11 @@
 ---
 title: Guides de référence rapide vidéo
 description: Guides de références rapides pour vous aider à vous familiariser avec les produits Adobe DVA
+feature: Video Editing
 role: User
 level: Beginner, Intermediate
-source-git-commit: 52f7fef0c7b7317b84e8f4508b274eac5cf162dd
+exl-id: 513a5b86-fd31-42c5-aed3-82669889248f
+source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
 workflow-type: tm+mt
 source-wordcount: '500'
 ht-degree: 1%
@@ -22,7 +24,7 @@ Donnez vie à toutes vos idées avec les applications de montage vidéo, d&#39;a
 <tr>
    <td>
       <a href="assets/QuicklyRemoveUnwantedAudioContentwiththeSpotHealingBrushinAdobeAudition.pdf" target="_blank">
-         <img alt="Supprimez rapidement le contenu audio indésirable avec l'outil Correcteur localisé d'Adobe Audition" src="assets/QuicklyRemoveUnwantedAudioContentwiththeSpotHealingBrushinAdobeAudition.jpg" />
+         <img alt="Supprimez rapidement le contenu audio indésirable avec l&apos;outil Correcteur localisé d&apos;Adobe Audition" src="assets/QuicklyRemoveUnwantedAudioContentwiththeSpotHealingBrushinAdobeAudition.jpg" />
       </a>
       <div>
       <a href="assets/QuicklyRemoveUnwantedAudioContentwiththeSpotHealingBrushinAdobeAudition.pdf" target="_blank"><strong>Supprimez rapidement le contenu audio indésirable avec l’outil Correcteur localisé d’Adobe Audition (PDF)</strong></a>

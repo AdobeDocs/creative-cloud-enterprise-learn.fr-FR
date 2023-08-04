@@ -1,10 +1,11 @@
 ---
 title: "[!DNL Stock]"
 description: Adobe [!DNL Stock] L’abonnement Entreprise permet aux équipes de création d’accéder à plus de 200 millions d’images, de vidéos, de templates, d’illustrations, de fichiers audio et de ressources 3D
+feature: Licensable Assets
 role: User
 level: Beginner, Intermediate
 exl-id: 0a0f5cf8-0326-48fc-a833-0f531617cc41
-source-git-commit: 7b202fd4de29e83dd28c40dc6115a1be51c1f384
+source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
 workflow-type: tm+mt
 source-wordcount: '334'
 ht-degree: 0%

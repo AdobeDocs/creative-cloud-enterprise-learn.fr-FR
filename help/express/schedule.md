@@ -1,9 +1,11 @@
 ---
 title: Programmer les publications sociales
 description: Programmez des publications pour les réseaux sociaux pour Instagram, Facebook, Twitter, Pinterest et LinkedIn
+feature: Share, Social Media
 role: User
 level: Beginner
-source-git-commit: 91984a5d4fd32db0af0007a65cb9245ff2a5b960
+exl-id: 7ffedb3d-873a-4b8c-8fde-186a6e4edca3
+source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
 workflow-type: tm+mt
 source-wordcount: '26'
 ht-degree: 0%

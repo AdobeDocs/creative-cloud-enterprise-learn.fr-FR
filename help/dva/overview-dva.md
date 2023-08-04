@@ -1,10 +1,12 @@
 ---
 title: Adobe Video Tutorials
 description: Des Tutorials pour vous aider à être rapidement opérationnel sur les produits Adobe DVA
+feature: Video Editing
 role: User
 level: Beginner, Intermediate
+jira: KT-6946
 exl-id: 4a0c57f5-053f-4e47-a42e-05f2d2a1bd15
-source-git-commit: a9ac2b3752113ae5ae722a091e8f1242de0273e7
+source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
 workflow-type: tm+mt
 source-wordcount: '120'
 ht-degree: 0%

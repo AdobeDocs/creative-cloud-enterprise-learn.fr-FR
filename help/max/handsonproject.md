@@ -1,10 +1,11 @@
 ---
 title: Plug-in Design to Print - Personnalisation d'un masque facial
 description: Projet pratique pour personnaliser un masque facial
+feature: Graphic Design
 role: User
 level: Beginner, Intermediate
 exl-id: 7f755c1b-e45e-45a6-9dde-3ac81259aaf8
-source-git-commit: 7b202fd4de29e83dd28c40dc6115a1be51c1f384
+source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
 workflow-type: tm+mt
 source-wordcount: '372'
 ht-degree: 0%
@@ -15,7 +16,7 @@ ht-degree: 0%
 
 ![Image de héros du tutoriel](../assets/faceMaskSplash.jpg)
 
-Ne serait-il pas intéressant de pouvoir personnaliser un masque facial avec votre propre illustration ? Avec le plug-in Adobe Design to Print, vous pouvez visualiser vos designs sur des centaines de produits Zazzle et les publier directement sur leur marketplace en ligne.
+Ne serait-ce pas génial de pouvoir personnaliser un masque facial avec votre propre illustration ? Avec le plug-in Adobe Design to Print, vous pouvez visualiser vos designs sur des centaines de produits Zazzle et les publier directement sur leur marketplace en ligne.
 
 ## Parcourir les Tutorials de projets Facemask
 

@@ -1,10 +1,11 @@
 ---
 title: Aperçu de l'Adobe Firefly
 description: Découverte des possibilités de création dans Adobe Firefly
+feature: Image Editing, Gen AI
 role: User
 level: Beginner
 jira: KT-13528
-source-git-commit: 15ead51dd12bd972513ddabdfac1730484558b81
+source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
 workflow-type: tm+mt
 source-wordcount: '53'
 ht-degree: 0%

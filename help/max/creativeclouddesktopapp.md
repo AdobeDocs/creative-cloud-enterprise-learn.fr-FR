@@ -1,10 +1,11 @@
 ---
 title: Application de bureau Creative Cloud
 description: L’application pour postes de travail Creative Cloud est votre centre de gestion des applications, services et collaborations CC, et bien plus encore !
+feature: Workspace, Collaboration
 role: User
 level: Beginner, Intermediate
 exl-id: 5a45d334-3581-4b85-acb6-57764efa6f0a
-source-git-commit: 7b202fd4de29e83dd28c40dc6115a1be51c1f384
+source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
 workflow-type: tm+mt
 source-wordcount: '153'
 ht-degree: 8%

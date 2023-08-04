@@ -1,10 +1,12 @@
 ---
 title: Tutoriels Adobe XD
 description: Des Tutorials pour vous aider à être rapidement opérationnel sur Adobe XD
+feature: UI Design
 role: User
 level: Beginner, Intermediate
+jira: KT-6944
 exl-id: 411ef3da-42c1-4c98-a75d-dca990546eb4
-source-git-commit: a7687756cd036f756810314b3dedfa63d5aea2a9
+source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
 workflow-type: tm+mt
 source-wordcount: '459'
 ht-degree: 0%
@@ -41,7 +43,7 @@ Adobe XD est un outil de design et de prototypage d&#39;expérience utilisateur 
   </td>
   <td>
    <a href="assets/CreateaZoomableeCommercePhotowithXDandAdobeStock.pdf" target="_blank">
-      <img alt="Création d'une photo e-commerce zoom avec XD et Adobe [!DNL Stock]" src="assets/CreateaZoomableeCommercePhotowithXDandAdobeStock.jpg" />
+      <img alt="Création d&apos;une photo e-commerce zoom avec XD et Adobe [!DNL Stock]" src="assets/CreateaZoomableeCommercePhotowithXDandAdobeStock.jpg" />
    </a>
     <div>
    <a href="assets/CreateaZoomableeCommercePhotowithXDandAdobeStock.pdf" target="_blank"><strong>Création d'une photo e-commerce zoom avec XD et Adobe [!DNL Stock] (PDF)</strong></a>
@@ -51,7 +53,7 @@ Adobe XD est un outil de design et de prototypage d&#39;expérience utilisateur 
   </td>
   <td>
    <a href="assets/CreatingaRotatingProductInterfaceforECommercewithAdobeXD.pdf" target="_blank">
-      <img alt="Création d'une interface produit tournante pour l'e-commerce avec Adobe XD" src="assets/CreatingaRotatingProductInterfaceforECommercewithAdobeXD.jpg" />
+      <img alt="Création d&apos;une interface produit tournante pour l&apos;e-commerce avec Adobe XD" src="assets/CreatingaRotatingProductInterfaceforECommercewithAdobeXD.jpg" />
    </a>
     <div>
    <a href="assets/CreatingaRotatingProductInterfaceforECommercewithAdobeXD.pdf" target="_blank"><strong>Création d'une interface produit tournante pour le commerce électronique avec Adobe XD (PDF)</strong></a>
@@ -93,7 +95,7 @@ Adobe XD est un outil de design et de prototypage d&#39;expérience utilisateur 
   </td>
   <td>
    <a href="assets/MobileWebExperienceswithXD.pdf" target="_blank">
-      <img alt="Création d'une expérience web mobile avec XD" src="assets/MobileWebExperienceswithXD.jpg" />
+      <img alt="Création d&apos;une expérience web mobile avec XD" src="assets/MobileWebExperienceswithXD.jpg" />
    </a>
     <div>
    <a href="assets/MobileWebExperienceswithXD.pdf" target="_blank"><strong>Création d'une expérience web mobile avec XD (PDF)</strong></a>
@@ -105,7 +107,7 @@ Adobe XD est un outil de design et de prototypage d&#39;expérience utilisateur 
 <tr>
   <td>
    <a href="assets/PrototypeaMobileWebExperiencewithAdobeXD.pdf" target="_blank">
-      <img alt="Prototypage d'une expérience web mobile avec Adobe XD" src="assets/PrototypeaMobileWebExperiencewithAdobeXD.jpg" />
+      <img alt="Prototypage d&apos;une expérience web mobile avec Adobe XD" src="assets/PrototypeaMobileWebExperiencewithAdobeXD.jpg" />
    </a>
     <div>
    <a href="assets/PrototypeaMobileWebExperiencewithAdobeXD.pdf" target="_blank"><strong>Prototypage d’une expérience web mobile avec Adobe XD (PDF)</strong></a>

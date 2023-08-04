@@ -3,8 +3,9 @@ title: Adobe [!DNL Stock] tutoriels
 description: Des Tutorials pour vous aider à être rapidement opérationnel sur les Adobes [!DNL Stock]
 role: User
 level: Beginner, Intermediate
+jira: KT-6943
 exl-id: 83e1af30-489f-474c-874a-8cd8b36d4a38
-source-git-commit: 5c7eea176959609a3f2fcdc51ed8e02f9f15dec9
+source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
 workflow-type: tm+mt
 source-wordcount: '1242'
 ht-degree: 0%
@@ -93,7 +94,7 @@ Les créatifs sont mis sous pression pour diffuser rapidement du contenu visuel 
   </td>
   <td>
       <a href="changecolors.md">
-         <img alt="Modification d’un Adobe [!DNL Stock] les couleurs de l'image pour votre récit" src="assets/changecolors.jpg" />
+         <img alt="Modification d’un Adobe [!DNL Stock] les couleurs de l&apos;image pour votre récit" src="assets/changecolors.jpg" />
       </a>
       <div>
       <a href="changecolors.md"><strong>Modification d’un Adobe [!DNL Stock] les couleurs de l'image pour votre récit</strong></a>
@@ -125,7 +126,7 @@ Les créatifs sont mis sous pression pour diffuser rapidement du contenu visuel 
   </td>
   <td>
       <a href="infographic.md">
-         <img alt="Création d'une infographie de directives d'entreprise avec Adobe [!DNL Stock]" src="assets/infographic.jpg" />
+         <img alt="Création d&apos;une infographie de directives d&apos;entreprise avec Adobe [!DNL Stock]" src="assets/infographic.jpg" />
       </a>
       <div>
       <a href="infographic.md"><strong>Création d'une infographie de directives d'entreprise avec Adobe [!DNL Stock]</strong></a>
@@ -177,7 +178,7 @@ Les créatifs sont mis sous pression pour diffuser rapidement du contenu visuel 
   </td>
   <td>
       <a href="interactivetourismphoto.md">
-         <img alt="Création d'une photo touristique interactive avec Adobe [!DNL Stock] et XD" src="assets/interactivetourismphoto.jpg" />
+         <img alt="Création d&apos;une photo touristique interactive avec Adobe [!DNL Stock] et XD" src="assets/interactivetourismphoto.jpg" />
       </a>
       <div>
       <a href="interactivetourismphoto.md"><strong>Création d'une photo touristique interactive avec Adobe [!DNL Stock] et XD</strong></a>
@@ -199,7 +200,7 @@ Les créatifs sont mis sous pression pour diffuser rapidement du contenu visuel 
   </td>
   <td>
       <a href="brandgradients.md">
-         <img alt="Création d'images de marque cohérentes avec de superbes dégradés et Adobes [!DNL Stock] ressources" src="assets/brandgradients.jpg" />
+         <img alt="Création d&apos;images de marque cohérentes avec de superbes dégradés et Adobes [!DNL Stock] ressources" src="assets/brandgradients.jpg" />
       </a>
       <div>
       <a href="brandgradients.md"><strong>Création d'images de marque cohérentes avec de superbes dégradés et Adobes [!DNL Stock] ressources</strong></a>
@@ -209,7 +210,7 @@ Les créatifs sont mis sous pression pour diffuser rapidement du contenu visuel 
    </td>
   <td>
       <a href="webgraphics.md">
-         <img alt="Création d'illustrations web attrayantes en combinant des Adobes [!DNL Stock] images avec CSS" src="assets/webgraphics.jpg" />
+         <img alt="Création d&apos;illustrations web attrayantes en combinant des Adobes [!DNL Stock] images avec CSS" src="assets/webgraphics.jpg" />
       </a>
       <div>
       <a href="webgraphics.md"><strong>Création d'illustrations web attrayantes en combinant des Adobes [!DNL Stock] images avec CSS</strong></a>
@@ -273,7 +274,7 @@ Les créatifs sont mis sous pression pour diffuser rapidement du contenu visuel 
 <tr>
    <td>
       <a href="assets/AddMotiontoStillImageswithAdobeStockandPhotoshop.pdf">
-         <img alt="Animation d'images fixes avec Adobe [!DNL Stock] et Photoshop" src="assets/AddMotiontoStillImageswithAdobeStockandPhotoshop.jpg" />
+         <img alt="Animation d&apos;images fixes avec Adobe [!DNL Stock] et Photoshop" src="assets/AddMotiontoStillImageswithAdobeStockandPhotoshop.jpg" />
       </a>
       <div>
       <a href="assets/AddMotiontoStillImageswithAdobeStockandPhotoshop.pdf"><strong>Animation d'images fixes avec Adobe [!DNL Stock] et Photoshop (PDF)</strong></a>
@@ -283,7 +284,7 @@ Les créatifs sont mis sous pression pour diffuser rapidement du contenu visuel 
    </td>
    <td>
    <a href="assets/CreateacompositewithPhotoshopontheiPadandAdobeStockimages.pdf" target="_blank">
-      <img alt="Création d'une composition avec Photoshop sur iPad et Adobe [!DNL Stock] images" src="assets/CreateacompositewithPhotoshopontheiPadandAdobeStockimages.jpg" />
+      <img alt="Création d&apos;une composition avec Photoshop sur iPad et Adobe [!DNL Stock] images" src="assets/CreateacompositewithPhotoshopontheiPadandAdobeStockimages.jpg" />
    </a>
     <div>
    <a href="assets/CreateacompositewithPhotoshopontheiPadandAdobeStockimages.pdf" target="_blank"><strong>Création d'une composition avec Photoshop sur iPad et Adobe [!DNL Stock] images (PDF)</strong></a>
@@ -303,7 +304,7 @@ Les créatifs sont mis sous pression pour diffuser rapidement du contenu visuel 
   </td>
    <td>
       <a href="assets/CreateUniqueGraphicsbyCombiningAdobeStockImages.pdf" target="_blank">
-         <img alt="Création d'illustrations originales par association d'Adobes [!DNL Stock] images" src="assets/CreateUniqueGraphicsbyCombiningAdobeStockImages.jpg" />
+         <img alt="Création d&apos;illustrations originales par association d&apos;Adobes [!DNL Stock] images" src="assets/CreateUniqueGraphicsbyCombiningAdobeStockImages.jpg" />
       </a>
       <div>
       <a href="assets/CreateUniqueGraphicsbyCombiningAdobeStockImages.pdf" target="_blank"><strong>Création d'illustrations originales par association d'Adobes [!DNL Stock] images (PDF)</strong></a>
@@ -357,7 +358,7 @@ Les créatifs sont mis sous pression pour diffuser rapidement du contenu visuel 
  <tr>
    <td>
       <a href="assets/UncoveramazingdetailsinAdobeStockimageswithLightroomformobile.pdf" target="_blank">
-         <img alt="Découvrez les détails extraordinaires de l'Adobe [!DNL Stock] images avec Lightroom for mobile" src="assets/UncoveramazingdetailsinAdobeStockimageswithLightroomformobile.jpg" />
+         <img alt="Découvrez les détails extraordinaires de l&apos;Adobe [!DNL Stock] images avec Lightroom for mobile" src="assets/UncoveramazingdetailsinAdobeStockimageswithLightroomformobile.jpg" />
       </a>
       <div>
       <a href="assets/UncoveramazingdetailsinAdobeStockimageswithLightroomformobile.pdf" target="_blank"><strong>Découvrez les détails extraordinaires de l'Adobe [!DNL Stock] images avec Lightroom for mobile (PDF)</strong></a>

@@ -3,8 +3,9 @@ title: Guides de référence rapide Creative Cloud abonnement Entreprise
 description: Des Tutorials pour vous aider à vous familiariser avec le Creative Cloud des produits Entreprise
 role: User
 level: Beginner, Intermediate
+jira: KT-7013
 exl-id: 5c981e46-7599-4b49-99be-f5dcee60636d
-source-git-commit: 70e1e436f8fe439259fea2c48b263f255002fb10
+source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
 workflow-type: tm+mt
 source-wordcount: '1194'
 ht-degree: 0%
@@ -166,7 +167,7 @@ En tant que créatif d’entreprise, vous devez collaborer avec des équipes ré
 <tr>
    <td>
    <a href="CreateacompositeusingimagesandshapeswithIllustratorforiPad.pdf" target="_blank">
-      <img alt="Création d'une composition à l'aide d'images et de formes avec Illustrator pour iPad" src="../assets/acrobat_PDF_96.png" />
+      <img alt="Création d&apos;une composition à l&apos;aide d&apos;images et de formes avec Illustrator pour iPad" src="../assets/acrobat_PDF_96.png" />
    </a>
     <div>
    <a href="CreateacompositeusingimagesandshapeswithIllustratorforiPad.pdf" target="_blank"><strong>Création d’une composition à l’aide d’images et de formes avec Illustrator pour iPad (PDF)</strong></a>
@@ -203,7 +204,7 @@ En tant que créatif d’entreprise, vous devez collaborer avec des équipes ré
 <tr>
   <td>
     <a href="Decodingthealphabetsoupofgraphicformats.pdf" target="_blank">
-      <img alt="Décodage de la soupe d'alphabets de formats graphiques" src="../assets/acrobat_PDF_96.png" />
+      <img alt="Décodage de la soupe d&apos;alphabets de formats graphiques" src="../assets/acrobat_PDF_96.png" />
     </a>
     <div>
     <a href="Decodingthealphabetsoupofgraphicformats.pdf" target="_blank"><strong>Décodage de la soupe d'alphabet des formats graphiques (PDF)</strong></a>

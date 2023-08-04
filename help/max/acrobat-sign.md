@@ -1,10 +1,11 @@
 ---
 title: Acrobat et Adobe Sign
 description: Liste des tutoriels Acrobat et Adobe Sign
+feature: Collaboration, Share, Integrations
 role: User
 level: Beginner, Intermediate
 exl-id: 7b7defa1-d2fb-4908-a605-4696fceeb467
-source-git-commit: 7b202fd4de29e83dd28c40dc6115a1be51c1f384
+source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
 workflow-type: tm+mt
 source-wordcount: '614'
 ht-degree: 0%

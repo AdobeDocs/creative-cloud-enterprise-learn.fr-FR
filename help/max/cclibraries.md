@@ -1,10 +1,11 @@
 ---
 title: Bibliothèques CC
 description: Gardez vos ressources à portée de main et préservez la cohérence de marque dans vos projets
+feature: Integrations
 role: User
 level: Beginner, Intermediate
 exl-id: e68a8d5b-3dca-4ac8-87d1-b31dbe0e13ce
-source-git-commit: 7b202fd4de29e83dd28c40dc6115a1be51c1f384
+source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
 workflow-type: tm+mt
 source-wordcount: '237'
 ht-degree: 3%
@@ -81,7 +82,7 @@ Ashley Dvorin, consultante senior en solutions (médias numériques)
 
 **Ressources des bibliothèques CC**
 
-[Formation et support](https://helpx.adobe.com/creative-cloud/help/libraries.html) est votre centre d’informations sur les nouveautés et les tutoriels supplémentaires, ainsi que des liens vers les forums de la communauté.
+[Formation et support](https://helpx.adobe.com/creative-cloud/help/libraries.html) est votre centre d’accueil pour d’autres tutoriels, les nouveautés et des liens vers les forums de la communauté.
 
 **Version d’octobre 2020**
 

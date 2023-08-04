@@ -1,10 +1,11 @@
 ---
 title: Photoshop
 description: Liste des tutoriels Photoshop
+feature: Image Editing
 role: User
 level: Beginner, Intermediate
 exl-id: f42f9f4c-072d-496a-842a-3da503bdaca1
-source-git-commit: 7b202fd4de29e83dd28c40dc6115a1be51c1f384
+source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
 workflow-type: tm+mt
 source-wordcount: '340'
 ht-degree: 0%
@@ -15,7 +16,7 @@ ht-degree: 0%
 
 ![Image de héros du tutoriel](../assets/Photoshop.jpg)
 
-Photoshop est la meilleure application d&#39;imagerie et de design graphique au monde. Elle permet aux professionnels de créer sans limites sur tous les appareils. Chacun peut désormais créer ce qu’il veut, partout où l’inspiration surgit. Si vous y réfléchissez, vous pouvez le faire avec Photoshop.
+Photoshop est le meilleur logiciel d’imagerie et de design graphique au monde. Il permet aux professionnels de créer sans limites sur tous les appareils. Chacun peut désormais créer ce qu’il veut, partout où l’inspiration surgit. Si vous y réfléchissez, vous pouvez le faire avec Photoshop.
 
 ## Parcourir les Tutorials de produits
 

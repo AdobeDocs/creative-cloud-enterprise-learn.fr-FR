@@ -1,20 +1,23 @@
 ---
 title: 'Collaboration : l’avenir de la créativité'
-description: Découvrez les nombreux avantages d’un abonnement Adobe Creative Cloud, qui donne accès gratuitement à plus de 20 000 polices Adobe Fonts conçues et sélectionnées par des professionnels
+description: Découvrez comment ajouter des commentaires et partager des commentaires sur des fichiers et dossiers de Creative Cloud avec les membres de votre équipe, les parties prenantes et les clients, ainsi que des polices sélectionnées à partir d’Adobe Fonts
+feature: Collaboration, Share
 role: User
 level: Beginner, Intermediate
+jira: KT-11640
 thumb: KT-11640.jpg
-source-git-commit: 9c294d0754bb6aa1489c5b5761d4522ecf0ad26a
+exl-id: 3018dc2f-eb21-41e3-ac61-28021492080e
+source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
 workflow-type: tm+mt
-source-wordcount: '100'
-ht-degree: 0%
+source-wordcount: '93'
+ht-degree: 22%
 
 ---
 
 # Collaboration : L&#39;avenir de la créativité
 
-Parmi les nombreux avantages d’un abonnement à Adobe Creative Cloud, citons l’accès gratuit à plus de 20 000 polices Adobe Fonts conçues et sélectionnées par des professionnels. À l’origine appelées Typekit, les applications Adobe Fonts sont disponibles via un contrat de licence unique qui permet aux designers d’utiliser un nombre illimité de ressources de création pour des projets personnels ou commerciaux.
+Découvrez comment ajouter et partager des commentaires sur les fichiers et dossiers Creative Cloud avec des membres de votre équipe, des parties prenantes et des clients. Partagez vos créations depuis le site web Adobe Creative Cloud ou partagez-les pour révision depuis des applications telles qu’Illustrator, InDesign ou Photoshop.
 
 Sélectionnez l’image ci-dessous pour afficher ou télécharger ce tutoriel de PDF.
 
-[![Image de la première page du tutoriel](assets/Collaboration-The-Future-of-Creativity.png){&quot;width=680&quot;}](assets/Collaboration-The-Future-of-Creativity.pdf){target=&quot;blank&quot;}
+[![Image de la première page du tutoriel](assets/Collaboration-The-Future-of-Creativity.png){&quot;width=680&quot;}](assets/Collaboration-The-Future-of-Creativity.pdf){target="blank"}

@@ -1,12 +1,15 @@
 ---
 title: Modèles d’animations graphiques professionnels
 description: Les modèles d’animations graphiques (.mogrt) sont un moyen collaboratif et efficace de créer des packs d’animations graphiques personnalisables (titres, animations de logo, tiers inférieurs) et de les partager avec les équipes de rédaction
+feature: Video Editing
 role: User
 level: Beginner, Intermediate
+jira: KT-11642
 thumb: KT-11642.jpg
-source-git-commit: ad7b21fc0ba8742117ff09b31e594d8d11dee51d
+exl-id: bb43c54f-e5d1-431e-bb9b-cddcd37451ac
+source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '121'
 ht-degree: 0%
 
 ---
@@ -17,4 +20,4 @@ Les modèles d’animations graphiques (.mogrt) sont un moyen collaboratif et ef
 
 Sélectionnez l’image ci-dessous pour afficher ou télécharger ce tutoriel de PDF.
 
-[![Image de la première page du tutoriel](assets/MORGTs.png){&quot;width=680&quot;}](assets/Adobe-Premiere-Pro-Motion-Graphics-Templates.pdf){target=&quot;blank&quot;}
+[![Image de la première page du tutoriel](assets/MORGTs.png){&quot;width=680&quot;}](assets/Adobe-Premiere-Pro-Motion-Graphics-Templates.pdf){target="blank"}

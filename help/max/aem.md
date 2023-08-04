@@ -1,10 +1,11 @@
 ---
 title: AEM Assets et Asset Link
 description: Liste des actifs et des liens AEM
+feature: Integrations
 role: User
 level: Beginner, Intermediate
 exl-id: 1c14d3e8-2d4b-45a2-9a4a-efc044f2af1e
-source-git-commit: 7b202fd4de29e83dd28c40dc6115a1be51c1f384
+source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
 workflow-type: tm+mt
 source-wordcount: '386'
 ht-degree: 1%
@@ -118,7 +119,7 @@ Eric Rowse, consultant senior en solutions (médias numériques)
 
 **Ressources Asset Link et AEM**
 
-[Formation et support](https://helpx.adobe.com/support/experience-manager.html) est votre centre d’informations sur les nouveautés et les tutoriels supplémentaires, ainsi que des liens vers les forums de la communauté.
+[Formation et support](https://helpx.adobe.com/support/experience-manager.html) est votre centre d’accueil pour d’autres tutoriels, les nouveautés et des liens vers les forums de la communauté.
 
 **Version d’octobre 2020**
 

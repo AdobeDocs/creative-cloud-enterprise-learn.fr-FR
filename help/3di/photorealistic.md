@@ -1,11 +1,12 @@
 ---
 title: Création de photographies virtuelles photoréalistes avec rendu 3D et composition
 description: Apprenez à créer une photographie virtuelle incroyablement trompeuse et photoréaliste avec la composition et le rendu d’images 3D dans Adobe [!DNL Dimension]
+feature: 3D
 role: User
 level: Beginner, Intermediate
 keywords: photographie virtuelle, 100 Global MSV
 exl-id: 6c4b13c6-aab8-4df0-bb05-eb5d90aafbe4
-source-git-commit: e3982cf31ebb0dac5927baa1352447b3222785c9
+source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
 workflow-type: tm+mt
 source-wordcount: '2367'
 ht-degree: 0%
@@ -20,7 +21,7 @@ En regardant les images ci-dessus, on vous pardonnerait de supposer que tout ce 
 
 ![Une scène de The Abyss de James Cameron dans laquelle Mary Mastrantonio tend la main pour toucher le tentacule d&#39;eau de CGI](assets/Photorealistic_2.jpg)
 
-Cette technique de superposition, ou de &quot;composition&quot; de modèles 3D en une image ou une vidéo, n’est pas nouvelle, et ses origines remontent aux débuts des effets spéciaux (jusqu’aux années 1980). Ce qui est nouveau et excitant, c&#39;est que cette technique est devenue un outil puissant pour [Adobe [!DNL Dimension]](https://www.adobe.com/products/dimension.html) utilisateurs et un nouveau workflow intriguant pour les photographes.
+Cette technique, consistant à superposer, ou à &quot;composer&quot; des modèles 3D dans une image ou une vidéo, n’est pas nouvelle, et ses origines remontent aux débuts des effets spéciaux (jusqu’aux années 1980). Ce qui est nouveau et excitant, c&#39;est que cette technique est devenue un outil puissant pour [Adobe [!DNL Dimension]](https://www.adobe.com/products/dimension.html) utilisateurs et un nouveau workflow intriguant pour les photographes.
 
 
 ## La technologie qui permet de créer des images composites dans l’Adobe [!DNL Dimension]
@@ -33,7 +34,7 @@ Adobe [!DNL Dimension] a permis aux utilisateurs de combiner de manière transpa
 
 La fonction Adapter à l’image analyse l’image d’arrière-plan et estime la distance focale et la position de l’appareil photo utilisé pour la capturer. Une caméra 3D est ensuite créée dans le [!DNL Dimension] scène qui peut être utilisée pour rendre des éléments 3D dans la même perspective que l’image d’arrière-plan afin qu’ils se composent ensemble.
 
-Mais qu’en est-il de tout ce qui n’est pas capturé dans le cadre ?  L’environnement complet dans lequel une image est capturée a son importance, car il définit l’apparence de chaque élément. Dans une image, un objet réfléchit la lumière du monde qui l’entoure, y compris tout ce qui se trouve derrière l’appareil photo. Pour que les éléments 3D multicalques se fondent parfaitement dans l’arrière-plan de l’image, ils doivent refléter pleinement l’éclairage de l’environnement dans lequel l’image a été prise.
+Mais qu&#39;en est-il de tout ce qui n&#39;est pas capturé dans le cadre de la caméra ?  L’environnement complet dans lequel une image est capturée a son importance, car il définit l’apparence de chaque élément. Dans une image, un objet réfléchit la lumière du monde qui l’entoure, y compris tout ce qui se trouve derrière l’appareil photo. Pour que les éléments 3D multicalques se fondent parfaitement dans l’arrière-plan de l’image, ils doivent refléter pleinement l’éclairage de l’environnement dans lequel l’image a été prise.
 
 ![Image composite 3D photoréaliste d’une mobylette dans un salon](assets/Photorealistic_5.png)
 
@@ -53,11 +54,11 @@ Les appareils photo comme Ricoh Theta, Gopro MAX et Insta 360 permettent de capt
 
 Pour commencer à capturer des environnements pour la composition, vous avez besoin de deux éléments principaux ; une ou plusieurs images d’arrière-plan de haute qualité et un panorama HDR à 360° de l’environnement dans lequel elles ont été prises.
 
-L’un des aspects les plus importants de la capture efficace de ce type de contenu consiste à tirer parti des compétences et des outils existants d’un photographe. La création d&#39;une belle image d&#39;arrière-plan exige un oeil attentif à la composition et aux détails. Les images d’arrière-plan nécessitent également un état d’esprit particulier afin de créer quelque chose d’utile pour la composition d’éléments 3D.
+L’un des aspects les plus importants de la capture efficace de ce type de contenu est de tirer parti des compétences et des outils existants d’un photographe. La création d&#39;une belle image d&#39;arrière-plan exige un oeil attentif à la composition et aux détails. Les images d’arrière-plan nécessitent également un état d’esprit particulier afin de créer quelque chose d’utile pour la composition d’éléments 3D.
 
 ### Choix d’un emplacement
 
-Recherchez des lieux intéressants à la fois pour leur contexte et leur éclairage. Lorsque vous réfléchissez au contexte, il peut être utile d’imaginer l’utilisation potentielle d’une scène. Par exemple, une vue d’une route vide peut être utilisée pour l’ajout dans une voiture 3D, tandis qu’une vue d’une table dans un café peut être utilisée pour [affichage du packaging](https://www.adobe.com/products/dimension/packaging-design-mockup.html) de produits alimentaires.
+Recherchez des lieux intéressants à la fois pour leur contexte et leur éclairage. Lorsque vous considérez le contexte, il peut être utile d’imaginer l’utilisation potentielle d’une scène. Par exemple, une vue d’une route vide peut être utilisée pour l’ajout dans une voiture 3D, tandis qu’une vue d’une table dans un café peut être utilisée pour [affichage du packaging](https://www.adobe.com/products/dimension/packaging-design-mockup.html) de produits alimentaires.
 
 ![Quatre scènes de localisation pour une photographie virtuelle sont comparées aux mêmes scènes avec un composite 3D](assets/Photorealistic_8.png)
 
@@ -75,11 +76,11 @@ Placez votre appareil photo à 360° au centre de la zone sur laquelle vous alle
 
 ![Capture d’une image panoramique à 360 degrés avec Ricoh Theta](assets/Photorealistic_10.png)
 
-### Couleur
+### Color
 
 ![Panorama HDR à 360 degrés d’un espace de bureau avec un nuancier au premier plan](assets/Photorealistic_11.png)
 
-Il est très important de conserver la couleur entre l’appareil utilisé pour photographier l’environnement et celui utilisé pour photographier l’arrière-plan, car les images seront utilisées ensemble. Ici, la température de couleur des deux caméras est réglée sur 5 000 k et nous avons pris une photo d’un graphique couleur avec les deux caméras pour un alignement plus poussé en post-production.
+Il est très important de conserver la couleur entre l’appareil utilisé pour photographier l’environnement et celui utilisé pour photographier l’arrière-plan, car les images seront utilisées ensemble. Ici, nous avons la température de couleur des deux caméras réglée à 5000k et a pris une photo d&#39;un tableau de couleurs avec les deux caméras pour un alignement plus en post-production.
 
 ### Valeurs d’exposition entre crochets
 
@@ -105,13 +106,13 @@ Si le 360° utilisé est capable de sortir des images RAW, les EV peuvent être 
 
 ![Menu de sélection Fusionner vers un fichier HDR Pro dans Adobe Photoshop](assets/Photorealistic_13.png)
 
-Après avoir effectué des réglages colorimétriques sur les fichiers EV, ils peuvent être exportés temporairement dans des fichiers individuels pour ensuite être fusionnés dans Photoshop. Le type de fichier doit dépendre de la source, mais n’utilisez pas de format compressé comme JPEG dans les deux cas. Dans Photoshop, choisissez Fichier > Automatisation > Fusionner vers HDR Pro... et sélectionnez tous les fichiers EV exportés.
+Après avoir effectué des réglages colorimétriques sur les fichiers EV, ils peuvent être exportés temporairement dans des fichiers individuels pour ensuite être fusionnés dans Photoshop. Le type de fichier doit dépendre de la source, mais n&#39;utilisez pas un format compressé comme JPEG dans les deux cas. Dans Photoshop, choisissez Fichier > Automatisation > Fusionner vers HDR Pro... et sélectionnez tous les fichiers EV exportés.
 
 ![Écran d’aperçu de la fusion HDR Pro dans Adobe Photoshop](assets/Photorealistic_14.png)
 
 ![Paramètres de configuration de la fusion HDR Pro dans Adobe Photoshop](assets/Photorealistic_15.png)
 
-Vérifiez que le mode est défini sur 32 bits. L’utilisation de l’option &quot;Supprimer les décalages&quot; peut vous aider à supprimer les détails qui ont changé entre les véhicules électriques, mais ne l’utilisez pas si vous n’en avez pas besoin. Le curseur situé sous l’histogramme n’affecte que l’exposition de l’aperçu. Ignorez-le donc. Décochez la case Terminer le virage dans Adobe Camera Raw et appuyez sur OK.
+Assurez-vous que &quot;Mode&quot; est défini sur 32 bits. L&#39;utilisation de &quot;supprimer les fantômes&quot; peut aider à supprimer les détails qui ont changé entre les EV, mais ne l&#39;utilisez pas si vous n&#39;en avez pas besoin. Le curseur situé sous l’histogramme n’affecte que l’exposition de l’aperçu. Ignorez-le donc. Décochez la case &quot;Terminer le virage dans Adobe Camera Raw&quot; et appuyez sur OK.
 
 ![Panoramique HDR à 360 degrés d’un espace de bureau avec des ombres visibles au niveau du nadir](assets/Photorealistic_16.png)
 
@@ -151,11 +152,11 @@ Vous pouvez ensuite utiliser &quot;Adapter à l’image&quot; sur votre arrière
 
 Désormais, les objets ajoutés à la scène seront composés de manière réaliste en arrière-plan, car ils sont éclairés par l’environnement dans lequel l’image a été prise.
 
-Pour évaluer rapidement l&#39;orientation et l&#39;exposition du pano HDR par rapport à l&#39;arrière-plan, une sphère primitive avec un matériau métallique, prise à partir du panneau de ressources libre dans [!DNL Dimension], peut être placé dans la scène. La rotation de la lumière d’environnement peut alors être positionnée de sorte que les reflets semblent corrects. Si l’éclairage du panorama HDR survole ou sous-expose la sphère, l’exposition du panorama HDR doit être augmentée ou réduite pour compenser.
+Pour évaluer rapidement l&#39;orientation et l&#39;exposition du pano HDR par rapport à l&#39;arrière-plan, une sphère primitive avec un matériau métallique, prise à partir du panneau de ressources libre dans [!DNL Dimension], peut être placé dans la scène. La rotation de la lumière d&#39;environnement peut alors être positionnée de sorte que les reflets semblent corrects. Si l’éclairage du panorama HDR survole ou sous-expose la sphère, l’exposition du panorama HDR doit être augmentée ou réduite pour compenser.
 
 ![Une photographie virtuelle photoréaliste d&#39;une sphère métallique est composée sur une image d&#39;arrière-plan d&#39;un espace de bureau](assets/Photorealistic_23.png)
 
-Pour évaluer rapidement l&#39;orientation et l&#39;exposition du pano HDR par rapport à l&#39;arrière-plan, une sphère primitive avec un matériau métallique, prise à partir du panneau de ressources libre dans [!DNL Dimension], peut être placé dans la scène. La rotation de la lumière d’environnement peut alors être positionnée de sorte que les reflets semblent corrects. Si l’éclairage du panorama HDR survole ou sous-expose la sphère, l’exposition du panorama HDR doit être augmentée ou réduite pour compenser.
+Pour évaluer rapidement l&#39;orientation et l&#39;exposition du pano HDR par rapport à l&#39;arrière-plan, une sphère primitive avec un matériau métallique, prise à partir du panneau de ressources libre dans [!DNL Dimension], peut être placé dans la scène. La rotation de la lumière d&#39;environnement peut alors être positionnée de sorte que les reflets semblent corrects. Si l’éclairage du panorama HDR survole ou sous-expose la sphère, l’exposition du panorama HDR doit être augmentée ou réduite pour compenser.
 
 ## Résultat final : Image composite photoréaliste
 

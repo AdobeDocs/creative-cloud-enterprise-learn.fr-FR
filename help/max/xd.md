@@ -1,10 +1,11 @@
 ---
 title: XD
 description: Adobe XD est un outil de design et de prototypage d'expérience utilisateur qui permet de concevoir des sites web, des applications, des interfaces vocales, des jeux et d'autres types d'expériences numériques
+feature: UI Design
 role: User
 level: Beginner, Intermediate
 exl-id: 89b621a6-083c-4e1b-b23a-f4ba73e6755f
-source-git-commit: 7b202fd4de29e83dd28c40dc6115a1be51c1f384
+source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
 workflow-type: tm+mt
 source-wordcount: '712'
 ht-degree: 0%

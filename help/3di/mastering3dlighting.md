@@ -1,11 +1,12 @@
 ---
 title: Conseils et techniques pour maîtriser l’éclairage 3D dans CGI
 description: Découvrez l’éclairage 3D et apprenez à créer différentes conditions d’éclairage susceptibles de modifier totalement une scène générée par ordinateur et l’apparence des objets qu’elle contient
+feature: 3D
 role: User
 level: Beginner, Intermediate
 keywords: Éclairage 3D, 600 Global MSV
 exl-id: 05eb729e-35b8-46e2-9c56-590250097d0b
-source-git-commit: 5e47268715a213c3bdc58cd61cdc7646ba333dd8
+source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
 workflow-type: tm+mt
 source-wordcount: '2733'
 ht-degree: 0%

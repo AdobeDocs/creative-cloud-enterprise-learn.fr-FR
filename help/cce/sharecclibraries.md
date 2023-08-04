@@ -1,12 +1,13 @@
 ---
 title: Partage de ressources de branding avec les bibliothèques de Creative Cloud pour les équipes
 description: Découvrez comment créer, utiliser et partager des ressources de branding pour votre groupe ou votre équipe à l’aide des bibliothèques de Creative Cloud pour les équipes
+feature: Integrations
 role: User
 level: Beginner, Intermediate
-kt: 8211
+jira: KT-8211
 thumbnail: KT-8211
 exl-id: 47a16b70-3f0b-43b1-9b0d-9ee18df00254
-source-git-commit: 86d38929a610846a56def4b71b22da3f111a4761
+source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
 workflow-type: tm+mt
 source-wordcount: '117'
 ht-degree: 0%

@@ -1,12 +1,13 @@
 ---
 title: InDesign Server 
-description: Adobe Adobe® InDesign® Server offre un moteur robuste et évolutif qui exploite les fonctions de conception, de mise en page et de typographie d'InDesign pour vous permettre de créer par programmation des documents automatisés attrayants
+description: Adobe Adobe&reg ; InDesign&reg ; Le logiciel serveur offre un moteur robuste et évolutif qui exploite les fonctions de conception, de mise en page et de typographie d'InDesign pour vous permettre de créer par programmation des documents automatisés attrayants
+feature: Graphic Design
 role: User
 level: Beginner, Intermediate
 exl-id: 534124fb-a903-430e-ad56-f124e4f024a0
-source-git-commit: 7b202fd4de29e83dd28c40dc6115a1be51c1f384
+source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
 workflow-type: tm+mt
-source-wordcount: '268'
+source-wordcount: '272'
 ht-degree: 1%
 
 ---
@@ -95,7 +96,7 @@ Eric Rowse, consultant senior en solutions (médias numériques)
 
 **Ressources InDesigns Server**
 
-[Formation et support](https://www.adobe.com/products/indesignserver.html) est votre centre d’informations sur les nouveautés et les tutoriels supplémentaires, ainsi que des liens vers les forums de la communauté.
+[Formation et support](https://www.adobe.com/products/indesignserver.html) est votre centre d’accueil pour d’autres tutoriels, les nouveautés et des liens vers les forums de la communauté.
 
 **Version d’octobre 2020**
 

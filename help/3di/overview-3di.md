@@ -3,8 +3,9 @@ title: Tutoriels Adobe 3D et VR
 description: Des Tutorials pour vous aider à vous familiariser avec la 3D et la réalité virtuelle sur Adobe
 role: User
 level: Beginner, Intermediate
+jira: KT-6945
 exl-id: f9d03c3d-0767-476f-a7e1-0b283cf16cd3
-source-git-commit: ad7b21fc0ba8742117ff09b31e594d8d11dee51d
+source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
 workflow-type: tm+mt
 source-wordcount: '305'
 ht-degree: 0%

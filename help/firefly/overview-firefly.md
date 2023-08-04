@@ -1,14 +1,15 @@
 ---
 title: Adobe [!DNL Firefly] Présentation
 description: Soyez rapidement opérationnel sur l’Adobe [!DNL Firefly]
+feature: Image Editing, Gen AI
 role: User
 level: Beginner
 jira: KT-13379
 exl-id: 6ba5adc4-b67b-45dd-95e6-13d642b991b8
-source-git-commit: 756fe272cdf135c4b7c11125b65311cf1eaca7cd
+source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
 workflow-type: tm+mt
 source-wordcount: '103'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -26,7 +27,7 @@ Firefly est la nouvelle famille de modèles d’IA créatifs qui s’invitent da
 
 >[!VIDEO](https://video.tv.adobe.com/v/3416970t1?quality=12&learn=on&hidetitle=true)
 
-## En savoir plus sur l’Adobe Firefly
+## En savoir plus sur Adobe Firefly
 
 <table style="table-layout:fixed">
 <tr>

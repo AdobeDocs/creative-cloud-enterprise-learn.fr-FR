@@ -1,10 +1,11 @@
 ---
 title: "[!DNL Rush]"
 description: Premiere [!DNL Rush] est la première application de montage vidéo multiappareil tout-en-un qui facilite considérablement la création et le partage de contenu en ligne
+feature: Video Editing
 role: User
 level: Beginner, Intermediate
 exl-id: ae79e935-53e0-4873-9c6f-d464925df68f
-source-git-commit: 7b202fd4de29e83dd28c40dc6115a1be51c1f384
+source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
 workflow-type: tm+mt
 source-wordcount: '241'
 ht-degree: 0%

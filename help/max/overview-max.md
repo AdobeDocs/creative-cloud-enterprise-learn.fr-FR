@@ -1,10 +1,11 @@
 ---
 title: 'MAX 2020 : les sessions Entreprise'
 description: À propos des ressources de démonstration
+feature: Integrations
 role: User
 level: Beginner, Intermediate
 exl-id: 68b2cb27-22b4-4be0-a4b1-210c208778ec
-source-git-commit: 7b202fd4de29e83dd28c40dc6115a1be51c1f384
+source-git-commit: 4c30508fb4bc09bd36bcbda1d77c335c5b928614
 workflow-type: tm+mt
 source-wordcount: '503'
 ht-degree: 1%

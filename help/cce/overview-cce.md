@@ -1,13 +1,15 @@
 ---
 title: Creative Cloud pour Tutorials d’entreprise
 description: Des Tutorials pour vous aider à vous familiariser avec le Creative Cloud des produits Entreprise
+feature: Image Editing, Collaboration, Graphic Design, Integrations
 role: User
 level: Beginner, Intermediate
+jira: KT-6942
 exl-id: eea91ea5-9adc-4a7f-93c0-6cdfe650cfb7
-source-git-commit: a2319e107b620cc2e0f997dde8cf7235fd5e6779
+source-git-commit: 4c30508fb4bc09bd36bcbda1d77c335c5b928614
 workflow-type: tm+mt
 source-wordcount: '1529'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -230,7 +232,7 @@ En tant que créatif d’entreprise, vous devez collaborer avec des équipes ré
 <tr>
  <td>
    <a href="collaboration-the-future-of-creativity.md">
-      <img alt="Collaboration : L'avenir de la créativité" src="assets/Collaboration-The-Future-of-Creativity.png" />
+      <img alt="Collaboration : L&apos;avenir de la créativité" src="assets/Collaboration-The-Future-of-Creativity.png" />
    </a>
     <div>
    <a href="collaboration-the-future-of-creativity.md"><strong>Collaboration : L'avenir de la créativité</strong></a>
@@ -493,7 +495,7 @@ En tant que créatif d’entreprise, vous devez collaborer avec des équipes ré
 <tr>
   <td>
     <a href="alphabetsoup.md">
-      <img alt="Décodage de la soupe d'alphabets de formats graphiques" src="assets/Alphabetsoup.png" />
+      <img alt="Décodage de la soupe d&apos;alphabets de formats graphiques" src="assets/Alphabetsoup.png" />
     </a>
     <div>
     <a href="alphabetsoup.md"><strong>Décodage de la soupe d'alphabets de formats graphiques</strong></a>
@@ -607,7 +609,7 @@ En tant que créatif d’entreprise, vous devez collaborer avec des équipes ré
   </td>
   <td>
     <a href="assets/GreenScreenisNotJustforVideo.pdf">
-      <img alt="L'écran vert n'est pas seulement pour la vidéo" src="assets/GreenScreenisNotJustforVideo.jpg" />
+      <img alt="L&apos;écran vert n&apos;est pas seulement pour la vidéo" src="assets/GreenScreenisNotJustforVideo.jpg" />
     </a>
     <div>
     <a href="assets/GreenScreenisNotJustforVideo.pdf"><strong>Le fond vert n'est pas que pour la vidéo (PDF)</strong></a>

@@ -1,10 +1,11 @@
 ---
 title: InDesign
 description: Créez des expériences digitales et imprimées d’une grande richesse, des livres électroniques aux livres, rapports et articles techniques en passant par les magazines électroniques
+feature: Graphic Design
 role: User
 level: Beginner, Intermediate
 exl-id: eae51aea-4c17-4356-bfb0-720f87597ef7
-source-git-commit: 7b202fd4de29e83dd28c40dc6115a1be51c1f384
+source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
 workflow-type: tm+mt
 source-wordcount: '428'
 ht-degree: 0%
@@ -86,7 +87,7 @@ Générer un code QR qui renvoie à un site web.
 Dans ce tutoriel, vous découvrirez comment :
 * Fournir un accès mains libres au contenu web via des appareils mobiles
 * Mettez vos clients en sécurité
-* Le digital simplifie la gestion de contenu à jour
+* Avec le numérique, il est facile de maintenir le contenu à jour
 
 **Présenté par :**
 Patti Sokol, consultante principale en solutions (médias numériques)
