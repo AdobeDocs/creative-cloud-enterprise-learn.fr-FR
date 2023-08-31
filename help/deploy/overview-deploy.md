@@ -1,24 +1,24 @@
 ---
 title: Vidéos de déploiement Creative Cloud abonnement Entreprise
-description: Découvrez rapidement comment déployer et gérer Creative Cloud pour les applications d’entreprise
-role: User
+description: Découvrez comment déployer et gérer les applications Creative Cloud abonnement Entreprise
+role: Admin
 level: Beginner, Intermediate
 exl-id: 9533fb1f-a2cc-4c06-b701-67c75a60dbaf
-source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
+source-git-commit: 245f753d62fe83e76fad6e1d7c3d820a5550464a
 workflow-type: tm+mt
 source-wordcount: '130'
 ht-degree: 14%
 
 ---
 
-# Déploiement et gestion de rubriques Creative Cloud abonnement Entreprise
+# Déploiement et gestion des rubriques de Creative Cloud abonnement Entreprise
 
-![Image de héros Creative Cloud](../assets/CCEbanner.png)
+![Image du héros Creative Cloud](../assets/CCEbanner.png)
 
 Creative Cloud abonnement Entreprise prend en charge les déploiements personnalisés, ainsi que la gestion équilibrée et flexible des licences. Cette formule est compatible avec d’autres offres Adobe destinées aux entreprises.
 
-* [Présentation du mot de Creative Cloud pour entreprise et de l’expiration du numéro de série Acrobat](cceserial.md)
-Découvrez l’expiration des numéros de série dans Creative Cloud abonnement Entreprise et Acrobat.
+* [Comprendre l’expiration du Creative Cloud pour entreprise et du numéro de série Acrobat](cceserial.md)
+Découvrez l’expérience d’expiration du numéro de série pour Creative Cloud abonnement Entreprise et Acrobat.
 
-* [Les numéros de série expirent ? Pourquoi l’heure des licences nominatives est-elle venue ?](nameduserlicensing.md)
-Découvrez comment l’achat de licences d’Adobe via le système de licences nominatives (NUL) permet aux administrateurs informatiques de déployer et de gérer facilement des outils d’Adobe via le Admin Console et permet aux utilisateurs finaux d’accéder à des applications de création et de productivité de pointe et à des services Adobe Cloud, même si l’ensemble de leur personnel est à distance.
+* [Numéros de série arrivant à expiration ? Pourquoi il est temps d’utiliser les licences nominatives](nameduserlicensing.md)
+Découvrez comment l’attribution de licences NUL (Named User Licensing) aux produits Adobe permet aux administrateurs informatiques de déployer et de gérer facilement des outils Adobe à l’aide du Admin Console et donne aux utilisateurs finaux l’accès à des applications de création et de productivité et à des services Adobe Cloud de classe mondiale, même si l’ensemble du personnel est à distance.

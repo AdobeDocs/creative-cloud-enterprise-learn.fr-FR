@@ -1,11 +1,11 @@
 ---
 title: Illustrator
-description: Créez des logos, des icônes, des illustrations et tout autre design utilisable sur le web, les appareils mobiles ou l'impression
-role: User
+description: Créez des logos, des icônes, des illustrations et tout autre design que vous pouvez imaginer pour le web, le mobile ou l’impression
 feature: Vector Editing
+role: User
 level: Beginner, Intermediate
 exl-id: b1b8e424-7e08-42a6-b370-cfee1b76b036
-source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
+source-git-commit: 245f753d62fe83e76fad6e1d7c3d820a5550464a
 workflow-type: tm+mt
 source-wordcount: '219'
 ht-degree: 0%
@@ -14,32 +14,32 @@ ht-degree: 0%
 
 # Illustrator
 
-![Image de héros du tutoriel](../assets/Illustrator.jpg)
+![Image principale du tutoriel](../assets/Illustrator.jpg)
 
-L&#39;application d&#39;illustration et d&#39;illustration moderne. Créez des logos, des icônes, des illustrations et tout autre design utilisable sur le web, les appareils mobiles ou l&#39;impression.
+L’application moderne pour les illustrations et les graphiques. Créez des logos, des icônes, des illustrations et tout autre design que vous pouvez imaginer pour le web, le mobile ou l’impression.
 
-## Parcourir les Tutorials de produits
+## Parcourir les Tutorials de produit
 
 <table style="table-layout:fixed">
 <tr>
  <td>
    <a href="illustrator.md#tutorial1">
-      <img alt="Utiliser des symboles pour mettre à jour plusieurs instances d’icône" src="../assets/Illustrator_symbols_sokol_thumbnail.jpg" />
+      <img alt="Utilisation de symboles pour mettre à jour plusieurs instances d’icônes" src="../assets/Illustrator_symbols_sokol_thumbnail.jpg" />
    </a>
     <div>
-   <a href="illustrator.md#tutorial1"><strong>Utiliser des symboles pour mettre à jour plusieurs instances d’icône</strong></a>
+   <a href="illustrator.md#tutorial1"><strong>Utilisation de symboles pour mettre à jour plusieurs instances d’icônes</strong></a>
     </div>
-    <em>Réduisez le travail manuel et garantissez l’homogénéité des symboles</em>
+    <em>Réduction du travail manuel et cohérence avec les symboles</em>
     <br>
   </td>
   <td>
     <a href="illustrator.md#tutorial2">
-        <img alt="Alignement du texte et des images avec l’accrochage au glyphe" src="../assets/illustrator_glyphAlign_sokol_thumbnail.jpg" />
+        <img alt="Alignement du texte et des images avec l’accrochage aux glyphes" src="../assets/illustrator_glyphAlign_sokol_thumbnail.jpg" />
     </a>
     <div>
-    <a href="illustrator.md#tutorial2"><strong>Alignement du texte et des images avec l’accrochage au glyphe</strong></a>
+    <a href="illustrator.md#tutorial2"><strong>Alignement du texte et des images avec l’accrochage aux glyphes</strong></a>
     </div>
-    <em>Ancrez rapidement des glyphes à des zones importantes du document</em>
+    <em>Accrocher rapidement les glyphes à des zones importantes du document</em>
     <br>
   </td>
   <td>
@@ -50,38 +50,38 @@ L&#39;application d&#39;illustration et d&#39;illustration moderne. Créez des l
 </tr>
 </table>
 
-## Utilisation des symboles pour mettre à jour plusieurs instances d’icône (5:08) {#tutorial1}
+## Utiliser des symboles pour mettre à jour plusieurs instances d’icônes (5:08) {#tutorial1}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326816?hidetitle=true)
 
 **Description**
-Réduisez le travail manuel et garantissez l’homogénéité des symboles.
+Réduisez le travail manuel et conservez la cohérence avec les symboles.
 
 Dans ce tutoriel, vous apprendrez à :
-* Réduisez le travail manuel et garantissez l’homogénéité des symboles
+* Réduction du travail manuel et cohérence avec les symboles
 
 **Présenté par :**
-Patti Sokol, consultante principale en solutions (médias numériques)
+Patti Sokol, conseillère principale en solutions (médias numériques)
 
-## Alignement du texte et des images avec l’accrochage au glyphe (6:48) {#tutorial2}
+## Alignement du texte et des images avec l’accrochage aux glyphes (6:48) {#tutorial2}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326817?hidetitle=true)
 
 **Description**
-Ancrez rapidement des glyphes à des zones importantes du document.
+Accrochez rapidement les glyphes aux zones importantes du document.
 
 Dans ce tutoriel, vous apprendrez à :
-* Ancrez rapidement des glyphes à des zones importantes du document
+* Accrocher rapidement les glyphes à des zones importantes du document
 
 **Présenté par :**
-Patti Sokol, consultante principale en solutions (médias numériques)
+Patti Sokol, conseillère principale en solutions (médias numériques)
 
 ![Logo Illustrator](../assets/ai_appicon_96.png)
 
 **Ressources Illustrator**
 
-[Formation et support](https://helpx.adobe.com/support/illustrator.html) est votre centre d’informations pour d’autres tutoriels et liens vers les forums de la communauté.
+[Formation et assistance](https://helpx.adobe.com/support/illustrator.html) est votre point de référence pour les tutoriels supplémentaires et les liens vers les forums de la communauté.
 
 **Version d’octobre 2020**
 
-Commencez à utiliser ces fonctionnalités (et bien plus encore !) en téléchargeant la dernière mise à jour depuis l’application pour postes de travail de votre Creative Cloud.
+Commencez à utiliser ces fonctionnalités (et bien plus encore !) en téléchargeant la dernière mise à jour depuis l’application de bureau Creative Cloud.
