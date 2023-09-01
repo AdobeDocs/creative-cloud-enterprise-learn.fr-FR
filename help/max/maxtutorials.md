@@ -1,11 +1,11 @@
 ---
 title: MAX 2020 Tutorials
-description: Ces tutoriels vous aideront à découvrir les nouvelles fonctionnalités de la version 2021 de Creative Cloud, d’un point de vue professionnel
-feature: 3D, Graphic Design, Image Editing, Workspace, Collaboration, Integrations
+description: Ces tutoriels vous aideront à découvrir les nouvelles fonctionnalités de la version 2021 de Creative Cloud, dans une perspective d’entreprise
+feature: 3D, Graphic Design, Image Editing, Workspace, Collaboration, Integrations, Workflow
 role: User
 level: Beginner, Intermediate
 exl-id: e27874b7-ba02-46b7-a5e4-fe2485d9c148
-source-git-commit: 4c30508fb4bc09bd36bcbda1d77c335c5b928614
+source-git-commit: f17ea20ac8623dae0c681753b4bde250a1c9b06e
 workflow-type: tm+mt
 source-wordcount: '322'
 ht-degree: 23%
@@ -14,11 +14,11 @@ ht-degree: 23%
 
 # Tutoriels
 
-![Image héros Max 2020](../assets/MAX.jpg)
+![Image principale max. 2020](../assets/MAX.jpg)
 
-En tant que créatif d’entreprise, vous devez collaborer avec des équipes réparties dans le monde entier, mettre en place des processus évolutifs et respecter les directives et les systèmes de l’entreprise. Ces tutoriels vous aideront à découvrir les nouvelles fonctionnalités de la version 2021 de Creative Cloud, du point de vue de l’entreprise.
+En tant que créatif d’entreprise, vous devez collaborer avec des équipes distribuées, établir des processus évolutifs et vous conformer aux systèmes et directives de l’entreprise. Ces tutoriels vous aideront à découvrir les nouvelles fonctionnalités de la version 2021 de Creative Cloud, du point de vue de l’entreprise.
 
-## Tutorials, par Produits pour ordinateurs
+## Tutorials by Desktop Products
 
 <table style="table-layout:fixed">
 <tr>
@@ -29,7 +29,7 @@ En tant que créatif d’entreprise, vous devez collaborer avec des équipes ré
     <div>
     <a href="acrobat-sign.md"><strong>Acrobat et Adobe Sign</strong></a>
     </div>
-    <em>Création, modification et signature de documents et formulaires PDF</em>
+    <em>Création, modification et signature de documents et de formulaires PDF</em>
     <br>
   </td>
   <td>
@@ -39,7 +39,7 @@ En tant que créatif d’entreprise, vous devez collaborer avec des équipes ré
     <div>
     <a href="dimension.md"><strong>Dimension</strong></a>
     </div>
-    <em>Créez des images 3D photoréalistes pour l'identité visuelle des marques, les photos de produits et le design de packaging</em>
+    <em>Créez des images 3D photoréalistes pour l’image de marque, les photos de produits et la conception d’emballages</em>
     <br>
   </td>
   <td>
@@ -61,7 +61,7 @@ En tant que créatif d’entreprise, vous devez collaborer avec des équipes ré
     <div>
     <a href="indesign.md"><strong>InDesign</strong></a>
     </div>
-    <em>Création de mises en page pour l'impression et la publication digitale</em>
+    <em>Conception et mise en page pour l’impression et la publication numérique</em>
     <br>
   </td>
   <td>
@@ -71,7 +71,7 @@ En tant que créatif d’entreprise, vous devez collaborer avec des équipes ré
     <div>
     <a href="photoshop.md"><strong>Photoshop</strong></a>
     </div>
-    <em>Retouchez, composez et créez de superbes images, illustrations et oeuvres d’art sur ordinateur</em>
+    <em>Retouchez, composez et créez de superbes images, illustrations et illustrations sur ordinateur</em>
     <br>
   </td>
   <td>
@@ -93,7 +93,7 @@ En tant que créatif d’entreprise, vous devez collaborer avec des équipes ré
     <div>
     <a href="xd.md"><strong>XD</strong></a>
     </div>
-    <em>Concevez, prototypez et partagez des projets d’UX design</em>
+    <em>Conception, création de prototypes et partage d’expériences utilisateur</em>
     <br>
   </td>
   <td>
@@ -120,7 +120,7 @@ En tant que créatif d’entreprise, vous devez collaborer avec des équipes ré
     <div>
     <a href="capture.md"><strong>Capture</strong></a>
     </div>
-    <em>Transformez n’importe quelle image en thème de couleur, illustration vectorielle, pinceau, etc</em>
+    <em>Transformez n’importe quelle image en thème de couleur, graphique vectoriel, pinceau, etc</em>
     <br>
   </td>
   <td>
@@ -179,7 +179,7 @@ En tant que créatif d’entreprise, vous devez collaborer avec des équipes ré
     <div>
     <a href="aem.md"><strong>AEM Assets et Asset Link</strong></a>
     </div>
-    <em>Gestion des assets digitaux de nouvelle génération</em>
+    <em>Gestion des ressources numériques nouvelle génération</em>
     <br>
   </td>
   <td>
@@ -189,7 +189,7 @@ En tant que créatif d’entreprise, vous devez collaborer avec des équipes ré
     <div>
     <a href="creativeclouddesktopapp.md"><strong>Application de bureau Creative Cloud</strong></a>
     </div>
-    <em>L’application pour postes de travail Creative Cloud est votre centre de gestion des applications, services et collaborations CC, et bien plus encore !</em>
+    <em>L’application pour postes de travail Creative Cloud est le point central de la gestion des applications, services et collaborations CC, et plus encore !</em>
     <br>
   </td>
   <td>
@@ -199,7 +199,7 @@ En tant que créatif d’entreprise, vous devez collaborer avec des équipes ré
     <div>
     <a href="cclibraries.md"><strong>Bibliothèques CC</strong></a>
     </div>
-    <em>Gardez vos ressources à portée de main et préservez la cohérence de marque dans vos projets</em>
+    <em>Gardez vos ressources à portée de main et vos projets en accord avec la marque</em>
     <br>
   </td>
 </tr>
@@ -211,7 +211,7 @@ En tant que créatif d’entreprise, vous devez collaborer avec des équipes ré
     <div>
     <a href="indesignserver.md"><strong>InDesign Server </strong></a>
     </div>
-    <em>Les outils sophistiqués de l'InDesign couplés à l'automatisation personnalisée</em>
+    <em>Les outils sophistiqués de l'InDesign associés à l'automatisation personnalisée</em>
     <br>
   </td>
  <td>
@@ -221,7 +221,7 @@ En tant que créatif d’entreprise, vous devez collaborer avec des équipes ré
     <div>
     <a href="stock.md"><strong>Adobe [!DNL Stock]</strong></a>
     </div>
-    <em>Images, illustrations, vidéos, contenus audio et modèles digitaux de qualité, et bien plus encore</em>
+    <em>Images numériques, illustrations, vidéos, fichiers audio, templates et autres ressources de haute qualité</em>
     <br>
   </td>
   <td>
@@ -232,18 +232,18 @@ En tant que créatif d’entreprise, vous devez collaborer avec des équipes ré
 </tr>
 </table>
 
-### Projet pratique : Création de votre propre masque de visage
+### Projet pratique : créer votre propre masque facial
 
 <table style="table-layout:fixed">
 <tr>
  <td>
     <a href="handsonproject.md">
-      <img alt="Création de votre propre masque de visage" src="../assets/faceMaskSplash.jpg" />
+      <img alt="Créer votre propre masque de visage" src="../assets/faceMaskSplash.jpg" />
     </a>
     <div>
-    <a href="handsonproject.md"><strong>Création de votre propre masque de visage</strong></a>
+    <a href="handsonproject.md"><strong>Créer votre propre masque de visage</strong></a>
     </div>
-    <em>Avec le plug-in Adobe Design to Print, vous pouvez visualiser vos designs sur des centaines de produits Zazzle et les publier directement sur leur marketplace en ligne</em>
+    <em>Avec le plug-in Adobe Design to Print, vous pouvez visualiser vos créations sur des centaines de produits Zazzle et les publier directement sur leur marché en ligne</em>
     <br>
   </td>
   <td>

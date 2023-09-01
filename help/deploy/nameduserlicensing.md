@@ -3,8 +3,9 @@ title: Numéros de série arrivant à expiration ? Pourquoi il est temps d’uti
 description: L’attribution de licences de produits Adobe via NUL (Named User Licensing) permet aux administrateurs informatiques de déployer et de gérer facilement des outils Adobe à l’aide du Admin Console. Elle donne également aux utilisateurs finaux l’accès à des applications de création et de productivité et à des services Adobe Cloud de classe mondiale, même si l’ensemble du personnel est distant
 role: Admin
 level: Beginner, Intermediate
+feature: Deploy
 exl-id: 9dbdb057-6684-4750-bf9d-8af7a32bfe14
-source-git-commit: 245f753d62fe83e76fad6e1d7c3d820a5550464a
+source-git-commit: f17ea20ac8623dae0c681753b4bde250a1c9b06e
 workflow-type: tm+mt
 source-wordcount: '633'
 ht-degree: 2%
