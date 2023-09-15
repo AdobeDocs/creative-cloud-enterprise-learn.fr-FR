@@ -1,17 +1,17 @@
 ---
-title: Création d'affiches de webinaires avec Firefly
-description: Apprenez à utiliser la fonctionnalité Transcription, optimisée par l’Adobe Firefly, dans Adobe Express pour créer l’affiche d’un webinaire lors d’un événement de réalité virtuelle
-feature: Image Editing
+title: Création d’affiches de webinaire avec Firefly
+description: Apprenez à utiliser la fonctionnalité Texte sur image, optimisée par l’Adobe Firefly, dans l’Adobe Express pour créer une affiche de webinaire pour un événement de réalité virtuelle
+feature: Image Editing, Gen AI
 level: Beginner
-source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
+source-git-commit: c57212d39b2e613964bc15d2967a1958dc0c8c8e
 workflow-type: tm+mt
-source-wordcount: '69'
+source-wordcount: '68'
 ht-degree: 4%
 
 ---
 
-# Création d&#39;affiches de webinaires avec Firefly
+# Création d’affiches de webinaire avec Firefly
 
-Apprenez à utiliser la fonctionnalité Transcription, optimisée par l’Adobe Firefly, dans Adobe Express pour créer l’affiche d’un webinaire lors d’un événement de réalité virtuelle. Ce tutoriel utilise la nouvelle [Adobe Express Beta](https://www.adobe.com/express/).
+Apprenez à utiliser la fonctionnalité Texte sur image, optimisée par l’Adobe Firefly, dans l’Adobe Express pour créer une affiche de webinaire pour un événement de réalité virtuelle. Ce tutoriel utilise le nouveau [Adobe Express](https://www.adobe.com/express/).
 
 >[!VIDEO](https://video.tv.adobe.com/v/3420810?quality=12&learn=on&hidetitle=true)
