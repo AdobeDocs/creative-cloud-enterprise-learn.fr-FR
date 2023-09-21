@@ -3,9 +3,9 @@ title: Création de contenu de dépliant pour une campagne marketing avec Firefl
 description: Apprenez à utiliser la fonctionnalité Texte sur image, optimisée par l’Adobe Firefly, dans du contenu localisé Adobe Express issu d’une campagne de marketing hôtelier mondiale
 feature: Image Editing, Gen AI
 role: User
-level: Beginner
+level: Intermediate
 jira: KT-13756
-source-git-commit: c57212d39b2e613964bc15d2967a1958dc0c8c8e
+source-git-commit: 58b151de4487c2636fe28dce610f84d27a99a7ca
 workflow-type: tm+mt
 source-wordcount: '74'
 ht-degree: 4%
