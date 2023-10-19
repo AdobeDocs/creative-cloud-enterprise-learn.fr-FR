@@ -1,22 +1,20 @@
 ---
-title: Creative Cloud abonnement Entreprise Tutorials
-description: Bienvenue dans le hub de formation Creative Cloud abonnement Entreprise
+title: Creative Cloud pour les Tutorials d’entreprise
+description: Bienvenue dans le Creative Cloud du centre d’apprentissage en entreprise
 feature: Graphic Design, Image Editing, Vector Editing, UI Design, Licensable Assets, Gen AI, Video Editing, 3D
 role: User
 level: Beginner, Intermediate, Experienced
 exl-id: d0223157-24aa-486b-806a-fc6f6a36d7cf
-source-git-commit: 4c30508fb4bc09bd36bcbda1d77c335c5b928614
+source-git-commit: c54f203aa1e3dddbfd973b1cc668b56b7f54d9b1
 workflow-type: tm+mt
-source-wordcount: '92'
-ht-degree: 10%
+source-wordcount: '88'
+ht-degree: 13%
 
 ---
 
 # Tutoriels Creative Cloud abonnement Entreprise
 
-![Image de héros Creative Cloud](assets/hero_cce.jpg)
-
-Bienvenue dans le hub de formation Creative Cloud abonnement Entreprise. Vous trouverez ici un large éventail d’expériences d’apprentissage axées sur le Creative Cloud d’entreprise. Nos tutoriels, webinaires et cas d’usage sont conçus pour offrir rapidement aux débutants et administrateurs des informations actualisées sur le Creative Cloud des produits d’entreprise.
+Bienvenue dans le Creative Cloud du centre d’apprentissage en entreprise. Vous trouverez ici un large éventail d’expériences d’apprentissage axées sur le Creative Cloud pour entreprise. Nos tutoriels, webinaires et cas d’utilisation sont conçus pour rapidement mettre à jour les produits Creative Cloud abonnement Entreprise pour les débutants et les administrateurs.
 
 ## Parcourir les rubriques
 
@@ -34,7 +32,7 @@ Bienvenue dans le hub de formation Creative Cloud abonnement Entreprise. Vous tr
   </td>
   <td>
     <a href="firefly/overview-firefly.md">
-      <img alt="Adobe Firefly" src="assets/Fireflycard.png" />
+      <img alt="Adobe Firefly" src="assets/Fireflycard.png" />
     </a>
   </td>
   <td>

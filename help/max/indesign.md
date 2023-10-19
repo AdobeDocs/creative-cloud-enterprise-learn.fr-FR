@@ -1,24 +1,22 @@
 ---
 title: InDesign
-description: Créez des expériences digitales et imprimées d’une grande richesse, des livres électroniques aux livres, rapports et articles techniques en passant par les magazines électroniques
+description: Créez des expériences numériques et imprimées riches, allant des livres électroniques aux magazines électroniques, en passant par les livres, les rapports et les livres blancs
 feature: Graphic Design
 role: User
 level: Beginner, Intermediate
 exl-id: eae51aea-4c17-4356-bfb0-720f87597ef7
-source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
+source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
 workflow-type: tm+mt
-source-wordcount: '428'
+source-wordcount: '425'
 ht-degree: 0%
 
 ---
 
 # InDesign
 
-![Image de héros du tutoriel](../assets/InDesign.jpg)
+L’application de référence pour créer de superbes documents pour l’impression et la publication numérique. Créez des expériences numériques et imprimées riches, allant des livres électroniques aux magazines électroniques, en passant par les livres, les rapports et les livres blancs.
 
-L’application de référence pour créer de superbes documents pour l’impression et la publication digitale. Créez des expériences digitales et imprimées d’une grande richesse, des livres électroniques aux livres, rapports et articles techniques en passant par les magazines électroniques.
-
-## Parcourir les Tutorials de produits
+## Parcourir les Tutorials de produit
 
 <table style="table-layout:fixed">
 <tr>
@@ -29,7 +27,7 @@ L’application de référence pour créer de superbes documents pour l’impres
     <div>
     <a href="indesign.md#tutorial1"><strong>Générer des codes QR</strong></a>
     </div>
-    <em>Génération d’un code QR pointant vers un site web</em>
+    <em>Génération d’un code QR renvoyant à un site web</em>
     <br>
   </td>
   <td>
@@ -39,17 +37,17 @@ L’application de référence pour créer de superbes documents pour l’impres
     <div>
    <a href="indesign.md#tutorial2"><strong>Partage pour révision depuis l’InDesign</strong></a>
     </div>
-    <em>Expérience de révision créative transparente pour les designers et les membres de leur équipe</em>
+    <em>Une expérience de révision créative transparente pour les concepteurs et les membres de leur équipe</em>
     <br>
   </td>
   <td>
     <a href="indesign.md#tutorial3">
-        <img alt="Importer les commentaires PDF d’une révision de Document Cloud" src="../assets/indesign_pdfcomments_murphy_thumbnail.jpg" />
+        <img alt="Importation de commentaires de PDF à partir d’une révision de Document Cloud" src="../assets/indesign_pdfcomments_murphy_thumbnail.jpg" />
     </a>
     <div>
-    <a href="indesign.md#tutorial3"><strong>Importer les commentaires PDF d’une révision de Document Cloud</strong></a>
+    <a href="indesign.md#tutorial3"><strong>Importation de commentaires de PDF à partir d’une révision de Document Cloud</strong></a>
     </div>
-    <em>Importez des commentaires d’un PDF directement dans InDesign et appliquez rapidement les modifications demandées</em>
+    <em>Importer des commentaires d’un PDF directement dans l’InDesign et appliquer rapidement les modifications demandées</em>
     <br>
   </td>
 </tr>
@@ -61,7 +59,7 @@ L’application de référence pour créer de superbes documents pour l’impres
     <div>
    <a href="indesign.md#tutorial4"><strong>Ajouter un fichier vidéo au document InDesign</strong></a>
     </div>
-    <em>Ajoutez une vidéo à un InDesign. Publication dans un PDF et publication en ligne</em>
+    <em>Ajoutez une vidéo à l’InDesign. Sortie dans le PDF et publication en ligne</em>
     <br>
   </td>
  <td>
@@ -82,37 +80,37 @@ L’application de référence pour créer de superbes documents pour l’impres
 >[!VIDEO](https://video.tv.adobe.com/v/326818?hidetitle=true)
 
 **Description**
-Générer un code QR qui renvoie à un site web.
+Générez un code QR renvoyant à un site web.
 
-Dans ce tutoriel, vous découvrirez comment :
-* Fournir un accès mains libres au contenu web via des appareils mobiles
-* Mettez vos clients en sécurité
-* Avec le numérique, il est facile de maintenir le contenu à jour
+Dans ce tutoriel, vous apprendrez comment :
+* Accès mains libres au contenu web via des appareils mobiles
+* Rassurez vos clients
+* Numérique signifie qu’il est facile de garder le contenu à jour
 
 **Présenté par :**
-Patti Sokol, consultante principale en solutions (médias numériques)
+Patti Sokol, conseillère principale en solutions (médias numériques)
 
-## Partage pour révision depuis l’InDesign (4:04) {#tutorial2}
+## Partager pour révision depuis l’InDesign (4:04) {#tutorial2}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326824?hidetitle=true)
 
 **Description**
-La fonctionnalité Partage d’InDesign pour révision offre une expérience de révision créative encore plus fluide pour les concepteurs et les membres de leur équipe.
+La fonctionnalité Partage d’InDesign pour révision offre une expérience de révision créative encore plus fluide aux designers et aux membres de leur équipe.
 
 Dans ce tutoriel, vous apprendrez à :
-* Lancer une révision directement à partir de l’InDesign sans avoir à créer de PDF
-* Révision et commentaire depuis un navigateur web
-* Centralisez les commentaires de plusieurs parties prenantes.
-* Gérez les commentaires dans l’application afin que les modifications puissent être effectuées immédiatement.
+* Lancer une révision directement depuis l’InDesign sans avoir à créer un PDF
+* Réviser et commenter à partir d’un navigateur web
+* Recueillez les commentaires de plusieurs parties prenantes au même endroit
+* Gérez les commentaires dans l’application où les modifications peuvent être apportées immédiatement.
 
-**PDF de comparaison des options de révision et de commentaire des Adobes**
+**PDF de comparaison des options de commentaire et de révision de l’Adobe**
 
 [![Image de comparaison](../assets/ComparisonPDF_thumbnail_96.png)](../assets/Adobe_Review_and_Comment_Comparisons.pdf)
 
 **Présenté par :**
-Emily Palmer, consultante en solutions (médias numériques)
+Emily Palmer, conseillère en solutions (médias numériques)
 
-## Importer les commentaires PDF d&#39;une révision Document Cloud (4:52) {#tutorial3}
+## Importer les commentaires du PDF d’une révision de Document Cloud (4:52) {#tutorial3}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326959?hidetitle=true)
 
@@ -120,36 +118,36 @@ Emily Palmer, consultante en solutions (médias numériques)
 Importez des commentaires d’un PDF directement dans InDesign et appliquez rapidement les modifications demandées.
 
 Dans ce tutoriel, vous apprendrez à :
-* Prend en charge les workflows de commentaires PDF existants
-* Compatibilité avec les PDF issus de plusieurs sources
+* Prend en charge les workflows de commentaire de PDF existants
+* Fonctionne pour les PDF combinés à partir de plusieurs sources
 
-**PDF de comparaison des options de révision et de commentaire des Adobes**
+**PDF de comparaison des options de commentaire et de révision de l’Adobe**
 
 [![Image de comparaison](../assets/ComparisonPDF_thumbnail_96.png)](../assets/Adobe_Review_and_Comment_Comparisons.pdf)
 
 **Présenté par :**
-Michael Murphy, consultant senior en solutions (médias numériques)
+Michael Murphy, conseiller principal en solutions (médias numériques)
 
 ## Ajouter un fichier vidéo au document InDesign (5:58) {#tutorial4}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326757?hidetitle=true)
 
 **Description**
-Ajoutez une vidéo à un InDesign. Publication dans un PDF et publication en ligne.
+Ajoutez une vidéo à l’InDesign. Sortie dans le PDF et publication en ligne.
 
 Dans ce tutoriel, vous apprendrez à :
 * Ajouter une vidéo à l’InDesign
-* Publication dans un PDF et publication en ligne
+* Sortie dans le PDF et publication en ligne
 
 **Présenté par :**
-Patti Sokol, consultante principale en solutions (médias numériques)
+Patti Sokol, conseillère principale en solutions (médias numériques)
 
-![InDesignLogo](../assets/id_appicon_96.png)
+![Logo InDesign](../assets/id_appicon_96.png)
 
-**Ressources InDesigns**
+**Ressources InDesign**
 
-[Formation et support](https://helpx.adobe.com/support/indesign.html) est votre centre de tutoriels supplémentaires, [Nouveautés de la version](https://helpx.adobe.com/indesign/user-guide.html/indesign/using/whats-new.ug.html)et des liens vers des forums communautaires.
+[Formation et assistance](https://helpx.adobe.com/support/indesign.html) est votre point de référence pour les tutoriels supplémentaires, [Nouveautés](https://helpx.adobe.com/indesign/user-guide.html/indesign/using/whats-new.ug.html)et des liens vers les forums de la communauté.
 
 **Version d’octobre 2020**
 
-Commencez à utiliser ces fonctionnalités (et bien plus encore !) en téléchargeant la dernière mise à jour depuis l’application pour postes de travail de votre Creative Cloud.
+Commencez à utiliser ces fonctionnalités (et bien plus encore !) en téléchargeant la dernière mise à jour depuis l’application de bureau Creative Cloud.

@@ -1,35 +1,33 @@
 ---
 title: Capture
-description: Adobe [!DNL Capture] transforme les smartphones et les tablettes en collection de design
+description: Adobe [!DNL Capture] transforme les téléphones mobiles et les tablettes en un outil de collection de conception
 feature: Graphic Design
 role: User
 level: Beginner, Intermediate
 exl-id: dcd379c5-3f60-4056-9d60-589890d4de66
-source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
+source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
 workflow-type: tm+mt
-source-wordcount: '199'
+source-wordcount: '196'
 ht-degree: 1%
 
 ---
 
 # [!DNL Capture]
 
-![Image de héros du tutoriel](../assets/Capture.jpg)
+Adobe [!DNL Capture] transforme les téléphones mobiles et les tablettes en un outil de collection de conception. Les utilisateurs peuvent créer de nombreux types d’actifs différents (éléments numériques individuels pour les illustrations).   Ces ressources se synchronisent automatiquement avec les autres applications pour Adobes mobiles et de bureau. Les utilisateurs peuvent les intégrer à leurs projets créatifs ou les partager facilement avec leurs collaborateurs.
 
-Adobe [!DNL Capture] transforme les smartphones et les tablettes en collection de design. Les utilisateurs peuvent créer différents types d’actifs (éléments numériques individuels pour les illustrations).   Ces actifs sont automatiquement synchronisés avec d’autres applications pour postes de travail et Adobes mobiles. Les utilisateurs peuvent les importer dans leurs projets créatifs ou facilement les partager avec des collaborateurs.
-
-## Parcourir les Tutorials de produits
+## Parcourir les Tutorials de produit
 
 <table style="table-layout:fixed">
 <tr>
  <td>
    <a href="capture.md#tutorial1">
-      <img alt="Trouvez l&apos;inspiration dans le monde qui vous entoure" src="../assets/capture_palmer_thumbnail.jpg" />
+      <img alt="Capturez l’inspiration du monde qui vous entoure" src="../assets/capture_palmer_thumbnail.jpg" />
    </a>
     <div>
-   <a href="capture.md#tutorial1"><strong>Trouvez l'inspiration dans le monde qui vous entoure</strong></a>
+   <a href="capture.md#tutorial1"><strong>Capturez l’inspiration du monde qui vous entoure</strong></a>
     </div>
-    <em>Tirez parti des puissants outils de sélection et de modification des couleurs d'Adobe Capture pour transformer radicalement une image afin de l'adapter à l'image de votre entreprise</em>
+    <em>Utilisez les puissants outils de sélection et de modification des couleurs d’Adobe Capture pour modifier radicalement une image afin qu’elle corresponde aux besoins de votre marque d’entreprise</em>
     <br>
   </td>
   <td>
@@ -45,27 +43,27 @@ Adobe [!DNL Capture] transforme les smartphones et les tablettes en collection d
 </tr>
 </table>
 
-## Trouvez l&#39;inspiration dans le monde qui vous entoure (2:56) {#tutorial1}
+## Capturer l&#39;inspiration du monde qui vous entoure (2:56) {#tutorial1}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326825?hidetitle=true)
 
 **Description**
-Transformez des images et vidéos sur votre appareil mobile en ressources de création pour tous vos designs.
+Transformez des images et des vidéos sur votre appareil mobile en composantes créatives pour toutes vos conceptions.
 
 Dans ce tutoriel, vous apprendrez à :
 * Design Anywhere
-* Intégration avec les applications de bureau via les bibliothèques CC
-* Accédez à des milliers d’Adobe Fonts
+* Intégration avec les applications pour ordinateur via les bibliothèques CC
+* Accéder à des milliers d’Adobe Fonts
 
 **Présenté par :**
-Emily Palmer, consultante en solutions (médias numériques)
+Emily Palmer, conseillère en solutions (médias numériques)
 
 ![Logo Capture](../assets/ca_appicon_96.png)
 
 **[!DNL Capture]Ressources**
 
-[Formation et support](https://helpx.adobe.com/mobile-apps/help/capture-faq.html) est votre centre d’informations pour d’autres tutoriels et liens vers les forums de la communauté.
+[Formation et assistance](https://helpx.adobe.com/mobile-apps/help/capture-faq.html) est votre point de référence pour les tutoriels supplémentaires et les liens vers les forums de la communauté.
 
 **Version d’octobre 2020**
 
-Commencez à utiliser ces fonctionnalités (et bien plus encore !) en téléchargeant la dernière mise à jour depuis l’application pour postes de travail de votre Creative Cloud.
+Commencez à utiliser ces fonctionnalités (et bien plus encore !) en téléchargeant la dernière mise à jour depuis l’application de bureau Creative Cloud.

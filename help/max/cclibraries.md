@@ -1,24 +1,22 @@
 ---
 title: Bibliothèques CC
-description: Gardez vos ressources à portée de main et préservez la cohérence de marque dans vos projets
+description: Gardez vos ressources à portée de main et vos projets en accord avec la marque
 feature: Integrations
 role: User
 level: Beginner, Intermediate
 exl-id: e68a8d5b-3dca-4ac8-87d1-b31dbe0e13ce
-source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
+source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
 workflow-type: tm+mt
-source-wordcount: '237'
+source-wordcount: '234'
 ht-degree: 3%
 
 ---
 
 # Bibliothèques CC
 
-![Image de héros du tutoriel](../assets/CCLibs.jpg)
+Gardez vos ressources à portée de main et vos projets en accord avec la marque.
 
-Gardez vos ressources à portée de main et préservez la cohérence de marque dans vos projets.
-
-## Parcourir les Tutorials de produits
+## Parcourir les Tutorials de produit
 
 <table style="table-layout:fixed">
 <tr>
@@ -29,7 +27,7 @@ Gardez vos ressources à portée de main et préservez la cohérence de marque d
     <div>
    <a href="cclibraries.md#tutorial1"><strong>Création de bibliothèques CC</strong></a>
     </div>
-    <em>Les bibliothèques Adobe Creative Cloud vous permettent de gérer et d’organiser vos logos, couleurs et autres depuis vos applications de Creative Cloud préférées, et d’y accéder</em>
+    <em>Les bibliothèques Adobe Creative Cloud vous permettent de gérer, d’organiser et d’accéder à vos logos, couleurs et autres éléments dans vos applications de Creative Cloud préférées</em>
     <br>
   </td>
    <td>
@@ -39,7 +37,7 @@ Gardez vos ressources à portée de main et préservez la cohérence de marque d
     <div>
    <a href="cclibraries.md#tutorial2"><strong>Partage de bibliothèques CC</strong></a>
     </div>
-    <em>Gagnez en efficacité, garantissez une cohérence créative et restez en phase avec votre équipe</em>
+    <em>Travaillez plus efficacement, assurez une cohérence créative et restez facilement synchronisé avec votre équipe</em>
     <br>
   </td>
   <td>
@@ -50,40 +48,40 @@ Gardez vos ressources à portée de main et préservez la cohérence de marque d
 </tr>
 </table>
 
-## Création de bibliothèques CC (4:38) {#tutorial1}
+## Créer des bibliothèques CC (4:38) {#tutorial1}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326802?hidetitle=true)
 
 **Description**
-Les bibliothèques Adobe Creative Cloud vous permettent de gérer et d’organiser vos logos, couleurs et autres depuis vos applications de Creative Cloud préférées, et d’y accéder.
+Les bibliothèques Adobe Creative Cloud vous permettent de gérer, d’organiser et d’accéder à vos logos, couleurs et autres éléments dans vos applications de Creative Cloud préférées.
 
 Dans ce tutoriel, vous apprendrez à :
-* Gardez vos ressources à portée de main et préservez la cohérence de marque dans vos projets
-* Nouveau ! Intégration complète avec Adobe XD
+* Gardez vos ressources à portée de main et vos projets en accord avec la marque
+* Nouveau ! Intégration complète à Adobe XD
 
 **Présenté par :**
-Ashley Dvorin, consultante senior en solutions (médias numériques)
+Ashley Dvorin, conseillère principale en solutions (médias numériques)
 
-## Partage de bibliothèques CC (4:14) {#tutorial2}
+## Partager des bibliothèques CC (4:14) {#tutorial2}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326803?hidetitle=true)
 
 **Description**
-Gagnez en efficacité, garantissez une cohérence créative et restez en phase avec votre équipe.
+Travaillez plus efficacement, assurez une cohérence créative et restez facilement synchronisé avec votre équipe.
 
 Dans ce tutoriel, vous apprendrez à :
-* Gardez vos ressources à portée de main et préservez la cohérence de marque dans vos projets
-* Collaborez facilement sur des projets directement depuis vos applications préférées
+* Gardez vos ressources à portée de main et vos projets en accord avec la marque
+* Collaborez facilement sur des projets directement à partir de vos applications préférées
 
 **Présenté par :**
-Ashley Dvorin, consultante senior en solutions (médias numériques)
+Ashley Dvorin, conseillère principale en solutions (médias numériques)
 
-![Logo Bibliothèques CC](../assets/cc_appicon_96.png)
+![Logo des Bibliothèques CC](../assets/cc_appicon_96.png)
 
 **Ressources des bibliothèques CC**
 
-[Formation et support](https://helpx.adobe.com/creative-cloud/help/libraries.html) est votre centre d’accueil pour d’autres tutoriels, les nouveautés et des liens vers les forums de la communauté.
+[Formation et assistance](https://helpx.adobe.com/creative-cloud/help/libraries.html) est votre point de référence pour les tutoriels supplémentaires, les Nouveautés et les liens vers les forums de la communauté.
 
 **Version d’octobre 2020**
 
-Commencez à utiliser ces fonctionnalités (et bien plus encore !) en téléchargeant la dernière mise à jour depuis l’application pour postes de travail de votre Creative Cloud.
+Commencez à utiliser ces fonctionnalités (et bien plus encore !) en téléchargeant la dernière mise à jour depuis l’application de bureau Creative Cloud.

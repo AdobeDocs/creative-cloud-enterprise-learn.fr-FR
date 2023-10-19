@@ -6,16 +6,14 @@ role: User
 level: Beginner
 jira: KT-13379
 exl-id: 3c4244db-f46d-4682-ac5a-f1dd075bf15c
-source-git-commit: 2c53f3fceed8a46bc9d1330ac95bc17f6ecd19de
+source-git-commit: c54f203aa1e3dddbfd973b1cc668b56b7f54d9b1
 workflow-type: tm+mt
-source-wordcount: '105'
+source-wordcount: '102'
 ht-degree: 1%
 
 ---
 
 # Adobe [!DNL Firefly] présentation
-
-![Image du héros Firefly](../assets/firefly.png)
 
 Firefly est la nouvelle famille de modèles d’IA générative créative destinée aux produits Adobes. Elle se concentre initialement sur la génération d’effets d’image et de texte. Firefly offre de nouvelles façons d’idéaliser, de créer et de communiquer, tout en améliorant considérablement les workflows créatifs.
 

@@ -5,16 +5,14 @@ role: Admin
 level: Beginner, Intermediate
 feature: Deploy
 exl-id: 9533fb1f-a2cc-4c06-b701-67c75a60dbaf
-source-git-commit: f17ea20ac8623dae0c681753b4bde250a1c9b06e
+source-git-commit: c54f203aa1e3dddbfd973b1cc668b56b7f54d9b1
 workflow-type: tm+mt
-source-wordcount: '130'
-ht-degree: 14%
+source-wordcount: '126'
+ht-degree: 15%
 
 ---
 
 # Déploiement et gestion des rubriques de Creative Cloud abonnement Entreprise
-
-![Image du héros Creative Cloud](../assets/CCEbanner.png)
 
 Creative Cloud abonnement Entreprise prend en charge les déploiements personnalisés, ainsi que la gestion équilibrée et flexible des licences. Cette formule est compatible avec d’autres offres Adobe destinées aux entreprises.
 

@@ -6,16 +6,14 @@ role: User
 level: Beginner, Intermediate
 jira: KT-7013
 exl-id: 5c981e46-7599-4b49-99be-f5dcee60636d
-source-git-commit: 245f753d62fe83e76fad6e1d7c3d820a5550464a
+source-git-commit: c54f203aa1e3dddbfd973b1cc668b56b7f54d9b1
 workflow-type: tm+mt
-source-wordcount: '1194'
+source-wordcount: '1190'
 ht-degree: 0%
 
 ---
 
 # guides de référence rapide Creative Cloud abonnement Entreprise
-
-![Image du héros Creative Cloud](../assets/CCEbanner.png)
 
 En tant que créatif d’entreprise, vous devez collaborer avec des équipes distribuées, établir des processus évolutifs et vous conformer aux systèmes et aux directives de l’entreprise. Ces guides de référence rapide (PDF) vous aident à découvrir les nouvelles fonctionnalités du Creative Cloud.
 

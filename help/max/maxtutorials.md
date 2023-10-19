@@ -5,16 +5,14 @@ feature: 3D, Graphic Design, Image Editing, Workspace, Collaboration, Integratio
 role: User
 level: Beginner, Intermediate
 exl-id: e27874b7-ba02-46b7-a5e4-fe2485d9c148
-source-git-commit: f17ea20ac8623dae0c681753b4bde250a1c9b06e
+source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
 workflow-type: tm+mt
-source-wordcount: '322'
-ht-degree: 23%
+source-wordcount: '319'
+ht-degree: 24%
 
 ---
 
 # Tutoriels
-
-![Image principale max. 2020](../assets/MAX.jpg)
 
 En tant que créatif d’entreprise, vous devez collaborer avec des équipes distribuées, établir des processus évolutifs et vous conformer aux systèmes et directives de l’entreprise. Ces tutoriels vous aideront à découvrir les nouvelles fonctionnalités de la version 2021 de Creative Cloud, du point de vue de l’entreprise.
 

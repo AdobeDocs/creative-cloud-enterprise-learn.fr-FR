@@ -1,35 +1,33 @@
 ---
 title: XD
-description: Adobe XD est un outil de design et de prototypage d'expérience utilisateur qui permet de concevoir des sites web, des applications, des interfaces vocales, des jeux et d'autres types d'expériences numériques
+description: Adobe XD est un outil de conception et de prototypage d’expérience utilisateur permettant de concevoir des sites web, des applications, des interfaces vocales, des jeux et d’autres types d’expériences numériques
 feature: UI Design
 role: User
 level: Beginner, Intermediate
 exl-id: 89b621a6-083c-4e1b-b23a-f4ba73e6755f
-source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
+source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
 workflow-type: tm+mt
-source-wordcount: '712'
+source-wordcount: '709'
 ht-degree: 0%
 
 ---
 
 # XD
 
-![Image de héros du tutoriel](../assets/XD.jpg)
+Adobe XD est un outil de conception et de prototypage d’expérience utilisateur permettant de concevoir des sites web, des applications, des interfaces vocales, des jeux et d’autres types d’expériences numériques.
 
-Adobe XD est un outil de design et de prototypage d&#39;expérience utilisateur qui permet de concevoir des sites web, des applications, des interfaces vocales, des jeux et d&#39;autres types d&#39;expériences numériques.
-
-## Parcourir les Tutorials de produits
+## Parcourir les Tutorials de produit
 
 <table style="table-layout:fixed">
 <tr>
  <td>
    <a href="xd.md#tutorial1">
-      <img alt="Créer des composants avec états de survol" src="../assets/Xd_hoverstates_components_thumbnail.jpg" />
+      <img alt="Création de composants avec des états de survol" src="../assets/Xd_hoverstates_components_thumbnail.jpg" />
    </a>
     <div>
-   <a href="xd.md#tutorial1"><strong>Créer des composants avec états de survol</strong></a>
+   <a href="xd.md#tutorial1"><strong>Création de composants avec des états de survol</strong></a>
     </div>
-    <em>Créez des boutons réutilisables et redimensionnables dynamiquement pour vos conceptions interactives</em>
+    <em>Création de boutons réutilisables et redimensionnables dynamiquement pour vos conceptions interactives</em>
     <br>
   </td>
   <td>
@@ -39,7 +37,7 @@ Adobe XD est un outil de design et de prototypage d&#39;expérience utilisateur 
     <div>
     <a href="xd.md#tutorial2"><strong>Création et remplissage d’une grille de répétition</strong></a>
     </div>
-    <em>Transformez un seul élément en grilles répétées d’un simple clic et glissement</em>
+    <em>Transformez un élément unique en grilles répétées d’un simple clic et glisser-déposer</em>
     <br>
   </td>
   <td>
@@ -49,7 +47,7 @@ Adobe XD est un outil de design et de prototypage d&#39;expérience utilisateur 
     <div>
     <a href="xd.md#tutorial3"><strong>Utilisation des piles</strong></a>
     </div>
-    <em>Utilisez la propriété de pile pour réorganiser facilement les éléments</em>
+    <em>Utilisation de la propriété stack pour réorganiser facilement les éléments</em>
     <br>
   </td>
 </tr>
@@ -61,27 +59,27 @@ Adobe XD est un outil de design et de prototypage d&#39;expérience utilisateur 
     <div>
     <a href="xd.md#tutorial4"><strong>Créer un prototype : liens d’ancrage et groupes de défilement</strong></a>
     </div>
-    <em>Ajout de la navigation et du défilement à un prototype</em>
+    <em>Ajout de fonctions de navigation et de défilement à un prototype</em>
     <br>
   </td>
   <td>
     <a href="xd.md#tutorial5">
-        <img alt="Création d’un prototype : états des composants interactifs" src="../assets/XD_interactiveprototypes_enke.jpg" />
+        <img alt="Création d’un prototype : états de composant interactif" src="../assets/XD_interactiveprototypes_enke.jpg" />
     </a>
     <div>
-    <a href="xd.md#tutorial5"><strong>Création d’un prototype : états des composants interactifs</strong></a>
+    <a href="xd.md#tutorial5"><strong>Création d’un prototype : états de composant interactif</strong></a>
     </div>
-    <em>Ajout d’interactivité et d’un menu d’incrustation à un prototype</em>
+    <em>Ajouter de l’interactivité et un menu d’incrustation à un prototype</em>
     <br>
   </td>
   <td>
    <a href="xd.md#tutorial6">
-      <img alt="E-mail - Créer et remplir une grille de répétition" src="../assets/xd_repeat_torres.jpg" />
+      <img alt="E-mail : créer et remplir une grille de répétition" src="../assets/xd_repeat_torres.jpg" />
    </a>
     <div>
-   <a href="xd.md#tutorial7"><strong>E-mail - Créer et remplir une grille de répétition</strong></a>
+   <a href="xd.md#tutorial7"><strong>E-mail : créer et remplir une grille de répétition</strong></a>
     </div>
-    <em>Transformez un seul élément en grilles répétées d’un simple clic et glissement</em>
+    <em>Transformez un élément unique en grilles répétées d’un simple clic et glisser-déposer</em>
     <br>
   </td>
 </tr>
@@ -93,7 +91,7 @@ Adobe XD est un outil de design et de prototypage d&#39;expérience utilisateur 
     <div>
     <a href="xd.md#tutorial7"><strong>E-mail - Utilisation des piles</strong></a>
     </div>
-    <em>Utilisez la propriété de pile pour réorganiser facilement les éléments</em>
+    <em>Utilisation de la propriété stack pour réorganiser facilement les éléments</em>
     <br>
   </td>
   <td>
@@ -109,34 +107,34 @@ Adobe XD est un outil de design et de prototypage d&#39;expérience utilisateur 
 </tr>
 </table>
 
-## Créer [!UICONTROL Composants] avec les états de survol (7:35) {#tutorial1}
+## Créer [!UICONTROL Composants] avec États de survol (7:35) {#tutorial1}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326874?hidetitle=true)
 
 **Description**
-Créez des boutons réutilisables et redimensionnables dynamiquement pour vos designs interactifs.
+Créez des boutons réutilisables et redimensionnables dynamiquement pour vos conceptions interactives.
 
 Dans ce tutoriel, vous apprendrez à :
-* Apportez des modifications à un composant principal source et ces modifications sont automatiquement appliquées à toutes les instances de ce composant
-* Utilisation de composants pour gagner du temps, réduire le nombre de clics et assurer la cohérence
+* Apportez des modifications à un composant principal source et ces modifications sont automatiquement transmises à toutes les instances de ce composant
+* Utilisez des composants pour plus de cohérence, gagner du temps et éviter les clics
 
 **Présenté par :**
-Michael Murphy, consultant senior en solutions (médias numériques)
+Michael Murphy, conseiller principal en solutions (médias numériques)
 
-## Création et remplissage d’une grille de répétition (2:57) {#tutorial2}
+## Créer et remplir une grille de répétition (2:57) {#tutorial2}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326955?hidetitle=true)
 
 **Description**
-Transformez un seul élément en grilles répétitives d’un simple clic et glissement.
+Transformez un élément unique en grilles répétées d’un simple clic et glisser-déposer.
 
 Dans ce tutoriel, vous apprendrez à :
-* Dynamisez votre workflow et déposez instantanément la grille dont vous avez besoin
-* Importez du contenu réel et des données. XD placera toutes les images et le texte sur votre grille comme par magie
-* Effectuez des modifications une fois et appliquez-les où vous voulez, dans n’importe quelle direction
+* Dynamisez votre workflow et faites glisser instantanément toute grille dimensionnée dont vous avez besoin
+* Importez du contenu et des données réels et XD placera comme par magie toutes les images et le texte sur votre grille
+* Apportez les modifications une seule fois et appliquez-les où vous le souhaitez, dans n’importe quelle direction
 
 **Présenté par :**
-Ashley Dvorin, consultante senior en solutions (médias numériques)
+Ashley Dvorin, conseillère principale en solutions (médias numériques)
 
 ## Utilisation des piles (5:33) {#tutorial3}
 
@@ -146,13 +144,13 @@ Ashley Dvorin, consultante senior en solutions (médias numériques)
 Utilisez la propriété stack pour réorganiser facilement les éléments.
 
 Dans ce tutoriel, vous apprendrez à :
-* Conservez l’alignement et l’espacement entre les objets sur votre zone de travail même si votre conception change
-* Insérez de nouveaux objets ou empilez-les autrement : l’ajustement est automatique
+* Maintenez l’alignement et l’espacement entre les objets de votre zone de travail même lorsque votre conception change
+* Insérez de nouveaux objets ou réorganisez les objets dans une pile et tout s’ajuste automatiquement
 
 **Présenté par :**
-Michael Murphy, consultant senior en solutions (médias numériques)
+Michael Murphy, conseiller principal en solutions (médias numériques)
 
-## Création d’un prototype - Ancrage de liens et défilement de groupes (9:55) {#tutorial4}
+## Créer un prototype : liens d’ancrage et groupes de défilement (9:55) {#tutorial4}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326957?hidetitle=true)
 
@@ -160,14 +158,14 @@ Michael Murphy, consultant senior en solutions (médias numériques)
 Ajoutez la navigation et le défilement à un prototype.
 
 Dans ce tutoriel, vous apprendrez à :
-* Ajoutez des liens dans vos prototypes avec une action permettant aux utilisateurs de sauter d’un point à l’autre au sein d’un même plan de travail
-* Créez des flux d’activités, des carrousels d’images, des listes de produits et plus encore en définissant des zones de défilement indépendantes du reste de vos designs
-* Création de groupes avec défilement vertical et/ou horizontal
+* Ajoutez des liens vers vos prototypes grâce à une action qui permet aux utilisateurs de sauter à différents points d’un même plan de travail
+* Créez des flux d’activités, des carrousels d’images, des listes de produits et plus encore en définissant des zones qui défilent indépendamment du reste de vos conceptions
+* Créer des groupes qui défilent verticalement, horizontalement ou les deux
 
 **Présenté par :**
-Michael Murphy, consultant senior en solutions (médias numériques)
+Michael Murphy, conseiller principal en solutions (médias numériques)
 
-## Create a Prototype—Interactive Component States (8:55, disponible en anglais uniquement) {#tutorial5}
+## Créer un prototype - États de composant interactif (8:55) {#tutorial5}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326958?hidetitle=true)
 
@@ -175,26 +173,26 @@ Michael Murphy, consultant senior en solutions (médias numériques)
 Ajoutez de l’interactivité et un menu d’incrustation à un prototype.
 
 Dans ce tutoriel, vous apprendrez à :
-* Créez une expérience utilisateur interactive et animée non linéaire sans plans de travail supplémentaires
-* Créez plusieurs flux de prototypage ou d’interaction dans un seul document XD et publiez des liens partageables uniques pour chaque flux
+* Créez une expérience utilisateur interactive et animée non linéaire sans avoir besoin de plans de travail supplémentaires
+* Créer plusieurs flux de prototypes ou d’interactions dans un seul document XD et publier des liens partageables uniques pour chaque flux
 
 **Présenté par :**
-Emilie Enke, consultante associée en solutions (médias numériques)
+Emilie Enke, conseillère en solutions associées (médias numériques)
 
-## Email - Create and Populate a Repeat Grid (4:45, disponible en anglais uniquement) {#tutorial6}
+## E-mail : créer et remplir une grille de répétition (4:45) {#tutorial6}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326775?hidetitle=true)
 
 **Description**
-Transformez un seul élément en grilles répétitives d’un simple clic et glissement.
+Transformez un élément unique en grilles répétées d’un simple clic et glisser-déposer.
 
 Dans ce tutoriel, vous apprendrez à :
-* Dynamisez votre workflow et déposez instantanément la grille dont vous avez besoin
-* Importez du contenu réel et des données. XD placera toutes les images et le texte sur votre grille comme par magie
-* Effectuez des modifications une fois et appliquez-les où vous voulez, dans n’importe quelle direction
+* Dynamisez votre workflow et faites glisser instantanément toute grille dimensionnée dont vous avez besoin
+* Importez du contenu et des données réels et XD placera comme par magie toutes les images et le texte sur votre grille
+* Apportez les modifications une seule fois et appliquez-les où vous le souhaitez, dans n’importe quelle direction
 
 **Présenté par :**
-Victoria Torres, consultante en solutions (médias numériques)
+Victoria Torres, conseillère en solutions (médias numériques)
 
 ## E-mail - Utilisation des piles (3:38) {#tutorial7}
 
@@ -204,18 +202,18 @@ Victoria Torres, consultante en solutions (médias numériques)
 Utilisez la propriété stack pour réorganiser facilement les éléments.
 
 Dans ce tutoriel, vous apprendrez à :
-* Conservez l’alignement et l’espacement entre les objets sur votre zone de travail même si votre conception change
-* Insérez de nouveaux objets ou empilez-les autrement : l’ajustement est automatique
+* Maintenez l’alignement et l’espacement entre les objets de votre zone de travail même lorsque votre conception change
+* Insérez de nouveaux objets ou réorganisez les objets dans une pile et tout s’ajuste automatiquement
 
 **Présenté par :**
-Victoria Torres, consultante en solutions (médias numériques)
+Victoria Torres, conseillère en solutions (médias numériques)
 
 ![Logo XD](../assets/xd_appicon_96.png)
 
 **Ressources XD**
 
-[Formation et support](https://helpx.adobe.com/support/xd.html) est votre centre de tutoriels supplémentaires, [Nouveautés de la version](https://helpx.adobe.com/xd/user-guide.html/xd/help/whats-new.ug.html)et des liens vers des forums communautaires.
+[Formation et assistance](https://helpx.adobe.com/support/xd.html) est votre point de référence pour les tutoriels supplémentaires, [Nouveautés](https://helpx.adobe.com/xd/user-guide.html/xd/help/whats-new.ug.html)et des liens vers les forums de la communauté.
 
 **Version d’octobre 2020**
 
-Commencez à utiliser ces fonctionnalités (et bien plus encore !) en téléchargeant la dernière mise à jour depuis l’application pour postes de travail de votre Creative Cloud.
+Commencez à utiliser ces fonctionnalités (et bien plus encore !) en téléchargeant la dernière mise à jour depuis l’application de bureau Creative Cloud.
