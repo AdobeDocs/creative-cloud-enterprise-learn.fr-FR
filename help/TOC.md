@@ -8,9 +8,9 @@ feature: Graphic Design, Image Editing, Vector Editing, UI Design, Licensable As
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: 7c07e7b6ae9668e6bb86799f41e735414d4f4ca7
+source-git-commit: 1e0bf73f3f6aa0ea96cb15d26fb31ec1a48f2d79
 workflow-type: tm+mt
-source-wordcount: '588'
+source-wordcount: '602'
 ht-degree: 5%
 
 ---
@@ -48,13 +48,16 @@ ht-degree: 5%
       + [Comment ajouter du texte](express/text-effects.md)
       + [Comment ajouter une image](express/image-effects.md)
       + [Ajout d’une image de la génération AI](express/add-gen-ai-image.md)
+      + [Comment utiliser les grilles](express/grids.md)
+      + [Utilisation des éléments](express/add-design-assets.md)
+      + [Utilisation des calques et des plans de travail](express/layers.md)
+      + [Comment collaborer](express/collaborate.md)
+      + [Partage et téléchargement](express/share.md)
+      + [Comment utiliser l’historique des versions](express/version-history.md)
       + [Planifier des publications pour les réseaux sociaux](express/schedule.md)
-      + [Inviter des collaborateurs au projet](express/collaborate.md)
       + [Trouvez rapidement l’inspiration](express/get-inspiration.md)
       + [Création de modèles](express/create-templates.md)
-      + [Ajout de ressources de design](express/add-design-assets.md)
       + [Associer des objets](express/group-objects.md)
-      + [Sélection et déplacement de calques](express/layers.md)
       + [Création de plusieurs pages](express/multiple-pages.md)
       + [Annuler et rétablir](express/undo-redo.md)
       + [Utilisation des bibliothèques CC](express/cc-libraries.md)

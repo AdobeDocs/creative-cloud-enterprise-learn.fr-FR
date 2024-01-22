@@ -1,19 +1,20 @@
 ---
-title: Ajout De Ressources De Conception
-description: Découvrez comment personnaliser les autocollants et les publications Instagram
+title: Utilisation des éléments
+description: Apprenez à ajouter des éléments de design visuel à vos projets pour les rendre plus attrayants et attrayants
 feature: Graphic Design
 role: User
 level: Beginner
-exl-id: fbbc0591-c29b-4222-8d11-c95c600d4f62
-source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
+jira: KT-14827
+exl-id: a432839d-443c-4ae9-9d71-f8c6883151cd
+source-git-commit: 1e0bf73f3f6aa0ea96cb15d26fb31ec1a48f2d79
 workflow-type: tm+mt
-source-wordcount: '22'
+source-wordcount: '40'
 ht-degree: 0%
 
 ---
 
-# Ajout de ressources de création
+# Utilisation des éléments
 
-Découvrez comment personnaliser les autocollants et les publications Instagram.
+Apprenez à ajouter des éléments de design visuel à vos projets pour les rendre plus attrayants et attrayants.
 
->[!VIDEO](https://video.tv.adobe.com/v/3420226?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3426935?quality=12&learn=on&hidetitle=true)
