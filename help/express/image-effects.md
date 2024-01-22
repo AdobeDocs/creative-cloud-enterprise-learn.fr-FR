@@ -1,19 +1,20 @@
 ---
-title: Comment ajouter des effets et des réglages à une photo
-description: Découvrez les possibilités infinies en ajoutant des effets et des réglages photo
+title: Comment ajouter une image
+description: Découvrez les possibilités infinies en ajoutant des effets et des réglages d’image
 feature: Image Editing
 role: User
 level: Beginner
+jira: KT-13411
 exl-id: d048d1ce-9f87-4257-a3a2-eeb56232c8f8
-source-git-commit: c5da6a77534492307cd58cf44cac651e98018b81
+source-git-commit: 6324cb0dce5ba7278f1e9a92090d87c2f75f4cf9
 workflow-type: tm+mt
-source-wordcount: '38'
+source-wordcount: '37'
 ht-degree: 0%
 
 ---
 
-# Comment ajouter des effets et des réglages à une photo
+# Comment ajouter une image
 
-Découvrez comment ajouter des effets et des réglages à une photo.
+Découvrez les différentes façons d’ajouter une image et des effets d’image à vos projets créatifs.
 
->[!VIDEO](https://video.tv.adobe.com/v/3423770?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3420226?quality=12&learn=on&hidetitle=true)

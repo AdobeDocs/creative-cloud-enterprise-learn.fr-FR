@@ -8,9 +8,9 @@ feature: Graphic Design, Image Editing, Vector Editing, UI Design, Licensable As
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: 640c9ff5155574286e24e57b7d7644a0a303c529
+source-git-commit: 7c07e7b6ae9668e6bb86799f41e735414d4f4ca7
 workflow-type: tm+mt
-source-wordcount: '579'
+source-wordcount: '588'
 ht-degree: 5%
 
 ---
@@ -42,6 +42,12 @@ ht-degree: 5%
       + [Contenu de la page d’accueil](express/get-started.md)
       + [Présentation des actions rapides](express/quick-actions.md)
       + [Présentation des modèles](express/introduction-templates.md)
+      + [Configuration d’un kit de marque](express/brand.md)
+      + [Démarrage d’un projet](express/new-project.md)
+      + [UX d’un projet](express/workspace.md)
+      + [Comment ajouter du texte](express/text-effects.md)
+      + [Comment ajouter une image](express/image-effects.md)
+      + [Ajout d’une image de la génération AI](express/add-gen-ai-image.md)
       + [Planifier des publications pour les réseaux sociaux](express/schedule.md)
       + [Inviter des collaborateurs au projet](express/collaborate.md)
       + [Trouvez rapidement l’inspiration](express/get-inspiration.md)
@@ -52,12 +58,9 @@ ht-degree: 5%
       + [Création de plusieurs pages](express/multiple-pages.md)
       + [Annuler et rétablir](express/undo-redo.md)
       + [Utilisation des bibliothèques CC](express/cc-libraries.md)
-      + [Appliquer votre marque](express/brand.md)
       + [Intégration de Google Drive](express/google-drive.md)
       + [Suppression d’un arrière-plan d’une photo en un clic](express/remove-background.md)
       + [Amélioration d’un découpage](express/refine-cutout.md)
-      + [Utiliser des effets de texte](express/text-effects.md)
-      + [Comment ajouter des effets et des réglages à une photo](express/image-effects.md)
       + [Création de texte incurvé](express/create-curved-text.md)
    + Tutoriels de cas d’utilisation {#expressusecase}
       + [Présentation](express/overview-express-use-case-tutorials.md)
@@ -65,7 +68,6 @@ ht-degree: 5%
       + [Permettre aux équipes marketing de créer du contenu multicanal](express/multi-channel-marketing-content.md)
       + [Permettre aux équipes distribuées de localiser le contenu](express/localized-marketing-content.md)
       + [Lancez l’idée créative](express/jumpstart-ideation.md)
-      + [Adobe Express pour débutants](express/adobe-express-beginners.md)
       + [Création de contenu de dépliant pour une campagne marketing avec Firefly](express/create-local-marketing.md)
       + [Création de contenu de recrutement et d’intégration avec Firefly](express/create-on-boarding.md)
       + [Création d’affiches pour les réseaux sociaux avec Firefly](express/create-social-posters.md)
