@@ -8,9 +8,9 @@ feature: Graphic Design, Image Editing, Vector Editing, UI Design, Licensable As
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: 1e0bf73f3f6aa0ea96cb15d26fb31ec1a48f2d79
+source-git-commit: 94cf805a26f6e5a127795fb9f145ddd6dc3e06aa
 workflow-type: tm+mt
-source-wordcount: '602'
+source-wordcount: '620'
 ht-degree: 5%
 
 ---
@@ -54,12 +54,16 @@ ht-degree: 5%
       + [Comment collaborer](express/collaborate.md)
       + [Partage et téléchargement](express/share.md)
       + [Comment utiliser l’historique des versions](express/version-history.md)
-      + [Planifier des publications pour les réseaux sociaux](express/schedule.md)
+      + [Annuler et rétablir](express/undo-redo.md)
       + [Trouvez rapidement l’inspiration](express/get-inspiration.md)
+      + [Initiation aux animations](express/intro-animation.md)
+      + [Différents types d’animation](express/different-types-animation.md)
+      + [Modification des paramètres de vos animations](express/tweak-animation.md)
+      + [Quel est le montage chronologique de l’animation ?](express/animation-timeline.md)
+      + [Planifier des publications pour les réseaux sociaux](express/schedule.md)
       + [Création de modèles](express/create-templates.md)
       + [Associer des objets](express/group-objects.md)
       + [Création de plusieurs pages](express/multiple-pages.md)
-      + [Annuler et rétablir](express/undo-redo.md)
       + [Utilisation des bibliothèques CC](express/cc-libraries.md)
       + [Intégration de Google Drive](express/google-drive.md)
       + [Suppression d’un arrière-plan d’une photo en un clic](express/remove-background.md)
