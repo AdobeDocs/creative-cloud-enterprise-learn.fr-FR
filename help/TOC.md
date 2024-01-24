@@ -8,9 +8,9 @@ feature: Graphic Design, Image Editing, Vector Editing, UI Design, Licensable As
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: 94cf805a26f6e5a127795fb9f145ddd6dc3e06aa
+source-git-commit: fcf6d4b5c663d7f03bb53ffc910edf3ef62d68e2
 workflow-type: tm+mt
-source-wordcount: '620'
+source-wordcount: '643'
 ht-degree: 5%
 
 ---
@@ -60,6 +60,11 @@ ht-degree: 5%
       + [Différents types d’animation](express/different-types-animation.md)
       + [Modification des paramètres de vos animations](express/tweak-animation.md)
       + [Quel est le montage chronologique de l’animation ?](express/animation-timeline.md)
+      + [Comment décaler vos animations](express/stagger-animations.md)
+      + [Ajout de sections à votre montage](express/add-sections-animation.md)
+      + [Ajout d’audio à vos animations](express/audio-animation.md)
+      + [Redimensionnement des animations](express/resize-animations.md)
+      + [Exportation de vos animations](express/export-animations.md)
       + [Planifier des publications pour les réseaux sociaux](express/schedule.md)
       + [Création de modèles](express/create-templates.md)
       + [Associer des objets](express/group-objects.md)
