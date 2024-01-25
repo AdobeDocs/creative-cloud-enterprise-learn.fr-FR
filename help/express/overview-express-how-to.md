@@ -6,10 +6,10 @@ role: User
 level: Beginner
 jira: KT-13994
 exl-id: f2cc51b1-b0be-4ca7-9723-92d851250463
-source-git-commit: 825bff22978949e0bb47c6194af4d68f8cb38aa9
+source-git-commit: d1f45cf8f40f601e77ca752e0ac1d369e22db664
 workflow-type: tm+mt
-source-wordcount: '179'
-ht-degree: 2%
+source-wordcount: '235'
+ht-degree: 1%
 
 ---
 
@@ -213,8 +213,52 @@ Commencez à créer des œuvres étonnantes qui se démarquent grâce à l’IA 
 <table style="table-layout:fixed">
 <tr>
    <td>
+         <a href="remove-background.md">
+            <img alt="Suppression de l’arrière-plan d’une image" src="assets/background.png" />
+         </a>
+   </td>
+   <td>
+         <a href="intro-gen-ai.md">
+            <img alt="Quelles sont les nouvelles fonctionnalités d’IA de génération dans Adobe Express ?" src="assets/intro-gen-ai.png" />
+         </a>
+   </td>
+   <td>
+         <a href="object-eraser.md">
+            <img alt="Utilisation de l’outil Gomme d’objet" src="assets/object-eraser.png" />
+         </a>
+   </td>
+   <td>
+         <a href="generative-fill.md">
+            <img alt="Utilisation du remplissage génératif" src="assets/gen-fill.png" />
+         </a>
+   </td>      
+</tr>
+<tr>
+   <td>
+      <a href="gen-text.md">
+         <img alt="Amélioration de la conception de votre texte avec la génération AI" src="assets/text-design.png" />
+      </a>
+   </td>
+   <td>
+      <a href="text-to-template.md">
+         <img alt="Comment utiliser l’IA gén. de texte à modèle" src="assets/text-to-template.png" />
+      </a>
+   </td>
+   <td>
+      <a href="bulk-translate.md">
+         <img alt="Comment traduire en masse votre contenu" src="assets/bulk-translate.png" />
+      </a>
+   </td>
+   <td>
+      <a href="edit-a-pdf.md">
+         <img alt="Modification d’un PDF" src="assets/edit-pdf.png" />
+      </a>
+   </td>
+</tr>
+<tr>
+   <td>
       <a href="schedule.md">
-         <img alt="Planifier des publications pour les réseaux sociaux" src="assets/schedule.png" />
+         <img alt="Utilisation du planificateur pour la publication" src="assets/schedule.png" />
       </a>
    </td>
    <td>
@@ -244,15 +288,15 @@ Commencez à créer des œuvres étonnantes qui se démarquent grâce à l’IA 
          <img alt="Intégration de Google Drive" src="assets/google-drive.png" />
       </a>
   </td>
-   <td>
-         <a href="remove-background.md">
-            <img alt="Supprimer l’arrière-plan" src="assets/background.png" />
-         </a>
-   </td>
   <td>
          <a href="create-curved-text.md">
             <img alt="Création de texte incurvé" src="assets/curved-text.png" />
          </a>
    </td>
+   <td>
+    <img alt="Espaceur" src="../assets/Gray_thumbnail.png" />
+    <div>
+    <br>
+  </td>
 </tr>
 </table>

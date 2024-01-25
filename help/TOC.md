@@ -8,10 +8,10 @@ feature: Graphic Design, Image Editing, Vector Editing, UI Design, Licensable As
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: fcf6d4b5c663d7f03bb53ffc910edf3ef62d68e2
+source-git-commit: e79a55515326070651e6f5180f5f557bc79673c4
 workflow-type: tm+mt
-source-wordcount: '643'
-ht-degree: 5%
+source-wordcount: '689'
+ht-degree: 4%
 
 ---
 
@@ -65,13 +65,20 @@ ht-degree: 5%
       + [Ajout d’audio à vos animations](express/audio-animation.md)
       + [Redimensionnement des animations](express/resize-animations.md)
       + [Exportation de vos animations](express/export-animations.md)
-      + [Planifier des publications pour les réseaux sociaux](express/schedule.md)
+      + [Suppression de l’arrière-plan d’une image](express/remove-background.md)
+      + [Quelles sont les nouvelles fonctionnalités de l’IA de génération dans Adobe Express ?](express/intro-gen-ai.md)
+      + [Utilisation de l’outil Gomme d’objet](express/object-eraser.md)
+      + [Utilisation du remplissage génératif](express/generative-fill.md)
+      + [Amélioration de la conception de votre texte avec la génération AI](express/gen-text.md)
+      + [Comment utiliser l’IA gén. de texte à modèle](express/text-to-template.md)
+      + [Comment traduire en masse votre contenu](express/bulk-translate.md)
+      + [Modification d’un PDF](express/edit-a-pdf.md)
+      + [Utilisation du planificateur pour la publication](express/schedule.md)
       + [Création de modèles](express/create-templates.md)
       + [Associer des objets](express/group-objects.md)
       + [Création de plusieurs pages](express/multiple-pages.md)
       + [Utilisation des bibliothèques CC](express/cc-libraries.md)
       + [Intégration de Google Drive](express/google-drive.md)
-      + [Suppression d’un arrière-plan d’une photo en un clic](express/remove-background.md)
       + [Amélioration d’un découpage](express/refine-cutout.md)
       + [Création de texte incurvé](express/create-curved-text.md)
    + Tutoriels de cas d’utilisation {#expressusecase}
