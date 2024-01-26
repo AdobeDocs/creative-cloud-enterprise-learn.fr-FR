@@ -6,9 +6,9 @@ role: User
 level: Beginner
 jira: KT-13380
 exl-id: 3c144e1a-f823-4551-b705-aa9dbca548f2
-source-git-commit: ec906e9770bb4cba94607e343596e0e91333113d
+source-git-commit: ed42785a0c7eb7643951f9181b0cdca71b1c4467
 workflow-type: tm+mt
-source-wordcount: '77'
+source-wordcount: '72'
 ht-degree: 5%
 
 ---
@@ -29,24 +29,24 @@ Créez des vidéos, des flyers, des CV, des bannières, des logos et d’autres 
       <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/overview-express-how-to.html?#getting-started">
          <img alt="Tutoriels de prise en main" src="assets/get-started.png" />
       </a>
-  </td>
-  <td>
+   </td>
+   <td>
       <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/overview-express-how-to.html#basic-tasks">
          <img alt="Tutoriels sur les tâches de base" src="assets/basic-tasks.png" />
       </a>
-  </td>
-<td>
+   </td>
+   <td>
       <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/overview-express-how-to.html#animation">
          <img alt="Tutoriels d’animation" src="assets/animation.png" />
       </a>
   </td>
-<td>
+   <td>
       <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/overview-express-how-to.html#advanced-tasks">
          <img alt="Tutoriels d’animation" src="assets/advanced-tasks.png" />
       </a>
   </td>
-  </tr>
-  <tr>
+</tr>
+<tr>
   <td>
       <a href="overview-express-use-case-tutorials.md">
          <img alt="Adobe Express - tutoriels de cas d’utilisation" src="assets/use-case-tutorials.png" />
@@ -63,7 +63,7 @@ Créez des vidéos, des flyers, des CV, des bannières, des logos et d’autres 
     <br>
   </td>
   <td>
-    &lt;img alt="Spacer" src="../assets/Gray_thumbnail.png /&gt;"&gt;
+    <img alt="Espaceur" src="../assets/Gray_thumbnail.png" />
     <div>
     <br>
   </td>
