@@ -6,9 +6,9 @@ role: User
 level: Beginner
 jira: KT-13380
 exl-id: 3c144e1a-f823-4551-b705-aa9dbca548f2
-source-git-commit: 35064a3ada3219c9fd28b8f87d3ffa20817f30c0
+source-git-commit: ec906e9770bb4cba94607e343596e0e91333113d
 workflow-type: tm+mt
-source-wordcount: '72'
+source-wordcount: '77'
 ht-degree: 5%
 
 ---
@@ -35,14 +35,14 @@ Créez des vidéos, des flyers, des CV, des bannières, des logos et d’autres 
          <img alt="Tutoriels sur les tâches de base" src="assets/basic-tasks.png" />
       </a>
   </td>
-   <td>
+<td>
       <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/overview-express-how-to.html#animation">
-         <img alt="Tutoriels d’animation" src="assets/advanced-tasks.png" />
+         <img alt="Tutoriels d’animation" src="assets/animation.png" />
       </a>
   </td>
-  <td>
+<td>
       <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/overview-express-how-to.html#advanced-tasks">
-         <img alt="Tutoriels d’animation" src="assets/animation.png" />
+         <img alt="Tutoriels d’animation" src="assets/advanced-tasks.png" />
       </a>
   </td>
   </tr>
@@ -53,17 +53,17 @@ Créez des vidéos, des flyers, des CV, des bannières, des logos et d’autres 
       </a>
    </td>
    <td>
-    <img alt="Espaceur" src="../assets/Whitespacer.png" />
+    <img alt="Espaceur" src="../assets/Gray_thumbnail.png" />
     <div>
     <br>
   </td>
   <td>
-    <img alt="Espaceur" src="../assets/Whitespacer.png" />
+    <img alt="Espaceur" src="../assets/Gray_thumbnail.png" />
     <div>
     <br>
   </td>
   <td>
-    <img alt="Espaceur" src="../assets/Whitespacer.png" />
+    &lt;img alt="Spacer" src="../assets/Gray_thumbnail.png /&gt;"&gt;
     <div>
     <br>
   </td>
