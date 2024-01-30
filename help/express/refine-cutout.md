@@ -1,11 +1,11 @@
 ---
-title: Amélioration d’une découpe
-description: L’arrière-plan supprimé est imparfait ? Apprenez à peaufiner vos découpes
+title: Amélioration d’un découpage
+description: L’arrière-plan supprimé n’est pas parfait ? Apprenez à affiner vos découpages
 feature: Image Editing
 role: User
-level: Beginner
-exl-id: 4beec7df-89e1-43a5-b8cd-8932aeb2d879
-source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
+level: Intermediate
+exl-id: bf9e57a6-ec23-4357-bf35-c8d24276c939
+source-git-commit: 4f03535f48b3ae4dc2b19529c2d96135c5e257ec
 workflow-type: tm+mt
 source-wordcount: '26'
 ht-degree: 0%
@@ -14,6 +14,6 @@ ht-degree: 0%
 
 # Amélioration d’un découpage
 
-L’arrière-plan supprimé est imparfait ? Apprenez à peaufiner vos découpes.
+L’arrière-plan supprimé n’est pas parfait ? Découvrez comment affiner vos découpages.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3420221?quality=12&learn=on&hidetitle=true)

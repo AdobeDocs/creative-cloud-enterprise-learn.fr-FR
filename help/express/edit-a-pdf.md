@@ -2,9 +2,9 @@
 title: Modification d’un PDF
 description: Apprenez à transformer vos PDF statiques et obsolètes en ajoutant du texte, des images, des marques, des couleurs, des animations accrocheuses, etc
 role: User
-level: Beginner
+level: Intermediate
 jira: KT-14852
-source-git-commit: d4290715dc87b65a96942a38d5ab96b76f82d52b
+source-git-commit: 4f03535f48b3ae4dc2b19529c2d96135c5e257ec
 workflow-type: tm+mt
 source-wordcount: '50'
 ht-degree: 0%

@@ -3,10 +3,10 @@ title: Suppression de l’arrière-plan d’une image
 description: Découvrez comment supprimer l’arrière-plan de vos images en un clic
 feature: Image Editing
 role: User
-level: Beginner
+level: Intermediate
 jira: KT-13419
 exl-id: 9e1e95cc-0632-457a-b16c-ad87e89e8447
-source-git-commit: d4290715dc87b65a96942a38d5ab96b76f82d52b
+source-git-commit: dc50e8039fccc85c65fbb6d436ce18f5d90b91f7
 workflow-type: tm+mt
 source-wordcount: '38'
 ht-degree: 0%
