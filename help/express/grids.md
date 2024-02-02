@@ -5,15 +5,15 @@ feature: Graphic Design
 role: User
 level: Beginner
 jira: KT-14826
-source-git-commit: 1e0bf73f3f6aa0ea96cb15d26fb31ec1a48f2d79
+source-git-commit: 409e067ded1abd3bdf5b7bedc7616112b4589a60
 workflow-type: tm+mt
-source-wordcount: '38'
+source-wordcount: '57'
 ht-degree: 0%
 
 ---
 
 # Comment utiliser les grilles
 
-Apprenez à utiliser les grilles pour réaliser des collages photo, des planches d’ambiance et des affiches accrocheuses.
+Apprenez à utiliser les grilles pour réaliser des collages photo, des planches d’ambiance et des affiches accrocheuses. Il existe 40 mises en page à grille différentes que vous pouvez personnaliser avec vos propres images ou photos Adobe Stock.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3426934?quality=12&learn=on&hidetitle=true)

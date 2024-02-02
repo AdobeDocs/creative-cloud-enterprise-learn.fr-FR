@@ -4,15 +4,15 @@ description: Apprenez à transformer vos PDF statiques et obsolètes en ajoutant
 role: User
 level: Intermediate
 jira: KT-14852
-source-git-commit: 4f03535f48b3ae4dc2b19529c2d96135c5e257ec
+source-git-commit: 409e067ded1abd3bdf5b7bedc7616112b4589a60
 workflow-type: tm+mt
-source-wordcount: '50'
+source-wordcount: '71'
 ht-degree: 0%
 
 ---
 
 # Modification d’un PDF
 
-Apprenez à transformer vos PDF statiques et obsolètes en ajoutant du texte, des images, des marques, des couleurs, des animations accrocheuses, etc.
+Apprenez à transformer vos PDF statiques et obsolètes en ajoutant du texte, des images, des marques, des couleurs, des animations accrocheuses, etc. Une fois la modification terminée, vous pouvez télécharger le PDF PDF, le partager ou le convertir dans d’autres formats de fichiers, tels que JPEG.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3427024?quality=12&learn=on&hidetitle=true)
