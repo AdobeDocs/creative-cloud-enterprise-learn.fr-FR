@@ -6,10 +6,10 @@ role: User
 level: Beginner
 jira: KT-13379
 exl-id: 3c4244db-f46d-4682-ac5a-f1dd075bf15c
-source-git-commit: c190544aec8c9979bc8a009147f98b68e445b307
+source-git-commit: eb56f9ef10efa4155a6c96928048baaa966a5f92
 workflow-type: tm+mt
-source-wordcount: '97'
-ht-degree: 1%
+source-wordcount: '113'
+ht-degree: 0%
 
 ---
 
@@ -60,13 +60,52 @@ Firefly est la nouvelle famille de modèles d’IA générative créative destin
       </a>
    </td>
    <td>
+      <a href="discover.md">
+         <img alt="Adobe Firefly Découvrir" src="assets/discover.png" />
+      </a>
+   </td>
+   <td>
+      <a href="landing-page.md">
+         <img alt="Page de destination" src="assets/landing-page.png" />
+      </a>
+   </td>
+   <td>
+      <a href="text-to-image.md">
+         <img alt="Texte en image" src="assets/text-to-image.png" />
+      </a>
+   </td>
+</tr>
+<tr>
+   <td>
+      <a href="text-effects.md">
+         <img alt="Effets de texte" src="assets/text-effects.png" />
+      </a>
+   </td>
+   <td>
+      <a href="gen-fill.md">
+         <img alt="Remplissage génératif" src="assets/generative-fill.png" />
+      </a>
+   </td>
+   <td>
+      <a href="gen-recolor.md">
+         <img alt="Redéfinition des couleurs générative" src="assets/generative-recolor.png" />
+      </a>
+   </td>
+   <td>
+      <a href="examples.md">
+         <img alt="Exemples d’utilisation de Firefly" src="assets/examples.png" />
+      </a>
+   </td>
+</tr>
+<tr>
+  <td>
       <a href="enable-creative-efficiency.md">
          <img alt="Efficacité créative" src="assets/enable-creative-efficiency.png" />
       </a>
    </td>
    <td>
       <a href="generative-fill.md">
-         <img alt="Remplissage génératif dans Photoshop" src="assets/generative-fill.png" />
+         <img alt="Remplissage génératif dans Photoshop" src="assets/generative-fill-ps.png" />
       </a>
    </td>
   <td>
@@ -74,27 +113,10 @@ Firefly est la nouvelle famille de modèles d’IA générative créative destin
          <img alt="Variantes de bannière publicitaire dans Photoshop" src="assets/banner-ad-variations.png" />
       </a>
   </td>
-</tr>
-<tr>
-<td>
-      <a href="text-effects.md">
-         <img alt="Effets de texte" src="assets/text-effects.png" />
-      </a>
-  </td>
-<td>
+   <td>
       <a href="generative-recolor.md">
-         <img alt="Redéfinition des couleurs générative dans Illustrator" src="assets/firefly-recolor.png" />
+            <img alt="Redéfinition des couleurs générative dans Illustrator" src="assets/firefly-recolor.png" />
       </a>
-  </td>
-  <td>
-    <img alt="Espaceur" src="../assets/Gray_thumbnail.png" />
-    <div>
-    <br>
-  </td>
-  <td>
-    <img alt="Espaceur" src="../assets/Gray_thumbnail.png" />
-    <div>
-    <br>
-  </td>
+   </td>
 </tr>
 </table>

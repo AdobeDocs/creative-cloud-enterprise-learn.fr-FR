@@ -1,20 +1,21 @@
 ---
 title: Effets de texte
-description: Découvrez comment utiliser les effets de texte, optimisés par l’Adobe Firefly
+description: Apprenez à créer du texte unique et inspirant pour vos projets à l’aide d’invites de texte simples
 feature: Graphic Design, Gen AI
 role: User
 level: Beginner
 jira: KT-13526
-source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
+exl-id: e3d55ec7-e7f5-44dd-a633-09e64ec23b60
+source-git-commit: eb56f9ef10efa4155a6c96928048baaa966a5f92
 workflow-type: tm+mt
-source-wordcount: '42'
-ht-degree: 4%
+source-wordcount: '54'
+ht-degree: 1%
 
 ---
 
 # Effets de texte
 
-Apprenez à utiliser les effets de texte optimisés par l&#39;Adobe Firefly pour créer des images de titre uniques et inspirantes pour une newsletter. Rejoindre l’Adobe Firefly (Beta) [ici](https://firefly.adobe.com/).
+Apprenez à créer du texte unique et inspirant pour vos projets à l’aide d’invites de texte simples. Les effets de texte vous permettent d’améliorer votre créativité et de créer du texte extraordinaire pour vos projets. Essayer l’Adobe Firefly [ici](https://firefly.adobe.com/).
 
 <br> 
 
