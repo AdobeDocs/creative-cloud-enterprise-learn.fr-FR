@@ -1,21 +1,21 @@
 ---
-title: Remplissage générateur dans Photoshop
-description: Apprenez à utiliser le Remplissage générateur avec Adobe Firefly
+title: Remplissage génératif dans Photoshop
+description: Découvrez comment utiliser le remplissage génératif optimisé par Adobe Firefly
 feature: Image Editing, Gen AI
 role: User
 level: Beginner
 jira: KT-13467
-exl-id: 470703d3-94d1-4699-9112-13cc532a5d74
-source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
+exl-id: abefcf4f-b8bb-4428-9b0e-801d21f2e587
+source-git-commit: 3dd3f81266103593478531c789beda40ceb38b90
 workflow-type: tm+mt
-source-wordcount: '53'
+source-wordcount: '43'
 ht-degree: 0%
 
 ---
 
-# Remplissage générateur dans Photoshop
+# Remplissage génératif dans Photoshop
 
-Apprenez à utiliser la fonction de remplissage automatique, optimisée par l&#39;Adobe Firefly, d&#39;Adobe Photoshop pour simplifier la création d&#39;un concept pour une publicité de voyage. Ce tutoriel utilise [Photoshop Beta (version 24.6.0 ou ultérieure)](https://helpx.adobe.com/x-productkb/global/creative-cloud-beta.html).
+Apprenez à utiliser le remplissage génératif, optimisé par l’Adobe Firefly, dans Adobe Photoshop pour faciliter la création d’un concept pour une annonce de voyage.
 
 <br> 
 

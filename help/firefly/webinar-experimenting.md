@@ -1,21 +1,21 @@
 ---
-title: Test du webinaire sur la version bêta de Firefly
-description: Découvrez Howard Pinsky dans la beta Firefly
+title: Test avec le webinaire bêta Firefly
+description: Rejoignez Howard Pinsky qui plonge dans le Firefly
 feature: Image Editing, Gen AI
 role: User
 level: Beginner
 jira: KT-13427
-exl-id: e75836e5-206a-4fe1-807e-0ab973ea62ea
-source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
+exl-id: ede87fb6-3a34-40e5-b29c-92f626452ccf
+source-git-commit: 3dd3f81266103593478531c789beda40ceb38b90
 workflow-type: tm+mt
-source-wordcount: '33'
+source-wordcount: '29'
 ht-degree: 0%
 
 ---
 
-# Test du webinaire Firefly bêta
+# Test avec le webinaire bêta du Firefly
 
-Découvrez la version bêta du Firefly avec Howard Pinsky dans ce webinaire.
+Rejoignez Howard Pinsky dans ce webinaire pendant qu&#39;il plonge dans le Firefly.
 
 <br> 
 

@@ -1,20 +1,21 @@
 ---
-title: Aperçu de l'Adobe Firefly
-description: Découverte des possibilités de création dans Adobe Firefly
+title: Présentation de l’Adobe Firefly
+description: Découvrir ce que vous pouvez créer dans Adobe Firefly
 feature: Image Editing, Gen AI
 role: User
 level: Beginner
 jira: KT-13528
-source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
+exl-id: 82dcb3aa-beb0-4ca1-8696-9897f86163c6
+source-git-commit: 3dd3f81266103593478531c789beda40ceb38b90
 workflow-type: tm+mt
-source-wordcount: '53'
+source-wordcount: '43'
 ht-degree: 0%
 
 ---
 
-# Aperçu de l&#39;Adobe Firefly
+# Présentation de l’Adobe Firefly
 
-Découvrez les possibilités offertes par l&#39;Adobe Firefly. Découvrez comment accélérer la création de contenu dans Adobe Express et les applications Adobe Creative Cloud comme Adobe Photoshop. Ce tutoriel utilise [Photoshop Beta (version 24.6.0 ou ultérieure)](https://helpx.adobe.com/x-productkb/global/creative-cloud-beta.html).
+Découvrez ce que vous pouvez créer avec l’Adobe Firefly. Découvrez comment accélérer la création de contenu dans les applications Adobe Express et Adobe Creative Cloud comme Adobe Photoshop.
 
 <br> 
 
