@@ -6,9 +6,9 @@ role: User
 level: Beginner
 jira: KT-13379
 exl-id: 3c4244db-f46d-4682-ac5a-f1dd075bf15c
-source-git-commit: 88fe17c839859a4fdc39f1ebc7494cc226beaab8
+source-git-commit: 6789f2b08b15dfb0133597f8ccb3f7d3f0a76499
 workflow-type: tm+mt
-source-wordcount: '128'
+source-wordcount: '132'
 ht-degree: 0%
 
 ---
@@ -60,6 +60,11 @@ Firefly est la nouvelle famille de modèles d’IA générative créative destin
       </a>
    </td>
    <td>
+      <a href="reusable-scenes.md">
+         <img alt="Création de scènes réutilisables pour la marchandise" src="assets/reusable-scenes.png" />
+      </a>
+   </td>
+   <td>
       <a href="custom-model-subject.md">
          <img alt="Création d’un modèle personnalisé à l’aide d’un sujet" src="assets/custom-model-subject.png" />
       </a>
@@ -69,14 +74,14 @@ Firefly est la nouvelle famille de modèles d’IA générative créative destin
          <img alt="Création d’un modèle personnalisé à l’aide de styles" src="assets/custom-model-styles.png" />
       </a>
    </td>
-  <td>
+</tr>
+<tr>
+   <td>
       <a href="discover.md">
          <img alt="Adobe Firefly Découvrir" src="assets/discover.png" />
       </a>
    </td>
-</tr>
-<tr>
-  <td>
+   <td>
       <a href="landing-page.md">
          <img alt="Page de destination" src="assets/landing-page.png" />
       </a>
@@ -91,14 +96,14 @@ Firefly est la nouvelle famille de modèles d’IA générative créative destin
          <img alt="Effets de texte" src="assets/text-effects.png" />
       </a>
    </td>
-   <td>
+</tr>
+<tr>
+  <td>
       <a href="gen-fill.md">
          <img alt="Remplissage génératif" src="assets/generative-fill.png" />
       </a>
    </td>
-</tr>
-<tr>
-  <td>
+   <td>
       <a href="gen-recolor.md">
          <img alt="Redéfinition des couleurs générative" src="assets/generative-recolor.png" />
       </a>
@@ -113,14 +118,14 @@ Firefly est la nouvelle famille de modèles d’IA générative créative destin
          <img alt="Efficacité créative" src="assets/enable-creative-efficiency.png" />
       </a>
    </td>
+</tr>
+<tr>
    <td>
       <a href="generative-fill.md">
          <img alt="Remplissage génératif dans Photoshop" src="assets/generative-fill-ps.png" />
       </a>
    </td>
-</tr>
-<tr>
-   <td>
+  <td>
       <a href="web-banner-ad.md">
          <img alt="Variantes de bannière publicitaire dans Photoshop" src="assets/banner-ad-variations.png" />
       </a>
@@ -129,11 +134,6 @@ Firefly est la nouvelle famille de modèles d’IA générative créative destin
       <a href="generative-recolor.md">
             <img alt="Redéfinition des couleurs générative dans Illustrator" src="assets/firefly-recolor.png" />
       </a>
-   </td>
-   <td>
-      <img alt="Espaceur" src="../assets/Gray_thumbnail.png" />
-      <div>
-      <br>
    </td>
    <td>
       <img alt="Espaceur" src="../assets/Gray_thumbnail.png" />
