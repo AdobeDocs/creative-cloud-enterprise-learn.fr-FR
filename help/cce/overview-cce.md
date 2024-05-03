@@ -6,9 +6,9 @@ role: User
 level: Beginner, Intermediate
 jira: KT-6942
 exl-id: eea91ea5-9adc-4a7f-93c0-6cdfe650cfb7
-source-git-commit: c54f203aa1e3dddbfd973b1cc668b56b7f54d9b1
+source-git-commit: 64f061905203642776cd23e18a4a9f379a95fb83
 workflow-type: tm+mt
-source-wordcount: '1525'
+source-wordcount: '1394'
 ht-degree: 1%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 1%
 
 En tant que créatif d’entreprise, vous devez collaborer avec des équipes distribuées, établir des processus évolutifs et vous conformer aux systèmes et aux directives de l’entreprise. Ces tutoriels vous permettent d’apprendre de nouvelles fonctionnalités en Creative Cloud, du point de vue de l’entreprise.
 
-## Cliquez pour afficher un tutoriel relatif au produit (répertorié par ordre alphabétique).
+## Sélectionnez un produit (répertorié par ordre alphabétique) pour afficher le tutoriel
 
 ### Adobe Acrobat
 
@@ -46,63 +46,6 @@ En tant que créatif d’entreprise, vous devez collaborer avec des équipes dis
   <td>
     <img alt="Espaceur" src="../assets/acrobat_PDF_whitespacer_96.png" />
     <div>
-    <br>
-  </td>
-</tr>
-</table>
-
-### Adobe Express (anciennement Adobe Spark)
-
-<table style="table-layout:fixed">
-<tr>
- <td>
-   <a href="adobe-express-content-that-stands-out.md">
-      <img alt="Adobe Express : contenu qui se démarque" src="assets/Adobe-Express-content-that-stands-out.png" />
-   </a>
-    <div>
-   <a href="adobe-express-content-that-stands-out.md"><strong>Adobe Express : contenu qui se démarque</strong></a>
-    </div>
-    <em> Créez de superbes graphiques, pages web et récits vidéo en quelques minutes avec Adobe Express</em>
-    <br>
-  </td>
-  <td>
-   <a href="assets/CreatingYourBrandinAdobeSpark.pdf">
-      <img alt="Création de votre marque dans Adobe Spark" src="assets/CreatingYourBrandinAdobeSpark.jpg" />
-   </a>
-    <div>
-   <a href="assets/CreatingYourBrandinAdobeSpark.pdf"><strong>Création de votre marque dans Adobe Spark (PDF)</strong></a>
-    </div>
-    <em>Adobe Spark facilite la définition de votre marque</em>
-    <br>
-  </td>
-  <td>
-   <a href="assets/AddingaGlideshowtoyourSparkPageAdobeBlog.pdf">
-      <img alt="Ajout d’un diaporama à votre Spark Page" src="assets/AddingaGlideshowtoyourSparkPageAdobeBlog.jpg" />
-   </a>
-    <div>
-   <a href="assets/AddingaGlideshowtoyourSparkPageAdobeBlog.pdf"><strong>Ajout d’un diaporama à votre Spark Page (PDF)</strong></a>
-    </div>
-    <em>Adobe Spark propose des composants de mise en page incroyables et faciles à utiliser qui donnent vie à vos histoires web</em>
-    <br>
-  </td>
-  <td>
-   <a href="assets/CreatingYourBrandinAdobeSpark.pdf">
-      <img alt="Création de votre marque dans Adobe Spark" src="assets/CreatingYourBrandinAdobeSpark.jpg" />
-   </a>
-    <div>
-   <a href="assets/CreatingYourBrandinAdobeSpark.pdf"><strong>Création de votre marque dans Adobe Spark (PDF)</strong></a>
-    </div>
-    <em>Adobe Spark facilite la définition de votre marque</em>
-    <br>
-  </td>
-  <td>
-   <a href="assets/MeetYourNewProductionArtistAdobeSparkPost.pdf">
-      <img alt="Rencontrez Votre Nouvel Artiste De Production : Adobe Spark Post" src="assets/MeetYourNewProductionArtistAdobeSparkPost.jpg" />
-   </a>
-    <div>
-   <a href="assets/MeetYourNewProductionArtistAdobeSparkPost.pdf"><strong>Rencontrez Votre Nouvel Artiste De Production : Adobe Spark Post (PDF)</strong></a>
-    </div>
-    <em>Adobe Spark apprend de vous lorsque vous créez des mises en page, définissez des couleurs, importez des illustrations et organisez des éléments dans vos compositions</em>
     <br>
   </td>
 </tr>
@@ -256,6 +199,11 @@ En tant que créatif d’entreprise, vous devez collaborer avec des équipes dis
    <a href="assets/FromLightroomWebtoInDesignviaCreativeCloud.pdf"><strong>De Lightroom Web à InDesign via Creative Cloud (PDF)</strong></a>
     </div>
     <em>Exprimez votre créativité de l’appareil photo au design final avec des fichiers et des bibliothèques Creative Cloud</em>
+    <br>
+  </td>
+  <td>
+    <img alt="Espaceur" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
     <br>
   </td>
 </tr>
