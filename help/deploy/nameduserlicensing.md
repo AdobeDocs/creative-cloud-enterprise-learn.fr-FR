@@ -7,8 +7,8 @@ feature: Deploy
 exl-id: 9dbdb057-6684-4750-bf9d-8af7a32bfe14
 source-git-commit: f17ea20ac8623dae0c681753b4bde250a1c9b06e
 workflow-type: tm+mt
-source-wordcount: '633'
-ht-degree: 2%
+source-wordcount: '615'
+ht-degree: 0%
 
 ---
 
@@ -22,7 +22,7 @@ Si votre organisation n’utilise pas de licences NUL et continue d’utiliser l
 
 ## À propos des licences nominatives
 
-[Système de licences nominatives](https://helpx.adobe.com/enterprise/using/licensing.html) est un modèle de licence de logiciel qui permet d’attribuer un logiciel à une personne plutôt qu’à un numéro de série ou à un périphérique. NUL offre aux administrateurs informatiques une sécurité de niveau entreprise avec une gestion avancée de l’identité des utilisateurs et permet un déploiement et une gestion faciles des applications à l’aide de Adobe Admin Console.
+Les [licences nominatives](https://helpx.adobe.com/enterprise/using/licensing.html) sont un modèle de licence logicielle qui permet d&#39;attribuer des logiciels à une personne plutôt qu&#39;à un numéro de série ou à un périphérique. NUL offre aux administrateurs informatiques une sécurité de niveau entreprise avec une gestion avancée de l’identité des utilisateurs et permet un déploiement et une gestion faciles des applications à l’aide de Adobe Admin Console.
 
 ## Avantages des licences nominatives :
 
@@ -32,7 +32,7 @@ Si votre organisation n’utilise pas de licences NUL et continue d’utiliser l
 
 * Tirez parti des Services d’experts.
 
-  Votre contrat de licence d’entreprise avec Adobe offre des sessions illimitées de 30 minutes par téléphone ou conférence web avec un expert en Adobe pour vous aider à résoudre tout problème. Pour réserver une session, accédez à l’onglet Support du Admin Console et cliquez sur **Demander une session avec un expert**.
+  Votre contrat de licence d’entreprise avec Adobe offre des sessions illimitées de 30 minutes par téléphone ou conférence web avec un expert en Adobe pour vous aider à résoudre tout problème. Pour réserver une session, accédez à l&#39;onglet Support dans le Admin Console et cliquez sur **Demander une session avec un expert**.
 
 * Un grand nombre d’utilisateurs ? Pas de problème.
 

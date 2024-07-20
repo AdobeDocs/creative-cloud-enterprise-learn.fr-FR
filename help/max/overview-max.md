@@ -7,8 +7,8 @@ level: Beginner, Intermediate
 exl-id: 68b2cb27-22b4-4be0-a4b1-210c208778ec
 source-git-commit: c54f203aa1e3dddbfd973b1cc668b56b7f54d9b1
 workflow-type: tm+mt
-source-wordcount: '500'
-ht-degree: 1%
+source-wordcount: '510'
+ht-degree: 0%
 
 ---
 
@@ -28,9 +28,10 @@ Dans cette session en direct enregistrée, vous verrez des exemples de workflows
 * Adobe Experience Manager (AEM) Assets est une solution de gestion des actifs numériques (DAM) qui peut s’intégrer à Adobe Creative Cloud pour aider les utilisateurs de DAM à travailler avec des équipes créatives, rationalisant ainsi la collaboration dans le processus de création de contenu
 * Adobe InDesign Server est un moteur de mise en page et de composition qui alimente les solutions de publication automatisées en les intégrant à d’autres systèmes
 
-**Présenté par:**
+**Présenté par :**
 
-Eric Rowse, Conseiller principal en solutions (médias numériques) Derek Lu, Conseiller principal en solutions (validation de principe)
+Eric Rowse, Conseiller principal en solutions (médias numériques)
+Derek Lu, conseiller principal en solutions (validation de principe)
 
 ## Nouveaux outils pour la nouvelle normalité (29:57)
 
@@ -45,11 +46,13 @@ Dans cette session en direct enregistrée, vous apprendrez à :
 * Créez et partagez des icônes en difficulté dans Illustrator sur iPad pour correspondre à l’image de marque
 * Illustration composite de Fresco et Illustrator sur iPad pour créer du contenu pour nos canaux de médias sociaux, en déplacement avec Photoshop sur iPad
 
-**Présenté par:**
+**Présenté par :**
 
-Dave Weinberg, Conseiller principal en solutions (médias numériques) Liz Tanonis, Conseiller en solutions (médias numériques) Emilie Enke, Conseillère en solutions (médias numériques)
+Dave Weinberg, conseiller principal en solutions (médias numériques)
+Liz Tanonis, conseillère en solutions (médias numériques)
+Emilie Enke, consultante en solutions (médias numériques)
 
-## Collaboration avec les bibliothèques CC (27:58)
+## Collaboration avec CC Libraries (27:58)
 
 >[!VIDEO](https://video.tv.adobe.com/v/328199?hidetitle=true)
 
@@ -61,9 +64,10 @@ Dans ce tutoriel, vous apprendrez à :
 * Trouvez facilement les ressources dont vous avez besoin dans toutes vos applications créatives
 * Permettez aux communicateurs de l’ensemble de votre organisation de créer des expériences de marque, tout en gardant le contrôle
 
-**Présenté par:**
+**Présenté par :**
 
-Ashley Dvorin, conseillère principale en solutions (médias numériques) Emily Palmer, conseillère en solutions (médias numériques)
+Ashley Dvorin, conseillère principale en solutions (médias numériques)
+Emily Palmer, conseillère en solutions (médias numériques)
 
 ## À propos des ressources de démonstration : LOCAL
 
@@ -71,4 +75,4 @@ L’équipe a abordé la création des fichiers de démonstration comme le ferai
 
 En réponse à la COVID-19, LOCAL, une entreprise qui organise des événements en direct qui célèbrent des fêtes amusantes et farfelues, s&#39;est tournée vers les rassemblements en ligne et s&#39;est associée à de petits camions de cuisine de quartier et à des restaurants pour promouvoir leurs entreprises et les aider à rester ouvertes.
 
-![Ressources de démonstration LOCALES](../assets/demo_local_assets-WIP-v1.jpg)
+![Actifs de démonstration locaux](../assets/demo_local_assets-WIP-v1.jpg)

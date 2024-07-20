@@ -7,8 +7,8 @@ level: Beginner, Intermediate
 exl-id: 1c14d3e8-2d4b-45a2-9a4a-efc044f2af1e
 source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
 workflow-type: tm+mt
-source-wordcount: '383'
-ht-degree: 1%
+source-wordcount: '363'
+ht-degree: 0%
 
 ---
 
@@ -37,7 +37,7 @@ Adobe Experience Manager est la solution de gestion de l’expérience digitale 
     <div>
    <a href="aem.md#tutorial2"><strong>Fichiers InDesign hébergés dans AEM</strong></a>
     </div>
-    <em>Hébergez votre document d’InDesign dans AEM afin que plusieurs utilisateurs puissent créer des variantes de contenu en même temps</em>
+    <em>Hébergez votre document InDesign dans AEM afin que plusieurs utilisateurs puissent créer des variantes de contenu simultanément</em>
     <br>
   </td>
   <td>
@@ -87,7 +87,7 @@ Eric Rowse, Conseiller principal en solutions (médias numériques)
     <div>
    <a href="https://www.adobe.com/marketing/experience-manager.html"><strong>Adobe Experience Manager</strong></a>
     </div>
-    <em>Une combinaison puissante pour vos besoins de gestion de contenu et de ressources numériques</em>
+    <em>Une combinaison puissante pour vos besoins en matière de gestion de contenu et de ressources numériques</em>
     <br>
   </td>
   <td>
@@ -97,7 +97,7 @@ Eric Rowse, Conseiller principal en solutions (médias numériques)
     <div>
    <a href="https://www.adobe.com/marketing/experience-manager-assets.html"><strong>AEM Assets</strong></a>
     </div>
-    <em>Gestion des ressources numériques nouvelle génération</em>
+    <em>Gestion des ressources numériques de nouvelle génération</em>
     <br>
   </td>
   <td>
@@ -113,12 +113,12 @@ Eric Rowse, Conseiller principal en solutions (médias numériques)
 </tr>
 </table>
 
-![Logo AEM](../assets/aem_appicon_noshadow_96.png)
+Logo ![AEM](../assets/aem_appicon_noshadow_96.png)
 
-**Asset Link et AEM Resources**
+**Asset Link Et Ressources AEM**
 
-[Formation et assistance](https://helpx.adobe.com/support/experience-manager.html) est votre point de référence pour les tutoriels supplémentaires, les Nouveautés et les liens vers les forums de la communauté.
+[Formation et assistance](https://helpx.adobe.com/support/experience-manager.html) est votre point de contact pour accéder à des tutoriels supplémentaires, aux nouveautés et aux liens vers les forums de la communauté.
 
-**Version d’octobre 2020**
+**Version D&#39;Octobre 2020**
 
 Commencez à utiliser ces fonctionnalités (et bien plus encore !) en téléchargeant la dernière mise à jour depuis l’application de bureau Creative Cloud.

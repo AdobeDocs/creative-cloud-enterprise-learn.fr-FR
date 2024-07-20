@@ -19,17 +19,17 @@ ht-degree: 4%
 # Creative Cloud pour les Tutorials d’entreprise {#cce-learning-hub}
 
 + [Présentation](overview.md)
-+ Creative Cloud abonnement Entreprise {#cceoverview}
++ Creative Cloud pour entreprise {#cceoverview}
    + [Présentation](cce/overview-cce.md)
    + Tutorials {#ccetutorials}
       + [Acrobat pour les créateurs de contenu](cce/acrobat-content-creators.md)
-      + [Amélioration des workflows CC avec les bibliothèques CC](cce/cc-workflows-cc-libraries.md)
+      + [Amélioration des workflows CC avec CC Libraries](cce/cc-workflows-cc-libraries.md)
       + [Apprivoiser l&#39;anxiété de type](cce/taming-type-anxiety.md)
       + [Adobe Express : contenu qui se démarque](cce/adobe-express-content-that-stands-out.md)
       + [Collaboration : L&#39;avenir de la créativité](cce/collaboration-the-future-of-creativity.md)
-      + [Création de bibliothèques de mots de Creative Cloud pour les équipes](cce/ccteamlibraries.md)
-      + [Partage de ressources de marque avec les bibliothèques de mots de Creative Cloud pour les équipes](cce/sharecclibraries.md)
-      + [Créer des compositions uniques avec l’Adobe [!DNL Stock] et Photoshop pour iPad](cce/compositepsipad.md)
+      + [Création de bibliothèques Creative Cloud pour les équipes](cce/ccteamlibraries.md)
+      + [Partage de ressources de marque avec les bibliothèques Creative Cloud abonnement Équipe](cce/sharecclibraries.md)
+      + [Créez des compositions uniques avec Adobe [!DNL Stock]  et Photoshop pour iPad](cce/compositepsipad.md)
       + [Création de cinémagraphes avec Photoshop](cce/cinemagraphps.md)
       + [Décodage de la soupe d’alphabets de formats graphiques](cce/alphabetsoup.md)
       + [Testez Fresco sur iPad et iPhone](cce/frescoworkshop.md)
@@ -76,7 +76,7 @@ ht-degree: 4%
       + [Utilisation du planificateur pour la publication](express/schedule.md)
       + [Associer des objets](express/group-objects.md)
       + [Création de plusieurs pages](express/multiple-pages.md)
-      + [Utilisation des bibliothèques CC](express/cc-libraries.md)
+      + [Utiliser CC Libraries](express/cc-libraries.md)
       + [Intégration de Google Drive](express/google-drive.md)
       + [Amélioration d’un découpage](express/refine-cutout.md)
       + [Création de texte incurvé](express/create-curved-text.md)
@@ -90,7 +90,7 @@ ht-degree: 4%
       + [Création d’un modèle](express/create-templates.md)
       + [Enregistrer et partager des modèles](express/share-templates.md)
       + [Utilisation des modèles](express/use-templates.md)
-   + Tutoriels de cas d’utilisation {#expressusecase}
+   + Tutoriels de cas d&#39;utilisation {#expressusecase}
       + [Présentation](express/overview-express-use-case-tutorials.md)
       + [Création d’un visuel promotionnel pour un cours d’apprentissage en ligne](express/promo-visual.md)
       + [Création d’une vidéo de fin d’année](express/end-of-year-video.md)
@@ -110,7 +110,7 @@ ht-degree: 4%
 + [!DNL Adobe Firefly] {#fireflyoverview}
    + [Présentation](firefly/overview-firefly.md)
    + Tutorials {#firefly-tutorials}
-      + [Présentation de [!DNL Adobe Firefly]](firefly/overview-of-firefly.md)
+      + [Vue d&#39;ensemble de  [!DNL Adobe Firefly]](firefly/overview-of-firefly.md)
       + [Découvrir [!DNL Adobe Firefly]](firefly/discover.md)
       + [Accélération de l’idéation créative](firefly/accelerate-ideas.md)
       + [Création de scènes réutilisables pour la marchandise](firefly/reusable-scenes.md)
@@ -121,48 +121,48 @@ ht-degree: 4%
       + [Effets de texte](firefly/text-effects.md)
       + [Remplissage génératif](firefly/gen-fill.md)
       + [Redéfinition des couleurs générative](firefly/gen-recolor.md)
-      + [Exemples d’utilisation [!DNL Firefly]](firefly/examples.md)
+      + [Exemples d&#39;utilisation de  [!DNL Firefly]](firefly/examples.md)
       + [Efficacité créative](firefly/enable-creative-efficiency.md)
-      + [Bannière et variations dans [!DNL Photoshop]](firefly/web-banner-ad.md)
+      + [Variations de bannière publicitaire dans  [!DNL Photoshop]](firefly/web-banner-ad.md)
       + [Remplissage génératif [!DNL Photoshop]](firefly/generative-fill.md)
-      + [Redéfinition des couleurs générative dans [!DNL Illustrator]](firefly/generative-recolor.md)
+      + [Redéfinition des couleurs générative dans  [!DNL Illustrator]](firefly/generative-recolor.md)
    + Webinaires {#firefly-webinars}
       + [Expérimenter avec l’Adobe Firefly](firefly/webinar-experimenting.md)
 + [!DNL Adobe Stock] {#stockoverview}
    + [Présentation](stock/overview-stock.md)
    + Tutorials {#stocktutorials}
       + [Des ressources numériques époustouflantes](stock/stunning-digital-assets.md)
-      + [Adobe de recherche [!DNL Stock] historique des licences](stock/searchstock.md)
-      + [Ajouter une esthétique dessinée à la main à l’Adobe [!DNL Stock] images](stock/handdrawn.md)
+      + [Rechercher dans l&#39;historique des licences de l&#39;Adobe [!DNL Stock] ](stock/searchstock.md)
+      + [Ajout d&#39;une esthétique dessinée à la main à des images d&#39;Adobes [!DNL Stock] créatives](stock/handdrawn.md)
       + [Ajoutez du style à la typographie avec des masques et des animations](stock/flairtypography.md)
-      + [Animer un Adobe [!DNL Stock] illustration vectorielle dans Photoshop](stock/animatevector.md)
-      + [Commencez votre rapport annuel avec une vidéo créée avec Adobe [!DNL Stock] et Spark Video](stock/annualreport.md)
+      + [Animation d’une illustration vectorielle d’Adobe [!DNL Stock] dans Photoshop](stock/animatevector.md)
+      + [Commencez votre rapport annuel avec une vidéo créée avec Adobe [!DNL Stock]  et Spark Video](stock/annualreport.md)
       + [Donnez vie à vos créations avec des animations personnalisées par Adobe [!DNL Stock]](stock/customanimations.md)
-      + [Modifier un Adobe [!DNL Stock] couleurs de l’image pour correspondre à votre story](stock/changecolors.md)
-      + [Création d’un collage 3D pour une affiche à l’aide de l’Adobe [!DNL Stock] images](stock/collage.md)
-      + [Création d’une étiquette audacieuse avec de l’Adobe [!DNL Stock] Modèles et objets dynamiques Photoshop](stock/boldlabel.md)
-      + [Création d&#39;une infographie sur les lignes directrices d&#39;une entreprise avec Adobe [!DNL Stock]](stock/infographic.md)
-      + [Création d’un tableau comparatif des fonctionnalités d’un produit à l’aide de l’Adobe [!DNL Stock]](stock/featurecomparison.md)
-      + [Création d’une composition semi-surréaliste avec Adobe [!DNL Stock]](stock/surrealcomposite.md)
-      + [Création d’un motif semi-surréaliste avec Adobe [!DNL Stock]](stock/surrealpattern.md)
-      + [Création d’un configurateur de produit interactif avec Adobe [!DNL Stock]](stock/productconfigurator.md)
-      + [Création d&#39;une photo de tourisme interactive avec Adobe [!DNL Stock] et XD](stock/interactivetourismphoto.md)
-      + [Création d’animations pour les e-mails avec Adobe [!DNL Stock] et Photoshop](stock/animationemail.md)
+      + [Modifier les couleurs d&#39;une image d&#39;Adobe [!DNL Stock] pour qu&#39;elles correspondent à votre story](stock/changecolors.md)
+      + [Créer un collage 3D pour une affiche à l&#39;aide d&#39;images Adobes [!DNL Stock] x](stock/collage.md)
+      + [Créer un libellé audacieux avec des modèles Adobe [!DNL Stock] et des objets dynamiques Photoshop](stock/boldlabel.md)
+      + [Créer une infographie sur les directives de l&#39;entreprise avec Adobe [!DNL Stock]](stock/infographic.md)
+      + [Créer un tableau comparatif des fonctionnalités du produit à l&#39;aide d&#39;Adobe [!DNL Stock]](stock/featurecomparison.md)
+      + [Créer une composition semi-surréaliste avec Adobe [!DNL Stock]](stock/surrealcomposite.md)
+      + [Créer un motif semi-surréaliste avec l&#39;Adobe [!DNL Stock]](stock/surrealpattern.md)
+      + [Créer un configurateur de produit interactif avec Adobe [!DNL Stock]](stock/productconfigurator.md)
+      + [Création d&#39;une photo de tourisme interactive avec Adobe [!DNL Stock]  et XD](stock/interactivetourismphoto.md)
+      + [Création d&#39;animations pour les e-mails avec Adobe [!DNL Stock]  et Photoshop](stock/animationemail.md)
       + [Créez des images de marque cohérentes avec de superbes dégradés et Adobes [!DNL Stock] ressources](stock/brandgradients.md)
-      + [Créez des graphismes web attrayants en combinant des Adobes [!DNL Stock] images avec CSS](stock/webgraphics.md)
-      + [Créez des planches d’ambiance inspirantes en un rien de temps avec Adobe [!DNL Stock]](stock/moodboard.md)
-      + [Créez des compositions photo réalistes avec de l’Adobe [!DNL Stock] images](stock/realisticcomposite.md)
-      + [Personnalisation d’une animation d’écran de chargement avec l’Adobe [!DNL Stock] et XD](stock/loadingscreen.md)
-      + [Personnaliser un Adobe [!DNL Stock] modèle de présentation à l’aspect professionnel](stock/presentationtemplate.md)
-      + [Personnalisation des couleurs d’un Adobe [!DNL Stock] illustration vectorielle](stock/customizecolors.md)
+      + [Créez des graphismes web attrayants en combinant des images Adobe [!DNL Stock] avec des feuilles de style CSS](stock/webgraphics.md)
+      + [Créez des planches d&#39;ambiance inspirantes en un rien de temps avec Adobe [!DNL Stock]](stock/moodboard.md)
+      + [Créer des compositions photo réalistes avec des images Adobes [!DNL Stock] x](stock/realisticcomposite.md)
+      + [Personnalisation d&#39;une animation d&#39;écran de chargement avec Adobe [!DNL Stock]  et XD](stock/loadingscreen.md)
+      + [Personnalisation d&#39;un modèle de présentation Adobe [!DNL Stock] professionnel](stock/presentationtemplate.md)
+      + [Personnalisation des couleurs d&#39;une illustration vectorielle Adobe [!DNL Stock] ](stock/customizecolors.md)
 + Adobe 3D et VR {#3doverview}
    + [Présentation](3di/overview-3di.md)
    + Tutorials {#3dtutorials}
       + [Conception et rendu 3D](3di/substance-3d-stager.md)
       + [Conseils et techniques pour maîtriser l’éclairage 3D en imagerie de synthèse](3di/mastering3dlighting.md)
       + [Création de photographies virtuelles photoréalistes avec rendu et composition 3D](3di/photorealistic.md)
-      + [Personnalisez et signez un modèle 3D avec [!DNL Dimension] et Adobe [!DNL Stock]](3di/3ddimensionstock.md)
-+ Vidéo Adobe {#videooverview}
+      + [Personnalisez et signez un modèle 3D avec [!DNL Dimension] et l&#39;Adobe [!DNL Stock]](3di/3ddimensionstock.md)
++ Vidéo de l&#39;Adobe {#videooverview}
    + [Présentation](dva/overview-dva.md)
    + Tutorials {#videotutorials}
       + [Modèles d’animations graphiques professionnels](dva/motion-graphics-templates.md)
@@ -172,8 +172,8 @@ ht-degree: 4%
 + Adobe XD {#xdoverview}
    + [Présentation](xd/overview-xd.md)
    + Tutorials {#xdtutorials}
-   + [Se familiariser avec [!UICONTROL Composants] dans Adobe XD](xd/components.md)
-+ Déploiement et gestion {#deploy}
+   + [Familiarisez-vous avec les [!UICONTROL composants] dans Adobe XD](xd/components.md)
++ Déployer et gérer {#deploy}
    + [Présentation](deploy/overview-deploy.md)
    + [Expiration du numéro de série](deploy/cceserial.md)
    + [Système de licences nominatives](deploy/nameduserlicensing.md)
@@ -181,7 +181,7 @@ ht-degree: 4%
    + [Présentation](max/overview-max.md)
    + Tutorials {#tutorials}
       + [Présentation](max/maxtutorials.md)
-      + Produits pour ordinateur {#desktop-products}
+      + Produits de bureau {#desktop-products}
          + [Acrobat et Sign](max/acrobat-sign.md)
          + [[!DNL Dimension]](max/dimension.md)
          + [Illustrator](max/illustrator.md)

@@ -1,6 +1,6 @@
 ---
-title: Maîtrisez la typographie avec des masques et des animations
-description: Donnez vie à votre texte avec des éléments d’Adobe [!DNL Stock] et des styles d’animation After Effects
+title: Ajoutez du style à la typographie avec des masques et des animations
+description: Donnez vie à votre texte avec des éléments Adobe [!DNL Stock]  et des styles d'animation After Effects
 feature: Licensable Assets
 role: User
 level: Beginner, Intermediate
@@ -13,8 +13,8 @@ ht-degree: 0%
 
 ---
 
-# Maîtrisez la typographie avec des masques et des animations
+# Ajoutez du style à la typographie avec des masques et des animations
 
-Donnez vie à votre texte avec des éléments d’Adobe [!DNL Stock] et des styles d’animation After Effects.
+Donnez vie à votre texte avec des éléments de l&#39;Adobe [!DNL Stock] et des styles d&#39;animation d&#39;After Effects.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331807?hidetitle=true)

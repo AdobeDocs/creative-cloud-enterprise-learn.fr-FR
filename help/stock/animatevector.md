@@ -1,6 +1,6 @@
 ---
-title: Animation d’un Adobe [!DNL Stock] illustration vectorielle dans Photoshop
-description: Animez les graphismes de vos newsletters à l'aide de vecteurs modifiables pour l'Adobe [!DNL Stock]
+title: Animation d’une illustration vectorielle d’Adobe [!DNL Stock] dans Photoshop
+description: Ajoutez une animation aux graphiques de votre bulletin d'informations avec des vecteurs modifiables pour l'Adobe [!DNL Stock]
 feature: Licensable Assets, Vector Editing
 role: User
 level: Beginner, Intermediate
@@ -13,8 +13,8 @@ ht-degree: 0%
 
 ---
 
-# Animation d’un Adobe [!DNL Stock] illustration vectorielle dans Photoshop
+# Animer une illustration vectorielle Adobe [!DNL Stock] dans Photoshop
 
-Animez les graphismes de vos newsletters à l&#39;aide de vecteurs modifiables pour l&#39;Adobe [!DNL Stock].
+Intégrez des animations dans les graphiques de votre bulletin d&#39;informations avec des vecteurs modifiables pour l&#39;Adobe [!DNL Stock].
 
 >[!VIDEO](https://video.tv.adobe.com/v/331839?hidetitle=true)

@@ -7,7 +7,7 @@ level: Beginner, Intermediate
 exl-id: f42f9f4c-072d-496a-842a-3da503bdaca1
 source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
 workflow-type: tm+mt
-source-wordcount: '337'
+source-wordcount: '333'
 ht-degree: 0%
 
 ---
@@ -27,7 +27,7 @@ Photoshop est le meilleur logiciel d’imagerie et de design graphique au monde,
     <div>
    <a href="photoshop.md#tutorial1"><strong>Modifier les images pour les faire correspondre à votre campagne</strong></a>
     </div>
-    <em>Utilisez les puissants outils de sélection et de modification des couleurs d’Adobe Photoshop pour modifier radicalement une image afin qu’elle corresponde aux besoins de votre marque d’entreprise</em>
+    <em>Utilisez les puissants outils de sélection et de modification des couleurs d'Adobe Photoshop pour modifier radicalement une image afin qu'elle corresponde aux besoins de votre marque d'entreprise</em>
     <br>
   </td>
   <td>
@@ -37,7 +37,7 @@ Photoshop est le meilleur logiciel d’imagerie et de design graphique au monde,
     <div>
     <a href="photoshop.md#tutorial2"><strong>Sélectionner et remplacer le ciel</strong></a>
     </div>
-    <em>Sélectionnez automatiquement le ciel dans une image et remplacez-le par le ciel de votre choix, en ajustant automatiquement les couleurs de l’image en fonction de votre sélection</em>
+    <em>Sélectionnez automatiquement le ciel dans une image et remplacez-le par le ciel de votre choix, en ajustant automatiquement les couleurs de l'image en fonction de votre sélection</em>
     <br>
   </td>
   <td>
@@ -79,12 +79,12 @@ Dans ce tutoriel, vous apprendrez à :
 **Présenté par :**
 A.J Wood, conseiller principal en solutions (médias numériques)
 
-![Logo Photoshop](../assets/ps_appicon_96.png)
+Logo ![Photoshop](../assets/ps_appicon_96.png)
 
 **Ressources Photoshop**
 
-[Formation et assistance](https://helpx.adobe.com/support/photoshop.html) est votre point de référence pour les tutoriels supplémentaires, [Nouveautés](https://helpx.adobe.com/photoshop/using/whats-new.html)et des liens vers les forums de la communauté.
+[Formation et assistance](https://helpx.adobe.com/support/photoshop.html) est votre point central pour consulter d&#39;autres tutoriels, les [Nouveautés](https://helpx.adobe.com/photoshop/using/whats-new.html) et des liens vers les forums de la communauté.
 
-**Version d’octobre 2020**
+**Version D&#39;Octobre 2020**
 
 Commencez à utiliser ces fonctionnalités (et bien plus encore !) en téléchargeant la dernière mise à jour depuis l’application de bureau Creative Cloud.

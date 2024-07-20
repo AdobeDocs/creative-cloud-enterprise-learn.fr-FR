@@ -1,6 +1,6 @@
 ---
 title: Adobe [!DNL Express] Tutorials pratiques
-description: Mise à jour de l’Adobe [!DNL Express]
+description: Se tenir au courant de l'Adobe [!DNL Express]
 feature: Graphic Design, Image Editing, Integrations
 role: User
 level: Beginner, Intermediate
@@ -13,7 +13,7 @@ ht-degree: 1%
 
 ---
 
-# Adobe [!DNL Express] tutoriels pratiques
+# Tutoriels pratiques sur l&#39;Adobe de [!DNL Express]
 
 Commencez à créer des œuvres étonnantes qui se démarquent grâce à l’IA générative optimisée par l’Adobe Firefly. Créez des flyers, des TikToks, des CV et des bobines avec Adobe Express.
 
@@ -273,7 +273,7 @@ Commencez à créer des œuvres étonnantes qui se démarquent grâce à l’IA 
   </td>
   <td>
       <a href="cc-libraries.md">
-         <img alt="Utilisation des bibliothèques CC" src="assets/cc-libraries.png" />
+         <img alt="Utiliser CC Libraries" src="assets/cc-libraries.png" />
       </a>
   </td>
 </tr>

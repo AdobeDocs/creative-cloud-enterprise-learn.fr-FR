@@ -1,6 +1,6 @@
 ---
-title: Adobe [!DNL Express] Tutorials de cas d’utilisation
-description: Mise à jour de l’Adobe [!DNL Express] cas d’utilisation
+title: Adobe [!DNL Express] Tutorials de cas d'utilisation
+description: Mises à jour des cas d'utilisation Adobe [!DNL Express] disponibles
 feature: Graphic Design, Image Editing, Integrations, Gen AI
 role: User
 level: Intermediate
@@ -13,7 +13,7 @@ ht-degree: 1%
 
 ---
 
-# Adobe [!DNL Express] tutoriels sur les cas d’utilisation
+# Adobe des tutoriels de cas d’utilisation [!DNL Express]
 
 Découvrez comment différentes équipes de votre organisation peuvent bénéficier de l’Adobe Express.
 
@@ -21,9 +21,9 @@ Découvrez comment différentes équipes de votre organisation peuvent bénéfic
 
 * [Création d’un visuel promotionnel pour un cours d’apprentissage en ligne](promo-visual.md)
 Apprenez à créer un visuel attrayant pour un cours d’apprentissage en ligne
-* [Création d’une vidéo de fin d’année](end-of-year-video.md)
+* [Création d&#39;une vidéo de fin d&#39;année](end-of-year-video.md)
 Apprenez à créer une vidéo inspirante de fin d’année
-* [Création d’un bulletin d’informations](newsletter.md)
+* [Création d&#39;une newsletter](newsletter.md)
 Apprenez à créer la page d&#39;accueil d&#39;un bulletin que vous pourrez imprimer, envoyer par e-mail ou publier sur le Web
 
 <table style="table-layout:fixed">

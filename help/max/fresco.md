@@ -7,7 +7,7 @@ level: Beginner, Intermediate
 exl-id: 1e621e3a-ce7b-4cb1-8fdb-2f20e70be017
 source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
 workflow-type: tm+mt
-source-wordcount: '324'
+source-wordcount: '320'
 ht-degree: 0%
 
 ---
@@ -35,9 +35,9 @@ Adobe Fresco est une application multiplateforme qui permet de créer des dessin
       <img alt="Création d’une illustration texturée, Fresco à Illustrator" src="../assets/fresco_textureToVector_tanonis_thumbnail.jpg" />
    </a>
     <div>
-   <a href="fresco.md#tutorial2"><strong>Création d’une illustration texturée, Fresco à Illustrator</strong></a>
+   <a href="fresco.md#tutorial2"><strong>Créer une illustration texturée, Fresco à Illustrator</strong></a>
     </div>
-    <em>Peignez et dessinez des textures dans Adobe Fresco et apprenez à les utiliser dans Illustrator</em>
+    <em>Peindre et dessiner des textures dans Adobe Fresco et apprendre à les utiliser dans Illustrator</em>
     <br>
   </td>
   <td>
@@ -79,12 +79,12 @@ Dans ce tutoriel, vous apprendrez à :
 **Présenté par :**
 Liz Tanonis, conseillère en solutions (médias numériques)
 
-![Logo Fresco](../assets/fr_appicon_96.png)
+Logo ![Fresco](../assets/fr_appicon_96.png)
 
 **Ressources du Fresco**
 
-[Formation et assistance](https://helpx.adobe.com/support/adobe-fresco.html) est votre point de référence pour les tutoriels supplémentaires, [Nouveautés](https://helpx.adobe.com/fresco/using/whats-new.html)et des liens vers les forums de la communauté.
+[Formation et assistance](https://helpx.adobe.com/support/adobe-fresco.html) est votre point central pour consulter d&#39;autres tutoriels, les [Nouveautés](https://helpx.adobe.com/fresco/using/whats-new.html) et des liens vers les forums de la communauté.
 
-**Version d’octobre 2020**
+**Version D&#39;Octobre 2020**
 
 Commencez à utiliser ces fonctionnalités (et bien plus encore !) en téléchargeant la dernière mise à jour depuis l’application de bureau Creative Cloud.

@@ -7,7 +7,7 @@ level: Beginner, Intermediate
 exl-id: eae51aea-4c17-4356-bfb0-720f87597ef7
 source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
 workflow-type: tm+mt
-source-wordcount: '425'
+source-wordcount: '421'
 ht-degree: 0%
 
 ---
@@ -27,7 +27,7 @@ L’application de référence pour créer de superbes documents pour l’impres
     <div>
     <a href="indesign.md#tutorial1"><strong>Générer des codes QR</strong></a>
     </div>
-    <em>Génération d’un code QR renvoyant à un site web</em>
+    <em>Générer un code QR qui renvoie à un site web</em>
     <br>
   </td>
   <td>
@@ -35,19 +35,21 @@ L’application de référence pour créer de superbes documents pour l’impres
       <img alt="Partage pour révision depuis l’InDesign" src="../assets/indesign_shareforreview_palmer_thumbnail.jpg" />
    </a>
     <div>
-   <a href="indesign.md#tutorial2"><strong>Partage pour révision depuis l’InDesign</strong></a>
+   <a href="indesign.md#tutorial2"><strong>Partager pour révision à partir de l'InDesign</strong></a>
     </div>
-    <em>Une expérience de révision créative transparente pour les concepteurs et les membres de leur équipe</em>
+    <em>Expérience de révision créative transparente pour les designers et les membres de leur équipe</em>
     <br>
   </td>
   <td>
     <a href="indesign.md#tutorial3">
-        <img alt="Importation de commentaires de PDF à partir d’une révision de Document Cloud" src="../assets/indesign_pdfcomments_murphy_thumbnail.jpg" />
+        <img alt="Importation de commentaires de PDF à partir d’un document 
+Révision dans le cloud" src="../assets/indesign_pdfcomments_murphy_thumbnail.jpg" />
     </a>
     <div>
-    <a href="indesign.md#tutorial3"><strong>Importation de commentaires de PDF à partir d’une révision de Document Cloud</strong></a>
+    <a href="indesign.md#tutorial3"><strong>Importer des commentaires de PDF à partir d'un document 
+Révision dans le cloud</strong></a>
     </div>
-    <em>Importer des commentaires d’un PDF directement dans l’InDesign et appliquer rapidement les modifications demandées</em>
+    <em>Importez des commentaires d'un PDF directement dans l'InDesign et appliquez rapidement les modifications demandées</em>
     <br>
   </td>
 </tr>
@@ -57,9 +59,9 @@ L’application de référence pour créer de superbes documents pour l’impres
       <img alt="Ajouter un fichier vidéo au document InDesign" src="../assets/indesign_video_sokol_thumbnail.jpg" />
    </a>
     <div>
-   <a href="indesign.md#tutorial4"><strong>Ajouter un fichier vidéo au document InDesign</strong></a>
+   <a href="indesign.md#tutorial4"><strong>Ajouter un fichier vidéo au document d'InDesign</strong></a>
     </div>
-    <em>Ajoutez une vidéo à l’InDesign. Sortie dans le PDF et publication en ligne</em>
+    <em>Ajouter une vidéo à l’InDesign. Sortie dans le PDF et publication en ligne</em>
     <br>
   </td>
  <td>
@@ -103,7 +105,7 @@ Dans ce tutoriel, vous apprendrez à :
 * Recueillez les commentaires de plusieurs parties prenantes au même endroit
 * Gérez les commentaires dans l’application où les modifications peuvent être apportées immédiatement.
 
-**PDF de comparaison des options de commentaire et de révision de l’Adobe**
+**PDF de comparaison des options de commentaire et de révision de l&#39;Adobe**
 
 [![Image de comparaison](../assets/ComparisonPDF_thumbnail_96.png)](../assets/Adobe_Review_and_Comment_Comparisons.pdf)
 
@@ -121,7 +123,7 @@ Dans ce tutoriel, vous apprendrez à :
 * Prend en charge les workflows de commentaire de PDF existants
 * Fonctionne pour les PDF combinés à partir de plusieurs sources
 
-**PDF de comparaison des options de commentaire et de révision de l’Adobe**
+**PDF de comparaison des options de commentaire et de révision de l&#39;Adobe**
 
 [![Image de comparaison](../assets/ComparisonPDF_thumbnail_96.png)](../assets/Adobe_Review_and_Comment_Comparisons.pdf)
 
@@ -144,10 +146,10 @@ Patti Sokol, conseillère principale en solutions (médias numériques)
 
 ![Logo InDesign](../assets/id_appicon_96.png)
 
-**Ressources InDesign**
+**Ressources d&#39;InDesign**
 
-[Formation et assistance](https://helpx.adobe.com/support/indesign.html) est votre point de référence pour les tutoriels supplémentaires, [Nouveautés](https://helpx.adobe.com/indesign/user-guide.html/indesign/using/whats-new.ug.html)et des liens vers les forums de la communauté.
+[Formation et assistance](https://helpx.adobe.com/support/indesign.html) est votre point central pour consulter d&#39;autres tutoriels, les [Nouveautés](https://helpx.adobe.com/indesign/user-guide.html/indesign/using/whats-new.ug.html) et des liens vers les forums de la communauté.
 
-**Version d’octobre 2020**
+**Version D&#39;Octobre 2020**
 
 Commencez à utiliser ces fonctionnalités (et bien plus encore !) en téléchargeant la dernière mise à jour depuis l’application de bureau Creative Cloud.

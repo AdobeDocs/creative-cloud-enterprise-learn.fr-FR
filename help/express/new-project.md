@@ -5,7 +5,8 @@ feature: Graphic Design
 role: User
 level: Beginner
 jira: KT-14822
-source-git-commit: a21ff3b9340b44320272e6e66248d9589655ae2b
+exl-id: 459c74ac-7b91-4b56-9957-f48603ee0a8e
+source-git-commit: 5067e02da7d74d366c797e81a6a5d0ee9ac69feb
 workflow-type: tm+mt
 source-wordcount: '94'
 ht-degree: 0%
@@ -87,4 +88,3 @@ Découvrez comment créer un tout nouveau projet à partir de zéro en utilisant
    </td>
 </tr>
 </table>
-

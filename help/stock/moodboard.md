@@ -1,6 +1,6 @@
 ---
-title: Créez des planches de tendances originales en un temps record avec Adobe [!DNL Stock]
-description: Créez une planche de tendances pour communiquer des informations, des idées, des visuels et des palettes de couleurs à vos équipes/clients
+title: Créez des planches d'ambiance inspirantes en un rien de temps avec Adobe [!DNL Stock]
+description: Créez une planche d’ambiance de projet pour transmettre des informations, des idées, des visuels et des palettes de couleurs aux équipes/clients.
 feature: Licensable Assets
 role: User
 level: Beginner, Intermediate
@@ -13,8 +13,8 @@ ht-degree: 0%
 
 ---
 
-# Créez des planches de tendances originales en un temps record avec Adobe [!DNL Stock]
+# Créez des planches d&#39;ambiance inspirantes en un rien de temps avec l&#39;Adobe [!DNL Stock]
 
-Créez une planche de tendances pour communiquer des informations, des idées, des visuels et des palettes de couleurs à vos équipes/clients.
+Créez une planche d’ambiance de projet pour transmettre des informations, des idées, des visuels et des palettes de couleurs aux équipes/clients.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331816?hidetitle=true)

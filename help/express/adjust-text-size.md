@@ -1,6 +1,6 @@
 ---
 title: Ajuster la taille du texte
-description: Apprenez à agrandir et à réduire un texte
+description: Apprenez à agrandir et à réduire le texte
 feature: Graphic Design
 role: User
 level: Beginner
@@ -11,8 +11,8 @@ ht-degree: 0%
 
 ---
 
-# Ajustement de la taille du texte
+# Ajuster la taille du texte
 
-Découvrez comment agrandir et réduire un texte.
+Apprenez à agrandir et à réduire le texte.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3420213?quality=12&learn=on&hidetitle=true)

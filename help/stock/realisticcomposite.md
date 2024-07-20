@@ -1,6 +1,6 @@
 ---
-title: Création de compositions photographiques réalistes avec Adobe [!DNL Stock] images
-description: Réunissez deux grands Adobes [!DNL Stock] des photos pour attirer l'attention sur vos publications
+title: Créer des compositions photo réalistes avec des images Adobes [!DNL Stock] x
+description: Rassemblez deux superbes photos d'Adobe [!DNL Stock] pour attirer les gens dans vos publications sur les réseaux sociaux
 feature: Licensable Assets
 role: User
 level: Beginner, Intermediate
@@ -13,8 +13,8 @@ ht-degree: 0%
 
 ---
 
-# Création de compositions photographiques réalistes avec Adobe [!DNL Stock] images
+# Créer des compositions photo réalistes avec des images Adobes [!DNL Stock]
 
-Réunissez deux grands Adobes [!DNL Stock] des photos pour attirer l&#39;attention sur vos publications.
+Rassemblez deux superbes photos d&#39;Adobe [!DNL Stock] pour attirer les gens dans vos publications sur les réseaux sociaux.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331836?hidetitle=true)

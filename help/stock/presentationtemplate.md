@@ -1,6 +1,6 @@
 ---
-title: Personnalisation d’un Adobe [!DNL Stock] un template de présentation à la fois professionnel et accrocheur
-description: Créez une superbe présentation stylisée en quelques minutes à l'aide d'images et de templates Adobe [!DNL Stock] et quelques effets spéciaux faciles à réaliser
+title: Personnalisation d'un modèle de présentation Adobe [!DNL Stock] professionnel, mais accrocheur
+description: Créez une superbe présentation stylisée en quelques minutes avec des images et des modèles d'Adobe [!DNL Stock] , ainsi que des effets spéciaux faciles à appliquer
 feature: Licensable Assets
 role: User
 level: Beginner, Intermediate
@@ -13,8 +13,8 @@ ht-degree: 0%
 
 ---
 
-# Personnalisation d’un Adobe [!DNL Stock] un template de présentation à la fois professionnel et accrocheur
+# Personnalisation d&#39;un modèle de présentation Adobe [!DNL Stock] pour lui donner un aspect professionnel, mais néanmoins attrayant
 
-Créez une superbe présentation stylisée en quelques minutes à l&#39;aide d&#39;images et de templates Adobe [!DNL Stock] et des effets spéciaux faciles à réaliser.
+Créez une superbe présentation stylisée en quelques minutes avec des images et des modèles de l&#39;Adobe [!DNL Stock] et quelques effets spéciaux faciles à appliquer.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331837?hidetitle=true)

@@ -7,7 +7,7 @@ level: Beginner, Intermediate
 exl-id: 7b7defa1-d2fb-4908-a605-4696fceeb467
 source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
 workflow-type: tm+mt
-source-wordcount: '611'
+source-wordcount: '610'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,7 @@ Avec Adobe Document Cloud, qui comprend les meilleures solutions de PDF et de si
       <img alt="Lancement d’une révision partagée Acrobat" src="../assets/acrobat_sharedreview_armstrong.jpg" />
    </a>
     <div>
-   <a href="acrobat-sign.md#tutorial1"><strong>Lancement d’une révision partagée Acrobat</strong></a>
+   <a href="acrobat-sign.md#tutorial1"><strong>Lancement d'une révision partagée Acrobat</strong></a>
     </div>
     <em>Inviter les réviseurs à ajouter leurs commentaires à un document de PDF</em>
     <br>
@@ -35,7 +35,7 @@ Avec Adobe Document Cloud, qui comprend les meilleures solutions de PDF et de si
         <img alt="Création de Forms de renonciation en ligne avec Adobe Sign" src="../assets/sign_webforms_palmer-kobey_thumbnail.jpg" />
     </a>
     <div>
-    <a href="acrobat-sign.md#tutorial2"><strong>Création de Forms de renonciation en ligne avec Adobe Sign</strong></a>
+    <a href="acrobat-sign.md#tutorial2"><strong>Créer une exemption en ligne Forms avec Adobe Sign</strong></a>
     </div>
     <em>Convertissez rapidement des documents en formulaires en ligne et publiez-les en ligne où toute personne qui en a besoin peut les remplir et les signer</em>
     <br>
@@ -59,7 +59,7 @@ Avec Adobe Document Cloud, qui comprend les meilleures solutions de PDF et de si
     <div>
    <a href="acrobat-sign.md#tutorial4"><strong>Afficher les menus sur mobile avec Liquid Mode</strong></a>
     </div>
-    <em>Utilisation de Liquid Mode pour améliorer l’expérience de lecture de PDF sur les appareils mobiles</em>
+    <em>Utilisez Liquid Mode pour améliorer l’expérience de lecture de PDF sur les appareils mobiles</em>
     <br>
   </td>
   <td>
@@ -69,7 +69,7 @@ Avec Adobe Document Cloud, qui comprend les meilleures solutions de PDF et de si
     <div>
     <a href="acrobat-sign.md#tutorial5"><strong>Numériser des documents vers des PDF à partir de votre téléphone mobile</strong></a>
     </div>
-    <em>Avec Adobe Scan, capturez et convertissez facilement des documents, formulaires, cartes de visite et tableaux blancs en PDF d’Adobe de haute qualité</em>
+    <em>Avec Adobe Scan, capturez et convertissez facilement des documents, des formulaires, des cartes de visite et des tableaux blancs en PDF d’Adobe de haute qualité</em>
     <br>
   </td>
   <td>
@@ -92,12 +92,13 @@ Dans ce tutoriel, vous apprendrez à :
 * Rassembler des commentaires au même endroit
 * Les commentaires simultanés encouragent la collaboration
 
-**PDF de comparaison des options de commentaire et de révision de l’Adobe**
+**PDF de comparaison des options de commentaire et de révision de l&#39;Adobe**
 
 [![Image de comparaison](../assets/ComparisonPDF_thumbnail_96.png)](../assets/Adobe_Review_and_Comment_Comparisons.pdf)
 
 **Présenté par :**
-Dan Armstrong, conseiller en solutions (médias numériques) Rick Borstein, gestionnaire principal, Conseil en solutions (médias numériques)
+Dan Armstrong, conseiller en solutions (médias numériques)
+Rick Borstein, gestionnaire principal, Conseil en solutions (médias numériques)
 
 ## Création de Forms de renonciation en ligne avec Adobe Sign (5:19) {#tutorial2}
 
@@ -112,7 +113,8 @@ Dans ce tutoriel, vous apprendrez à :
 * Les formulaires remplis sont automatiquement archivés pour vos dossiers
 
 **Présenté par :**
-Taylor Kobey, conseillère en solutions (médias numériques) Emily Palmer, conseillère en solutions (médias numériques)
+Taylor Kobey, Conseiller en solutions (médias numériques)
+Emily Palmer, conseillère en solutions (médias numériques)
 
 ## Demander une signature avec Adobe Sign (3:21) {#tutorial3}
 
@@ -157,12 +159,12 @@ Dans ce tutoriel, vous apprendrez à :
 **Présenté par :**
 Emilie Enke, conseillère en solutions associées (médias numériques)
 
-![Logo DC](../assets/Doc-Cloud-256.png)
+Logo ![DC](../assets/Doc-Cloud-256.png)
 
 **Ressources Acrobat et Adobe Sign**
 
-[Formation et assistance](https://helpx.adobe.com/support/document-cloud.html) est votre point de référence pour les tutoriels supplémentaires, [Nouveautés](https://helpx.adobe.com/acrobat/using/whats-new.html)et des liens vers les forums de la communauté.
+[Formation et assistance](https://helpx.adobe.com/support/document-cloud.html) est votre point central pour consulter d&#39;autres tutoriels, les [Nouveautés](https://helpx.adobe.com/acrobat/using/whats-new.html) et des liens vers les forums de la communauté.
 
-**Version d’octobre 2020**
+**Version D&#39;Octobre 2020**
 
 Commencez à utiliser ces fonctionnalités (et bien plus encore !) en téléchargeant la dernière mise à jour depuis l’application de bureau Creative Cloud.

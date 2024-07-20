@@ -1,6 +1,6 @@
 ---
-title: Commencez votre rapport annuel par une vidéo sur Adobe [!DNL Stock] et Spark Video
-description: Créez un récit avec Adobe dans votre rapport annuel [!DNL Stock] et Spark Video
+title: Commencez votre rapport annuel avec une vidéo créée avec Adobe [!DNL Stock]  et Spark Video
+description: Transformez votre rapport annuel en article avec Adobe [!DNL Stock]  et Spark Video
 feature: Licensable Assets
 role: User
 level: Beginner, Intermediate
@@ -13,8 +13,8 @@ ht-degree: 0%
 
 ---
 
-# Commencez votre rapport annuel par une vidéo sur Adobe [!DNL Stock] et Spark Video
+# Commencez votre rapport annuel avec une vidéo créée avec l’Adobe [!DNL Stock] et Spark Video
 
-Créez un récit avec Adobe dans votre rapport annuel [!DNL Stock] et Spark Video.
+Transformez votre rapport annuel en article avec Adobe [!DNL Stock] et Spark Video.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331808?hidetitle=true)

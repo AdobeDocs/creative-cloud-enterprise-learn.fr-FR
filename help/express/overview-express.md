@@ -1,6 +1,6 @@
 ---
 title: Adobe [!DNL Express] Présentation
-description: Mise à jour de l’Adobe [!DNL Express]
+description: Se tenir au courant de l'Adobe [!DNL Express]
 feature: Graphic Design, Image Editing, Integrations, Gen AI
 role: User
 level: Beginner, Intermediate
@@ -13,7 +13,7 @@ ht-degree: 10%
 
 ---
 
-# Adobe [!DNL Express] présentation
+# Présentation de l&#39;Adobe [!DNL Express]
 
 Créez des vidéos, des flyers, des CV, des bannières, des logos et d’autres visuels dans Reels et TikTok avec la nouvelle application d’Adobe Express tout-en-un pour créer du contenu rapidement et facilement. Faites un travail étonnant qui se démarque grâce aux fonctionnalités d’IA générative optimisées par l’Adobe Firefly.
 
@@ -21,7 +21,7 @@ Créez des vidéos, des flyers, des CV, des bannières, des logos et d’autres 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3420225?quality=12&learn=on&hidetitle=true)
 
-## Adobe [!DNL Express] tutoriels
+## Adobe des tutoriels [!DNL Express]
 
 <table style="table-layout:fixed">
 <tr>

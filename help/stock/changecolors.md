@@ -1,6 +1,6 @@
 ---
-title: Modification d’un Adobe [!DNL Stock] les couleurs de l'image pour votre récit
-description: Renforcez l'impact d'une image de qualité pour illustrer votre message. Recherche d'une photo originale dans Adobe [!DNL Stock] puis ajustez la couleur dans Adobe Photoshop en fonction de vos besoins
+title: Modifier les couleurs d'une image d'Adobe [!DNL Stock] pour qu'elles correspondent à votre story
+description: Rendez une excellente image encore plus efficace pour soutenir votre message. Recherchez une photo unique dans Adobe [!DNL Stock] , puis ajustez la couleur dans Adobe Photoshop en fonction de vos besoins
 feature: Licensable Assets, Image Editing
 role: User
 level: Beginner, Intermediate
@@ -13,8 +13,8 @@ ht-degree: 0%
 
 ---
 
-# Modification d’un Adobe [!DNL Stock] les couleurs de l&#39;image pour votre récit
+# Modifier les couleurs d&#39;une image [!DNL Stock] Adobe pour qu&#39;elles correspondent à votre story
 
-Renforcez l&#39;impact d&#39;une image de qualité pour illustrer votre message. Recherche d&#39;une photo originale dans Adobe [!DNL Stock] puis ajustez la couleur dans Adobe Photoshop en fonction de vos besoins.
+Rendez une excellente image encore plus efficace pour soutenir votre message. Recherchez une photo unique dans l&#39;Adobe [!DNL Stock], puis ajustez la couleur dans Adobe Photoshop en fonction de vos besoins.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331810?hidetitle=true)

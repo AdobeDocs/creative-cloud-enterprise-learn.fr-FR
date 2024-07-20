@@ -26,7 +26,7 @@ Donnez vie à vos idées avec des applications et des logiciels Adobes pour le m
     <div>
    <a href="motion-graphics-templates.md"><strong>Modèles d’animations graphiques professionnels</strong></a>
     </div>
-    <em>Les modèles d’animations graphiques (.mogrt) sont un moyen collaboratif et efficace de créer des packages d’animations graphiques personnalisables : titres, animations de logo, tiers inférieurs et de les partager avec des équipes de rédaction</em>
+    <em>Les modèles d’animations graphiques (.mogrt) sont un moyen collaboratif et efficace de créer des packages d’animations graphiques personnalisables : titres, animations de logo, tiers inférieurs et de les partager avec des équipes éditoriales</em>
     <br>
   </td>
   <td>
@@ -36,7 +36,7 @@ Donnez vie à vos idées avec des applications et des logiciels Adobes pour le m
     <div>
    <a href="video-review-frame-io.md"><strong>Révision vidéo avec Frame.io</strong></a>
     </div>
-    <em>Découvrez comment l’extension Frame.io pour Adobe Premiere Pro vous permet de centraliser et de partager des actifs, de recevoir des commentaires en temps réel, de suivre les révisions et d’obtenir des approbations plus rapides, le tout sans quitter le journal</em>
+    <em>Découvrez comment l’extension Frame.io pour Adobe Premiere Pro vous permet de centraliser et de partager des ressources, de recevoir des commentaires en temps réel, de suivre les révisions et d’obtenir des approbations plus rapides, le tout sans quitter le montage</em>
     <br>
   </td>
   <td>

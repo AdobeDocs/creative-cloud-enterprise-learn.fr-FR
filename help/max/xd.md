@@ -7,7 +7,7 @@ level: Beginner, Intermediate
 exl-id: 89b621a6-083c-4e1b-b23a-f4ba73e6755f
 source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
 workflow-type: tm+mt
-source-wordcount: '709'
+source-wordcount: '708'
 ht-degree: 0%
 
 ---
@@ -25,9 +25,9 @@ Adobe XD est un outil de conception et de prototypage d’expérience utilisateu
       <img alt="Création de composants avec des états de survol" src="../assets/Xd_hoverstates_components_thumbnail.jpg" />
    </a>
     <div>
-   <a href="xd.md#tutorial1"><strong>Création de composants avec des états de survol</strong></a>
+   <a href="xd.md#tutorial1"><strong>Créer des composants avec des états de survol</strong></a>
     </div>
-    <em>Création de boutons réutilisables et redimensionnables dynamiquement pour vos conceptions interactives</em>
+    <em>Créez des boutons réutilisables et redimensionnables dynamiquement pour vos conceptions interactives</em>
     <br>
   </td>
   <td>
@@ -35,9 +35,9 @@ Adobe XD est un outil de conception et de prototypage d’expérience utilisateu
         <img alt="Création et remplissage d’une grille de répétition" src="../assets/XD_repeatgrid_thumbnail.jpg" />
     </a>
     <div>
-    <a href="xd.md#tutorial2"><strong>Création et remplissage d’une grille de répétition</strong></a>
+    <a href="xd.md#tutorial2"><strong>Créer et remplir une grille de répétition</strong></a>
     </div>
-    <em>Transformez un élément unique en grilles répétées d’un simple clic et glisser-déposer</em>
+    <em>Transformez un élément unique en grilles répétitives d'un simple clic</em>
     <br>
   </td>
   <td>
@@ -47,19 +47,21 @@ Adobe XD est un outil de conception et de prototypage d’expérience utilisateu
     <div>
     <a href="xd.md#tutorial3"><strong>Utilisation des piles</strong></a>
     </div>
-    <em>Utilisation de la propriété stack pour réorganiser facilement les éléments</em>
+    <em>Utilisez la propriété stack pour réorganiser facilement les éléments</em>
     <br>
   </td>
 </tr>
 <tr>
  <td>
     <a href="xd.md#tutorial4">
-        <img alt="Créer un prototype : liens d’ancrage et groupes de défilement" src="../assets/XD_Scrolls_Thumbnail_Murphy.jpg" />
+        <img alt="Création d’un prototype : liens d’ancrage 
+Groupes de défilement" src="../assets/XD_Scrolls_Thumbnail_Murphy.jpg" />
     </a>
     <div>
-    <a href="xd.md#tutorial4"><strong>Créer un prototype : liens d’ancrage et groupes de défilement</strong></a>
+    <a href="xd.md#tutorial4"><strong>Créer un prototype : liens d’ancrage et 
+Groupes défilants</strong></a>
     </div>
-    <em>Ajout de fonctions de navigation et de défilement à un prototype</em>
+    <em>Ajouter la navigation et le défilement à un prototype</em>
     <br>
   </td>
   <td>
@@ -67,9 +69,9 @@ Adobe XD est un outil de conception et de prototypage d’expérience utilisateu
         <img alt="Création d’un prototype : états de composant interactif" src="../assets/XD_interactiveprototypes_enke.jpg" />
     </a>
     <div>
-    <a href="xd.md#tutorial5"><strong>Création d’un prototype : états de composant interactif</strong></a>
+    <a href="xd.md#tutorial5"><strong>Créer un prototype : états de composant interactif</strong></a>
     </div>
-    <em>Ajouter de l’interactivité et un menu d’incrustation à un prototype</em>
+    <em>Ajouter de l'interactivité et un menu d'incrustation à un prototype</em>
     <br>
   </td>
   <td>
@@ -77,9 +79,9 @@ Adobe XD est un outil de conception et de prototypage d’expérience utilisateu
       <img alt="E-mail : créer et remplir une grille de répétition" src="../assets/xd_repeat_torres.jpg" />
    </a>
     <div>
-   <a href="xd.md#tutorial7"><strong>E-mail : créer et remplir une grille de répétition</strong></a>
+   <a href="xd.md#tutorial7"><strong>E-mail : création et remplissage d'une grille de répétition</strong></a>
     </div>
-    <em>Transformez un élément unique en grilles répétées d’un simple clic et glisser-déposer</em>
+    <em>Transformez un élément unique en grilles répétitives d'un simple clic</em>
     <br>
   </td>
 </tr>
@@ -91,7 +93,7 @@ Adobe XD est un outil de conception et de prototypage d’expérience utilisateu
     <div>
     <a href="xd.md#tutorial7"><strong>E-mail - Utilisation des piles</strong></a>
     </div>
-    <em>Utilisation de la propriété stack pour réorganiser facilement les éléments</em>
+    <em>Utilisez la propriété stack pour réorganiser facilement les éléments</em>
     <br>
   </td>
   <td>
@@ -107,7 +109,7 @@ Adobe XD est un outil de conception et de prototypage d’expérience utilisateu
 </tr>
 </table>
 
-## Créer [!UICONTROL Composants] avec États de survol (7:35) {#tutorial1}
+## Créer des [!UICONTROL composants] avec des états de survol (7:35) {#tutorial1}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326874?hidetitle=true)
 
@@ -208,12 +210,12 @@ Dans ce tutoriel, vous apprendrez à :
 **Présenté par :**
 Victoria Torres, conseillère en solutions (médias numériques)
 
-![Logo XD](../assets/xd_appicon_96.png)
+Logo ![XD](../assets/xd_appicon_96.png)
 
 **Ressources XD**
 
-[Formation et assistance](https://helpx.adobe.com/support/xd.html) est votre point de référence pour les tutoriels supplémentaires, [Nouveautés](https://helpx.adobe.com/xd/user-guide.html/xd/help/whats-new.ug.html)et des liens vers les forums de la communauté.
+[Formation et assistance](https://helpx.adobe.com/support/xd.html) est votre point central pour consulter d&#39;autres tutoriels, les [Nouveautés](https://helpx.adobe.com/xd/user-guide.html/xd/help/whats-new.ug.html) et des liens vers les forums de la communauté.
 
-**Version d’octobre 2020**
+**Version D&#39;Octobre 2020**
 
 Commencez à utiliser ces fonctionnalités (et bien plus encore !) en téléchargeant la dernière mise à jour depuis l’application de bureau Creative Cloud.

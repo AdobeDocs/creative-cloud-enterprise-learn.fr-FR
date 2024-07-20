@@ -1,18 +1,18 @@
 ---
-title: InDesign Server 
-description: Le logiciel serveur Adobe&reg ; InDesign&reg ; fournit un Adobe robuste et évolutif qui exploite les fonctionnalités de conception, de mise en page et typographiques d'InDesign pour vous permettre de créer des documents automatisés attrayants par programmation
+title: InDesign Server
+description: Le logiciel serveur Adobe&amp ;reg ; InDesign&amp ;reg ; fournit un Adobe robuste et évolutif qui exploite les fonctionnalités de conception, de mise en page et typographiques d'InDesign pour vous permettre de créer des documents automatisés attrayants par programmation
 feature: Graphic Design
 role: User
 level: Beginner, Intermediate
 exl-id: 534124fb-a903-430e-ad56-f124e4f024a0
 source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
 workflow-type: tm+mt
-source-wordcount: '269'
-ht-degree: 1%
+source-wordcount: '250'
+ht-degree: 0%
 
 ---
 
-# InDesign Server 
+# InDesign Server
 
 Le logiciel Adobe InDesign® Server offre un moteur robuste et évolutif qui exploite les fonctionnalités de conception, de mise en page et typographiques d’InDesign pour vous permettre de créer des documents automatisés attrayants par programmation.
 
@@ -25,9 +25,9 @@ Le logiciel Adobe InDesign® Server offre un moteur robuste et évolutif qui exp
       <img alt="Contenu d’InDesign Server piloté par les données" src="../assets/dataDriven-InDesign-Server-Content.jpg" />
    </a>
     <div>
-   <a href="indesignserver.md#tutorial1"><strong>Contenu d’InDesign Server piloté par les données</strong></a>
+   <a href="indesignserver.md#tutorial1"><strong>Contenu InDesign Server Piloté Par Les Données</strong></a>
     </div>
-    <em>La conception orientée données peut être réalisée, par programmation, avec InDesign Server</em>
+    La conception orientée données <em>peut être réalisée, par programmation, avec l'InDesign Server</em>
     <br>
   </td>
   <td>
@@ -67,7 +67,7 @@ Eric Rowse, Conseiller principal en solutions (médias numériques)
       <img alt="InDesign Server : Guide d’achat" src="../assets/IDS_Thumbnail.jpg" />
    </a>
     <div>
-   <a href="https://www.adobe.com/products/indesignserver/buying-guide.html"><strong>InDesign Server : Guide d’achat</strong></a>
+   <a href="https://www.adobe.com/products/indesignserver/buying-guide.html"><strong>InDesign Server : Guide d'achat</strong></a>
     </div>
     <em>Ressources disponibles pour les développeurs ou partenaires internes</em>
     <br>
@@ -79,7 +79,7 @@ Eric Rowse, Conseiller principal en solutions (médias numériques)
     <div>
    <a href="https://www.adobe.com/products/indesignserver/partner.html"><strong>InDesign Server : Rechercher un partenaire</strong></a>
     </div>
-    <em>Bien que vous disposiez de l'expertise nécessaire pour vous développer en interne, Adobe recommande de travailler avec des partenaires pour trouver la solution qui répond à vos besoins</em>
+    <em>Bien que vous disposiez de l'expertise nécessaire pour vous développer en interne, Adobe vous recommande de travailler avec des partenaires pour trouver la solution adaptée à vos besoins</em>
     <br>
   </td>
   <td>
@@ -90,12 +90,12 @@ Eric Rowse, Conseiller principal en solutions (médias numériques)
 </tr>
 </table>
 
-![Logo d’InDesign Server](../assets/id_server_appicon_96.png)
+Logo ![InDesign Server](../assets/id_server_appicon_96.png)
 
-**Ressources InDesign Server**
+**Ressources d&#39;InDesign Server**
 
-[Formation et assistance](https://www.adobe.com/products/indesignserver.html) est votre point de référence pour les tutoriels supplémentaires, les Nouveautés et les liens vers les forums de la communauté.
+[Formation et assistance](https://www.adobe.com/products/indesignserver.html) est votre point de contact pour accéder à des tutoriels supplémentaires, aux nouveautés et aux liens vers les forums de la communauté.
 
-**Version d’octobre 2020**
+**Version D&#39;Octobre 2020**
 
 Commencez à utiliser ces fonctionnalités (et bien plus encore !) en téléchargeant la dernière mise à jour depuis l’application de bureau Creative Cloud.

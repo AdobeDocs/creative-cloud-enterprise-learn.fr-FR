@@ -1,6 +1,6 @@
 ---
-title: Création d’un collage 3D pour une affiche à l’aide d’Adobe [!DNL Stock] images
-description: Créez un collage dans Adobe Illustrator qui intègre un effet 3D attrayant à partir d'images d'Adobe [!DNL Stock]
+title: Créer un collage 3D pour une affiche à l'aide d'images Adobes [!DNL Stock] x
+description: Créez un collage dans Adobe Illustrator qui présente un effet 3D accrocheur à partir d'images dans Adobe [!DNL Stock]
 feature: Licensable Assets, 3D
 role: User
 level: Beginner, Intermediate
@@ -13,8 +13,8 @@ ht-degree: 0%
 
 ---
 
-# Création d’un collage 3D pour une affiche à l’aide d’Adobe [!DNL Stock] images
+# Créer un collage 3D pour une affiche à l&#39;aide d&#39;images Adobes [!DNL Stock]
 
-Créez des affiches qui attirent l&#39;attention. Recherche d’images pertinentes dans Adobe [!DNL Stock] et créez un collage dans Adobe Illustrator avec un effet 3D attrayant.
+Créez des affiches qui attirent l’attention. Trouvez des images pertinentes dans l&#39;Adobe [!DNL Stock] et créez un collage dans Adobe Illustrator qui présente un effet 3D accrocheur.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331805?hidetitle=true)

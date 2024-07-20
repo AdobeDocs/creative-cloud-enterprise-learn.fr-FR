@@ -7,7 +7,7 @@ level: Beginner, Intermediate
 exl-id: 5a45d334-3581-4b85-acb6-57764efa6f0a
 source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
 workflow-type: tm+mt
-source-wordcount: '150'
+source-wordcount: '151'
 ht-degree: 8%
 
 ---
@@ -22,12 +22,14 @@ L’application pour postes de travail Creative Cloud est le point central de la
 <tr>
  <td>
    <a href="creativeclouddesktopapp.md#tutorial1">
-      <img alt="Explorez l’application de bureau CC : votre hub pour le Creative Cloud" src="../assets/ccda_overview_sokol_thumbnail.jpg" />
+      <img alt="Explorez l’application de bureau CC : votre hub pour 
+Creative Cloud" src="../assets/ccda_overview_sokol_thumbnail.jpg" />
    </a>
     <div>
-   <a href="creativeclouddesktopapp.md#tutorial1"><strong>Explorez l’application de bureau CC : votre hub pour le Creative Cloud</strong></a>
+   <a href="creativeclouddesktopapp.md#tutorial1"><strong>Explorez l’application de bureau CC : votre hub pour 
+Creative Cloud</strong></a>
     </div>
-    <em>L’application pour postes de travail Creative Cloud est le point central de la gestion des applications, services et collaborations CC, et plus encore !</em>
+    <em>L’application de bureau Creative Cloud est votre point central pour gérer les applications, les services et la collaboration CC, et plus encore !</em>
     <br>
   </td>
   <td>

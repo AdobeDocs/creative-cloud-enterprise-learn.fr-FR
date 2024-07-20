@@ -1,6 +1,6 @@
 ---
-title: Ajout d’un dessin à la main à un Adobe [!DNL Stock] images
-description: Dynamisez votre marketing créatif en ajoutant de la profondeur à vos images grâce à des techniques originales dans Photoshop pour iPad
+title: Ajout d'une esthétique dessinée à la main à des images d'Adobes [!DNL Stock] créatives
+description: Renforcez votre marketing créatif avec des techniques uniques qui ajoutent de la profondeur et de la dimension à vos images à l’aide de Photoshop pour iPad
 feature: Licensable Assets, Image Editing
 role: User
 level: Beginner, Intermediate
@@ -13,8 +13,8 @@ ht-degree: 0%
 
 ---
 
-# Ajout d’un dessin à la main à un Adobe [!DNL Stock] images
+# Ajouter une esthétique dessinée à la main aux images [!DNL Stock] Adobes
 
-Dynamisez votre marketing créatif en ajoutant de la profondeur à vos images grâce à des techniques originales dans Photoshop pour iPad.
+Dynamisez votre marketing créatif avec des techniques uniques qui ajoutent de la profondeur et de la dimension à vos images à l’aide de Photoshop pour iPad.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331819?hidetitle=true)

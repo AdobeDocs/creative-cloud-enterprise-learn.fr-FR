@@ -1,6 +1,6 @@
 ---
-title: Création d’un motif surréaliste avec Adobe [!DNL Stock]
-description: Création d'un superbe motif à partir d'images surréalistes d'Adobe [!DNL Stock]
+title: Créer un motif semi-surréaliste avec l'Adobe [!DNL Stock]
+description: Créez un magnifique motif fluide à partir d'images surréalistes d'Adobe [!DNL Stock]
 feature: Licensable Assets
 role: User
 level: Beginner, Intermediate
@@ -13,8 +13,8 @@ ht-degree: 0%
 
 ---
 
-# Création d’un motif surréaliste avec Adobe [!DNL Stock]
+# Créer un motif semi-surréaliste avec l&#39;Adobe [!DNL Stock]
 
-Création d&#39;un superbe motif à partir d&#39;images surréalistes d&#39;Adobe [!DNL Stock].
+Créez un magnifique motif fluide à partir d&#39;images surréalistes de l&#39;Adobe [!DNL Stock].
 
 >[!VIDEO](https://video.tv.adobe.com/v/331825?hidetitle=true)

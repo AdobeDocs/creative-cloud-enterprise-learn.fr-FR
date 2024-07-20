@@ -1,6 +1,6 @@
 ---
-title: Partage de ressources de branding avec les bibliothèques de Creative Cloud pour les équipes
-description: Découvrez comment créer, utiliser et partager des ressources de branding pour votre groupe ou votre équipe à l’aide des bibliothèques de Creative Cloud pour les équipes
+title: Partage de ressources de marque avec les bibliothèques Creative Cloud abonnement Équipe
+description: Découvrez comment créer, utiliser et partager des ressources de marque pour votre groupe ou équipe à l’aide des bibliothèques Creative Cloud abonnement Équipe
 feature: Integrations
 role: User
 level: Beginner, Intermediate
@@ -14,13 +14,13 @@ ht-degree: 0%
 
 ---
 
-# Partage de ressources de marque avec les Bibliothèques Creative Cloud pour les équipes
+# Partage de ressources de marque avec les bibliothèques Creative Cloud abonnement Équipe
 
-Découvrez comment créer, utiliser et partager des ressources de branding pour votre groupe ou votre équipe à l’aide des bibliothèques de Creative Cloud pour les équipes. Les ressources des bibliothèques de Creative Cloud pour les équipes sont stockées dans un emplacement central et ne sont pas liées au compte d’utilisateur individuel. Vous pouvez identifier les bibliothèques d’équipe par le ![image de construction](assets/Smock_Building_18_N.png) s’affiche.
+Découvrez comment créer, utiliser et partager des ressources de marque pour votre groupe ou équipe à l’aide des bibliothèques Creative Cloud abonnement Équipe. Les ressources des Bibliothèques Creative Cloud abonnement Équipe sont stockées dans un emplacement central et ne sont pas liées au compte d’utilisateur individuel. Vous pouvez identifier les bibliothèques d&#39;équipe en cliquant sur l&#39;icône ![créer une image](assets/Smock_Building_18_N.png).
 
 >[!TIP]
 >
->Utilisez les Bibliothèques Creative Cloud pour les équipes chaque fois que votre entreprise doit conserver la propriété des ressources de création. Voici quelques exemples : guide de style d’entreprise, projets partagés et éléments de design d’interface utilisateur.
+>Utilisez les bibliothèques Creative Cloud abonnement Équipe à tout moment où votre organisation doit conserver la propriété de ses ressources de création. Voici quelques exemples : guide de style d’entreprise, projets partagés et éléments de conception d’interface utilisateur.
 
 <br> 
 

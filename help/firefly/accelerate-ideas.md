@@ -15,7 +15,7 @@ ht-degree: 2%
 
 # Accélération de l’idéation créative
 
-Apprenez à visualiser rapidement des idées et à explorer des concepts pour des campagnes d’entreprise. L’accélération de l’idéation créative permet aux entreprises de produire du contenu de haute qualité à un rythme rapide. Essayer l’Adobe Firefly [ici](https://firefly.adobe.com/).
+Apprenez à visualiser rapidement des idées et à explorer des concepts pour des campagnes d’entreprise. L’accélération de l’idéation créative permet aux entreprises de produire du contenu de haute qualité à un rythme rapide. Essayez l&#39;Adobe Firefly [ici](https://firefly.adobe.com/).
 
 <br> 
 

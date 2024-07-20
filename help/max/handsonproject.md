@@ -7,7 +7,7 @@ level: Beginner, Intermediate
 exl-id: 7f755c1b-e45e-45a6-9dde-3ac81259aaf8
 source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
 workflow-type: tm+mt
-source-wordcount: '369'
+source-wordcount: '349'
 ht-degree: 0%
 
 ---
@@ -25,9 +25,9 @@ Ne serait-ce pas cool si vous pouviez personnaliser un masque de visage avec vot
       <img alt="Installation du module externe Photoshop Design to Print" src="../assets/d2p_install_sokol_thumbnail.jpg" />
    </a>
     <div>
-   <a href="handsonproject.md#tutorial1"><strong>Installation du module externe Photoshop Design to Print</strong></a>
+   <a href="handsonproject.md#tutorial1"><strong>Installer le plug-in Photoshop Design to Print</strong></a>
     </div>
-    <em>Utilisez les puissants outils de sélection et de modification des couleurs d’Adobe Photoshop pour modifier radicalement une image afin qu’elle corresponde aux besoins de votre marque d’entreprise</em>
+    <em>Utilisez les puissants outils de sélection et de modification des couleurs d'Adobe Photoshop pour modifier radicalement une image afin qu'elle corresponde aux besoins de votre marque d'entreprise</em>
     <br>
   </td>
   <td>
@@ -35,9 +35,9 @@ Ne serait-ce pas cool si vous pouviez personnaliser un masque de visage avec vot
         <img alt="Personnalisation d’un masque de visage avec Design to Print" src="../assets/d2p_faceMask_sokol_thumbnail.jpg" />
     </a>
     <div>
-    <a href="handsonproject.md#tutorial2"><strong>Personnalisation d’un masque de visage avec Design to Print</strong></a>
+    <a href="handsonproject.md#tutorial2"><strong>Personnalisation d'un masque de visage avec Design to Print</strong></a>
     </div>
-    <em>Personnalisez votre propre masque de visage Zazzle</em>
+    <em>Personnalisez votre propre masque Zazzle</em>
     <br>
   </td>
   <td>
@@ -45,9 +45,9 @@ Ne serait-ce pas cool si vous pouviez personnaliser un masque de visage avec vot
       <img alt="Création d’une visualisation 3D de votre masque facial" src="../assets/DN_faceMaskShare_sokol_thumbnail.jpg" />
    </a>
     <div>
-   <a href="handsonproject.md#tutorial3"><strong>Création d’une visualisation 3D de votre masque facial</strong></a>
+   <a href="handsonproject.md#tutorial3"><strong>Créer une visualisation 3D de votre masque facial</strong></a>
     </div>
-    <em>Création d’une visualisation 3D de votre masque facial pour la galerie d’événements</em>
+    <em>Créez une visualisation 3D de votre masque facial pour la galerie d’événements</em>
     <br>
   </td>
 </tr>
@@ -62,7 +62,7 @@ Découvrez comment installer le module externe Design to Print pour Photoshop.
 
 Dans ce tutoriel, vous apprendrez à :
 * Visualisez vos designs sur des produits tels que des vêtements, des accessoires, de la papeterie et des œuvres d’art murales en temps réel !
-* Publier sur le marché en ligne Dazzle
+* Publish sur la place de marché en ligne Dazzle
 
 **Présenté par :**
 Patti Sokol, conseillère principale en solutions (médias numériques)
@@ -76,11 +76,11 @@ Personnalisez votre propre masque de visage Zazzle
 
 Dans ce tutoriel, vous apprendrez à :
 * Visualisez vos designs sur des produits tels que des vêtements, des accessoires, de la papeterie et des œuvres d’art murales en temps réel !
-* Publier sur le marché en ligne Dazzle
+* Publish sur la place de marché en ligne Dazzle
 
-**Cliquez sur l’image pour télécharger le PDF Apprendre à concevoir pour imprimer**
+**Cliquez sur l&#39;image pour télécharger le PDF Apprendre le design à imprimer**
 
-[![Découvrir le design pour l’impression](../assets/LearnDesigntoPrint_96.png)](../assets/LearnDesigntoPrint.pdf)
+[![Apprendre le design à imprimer](../assets/LearnDesigntoPrint_96.png)](../assets/LearnDesigntoPrint.pdf)
 
 **Présenté par :**
 Patti Sokol, conseillère principale en solutions (médias numériques)
@@ -97,7 +97,7 @@ Dans ce tutoriel, vous apprendrez à :
 * Ajout de matières et contrôle de l’éclairage pour un aspect professionnel
 * Importation de fichiers pour appliquer votre marque ou d’autres designs
 
-**Cliquer sur l’image pour télécharger [!DNL Dimension] Fichier avec modèle 3D de masque blanc**
+**Cliquez sur l&#39;image pour télécharger le fichier [!DNL Dimension] avec un modèle 3D de masque blanc**
 
 [![Image de comparaison](../assets/whitemask_96.png)](https://stock.adobe.com/search/3d-assets?load_type=search&amp;native_visual_search=&amp;similar_content_id=&amp;is_recent_search=&amp;search_type=usertyped&amp;k=face+mask&amp;asset_id=324075591)
 

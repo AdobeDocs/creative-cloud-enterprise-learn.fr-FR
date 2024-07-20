@@ -1,6 +1,6 @@
 ---
 title: Création de cinémagraphes avec Photoshop
-description: Dans ce tutoriel vidéo d'atelier, créez une photo vivante en associant des images d'Adobe [!DNL Stock] avec des techniques de masquage astucieuses dans Photoshop
+description: Dans ce tutoriel vidéo d'atelier détaillé, réalisez une photo vivante en associant une vidéo d'Adobe [!DNL Stock] à des techniques de masquage intelligentes dans Photoshop
 feature: Image Editing
 role: User
 level: Beginner, Intermediate
@@ -14,12 +14,12 @@ ht-degree: 0%
 
 # Création de cinémagraphes avec Photoshop
 
-Dans ce tutoriel vidéo d&#39;atelier, créez une photo vivante en associant des images d&#39;Adobe [!DNL Stock] par des techniques de masquage astucieuses dans Photoshop.
+Dans ce tutoriel vidéo d&#39;atelier détaillé, réalisez une photo vivante en associant une vidéo de l&#39;Adobe [!DNL Stock] à des techniques de masquage astucieuses dans Photoshop.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331002?hidetitle=true)
 
 <br> 
 
-[**Télécharger le Guide du PDF de référence rapide**](../quick-reference/CreatingCinemagraphswithPhotoshop.pdf)
+[**Télécharger le guide du PDF de référence rapide**](../quick-reference/CreatingCinemagraphswithPhotoshop.pdf)
 
-[![Image de la première page d&#39;un guide de référence rapide](assets/CreatingCinemagraphswithPhotoshopPage1.png)](../quick-reference/CreatingCinemagraphswithPhotoshop.pdf)
+[![Image de la première page du guide de référence rapide](assets/CreatingCinemagraphswithPhotoshopPage1.png)](../quick-reference/CreatingCinemagraphswithPhotoshop.pdf)

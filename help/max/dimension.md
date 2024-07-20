@@ -1,20 +1,20 @@
 ---
-title: "[!DNL Dimension]"
-description: »[!DNL Dimension] facilite la création de visualisations de marque, d’illustrations, de maquettes de produits, de conceptions de packaging et d’autres travaux créatifs »
+title: « [!DNL Dimension] »
+description: « [!DNL Dimension] facilite la création de visualisations de marque, d'illustrations, de maquettes de produits, de conceptions de packaging et d'autres travaux créatifs »
 feature: 3D
 role: User
 level: Beginner, Intermediate
 exl-id: 5e23b3f2-d246-4993-948c-5c687dabcd8b
 source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
 workflow-type: tm+mt
-source-wordcount: '174'
+source-wordcount: '167'
 ht-degree: 0%
 
 ---
 
 # [!DNL Dimension]
 
-Créez plus rapidement du contenu attrayant en 3D avec des modèles, des matières et un éclairage de haute qualité. [!DNL Dimension] facilite la création de visualisations de marque, d’illustrations, de maquettes de produits, de conceptions de packaging et autres travaux créatifs.
+Créez plus rapidement du contenu attrayant en 3D avec des modèles, des matières et un éclairage de haute qualité. [!DNL Dimension] facilite la création de visualisations de marque, d&#39;illustrations, de maquettes de produits, de conceptions de packaging et d&#39;autres travaux créatifs.
 
 ## Parcourir les Tutorials de produit
 
@@ -25,9 +25,9 @@ Créez plus rapidement du contenu attrayant en 3D avec des modèles, des matièr
       <img alt="Application de matériaux de Substance aux modèles 3D" src="../assets/dimension_substanceAndGraphics_babbage_thumbnail.jpg" />
    </a>
     <div>
-   <a href="dimension.md#tutorial1"><strong>Application de matériaux de Substance aux modèles 3D</strong></a>
+   <a href="dimension.md#tutorial1"><strong>Appliquer des matériaux de Substance aux modèles 3D</strong></a>
     </div>
-    <em>Les matériaux de Substance prennent en charge des milliers de variations de motifs et de conceptions dans un seul matériau</em>
+    <em>Les matériaux de Substance prennent en charge des milliers de variations de motif et de conception dans un seul matériau</em>
     <br>
   </td>
   <td>
@@ -56,12 +56,12 @@ Dans ce tutoriel, vous apprendrez à :
 **Présenté par :**
 Jim Babbage, conseiller principal en solutions (médias numériques)
 
-![Logo de Dimension](../assets/dn_appicon_96.png)
+![Logo De Dimension](../assets/dn_appicon_96.png)
 
 **Ressources de Dimension**
 
-[Formation et assistance](https://helpx.adobe.com/support/dimension.html) est votre point de référence pour les tutoriels supplémentaires, [Nouveautés](https://helpx.adobe.com/dimension/user-guide.html/dimension/using/whats-new.ug.html)et des liens vers les forums de la communauté.
+[Formation et assistance](https://helpx.adobe.com/support/dimension.html) est votre point central pour consulter d&#39;autres tutoriels, les [Nouveautés](https://helpx.adobe.com/dimension/user-guide.html/dimension/using/whats-new.ug.html) et des liens vers les forums de la communauté.
 
-**Version d’octobre 2020**
+**Version D&#39;Octobre 2020**
 
 Commencez à utiliser ces fonctionnalités (et bien plus encore !) en téléchargeant la dernière mise à jour depuis l’application de bureau Creative Cloud.

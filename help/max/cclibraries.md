@@ -7,8 +7,8 @@ level: Beginner, Intermediate
 exl-id: e68a8d5b-3dca-4ac8-87d1-b31dbe0e13ce
 source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
 workflow-type: tm+mt
-source-wordcount: '234'
-ht-degree: 3%
+source-wordcount: '233'
+ht-degree: 2%
 
 ---
 
@@ -22,22 +22,22 @@ Gardez vos ressources à portée de main et vos projets en accord avec la marque
 <tr>
  <td>
    <a href="cclibraries.md#tutorial1">
-      <img alt="Création de bibliothèques CC" src="../assets/libraries_create_dvorin_thumbnail.jpg" />
+      <img alt="Création de CC Libraries" src="../assets/libraries_create_dvorin_thumbnail.jpg" />
    </a>
     <div>
-   <a href="cclibraries.md#tutorial1"><strong>Création de bibliothèques CC</strong></a>
+   <a href="cclibraries.md#tutorial1"><strong>Créer CC Libraries</strong></a>
     </div>
-    <em>Les bibliothèques Adobe Creative Cloud vous permettent de gérer, d’organiser et d’accéder à vos logos, couleurs et autres éléments dans vos applications de Creative Cloud préférées</em>
+    <em>Avec les bibliothèques Adobe Creative Cloud, vous pouvez gérer, organiser et accéder à vos logos, couleurs et autres éléments dans vos applications de Creative Cloud préférées</em>
     <br>
   </td>
    <td>
    <a href="cclibraries.md#tutorial2">
-      <img alt="Partage de bibliothèques CC" src="../assets/libraries_share_dvorin_thumbnail.jpg" />
+      <img alt="Partager CC Libraries" src="../assets/libraries_share_dvorin_thumbnail.jpg" />
    </a>
     <div>
-   <a href="cclibraries.md#tutorial2"><strong>Partage de bibliothèques CC</strong></a>
+   <a href="cclibraries.md#tutorial2"><strong>Partager CC Libraries</strong></a>
     </div>
-    <em>Travaillez plus efficacement, assurez une cohérence créative et restez facilement synchronisé avec votre équipe</em>
+    <em>Travaillez plus efficacement, assurez la cohérence créative et restez facilement synchronisé avec votre équipe</em>
     <br>
   </td>
   <td>
@@ -48,7 +48,7 @@ Gardez vos ressources à portée de main et vos projets en accord avec la marque
 </tr>
 </table>
 
-## Créer des bibliothèques CC (4:38) {#tutorial1}
+## Créer CC Libraries (4:38) {#tutorial1}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326802?hidetitle=true)
 
@@ -62,7 +62,7 @@ Dans ce tutoriel, vous apprendrez à :
 **Présenté par :**
 Ashley Dvorin, conseillère principale en solutions (médias numériques)
 
-## Partager des bibliothèques CC (4:14) {#tutorial2}
+## Partager CC Libraries (4:14) {#tutorial2}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326803?hidetitle=true)
 
@@ -76,12 +76,12 @@ Dans ce tutoriel, vous apprendrez à :
 **Présenté par :**
 Ashley Dvorin, conseillère principale en solutions (médias numériques)
 
-![Logo des Bibliothèques CC](../assets/cc_appicon_96.png)
+Logo ![CC Libraries](../assets/cc_appicon_96.png)
 
-**Ressources des bibliothèques CC**
+**Ressources CC Libraries**
 
-[Formation et assistance](https://helpx.adobe.com/creative-cloud/help/libraries.html) est votre point de référence pour les tutoriels supplémentaires, les Nouveautés et les liens vers les forums de la communauté.
+[Formation et assistance](https://helpx.adobe.com/creative-cloud/help/libraries.html) est votre point de contact pour accéder à des tutoriels supplémentaires, aux nouveautés et aux liens vers les forums de la communauté.
 
-**Version d’octobre 2020**
+**Version D&#39;Octobre 2020**
 
 Commencez à utiliser ces fonctionnalités (et bien plus encore !) en téléchargeant la dernière mise à jour depuis l’application de bureau Creative Cloud.

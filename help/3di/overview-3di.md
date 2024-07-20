@@ -15,7 +15,7 @@ ht-degree: 0%
 
 # Tutoriels Adobe 3D et VR
 
-Créez plus rapidement du contenu attrayant en 3D avec des modèles, des matières et un éclairage de haute qualité. [!DNL Dimension] facilite la création de visualisations de marque, d’illustrations, de maquettes de produits, de conceptions de packaging et autres travaux créatifs. Sélectionnez une image pour afficher un tutoriel.
+Créez plus rapidement du contenu attrayant en 3D avec des modèles, des matières et un éclairage de haute qualité. [!DNL Dimension] facilite la création de visualisations de marque, d&#39;illustrations, de maquettes de produits, de conceptions de packaging et d&#39;autres travaux créatifs. Sélectionnez une image pour afficher un tutoriel.
 
 <table>
 <tr>
@@ -26,17 +26,17 @@ Créez plus rapidement du contenu attrayant en 3D avec des modèles, des matièr
     <div>
    <a href="substance-3d-stager.md"><strong>Conception et rendu 3D</strong></a>
     </div>
-    <em>Importez du contenu, organisez votre scène, appliquez des matières et des textures, ajustez l’éclairage physique et basé sur l’image, enregistrez des appareils photo avec des résolutions différentes et générez des images photoréalistes</em>
+    <em>Importez du contenu, organisez votre scène, appliquez des matières et des textures, ajustez l'éclairage physique et basé sur l'image, enregistrez des appareils photo avec différentes résolutions et rendez des images photoréalistes</em>
     <br>
   </td>
   <td>
    <a href="assets/CreateRealistic3DMockupswithAdobeStockandDimension.pdf">
-      <img alt="Créer des maquettes 3D réalistes avec Adobe [!DNL Stock] et [!DNL Dimension]" src="assets/CreateRealistic3DMockupswithAdobeStockandDimension.jpg" />
+      <img alt="Créer des maquettes 3D réalistes avec l’Adobe [!DNL Stock] et [!DNL Dimension]" src="assets/CreateRealistic3DMockupswithAdobeStockandDimension.jpg" />
    </a>
     <div>
-   <a href="assets/CreateRealistic3DMockupswithAdobeStockandDimension.pdf"><strong>Créer des maquettes 3D réalistes avec Adobe [!DNL Stock] et [!DNL Dimension] (PDF)</strong></a>
+   <a href="assets/CreateRealistic3DMockupswithAdobeStockandDimension.pdf"><strong>Créez des maquettes 3D réalistes avec l’Adobe [!DNL Stock] et [!DNL Dimension] (PDF)</strong></a>
     </div>
-    <em>Combinez facilement une conception 2D avec un modèle 3D à l’aide de l’Adobe [!DNL Stock] et les graphiques placés dans l’Adobe [!DNL Dimension]</em>
+    <em>Combinez facilement une conception 2D avec un modèle 3D à l’aide de l’Adobe [!DNL Stock] et placez les graphiques dans l’Adobe [!DNL Dimension]</em>
     <br>
   </td>
   <td>
@@ -44,7 +44,7 @@ Créez plus rapidement du contenu attrayant en 3D avec des modèles, des matièr
       <img alt="Visualiser les motifs ou les motifs de textiles sur des objets 3D avec Adobe [!DNL Dimension]" src="assets/VisualizeTextileDesignsorPatternson3DObjectswithAdobeDimension.jpg" />
    </a>
     <div>
-   <a href="assets/VisualizeTextileDesignsorPatternson3DObjectswithAdobeDimension.pdf"><strong>Visualiser les motifs ou les motifs de textiles sur des objets 3D avec Adobe [!DNL Dimension] (PDF)</strong></a>
+   <a href="assets/VisualizeTextileDesignsorPatternson3DObjectswithAdobeDimension.pdf"><strong>Visualiser les motifs ou les motifs de textiles sur des objets 3D avec l’Adobe [!DNL Dimension] (PDF)</strong></a>
     </div>
     <em>Créez une représentation ultra-réaliste de votre produit final en quelques minutes</em>
     <br>
@@ -54,7 +54,7 @@ Créez plus rapidement du contenu attrayant en 3D avec des modèles, des matièr
       <img alt="Visualisez votre produit dans un environnement réaliste" src="assets/VisualizeyourProductinaRealisticEnvironment.jpg" />
    </a>
     <div>
-   <a href="../cce/assets/VisualizeyourProductinaRealisticEnvironment.pdf"><strong>Visualiser votre produit dans un environnement réaliste (PDF)</strong></a>
+   <a href="../cce/assets/VisualizeyourProductinaRealisticEnvironment.pdf"><strong>Visualisez votre produit dans un environnement réaliste (PDF)</strong></a>
     </div>
     <em>Lorsque vous voulez voir à quoi ressembleront vos produits dans le monde réel, l'Adobe [!DNL Dimension] est votre application de référence</em>
     <br>
@@ -68,7 +68,7 @@ Créez plus rapidement du contenu attrayant en 3D avec des modèles, des matièr
     <div>
    <a href="mastering3dlighting.md"><strong>Conseils et techniques pour maîtriser l’éclairage 3D en imagerie de synthèse</strong></a>
     </div>
-    <em>Découvrez l’éclairage 3D et comment créer différentes conditions d’éclairage susceptibles de modifier complètement une scène générée par ordinateur et l’aspect des objets qu’elle contient</em>
+    <em>Découvrez l’éclairage 3D et apprenez à créer différentes conditions d’éclairage susceptibles de modifier complètement une scène générée par ordinateur et l’aspect des objets qu’elle contient</em>
     <br>
   </td>
   <td>
@@ -78,17 +78,17 @@ Créez plus rapidement du contenu attrayant en 3D avec des modèles, des matièr
     <div>
    <a href="photorealistic.md"><strong>Création de photographies virtuelles photoréalistes avec rendu et composition 3D</strong></a>
     </div>
-    <em>Apprenez à créer des photographies virtuelles étonnamment trompeuses et photoréalistes grâce à la composition et au rendu d’images 3D en Adobe [!DNL Dimension]</em>
+    <em>Apprenez à créer des photographies virtuelles étonnamment trompeuses et photoréalistes grâce à la composition et au rendu d’images 3D dans l’Adobe [!DNL Dimension]</em>
     <br>
   </td>
   <td>
    <a href="3ddimensionstock.md">
-      <img alt="Personnalisez et signez un modèle 3D avec [!DNL Dimension] et Adobe [!DNL Stock]" src="assets/3ddimensionstock.jpg" />
+      <img alt="Personnaliser et personnaliser un modèle 3D avec [!DNL Dimension] et Adobe [!DNL Stock]" src="assets/3ddimensionstock.jpg" />
    </a>
     <div>
-   <a href="3ddimensionstock.md"><strong>Personnalisez et signez un modèle 3D avec [!DNL Dimension] et Adobe [!DNL Stock]</strong></a>
+   <a href="3ddimensionstock.md"><strong>Personnalisez et créez une marque pour un mannequin 3D avec [!DNL Dimension] et l’Adobe [!DNL Stock]</strong></a>
     </div>
-    <em>Personnalisation et branding d’un modèle 3D dans [!DNL Dimension] utilisation des matériaux, des propriétés environnementales, de l’éclairage et de la photographie pour créer des images photoréalistes pour tout projet de conception</em>
+    <em>Personnalisez et créez une marque pour un modèle 3D dans [!DNL Dimension] en utilisant les matériaux, les propriétés environnementales, l’éclairage et la photographie, pour créer des images photoréalistes pour tout projet de conception</em>
     <br>
   </td>
   <td>

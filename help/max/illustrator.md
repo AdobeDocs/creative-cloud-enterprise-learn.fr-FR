@@ -25,9 +25,9 @@ L’application moderne pour les illustrations et les graphiques. Créez des log
       <img alt="Utilisation de symboles pour mettre à jour plusieurs instances d’icônes" src="../assets/Illustrator_symbols_sokol_thumbnail.jpg" />
    </a>
     <div>
-   <a href="illustrator.md#tutorial1"><strong>Utilisation de symboles pour mettre à jour plusieurs instances d’icônes</strong></a>
+   <a href="illustrator.md#tutorial1"><strong>Utiliser des symboles pour mettre à jour plusieurs instances d'icônes</strong></a>
     </div>
-    <em>Réduction du travail manuel et cohérence avec les symboles</em>
+    <em>Réduisez le travail manuel et maintenez la cohérence avec les symboles</em>
     <br>
   </td>
   <td>
@@ -35,9 +35,9 @@ L’application moderne pour les illustrations et les graphiques. Créez des log
         <img alt="Alignement du texte et des images avec l’accrochage aux glyphes" src="../assets/illustrator_glyphAlign_sokol_thumbnail.jpg" />
     </a>
     <div>
-    <a href="illustrator.md#tutorial2"><strong>Alignement du texte et des images avec l’accrochage aux glyphes</strong></a>
+    <a href="illustrator.md#tutorial2"><strong>Aligner le texte et les images avec l'accrochage aux glyphes</strong></a>
     </div>
-    <em>Accrocher rapidement les glyphes à des zones importantes du document</em>
+    <em>Accrocher rapidement les glyphes aux zones importantes du document</em>
     <br>
   </td>
   <td>
@@ -78,8 +78,8 @@ Patti Sokol, conseillère principale en solutions (médias numériques)
 
 **Ressources Illustrator**
 
-[Formation et assistance](https://helpx.adobe.com/support/illustrator.html) est votre point de référence pour les tutoriels supplémentaires et les liens vers les forums de la communauté.
+[Formation et assistance](https://helpx.adobe.com/support/illustrator.html) est votre point de contact pour les tutoriels supplémentaires et les liens vers les forums de la communauté.
 
-**Version d’octobre 2020**
+**Version D&#39;Octobre 2020**
 
 Commencez à utiliser ces fonctionnalités (et bien plus encore !) en téléchargeant la dernière mise à jour depuis l’application de bureau Creative Cloud.
