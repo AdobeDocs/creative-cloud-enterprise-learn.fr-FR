@@ -6,7 +6,7 @@ role: User
 level: Beginner, Intermediate
 jira: KT-13380
 exl-id: 3c144e1a-f823-4551-b705-aa9dbca548f2
-source-git-commit: 319704f89f9bae809313e53cbd6d45158f146b76
+source-git-commit: 4485af9f7684ab028b5d135a9dfdaad98fa47b65
 workflow-type: tm+mt
 source-wordcount: '279'
 ht-degree: 3%
@@ -27,7 +27,7 @@ Découvrez comment créer du contenu de marque rapidement et efficacement à l&#
 
 >[!TAB Optimiser l&#39;efficacité : créer des modèles réutilisables]
 
-Apprenez à apporter cohérence, efficacité, professionnalisme et économies à votre entreprise grâce aux [modèles](create-templates.md)
+Apprenez à apporter cohérence, efficacité, professionnalisme et économies à votre entreprise grâce aux [modèles](create-templates.md).
 
 >[!ENDTABS]
 

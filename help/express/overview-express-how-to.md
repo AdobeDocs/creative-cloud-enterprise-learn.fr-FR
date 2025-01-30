@@ -6,9 +6,9 @@ role: User
 level: Beginner, Intermediate
 jira: KT-13994
 exl-id: f2cc51b1-b0be-4ca7-9723-92d851250463
-source-git-commit: 55946f53633e679f1c7242e54fe07b41b1e626a3
+source-git-commit: 4485af9f7684ab028b5d135a9dfdaad98fa47b65
 workflow-type: tm+mt
-source-wordcount: '284'
+source-wordcount: '360'
 ht-degree: 1%
 
 ---
@@ -355,24 +355,44 @@ Commencez à créer des œuvres étonnantes qui se démarquent grâce à l’IA 
 <table style="table-layout:fixed">
 <tr>
    <td>
-         <a href="lock-layers.md">
+        <a href="lock-layers.md">
             <img alt="Comment et pourquoi verrouiller des calques" src="assets/lock-layers.png" />
-         </a>
-   </td>
-   <td>
+        </a>
+        <div>
+            <a href="lock-layers.md"><strong>Comment et pourquoi verrouiller des calques</strong></a>
+            </div>
+            <em>Découvrez pourquoi il est important de verrouiller divers éléments de votre modèle</em>
+            <br>
+    </td>
+    <td>
          <a href="create-templates.md">
-            <img alt="Création d’un modèle" src="assets/create-template.png" />
+            <img alt="Maximiser l’efficacité : créer des modèles réutilisables" src="assets/create-template.png" />
          </a>
+         <div>
+         <a href="create-templates.md"><strong>Optimiser l'efficacité : créer des modèles réutilisables</strong></a>
+         </div>
+         <em>Découvrez comment apporter à votre entreprise cohérence, efficacité et économies grâce aux modèles</em>
+         <br>
    </td>
    <td>
          <a href="share-templates.md">
             <img alt="Enregistrer et partager des modèles" src="assets/share-templates.png" />
          </a>
+         <div>
+         <a href="share-templates.md"><strong>Enregistrer et partager des modèles</strong></a>
+         </div>
+         <em>Découvrez comment enregistrer et partager des modèles dans un kit ou une bibliothèque de marque pour votre équipe</em>
+         <br>
    </td>
    <td>
          <a href="use-templates.md">
-            <img alt="Utilisation des modèles" src="assets/use-templates.png" />
+            <img alt="Cohérence de marque sans effort avec les modèles" src="assets/use-templates.png" />
          </a>
+         <div>
+         <a href="use-templates.md"><strong>Cohérence de marque sans effort avec les modèles</strong></a>
+         </div>
+         <em>Découvrez comment créer rapidement et efficacement du contenu de marque dans l’ensemble de votre organisation</em>
+         <br>
    </td>
 </tr>
 </table>
