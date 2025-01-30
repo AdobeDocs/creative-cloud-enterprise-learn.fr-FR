@@ -1,21 +1,21 @@
 ---
-title: Création d’un modèle
-description: Découvrez comment créer un modèle et ajouter des instructions à l’intention des autres utilisateurs
+title: 'Optimiser l’efficacité : créer des modèles réutilisables'
+description: Apprenez à apporter à votre entreprise cohérence, efficacité, professionnalisme et économies grâce aux modèles Adobes Express
 feature: Graphic Design
 role: User
 level: Beginner
 jira: KT-13410
 exl-id: f044b41b-e7f8-4c0a-86fe-83b82a332334
-source-git-commit: 55946f53633e679f1c7242e54fe07b41b1e626a3
+source-git-commit: 319704f89f9bae809313e53cbd6d45158f146b76
 workflow-type: tm+mt
-source-wordcount: '68'
+source-wordcount: '140'
 ht-degree: 0%
 
 ---
 
-# Création d’un modèle
+# Maximiser l’efficacité : créer des modèles réutilisables
 
-Découvrez comment créer un modèle dans lequel certains calques sont verrouillés et d’autres déverrouillés pour que des équipes puissent apporter des modifications. Vous pouvez également inclure des instructions destinées aux équipes à l’aide de ce modèle.
+Apprenez à apporter à votre entreprise cohérence, efficacité, professionnalisme et économies grâce aux modèles Adobes Express. Ce tutoriel explique comment créer un contenu réutilisable à partir de n’importe quel contenu existant (qu’il s’agisse d’un fichier Photoshop, Illustrator, InDesign ou même PowerPoint).
 
 >[!VIDEO](https://video.tv.adobe.com/v/3420208?quality=12&learn=on&hidetitle=true)
 
@@ -24,20 +24,35 @@ Découvrez comment créer un modèle dans lequel certains calques sont verrouill
 <table style="table-layout:fixed">
 <tr>
     <td>
-            <a href="lock-layers.md">
-                <img alt="Comment et pourquoi verrouiller des calques" src="assets/lock-layers.png" />
-            </a>
+        <a href="lock-layers.md">
+            <img alt="Comment et pourquoi verrouiller des calques" src="assets/lock-layers.png" />
+        </a>
+        <div>
+            <a href="lock-layers.md"><strong>Comment et pourquoi verrouiller des calques</strong></a>
+            </div>
+            <em>Découvrez pourquoi il est important de verrouiller divers éléments de votre modèle</em>
+            <br>
     </td>
     <td>
-            <a href="share-templates.md">
-                <img alt="Enregistrer et partager des modèles" src="assets/share-templates.png" />
-            </a>
-    </td>
-    <td>
-            <a href="use-templates.md">
-                <img alt="Utilisation des modèles" src="assets/use-templates.png" />
-            </a>
-    </td>
+         <a href="share-templates.md">
+            <img alt="Enregistrer et partager des modèles" src="assets/share-templates.png" />
+         </a>
+         <div>
+         <a href="share-templates.md"><strong>Enregistrer et partager des modèles</strong></a>
+         </div>
+         <em>Découvrez comment enregistrer et partager des modèles dans un kit ou une bibliothèque de marque pour votre équipe</em>
+         <br>
+   </td>
+   <td>
+         <a href="use-templates.md">
+            <img alt="Cohérence de marque sans effort avec les modèles" src="assets/use-templates.png" />
+         </a>
+         <div>
+         <a href="use-templates.md"><strong>Cohérence de marque sans effort avec les modèles</strong></a>
+         </div>
+         <em>Découvrez comment créer rapidement et efficacement du contenu de marque dans l’ensemble de votre organisation</em>
+         <br>
+   </td>
     <td>
       <img alt="Espaceur" src="../assets/Whitespacer.png" />
       <div>
@@ -45,3 +60,4 @@ Découvrez comment créer un modèle dans lequel certains calques sont verrouill
     </td>
 </tr>
 </table>
+

@@ -6,9 +6,9 @@ role: User
 level: Beginner
 jira: KT-14885
 exl-id: f7aba5fa-40dd-48f2-afe3-d65ecc9a666c
-source-git-commit: 5067e02da7d74d366c797e81a6a5d0ee9ac69feb
+source-git-commit: 319704f89f9bae809313e53cbd6d45158f146b76
 workflow-type: tm+mt
-source-wordcount: '77'
+source-wordcount: '137'
 ht-degree: 0%
 
 ---
@@ -25,18 +25,33 @@ Découvrez pourquoi il est important de verrouiller divers éléments de votre m
 <tr>
    <td>
          <a href="create-templates.md">
-            <img alt="Création d’un modèle" src="assets/create-template.png" />
+            <img alt="Maximiser l’efficacité : créer des modèles réutilisables" src="assets/create-template.png" />
          </a>
+         <div>
+         <a href="create-templates.md"><strong>Optimiser l'efficacité : créer des modèles réutilisables</strong></a>
+         </div>
+         <em>Apprenez à apporter à votre entreprise cohérence, efficacité, professionnalisme et économies grâce aux modèles</em>
+         <br>
    </td>
    <td>
          <a href="share-templates.md">
             <img alt="Enregistrer et partager des modèles" src="assets/share-templates.png" />
          </a>
+         <div>
+         <a href="share-templates.md"><strong>Enregistrer et partager des modèles</strong></a>
+         </div>
+         <em>Découvrez comment enregistrer et partager des modèles dans un kit ou une bibliothèque de marque pour votre équipe</em>
+         <br>
    </td>
    <td>
          <a href="use-templates.md">
-            <img alt="Utilisation des modèles" src="assets/use-templates.png" />
+            <img alt="Cohérence de marque sans effort avec les modèles" src="assets/use-templates.png" />
          </a>
+         <div>
+         <a href="use-templates.md"><strong>Cohérence de marque sans effort avec les modèles</strong></a>
+         </div>
+         <em>Découvrez comment créer rapidement et efficacement du contenu de marque dans l’ensemble de votre organisation</em>
+         <br>
    </td>
    <td>
       <img alt="Espaceur" src="../assets/Whitespacer.png" />
