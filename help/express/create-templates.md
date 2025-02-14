@@ -1,19 +1,19 @@
 ---
-title: 'Optimiser l’efficacité : créer des modèles réutilisables'
+title: 'Optimiser l’efficacité : créer un modèle réutilisable'
 description: Apprenez à apporter à votre entreprise cohérence, efficacité, professionnalisme et économies grâce aux modèles Adobes Express
 feature: Graphic Design
 role: User
 level: Beginner
 jira: KT-13410
 exl-id: f044b41b-e7f8-4c0a-86fe-83b82a332334
-source-git-commit: 319704f89f9bae809313e53cbd6d45158f146b76
+source-git-commit: f7eb9a548da23db3afcb3e6dfeb378f40181e1e0
 workflow-type: tm+mt
-source-wordcount: '140'
+source-wordcount: '142'
 ht-degree: 0%
 
 ---
 
-# Maximiser l’efficacité : créer des modèles réutilisables
+# Optimisation de l’efficacité : création d’un modèle réutilisable
 
 Apprenez à apporter à votre entreprise cohérence, efficacité, professionnalisme et économies grâce aux modèles Adobes Express. Ce tutoriel explique comment créer un contenu réutilisable à partir de n’importe quel contenu existant (qu’il s’agisse d’un fichier Photoshop, Illustrator, InDesign ou même PowerPoint).
 

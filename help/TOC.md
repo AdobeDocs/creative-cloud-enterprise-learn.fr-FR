@@ -8,9 +8,9 @@ feature: Graphic Design, Image Editing, Vector Editing, UI Design, Licensable As
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: a6239fe87239003e2730d402d8ae1c2cda52bd87
+source-git-commit: f7eb9a548da23db3afcb3e6dfeb378f40181e1e0
 workflow-type: tm+mt
-source-wordcount: '803'
+source-wordcount: '806'
 ht-degree: 4%
 
 ---
@@ -18,9 +18,9 @@ ht-degree: 4%
 
 # Creative Cloud pour les Tutorials d’entreprise {#cce-learning-hub}
 
-+ [Présentation](overview.md)
++ [Vue d’ensemble](overview.md)
 + Creative Cloud pour entreprise {#cceoverview}
-   + [Présentation](cce/overview-cce.md)
+   + [Vue d’ensemble](cce/overview-cce.md)
    + Tutorials {#ccetutorials}
       + [Acrobat pour les créateurs de contenu](cce/acrobat-content-creators.md)
       + [Amélioration des workflows CC avec CC Libraries](cce/cc-workflows-cc-libraries.md)
@@ -36,9 +36,9 @@ ht-degree: 4%
    + Guides de référence rapide {#ccerefguides}
       + [repères CCE](quick-reference/overview-ref.md)
 + [!DNL Adobe Express] {#expressoverview}
-   + [Présentation](express/overview-express.md)
+   + [Vue d’ensemble](express/overview-express.md)
    + Tutoriels pratiques {#expresshowto}
-      + [Présentation](express/overview-express-how-to.md)
+      + [Vue d’ensemble](express/overview-express-how-to.md)
       + [Contenu de la page d’accueil](express/get-started.md)
       + [Présentation des actions rapides](express/quick-actions.md)
       + [Présentation des modèles](express/introduction-templates.md)
@@ -87,11 +87,11 @@ ht-degree: 4%
       + [Comment ajouter de l’audio](express/add-audio-video.md)
       + [Exportation d’une vidéo](express/export-video.md)
       + [Comment et pourquoi verrouiller des calques](express/lock-layers.md)
-      + [Création d’un modèle](express/create-templates.md)
+      + [Optimisation de l’efficacité : création d’un modèle réutilisable](express/create-templates.md)
       + [Enregistrer et partager des modèles](express/share-templates.md)
       + [Utilisation des modèles](express/use-templates.md)
    + Tutoriels de cas d&#39;utilisation {#expressusecase}
-      + [Présentation](express/overview-express-use-case-tutorials.md)
+      + [Vue d’ensemble](express/overview-express-use-case-tutorials.md)
       + [Création de contenu RH multicanal pour les événements](express/create-hr-content.md)
       + [Création d’un visuel promotionnel pour un cours d’apprentissage en ligne](express/promo-visual.md)
       + [Création d’une vidéo de fin d’année](express/end-of-year-video.md)
@@ -109,7 +109,7 @@ ht-degree: 4%
       + [Mener facilement des campagnes sur les réseaux sociaux](express/create-blog-graphics.md)
       + [Création d’affiches de webinaire avec Firefly](express/create-webinar-poster.md)
 + [!DNL Adobe Firefly] {#fireflyoverview}
-   + [Présentation](firefly/overview-firefly.md)
+   + [Vue d’ensemble](firefly/overview-firefly.md)
    + Tutorials {#firefly-tutorials}
       + [Vue d&#39;ensemble de  [!DNL Adobe Firefly]](firefly/overview-of-firefly.md)
       + [Découvrir [!DNL Adobe Firefly]](firefly/discover.md)
@@ -130,7 +130,7 @@ ht-degree: 4%
    + Webinaires {#firefly-webinars}
       + [Expérimenter avec l’Adobe Firefly](firefly/webinar-experimenting.md)
 + [!DNL Adobe Stock] {#stockoverview}
-   + [Présentation](stock/overview-stock.md)
+   + [Vue d’ensemble](stock/overview-stock.md)
    + Tutorials {#stocktutorials}
       + [Des ressources numériques époustouflantes](stock/stunning-digital-assets.md)
       + [Rechercher dans l&#39;historique des licences de l&#39;Adobe [!DNL Stock] ](stock/searchstock.md)
@@ -157,31 +157,31 @@ ht-degree: 4%
       + [Personnalisation d&#39;un modèle de présentation Adobe [!DNL Stock] professionnel](stock/presentationtemplate.md)
       + [Personnalisation des couleurs d&#39;une illustration vectorielle Adobe [!DNL Stock] ](stock/customizecolors.md)
 + Adobe 3D et VR {#3doverview}
-   + [Présentation](3di/overview-3di.md)
+   + [Vue d’ensemble](3di/overview-3di.md)
    + Tutorials {#3dtutorials}
       + [Conception et rendu 3D](3di/substance-3d-stager.md)
       + [Conseils et techniques pour maîtriser l’éclairage 3D en imagerie de synthèse](3di/mastering3dlighting.md)
       + [Création de photographies virtuelles photoréalistes avec rendu et composition 3D](3di/photorealistic.md)
       + [Personnalisez et signez un modèle 3D avec [!DNL Dimension] et l&#39;Adobe [!DNL Stock]](3di/3ddimensionstock.md)
 + Vidéo de l&#39;Adobe {#videooverview}
-   + [Présentation](dva/overview-dva.md)
+   + [Vue d’ensemble](dva/overview-dva.md)
    + Tutorials {#videotutorials}
       + [Modèles d’animations graphiques professionnels](dva/motion-graphics-templates.md)
       + [Révision vidéo avec Frame.io](dva/video-review-frame-io.md)
    + Guides de référence rapide {#videorefguides}
       + [Guides vidéo](dva/overview-dva-ref.md)
 + Adobe XD {#xdoverview}
-   + [Présentation](xd/overview-xd.md)
+   + [Vue d’ensemble](xd/overview-xd.md)
    + Tutorials {#xdtutorials}
    + [Familiarisez-vous avec les [!UICONTROL composants] dans Adobe XD](xd/components.md)
 + Déployer et gérer {#deploy}
-   + [Présentation](deploy/overview-deploy.md)
+   + [Vue d’ensemble](deploy/overview-deploy.md)
    + [Expiration du numéro de série](deploy/cceserial.md)
    + [Système de licences nominatives](deploy/nameduserlicensing.md)
 + Adobe MAX {#max}
-   + [Présentation](max/overview-max.md)
+   + [Vue d’ensemble](max/overview-max.md)
    + Tutorials {#tutorials}
-      + [Présentation](max/maxtutorials.md)
+      + [Vue d’ensemble](max/maxtutorials.md)
       + Produits de bureau {#desktop-products}
          + [Acrobat et Sign](max/acrobat-sign.md)
          + [[!DNL Dimension]](max/dimension.md)

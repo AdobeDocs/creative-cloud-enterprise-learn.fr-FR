@@ -6,9 +6,9 @@ role: User
 level: Beginner
 jira: KT-14886
 exl-id: 7fd2e120-a797-466a-ab5e-1f6dfd8223a1
-source-git-commit: 4485af9f7684ab028b5d135a9dfdaad98fa47b65
+source-git-commit: f7eb9a548da23db3afcb3e6dfeb378f40181e1e0
 workflow-type: tm+mt
-source-wordcount: '114'
+source-wordcount: '116'
 ht-degree: 0%
 
 ---
@@ -35,10 +35,10 @@ Découvrez comment enregistrer et partager des modèles dans un kit ou une bibli
     </td>
     <td>
          <a href="create-templates.md">
-            <img alt="Maximiser l’efficacité : créer des modèles réutilisables" src="assets/create-template.png" />
+            <img alt="Optimisation de l’efficacité : création d’un modèle réutilisable" src="assets/create-template.png" />
          </a>
          <div>
-         <a href="create-templates.md"><strong>Optimiser l'efficacité : créer des modèles réutilisables</strong></a>
+         <a href="create-templates.md"><strong>Optimiser l'efficacité : créer un modèle réutilisable</strong></a>
          </div>
          <em>Découvrez comment apporter à votre entreprise cohérence, efficacité et économies grâce aux modèles</em>
          <br>

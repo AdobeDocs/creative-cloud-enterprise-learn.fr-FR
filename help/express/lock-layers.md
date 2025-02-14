@@ -6,9 +6,9 @@ role: User
 level: Beginner
 jira: KT-14885
 exl-id: f7aba5fa-40dd-48f2-afe3-d65ecc9a666c
-source-git-commit: 4485af9f7684ab028b5d135a9dfdaad98fa47b65
+source-git-commit: f7eb9a548da23db3afcb3e6dfeb378f40181e1e0
 workflow-type: tm+mt
-source-wordcount: '136'
+source-wordcount: '138'
 ht-degree: 0%
 
 ---
@@ -25,10 +25,10 @@ Découvrez pourquoi il est important de verrouiller divers éléments de votre m
 <tr>
    <td>
          <a href="create-templates.md">
-            <img alt="Maximiser l’efficacité : créer des modèles réutilisables" src="assets/create-template.png" />
+            <img alt="Optimisation de l’efficacité : création d’un modèle réutilisable" src="assets/create-template.png" />
          </a>
          <div>
-         <a href="create-templates.md"><strong>Optimiser l'efficacité : créer des modèles réutilisables</strong></a>
+         <a href="create-templates.md"><strong>Optimiser l'efficacité : créer un modèle réutilisable</strong></a>
          </div>
          <em>Découvrez comment apporter à votre entreprise cohérence, efficacité et économies grâce aux modèles</em>
          <br>
