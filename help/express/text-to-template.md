@@ -17,7 +17,7 @@ ht-degree: 0%
 
 Découvrez comment générer des modèles modifiables pour des publications sur les réseaux sociaux, des affiches, des dépliants et des cartes à partir d’une description textuelle en quelques secondes. Vous pouvez modifier le design, changer de police et personnaliser davantage le projet avant de le télécharger ou de le partager.
 
->[!VIDEO](https://video.tv.adobe.com/v/3427022?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3438118?quality=12&learn=on&hidetitle=true&captions=fre_fr)
 
 ## Vidéos supplémentaires dans cette série
 

@@ -44,7 +44,7 @@ Les applications Acrobat et Creative Cloud abonnement Entreprise commenceront à
 
 Les informations suivantes décrivent l’expérience de l’utilisateur final. Vous trouverez ci-dessous une courte vidéo, suivie d’une présentation de l’expérience utilisateur.
 
->[!VIDEO](https://video.tv.adobe.com/v/331746?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3441277?hidetitle=true&captions=fre_fr)
 
 **Avant l&#39;expiration**
 

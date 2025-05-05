@@ -19,4 +19,4 @@ Découvrez comment une équipe commerciale peut facilement créer des images att
 
 Ce tutoriel utilise le nouvel [Adobe Express](https://www.adobe.com/express/).
 
->[!VIDEO](https://video.tv.adobe.com/v/3424458?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3447133?quality=12&learn=on&hidetitle=true&captions=fre_fr)

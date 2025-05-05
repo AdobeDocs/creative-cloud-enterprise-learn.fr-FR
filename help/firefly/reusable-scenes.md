@@ -19,4 +19,4 @@ Apprenez à créer des scènes réutilisables pour des marchandises telles que d
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/3428765?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3448469?quality=12&learn=on&hidetitle=true&captions=fre_fr)

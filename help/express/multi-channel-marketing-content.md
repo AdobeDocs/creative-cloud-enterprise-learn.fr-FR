@@ -19,4 +19,4 @@ Découvrez comment les équipes de marketing événementiel peuvent créer du co
 
 Ce tutoriel utilise le nouvel [Adobe Express](https://www.adobe.com/express/).
 
->[!VIDEO](https://video.tv.adobe.com/v/3424446?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3444981?quality=12&learn=on&hidetitle=true&captions=fre_fr)

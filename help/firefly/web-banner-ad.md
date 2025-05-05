@@ -19,4 +19,4 @@ Apprenez à utiliser la fonction de remplissage génératif d’Adobe Photoshop,
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/3420791?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3444536?quality=12&learn=on&hidetitle=true&captions=fre_fr)

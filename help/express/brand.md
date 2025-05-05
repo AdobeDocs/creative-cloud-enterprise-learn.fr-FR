@@ -17,7 +17,7 @@ ht-degree: 0%
 
 Découvrez comment créer une collection de ressources de marque pour créer des designs cohérents et professionnels pour votre entreprise ou vos projets personnels. Un kit de marque est une collection de ressources de marque telles que des logos, des couleurs, des polices, des graphismes et des modèles. Ils peuvent être créés à partir de zéro ou à partir d’une bibliothèque existante et partagés avec des collègues, qui peuvent avoir des droits de modification ou d’affichage.
 
->[!VIDEO](https://video.tv.adobe.com/v/3420218?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3449367?quality=12&learn=on&hidetitle=true&captions=fre_fr)
 
 ## Vidéos supplémentaires dans cette série
 

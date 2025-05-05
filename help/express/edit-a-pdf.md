@@ -16,7 +16,7 @@ ht-degree: 0%
 
 Apprenez à transformer vos PDF statiques et obsolètes en ajoutant du texte, des images, des marques, des couleurs, des animations accrocheuses, etc. Une fois la modification terminée, vous pouvez télécharger le PDF PDF, le partager ou le convertir dans d’autres formats de fichiers, tels que JPEG.
 
->[!VIDEO](https://video.tv.adobe.com/v/3427024?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3437900?quality=12&learn=on&hidetitle=true&captions=fre_fr)
 
 ## Vidéos supplémentaires dans cette série
 

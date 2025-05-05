@@ -17,7 +17,7 @@ ht-degree: 0%
 
 Apprenez à créer des projets attrayants et mémorables en ajoutant de l’audio. Vous pouvez charger vos propres fichiers audio ou choisir parmi des fichiers audio libres de droits. Vous pouvez également enregistrer des voix hors champ et régler le volume des données audio et des voix hors champ.
 
->[!VIDEO](https://video.tv.adobe.com/v/3427092?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3436845?quality=12&learn=on&hidetitle=true&captions=fre_fr)
 
 ## Vidéos supplémentaires dans cette série
 

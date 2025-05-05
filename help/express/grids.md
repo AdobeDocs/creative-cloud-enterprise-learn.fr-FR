@@ -17,7 +17,7 @@ ht-degree: 0%
 
 Apprenez à utiliser les grilles pour réaliser des collages photo, des planches d’ambiance et des affiches accrocheuses. Il existe 40 mises en page à grille différentes que vous pouvez personnaliser avec vos propres images ou photos Adobe Stock.
 
->[!VIDEO](https://video.tv.adobe.com/v/3426934?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3439994?quality=12&learn=on&hidetitle=true&captions=fre_fr)
 
 ## Vidéos supplémentaires dans cette série
 

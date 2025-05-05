@@ -17,7 +17,7 @@ ht-degree: 0%
 
 Apprenez à naviguer dans le montage de l’animation et à le régler. Le montage chronologique est une vue d’ensemble de l’animation, dans laquelle vous pouvez prévisualiser et réduire/étendre la longueur de l’animation.
 
->[!VIDEO](https://video.tv.adobe.com/v/3426978?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3437603?quality=12&learn=on&hidetitle=true&captions=fre_fr)
 
 ## Vidéos supplémentaires dans cette série
 

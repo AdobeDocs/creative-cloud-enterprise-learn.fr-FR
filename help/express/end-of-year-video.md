@@ -17,4 +17,4 @@ ht-degree: 0%
 
 Apprenez à créer une vidéo de fin d’année inspirante pour récapituler tout ce qui s’est passé au cours de l’année écoulée, partager les étapes avec les clients et revivre des événements d’équipe amusants. Dans ce tutoriel, ajoutez un arrière-plan, une animation de texte et un métrage à une vidéo. L’utilisation de transitions rend la vidéo plus fluide et l’outro donne une belle finition. Vous avez également la possibilité de télécharger la vidéo finale et d’utiliser des sous-titres pour une meilleure accessibilité.
 
->[!VIDEO](https://video.tv.adobe.com/v/3427121?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3433999?quality=12&learn=on&hidetitle=true&captions=fre_fr)

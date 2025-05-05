@@ -17,4 +17,4 @@ ht-degree: 1%
 
 Apprenez à utiliser la fonctionnalité Texte sur image, optimisée par l’Adobe Firefly, dans Adobe Express pour créer une campagne promotionnelle pour les réseaux sociaux. Ce tutoriel utilise le nouvel [Adobe Express](https://www.adobe.com/express/).
 
->[!VIDEO](https://video.tv.adobe.com/v/3420533?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3430560?quality=12&learn=on&hidetitle=true&captions=fre_fr)

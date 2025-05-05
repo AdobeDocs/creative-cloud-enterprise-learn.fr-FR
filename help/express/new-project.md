@@ -17,7 +17,7 @@ ht-degree: 0%
 
 Découvrez comment créer un tout nouveau projet à partir de zéro en utilisant une taille de zone de travail spécifique, telle qu’une publication carrée Instagram.
 
->[!VIDEO](https://video.tv.adobe.com/v/3426931?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3441414?quality=12&learn=on&hidetitle=true&captions=fre_fr)
 
 ## Vidéos supplémentaires dans cette série
 

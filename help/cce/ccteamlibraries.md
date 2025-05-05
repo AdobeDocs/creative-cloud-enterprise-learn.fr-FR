@@ -24,4 +24,4 @@ Découvrez comment partager des ressources au sein d’un groupe ou d’une équ
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/335325?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3410396?hidetitle=true&captions=fre_fr)

@@ -17,7 +17,7 @@ ht-degree: 0%
 
 Apprenez à créer du contenu de marque rapidement et efficacement dans l’ensemble de votre entreprise. Ce tutoriel explique comment créer du nouveau contenu de marque qui peut être immédiatement partagé et localisé.
 
->[!VIDEO](https://video.tv.adobe.com/v/3427099?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3436126?quality=12&learn=on&hidetitle=true&captions=fre_fr)
 
 ## Vidéos supplémentaires dans cette série
 

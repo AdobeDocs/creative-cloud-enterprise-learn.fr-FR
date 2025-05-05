@@ -18,7 +18,7 @@ ht-degree: 0%
 
 Découvrez un tout nouveau monde de dessin et de peinture numériques avec Adobe Fresco dans cet atelier pratique de 15 minutes. Apprenez rapidement à utiliser des calques et des masques d’écrêtage pour conformer de la peinture et des textures à une forme de base. Suivez le designer/développeur Chris Converse pour recréer une partie d’une illustration de nature morte à l’aide de Fresco et d’Adobe Stock.
 
->[!VIDEO](https://video.tv.adobe.com/v/333804?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3410420?hidetitle=true&captions=fre_fr)
 
 <br> 
 

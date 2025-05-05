@@ -17,7 +17,7 @@ ht-degree: 0%
 
 Apprenez à ajuster les paramètres de vos animations pour en améliorer l’efficacité. Vous pouvez modifier la durée, la personnalité, la vitesse et l’intensité de l’animation pour créer un effet spécifique.
 
->[!VIDEO](https://video.tv.adobe.com/v/3426977?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3438523?quality=12&learn=on&hidetitle=true&captions=fre_fr)
 
 ## Vidéos supplémentaires dans cette série
 

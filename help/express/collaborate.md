@@ -17,7 +17,7 @@ ht-degree: 0%
 
 Découvrez comment collaborer avec vos collègues sur des projets créatifs, notamment en les invitant, en définissant des autorisations, en résolvant les commentaires et en travaillant sur le projet simultanément.
 
->[!VIDEO](https://video.tv.adobe.com/v/3420253?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3439539?quality=12&learn=on&hidetitle=true&captions=fre_fr)
 
 ## Vidéos supplémentaires dans cette série
 

@@ -19,4 +19,4 @@ Apprenez à utiliser le remplissage génératif, optimisé par l’Adobe Firefly
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/3420537?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3448536?quality=12&learn=on&hidetitle=true&captions=fre_fr)

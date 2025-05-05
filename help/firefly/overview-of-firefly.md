@@ -19,4 +19,4 @@ Découvrez ce que vous pouvez créer avec l’Adobe Firefly. Découvrez comment 
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/3420929?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3446173?quality=12&learn=on&hidetitle=true&captions=fre_fr)

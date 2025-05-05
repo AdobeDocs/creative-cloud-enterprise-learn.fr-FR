@@ -17,4 +17,4 @@ ht-degree: 1%
 
 Apprenez à utiliser la fonctionnalité Texte sur image, optimisée par l’Adobe Firefly, dans Adobe Express pour créer du contenu localisé à partir d’une campagne marketing hôtelière mondiale. Ce tutoriel utilise le nouvel [Adobe Express](https://www.adobe.com/express/).
 
->[!VIDEO](https://video.tv.adobe.com/v/3422426?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3443586?quality=12&learn=on&hidetitle=true&captions=fre_fr)

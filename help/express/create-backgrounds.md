@@ -17,4 +17,4 @@ ht-degree: 0%
 
 Apprenez à créer des arrière-plans attrayants pour les présentations PowerPoint. Grâce à la fonction de conversion de texte en image optimisée par Adobe Firefly, vous pouvez générer une image personnalisée pour votre présentation, puis apporter d’autres modifications à l’image, appliquer des effets et la télécharger pour l’utiliser dans votre présentation.
 
->[!VIDEO](https://video.tv.adobe.com/v/3427117?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3433977?quality=12&learn=on&hidetitle=true&captions=fre_fr)

@@ -17,7 +17,7 @@ ht-degree: 0%
 
 Découvrez comment inviter des personnes à modifier, publier sur le web, planifier une publication pour les réseaux sociaux ou télécharger votre animation. L’Adobe Express fournit des recommandations sur le format de fichier vers lequel exporter en fonction de votre situation.
 
->[!VIDEO](https://video.tv.adobe.com/v/3426985?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3433955?quality=12&learn=on&hidetitle=true&captions=fre_fr)
 
 ## Vidéos supplémentaires dans cette série
 

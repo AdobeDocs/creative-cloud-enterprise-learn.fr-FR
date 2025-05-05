@@ -17,4 +17,4 @@ ht-degree: 1%
 
 Apprenez à utiliser la fonctionnalité Texte sur image, optimisée par l’Adobe Firefly, dans Adobe Express pour créer des graphismes uniques pour le recrutement et l’intégration des employés. Dans cet exemple, les modèles sont utilisés afin que tous les membres de l’entreprise créent du contenu qui correspond précisément à la marque. Ce tutoriel utilise le nouvel [Adobe Express](https://www.adobe.com/express/).
 
->[!VIDEO](https://video.tv.adobe.com/v/3422411?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3444262?quality=12&learn=on&hidetitle=true&captions=fre_fr)

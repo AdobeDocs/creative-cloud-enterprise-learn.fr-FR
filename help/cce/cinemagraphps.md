@@ -16,7 +16,7 @@ ht-degree: 0%
 
 Dans ce tutoriel vidéo d&#39;atelier détaillé, réalisez une photo vivante en associant une vidéo de l&#39;Adobe [!DNL Stock] à des techniques de masquage astucieuses dans Photoshop.
 
->[!VIDEO](https://video.tv.adobe.com/v/331002?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3410687?hidetitle=true&captions=fre_fr)
 
 <br> 
 

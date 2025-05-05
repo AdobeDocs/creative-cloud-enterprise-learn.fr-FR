@@ -17,7 +17,7 @@ ht-degree: 0%
 
 Découvrez comment définir la résolution de votre vidéo, la télécharger et la partager directement sur les réseaux sociaux.
 
->[!VIDEO](https://video.tv.adobe.com/v/3427093?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3436017?quality=12&learn=on&hidetitle=true&captions=fre_fr)
 
 ## Vidéos supplémentaires dans cette série
 

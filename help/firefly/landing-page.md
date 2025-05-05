@@ -19,4 +19,4 @@ Découvrez comment commencer à utiliser Adobe Firefly sur [firefly.adobe.com](h
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/3427607?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3437812?quality=12&learn=on&hidetitle=true&captions=fre_fr)

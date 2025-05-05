@@ -17,4 +17,4 @@ ht-degree: 0%
 
 Apprenez à créer des visuels attrayants pour un cours d’apprentissage en ligne. Commencez par remixer l’un des milliers de modèles conçus par des professionnels. Ensuite, ajoutez une photo et utilisez des techniques de retouche pour la fusionner dans la composition avant de la redimensionner et de fournir les visuels finaux.
 
->[!VIDEO](https://video.tv.adobe.com/v/3427122?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3433933?quality=12&learn=on&hidetitle=true&captions=fre_fr)

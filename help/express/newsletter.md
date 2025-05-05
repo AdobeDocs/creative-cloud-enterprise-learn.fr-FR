@@ -17,4 +17,4 @@ ht-degree: 0%
 
 Apprenez à lancer la création d&#39;un bulletin en recherchant des modèles conçus par des professionnels à l&#39;aide de mots-clés. Après avoir modifié le logo et le texte, vous pouvez inviter vos collègues à collaborer et à ajouter leur propre contenu.
 
->[!VIDEO](https://video.tv.adobe.com/v/3427120?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3439205?quality=12&learn=on&hidetitle=true&captions=fre_fr)

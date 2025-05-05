@@ -16,7 +16,7 @@ ht-degree: 0%
 
 Découvrez comment utiliser les [!UICONTROL composants] pour bénéficier d&#39;une flexibilité sans précédent afin d&#39;appliquer à la fois rapidité et cohérence à votre workflow de conception.
 
->[!VIDEO](https://video.tv.adobe.com/v/331003?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3410475?hidetitle=true&captions=fre_fr)
 
 Cliquez sur l’icône du fichier de PDF pour télécharger un PDF de ce tutoriel.
 

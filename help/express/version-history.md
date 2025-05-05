@@ -17,7 +17,7 @@ ht-degree: 0%
 
 Découvrez comment accéder à l’historique des versions et afficher et copier les versions précédentes de vos projets. Marquez des points pivots dans le développement pour revenir facilement à des moments spécifiques de la progression de votre projet.
 
->[!VIDEO](https://video.tv.adobe.com/v/3426937?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3438699?quality=12&learn=on&hidetitle=true&captions=fre_fr)
 
 ## Vidéos supplémentaires dans cette série
 

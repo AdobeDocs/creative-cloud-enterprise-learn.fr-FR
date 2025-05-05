@@ -21,7 +21,7 @@ Apprenez à créer des variantes linguistiques de vos projets en traduisant auto
 >
 >Il est important de vérifier l’exactitude des traductions avant de les partager ou de les télécharger.
 
->[!VIDEO](https://video.tv.adobe.com/v/3427023?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3438270?quality=12&learn=on&hidetitle=true&captions=fre_fr)
 
 ## Vidéos supplémentaires dans cette série
 

@@ -17,7 +17,7 @@ ht-degree: 0%
 
 Apprenez à ajouter une animation à une publication pour les réseaux sociaux afin de renforcer l’engagement. Pour accéder au panneau Animation, sélectionnez un élément de la page, tel qu’une image, et appliquez différents types d’animation.
 
->[!VIDEO](https://video.tv.adobe.com/v/3426975?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3436587?quality=12&learn=on&hidetitle=true&captions=fre_fr)
 
 ## Vidéos supplémentaires dans cette série
 

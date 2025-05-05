@@ -17,7 +17,7 @@ ht-degree: 0%
 
 Les actions rapides permettent de gagner du temps et fournissent des outils d’édition de base pour le travail créatif quotidien. Parmi les exemples d’actions rapides figurent la fusion et le rognage de vidéos, la suppression d’arrière-plans, le redimensionnement d’images et de vidéos, la conversion de vidéos en gifs et la modification de mots de PDF.
 
->[!VIDEO](https://video.tv.adobe.com/v/3426925?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3446300?quality=12&learn=on&hidetitle=true&captions=fre_fr)
 
 ## Vidéos supplémentaires dans cette série
 

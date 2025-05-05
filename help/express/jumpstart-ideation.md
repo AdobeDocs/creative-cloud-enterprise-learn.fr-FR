@@ -19,4 +19,4 @@ Découvrez comment prendre de l’avance en développant du contenu créatif pou
 
 Ce tutoriel utilise le nouvel [Adobe Express](https://www.adobe.com/express/).
 
->[!VIDEO](https://video.tv.adobe.com/v/3424296?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3446162?quality=12&learn=on&hidetitle=true&captions=fre_fr)
