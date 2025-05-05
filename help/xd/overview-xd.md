@@ -24,9 +24,9 @@ Adobe XD est un outil de conception et de prototypage d’expérience utilisateu
       <img alt="Familiarisation avec les composants dans Adobe XD" src="assets/Componentsxd.jpg" />
    </a>
     <div>
-   <a href="components.md"><strong>Familiarisez-vous avec les composants [!UICONTROL] dans Adobe XD</strong></a>
+   <a href="components.md"><strong>Familiarisez-vous avec les composants  dans Adobe XD</strong></a>
     </div>
-    <em>Découvrez comment utiliser les composants [!UICONTROL] pour bénéficier d'une flexibilité sans précédent afin d'appliquer vitesse et cohérence à votre workflow de conception</em>
+    <em>Découvrez comment utiliser les composants  pour bénéficier d'une flexibilité sans précédent afin d'appliquer vitesse et cohérence à votre workflow de conception</em>
     <br>
   </td>
   <td>
