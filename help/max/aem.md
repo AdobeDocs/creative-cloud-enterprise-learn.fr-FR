@@ -117,7 +117,7 @@ Logo ![AEM](../assets/aem_appicon_noshadow_96.png)
 
 **Asset Link Et Ressources AEM**
 
-[Formation et assistance](https://helpx.adobe.com/support/experience-manager.html) est votre point de contact pour accéder à des tutoriels supplémentaires, aux nouveautés et aux liens vers les forums de la communauté.
+[Formation et assistance](https://helpx.adobe.com/fr/support/experience-manager.html) est votre point de contact pour accéder à des tutoriels supplémentaires, aux nouveautés et aux liens vers les forums de la communauté.
 
 **Version D&#39;Octobre 2020**
 

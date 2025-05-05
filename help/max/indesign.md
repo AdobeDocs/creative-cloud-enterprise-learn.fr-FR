@@ -148,7 +148,7 @@ Patti Sokol, conseillère principale en solutions (médias numériques)
 
 **Ressources d&#39;InDesign**
 
-[Formation et assistance](https://helpx.adobe.com/support/indesign.html) est votre point central pour consulter d&#39;autres tutoriels, les [Nouveautés](https://helpx.adobe.com/indesign/user-guide.html/indesign/using/whats-new.ug.html) et des liens vers les forums de la communauté.
+[Formation et assistance](https://helpx.adobe.com/fr/support/indesign.html) est votre point central pour consulter d&#39;autres tutoriels, les [Nouveautés](https://helpx.adobe.com/fr/indesign/user-guide.html/indesign/using/whats-new.ug.html) et des liens vers les forums de la communauté.
 
 **Version D&#39;Octobre 2020**
 

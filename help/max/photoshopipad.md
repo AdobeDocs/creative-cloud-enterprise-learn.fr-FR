@@ -63,7 +63,7 @@ Dan Armstrong, conseiller en solutions (médias numériques)
 
 **Photoshop sur les ressources iPad**
 
-[Formation et assistance](https://helpx.adobe.com/support/photoshop.html) est votre point de contact pour les tutoriels supplémentaires et les liens vers les forums de la communauté.
+[Formation et assistance](https://helpx.adobe.com/fr/support/photoshop.html) est votre point de contact pour les tutoriels supplémentaires et les liens vers les forums de la communauté.
 
 **Version D&#39;Octobre 2020**
 

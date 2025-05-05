@@ -78,7 +78,7 @@ Patti Sokol, conseillère principale en solutions (médias numériques)
 
 **Ressources Illustrator**
 
-[Formation et assistance](https://helpx.adobe.com/support/illustrator.html) est votre point de contact pour les tutoriels supplémentaires et les liens vers les forums de la communauté.
+[Formation et assistance](https://helpx.adobe.com/fr/support/illustrator.html) est votre point de contact pour les tutoriels supplémentaires et les liens vers les forums de la communauté.
 
 **Version D&#39;Octobre 2020**
 

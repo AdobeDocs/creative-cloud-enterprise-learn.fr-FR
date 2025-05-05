@@ -22,7 +22,7 @@ Si votre organisation n’utilise pas de licences NUL et continue d’utiliser l
 
 ## À propos des licences nominatives
 
-Les [licences nominatives](https://helpx.adobe.com/enterprise/using/licensing.html) sont un modèle de licence logicielle qui permet d&#39;attribuer des logiciels à une personne plutôt qu&#39;à un numéro de série ou à un périphérique. NUL offre aux administrateurs informatiques une sécurité de niveau entreprise avec une gestion avancée de l’identité des utilisateurs et permet un déploiement et une gestion faciles des applications à l’aide de Adobe Admin Console.
+Les [licences nominatives](https://helpx.adobe.com/fr/enterprise/using/licensing.html) sont un modèle de licence logicielle qui permet d&#39;attribuer des logiciels à une personne plutôt qu&#39;à un numéro de série ou à un périphérique. NUL offre aux administrateurs informatiques une sécurité de niveau entreprise avec une gestion avancée de l’identité des utilisateurs et permet un déploiement et une gestion faciles des applications à l’aide de Adobe Admin Console.
 
 ## Avantages des licences nominatives :
 

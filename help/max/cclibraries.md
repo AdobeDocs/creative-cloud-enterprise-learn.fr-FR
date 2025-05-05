@@ -80,7 +80,7 @@ Logo ![CC Libraries](../assets/cc_appicon_96.png)
 
 **Ressources CC Libraries**
 
-[Formation et assistance](https://helpx.adobe.com/creative-cloud/help/libraries.html) est votre point de contact pour accéder à des tutoriels supplémentaires, aux nouveautés et aux liens vers les forums de la communauté.
+[Formation et assistance](https://helpx.adobe.com/fr/creative-cloud/help/libraries.html) est votre point de contact pour accéder à des tutoriels supplémentaires, aux nouveautés et aux liens vers les forums de la communauté.
 
 **Version D&#39;Octobre 2020**
 

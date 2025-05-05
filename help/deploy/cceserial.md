@@ -34,7 +34,7 @@ Les licences par numéro de série associées à votre contrat ETLA sont disponi
 
 ### Vérifier la date d’expiration
 
-L&#39;[AdobeExpiryCheck](https://helpx.adobe.com/enterprise/kb/volume-license-expiration-check.html) est un utilitaire de ligne de commande permettant aux administrateurs informatiques de vérifier si les produits Adobes d&#39;un ordinateur utilisent des numéros de série qui ont expiré ou qui expirent. L’outil affiche des informations telles que l’identifiant de licence de produit (LEID), le numéro de série chiffré et la date d’expiration. Cette [page](https://helpx.adobe.com/enterprise/kb/volume-license-expiration-check.html) contient des instructions sur le téléchargement et l&#39;utilisation de l&#39;outil sur les ordinateurs Mac ou Windows.
+L&#39;[AdobeExpiryCheck](https://helpx.adobe.com/fr/enterprise/kb/volume-license-expiration-check.html) est un utilitaire de ligne de commande permettant aux administrateurs informatiques de vérifier si les produits Adobes d&#39;un ordinateur utilisent des numéros de série qui ont expiré ou qui expirent. L’outil affiche des informations telles que l’identifiant de licence de produit (LEID), le numéro de série chiffré et la date d’expiration. Cette [page](https://helpx.adobe.com/fr/enterprise/kb/volume-license-expiration-check.html) contient des instructions sur le téléchargement et l&#39;utilisation de l&#39;outil sur les ordinateurs Mac ou Windows.
 
 ## Présentation de l’expérience de l’utilisateur final avant et après l’expiration du numéro de série
 
@@ -91,7 +91,7 @@ Pour toutes les tentatives suivantes de lancement d&#39;Acrobat, l&#39;utilisate
 
 ## Contactez-nous si vous avez besoin d’aide
 
-Si vous avez des questions sur l&#39;utilisation de l&#39;outil [AdobeExpiryCheck](https://helpx.adobe.com/enterprise/kb/volume-license-expiration-check.html) ou si vous avez besoin d&#39;aide pour migrer du déploiement par numéro de série vers un utilisateur nommé, vous disposez de quelques options :
+Si vous avez des questions sur l&#39;utilisation de l&#39;outil [AdobeExpiryCheck](https://helpx.adobe.com/fr/enterprise/kb/volume-license-expiration-check.html) ou si vous avez besoin d&#39;aide pour migrer du déploiement par numéro de série vers un utilisateur nommé, vous disposez de quelques options :
 * Envoyer un e-mail à l’équipe d’intégration d’Adobe Enterprise - **entonb@adobe.com**
 * Ouvrir un ticket d&#39;assistance dans [Admin Console](https://adminconsole.adobe.com/support)
 * Contactez l’équipe chargée de votre compte Adobe

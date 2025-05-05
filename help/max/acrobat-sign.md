@@ -163,7 +163,7 @@ Logo ![DC](../assets/Doc-Cloud-256.png)
 
 **Ressources Acrobat et Adobe Sign**
 
-[Formation et assistance](https://helpx.adobe.com/support/document-cloud.html) est votre point central pour consulter d&#39;autres tutoriels, les [Nouveautés](https://helpx.adobe.com/acrobat/using/whats-new.html) et des liens vers les forums de la communauté.
+[Formation et assistance](https://helpx.adobe.com/fr/support/document-cloud.html) est votre point central pour consulter d&#39;autres tutoriels, les [Nouveautés](https://helpx.adobe.com/fr/acrobat/using/whats-new.html) et des liens vers les forums de la communauté.
 
 **Version D&#39;Octobre 2020**
 

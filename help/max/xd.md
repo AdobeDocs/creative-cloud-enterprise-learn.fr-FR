@@ -214,7 +214,7 @@ Logo ![XD](../assets/xd_appicon_96.png)
 
 **Ressources XD**
 
-[Formation et assistance](https://helpx.adobe.com/support/xd.html) est votre point central pour consulter d&#39;autres tutoriels, les [Nouveautés](https://helpx.adobe.com/xd/user-guide.html/xd/help/whats-new.ug.html) et des liens vers les forums de la communauté.
+[Formation et assistance](https://helpx.adobe.com/fr/support/xd.html) est votre point central pour consulter d&#39;autres tutoriels, les [Nouveautés](https://helpx.adobe.com/xd/user-guide.html/xd/help/whats-new.ug.html) et des liens vers les forums de la communauté.
 
 **Version D&#39;Octobre 2020**
 

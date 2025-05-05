@@ -63,7 +63,7 @@ Logo ![Illustrator sur iPad](../assets/ai_appicon_96.png)
 
 **Illustrator sur les ressources iPad**
 
-[Formation et assistance](https://helpx.adobe.com/support/illustrator.html) est votre point central pour consulter d&#39;autres tutoriels, les [Nouveautés](https://helpx.adobe.com/illustrator/using/whats-new/mobile-2021.html) et des liens vers les forums de la communauté.
+[Formation et assistance](https://helpx.adobe.com/fr/support/illustrator.html) est votre point central pour consulter d&#39;autres tutoriels, les [Nouveautés](https://helpx.adobe.com/fr/illustrator/using/whats-new/mobile-2021.html) et des liens vers les forums de la communauté.
 
 **Version D&#39;Octobre 2020**
 
