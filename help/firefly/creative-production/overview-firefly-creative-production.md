@@ -21,10 +21,10 @@ L’interface sans code d’Adobe Firefly Creative Production facilite les modif
 <!-- COMMENT -->
 <!-- CARDS
 
-* https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/overview-of-firefly
+* https://experienceleague.adobe.com/fr/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/overview-of-firefly
   {title = Overview of Adobe Firefly}
   {description = Learn what you can create with Adobe Firefly}
-  {image = https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/media_11afa51a52fc9c6d940ee2b974589d4cd45cda4c7.png?width=400&format=webply&optimize=medium}
+  {image = https://experienceleague.adobe.com/fr/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/media_11afa51a52fc9c6d940ee2b974589d4cd45cda4c7.png?width=400&format=webply&optimize=medium}
   {cta = View tutorial}
 
 -->
