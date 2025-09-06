@@ -18,4 +18,4 @@ Découvrez comment utiliser la production créative [!DNL Firefly] pour supprime
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/3472916?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3472921?quality=12&learn=on&hidetitle=true&captions=fre_fr)
