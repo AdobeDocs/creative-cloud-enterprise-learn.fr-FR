@@ -19,4 +19,4 @@ Découvrez comment utiliser le remplissage génératif pour ajouter, développer
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/3427609?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3473991?quality=12&learn=on&hidetitle=true&captions=fre_fr)
