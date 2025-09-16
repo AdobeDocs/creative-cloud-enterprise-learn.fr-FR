@@ -7,20 +7,20 @@ level: Beginner
 jira: KT-19197
 index: false
 hidefromtoc: true
-source-git-commit: 7ebbbac26c65a3e99bdc18eb0c4d5db7e162d5ae
+source-git-commit: f68247cca10a0a3b9d9b4343bdcd2742fb8cd451
 workflow-type: tm+mt
-source-wordcount: '175'
+source-wordcount: '173'
 ht-degree: 0%
 
 ---
 
-# Création d’un modèle personnalisé à l’aide de styles
+# Créer un modèle personnalisé
 
 Apprenez à créer des modèles personnalisés en Firefly pour ajouter de nouvelles images à la marque de votre entreprise en utilisant des styles spécifiques, tels que les arrière-plans, les couleurs et les teintes. Les modèles personnalisés vous permettent de créer du contenu pertinent et personnalisé à grande échelle. Essayez l&#39;Adobe Firefly [ici](https://firefly.adobe.com/).
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/3474933?quality=12&learn=on&hidetitle=true&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/3474931?quality=12&learn=on&hidetitle=true)
 
 ## Que sont les modèles Firefly personnalisés ?
 
