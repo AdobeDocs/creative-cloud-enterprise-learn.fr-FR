@@ -1,24 +1,24 @@
 ---
 title: Créer un modèle personnalisé
-description: Apprenez à entraîner les modèles personnalisés de Firefly. Vous pouvez lire plus de détails [ici](https://helpx.adobe.com/fr/firefly/web/work-with-enterprise-features/train-custom-models/custom-models-overview.html).
+description: Apprenez à entraîner les modèles personnalisés de Firefly. Vous pouvez lire plus de détails [ici](https://helpx.adobe.com/firefly/web/work-with-enterprise-features/train-custom-models/custom-models-overview.html).
 feature: Graphic Design, Gen AI
 role: User
 level: Beginner
 jira: KT-19197
-source-git-commit: 6a6d7585b4face212ca5c26b60972d4e3a02cf1b
+source-git-commit: 8d11464360f33abad7e801be57c089eaacbbf8d7
 workflow-type: tm+mt
-source-wordcount: '163'
+source-wordcount: '164'
 ht-degree: 0%
 
 ---
 
 # Créer un modèle personnalisé
 
-Apprenez à entraîner des modèles personnalisés en Firefly afin de créer de nouvelles images pour la marque de votre entreprise. Les modèles personnalisés vous permettent de créer du contenu pertinent et personnalisé à grande échelle. En savoir plus sur la formation des modèles personnalisés [ici](https://helpx.adobe.com/fr/firefly/web/work-with-enterprise-features/train-custom-models/custom-models-overview.html)
+Apprenez à entraîner des modèles personnalisés en Firefly afin de créer de nouvelles images pour la marque de votre entreprise. Les modèles personnalisés vous permettent de créer du contenu de marque pertinent et personnalisé à grande échelle. En savoir plus sur la formation des modèles personnalisés [ici](https://helpx.adobe.com/firefly/web/work-with-enterprise-features/train-custom-models/custom-models-overview.html).
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/3474933?quality=12&learn=on&hidetitle=true&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/3474931?quality=12&learn=on&hidetitle=true)
 
 ## Que sont les modèles Firefly personnalisés ?
 
