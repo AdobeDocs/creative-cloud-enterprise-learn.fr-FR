@@ -18,7 +18,7 @@ Apprenez à entraîner des modèles personnalisés en Firefly afin de créer de 
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/3474931?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3474933?quality=12&learn=on&hidetitle=true&captions=fre_fr)
 
 ## Que sont les modèles Firefly personnalisés ?
 
