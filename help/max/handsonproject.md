@@ -99,7 +99,7 @@ Dans ce tutoriel, vous apprendrez à :
 
 **Cliquez sur l&#39;image pour télécharger le fichier [!DNL Dimension] avec un modèle 3D de masque blanc**
 
-[![Image de comparaison](../assets/whitemask_96.png)](https://stock.adobe.com/search/3d-assets?load_type=search&amp;native_visual_search=&amp;similar_content_id=&amp;is_recent_search=&amp;search_type=usertyped&amp;k=face+mask&amp;asset_id=324075591)
+[![Image de comparaison](../assets/whitemask_96.png)](https://stock.adobe.com/search/3d-assets?load_type=search&native_visual_search=&similar_content_id=&is_recent_search=&search_type=usertyped&k=face+mask&asset_id=324075591)
 
 **Présenté par :**
 Patti Sokol, conseillère principale en solutions (médias numériques)

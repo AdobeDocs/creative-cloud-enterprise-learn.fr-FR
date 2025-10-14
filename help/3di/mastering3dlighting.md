@@ -23,7 +23,7 @@ La mécanique de la lumière dans une scène 3D générée par ordinateur suit l
 
 Certaines matières sont plus sensibles que d’autres aux conditions d’éclairage. Prenez les métaux par exemple : un objet chromé reflète pratiquement tout ce qui l’entoure. Si une lumière est déplacée, devient plus claire ou s’élargit, toutes ces informations sont visibles directement sur la surface chromée dans des détails presque miroirs, de sorte qu’elle peut sembler complètement différente d’une condition d’éclairage à l’autre.
 
-![Scène de synthèse 3D d’une voiture dans un parking avec une enseigne au néon au mur. L&#39;éclairage passe de la lumière du jour à une DEL néon provenant de l&#39;enseigne ](assets/Mastering3dlighting_1.gif)
+![Scène de synthèse 3D d’une voiture dans un parking avec une enseigne au néon au mur. L&#39;éclairage passe de la lumière du jour à une DEL néon provenant de l&#39;enseigne &#x200B;](assets/Mastering3dlighting_1.gif)
 
 ## Comment utiliser des éclairages 3D pour créer des rendus 3D efficaces
 
