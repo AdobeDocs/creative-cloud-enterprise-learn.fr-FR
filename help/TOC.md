@@ -135,7 +135,7 @@ ht-degree: 6%
    + [Présentation](stock/overview-stock.md)
    + Didacticiels {#stocktutorials}
       + [Des ressources numériques époustouflantes](stock/stunning-digital-assets.md)
-      + [Rechercher dans l&#39;historique des licences de l&#39;Adobe [!DNL Stock] &#x200B;](stock/searchstock.md)
+      + [Rechercher dans l&#39;historique des licences de l&#39;Adobe [!DNL Stock] ](stock/searchstock.md)
       + [Ajout d&#39;une esthétique dessinée à la main à des images d&#39;Adobes [!DNL Stock] créatives](stock/handdrawn.md)
       + [Ajoutez du style à la typographie avec des masques et des animations](stock/flairtypography.md)
       + [Animation d’une illustration vectorielle d’Adobe [!DNL Stock] dans Photoshop](stock/animatevector.md)
@@ -157,7 +157,7 @@ ht-degree: 6%
       + [Créer des compositions photo réalistes avec des images Adobes [!DNL Stock] x](stock/realisticcomposite.md)
       + [Personnalisation d&#39;une animation d&#39;écran de chargement avec Adobe [!DNL Stock]  et XD](stock/loadingscreen.md)
       + [Personnalisation d&#39;un modèle de présentation Adobe [!DNL Stock] professionnel](stock/presentationtemplate.md)
-      + [Personnalisation des couleurs d&#39;une illustration vectorielle Adobe [!DNL Stock] &#x200B;](stock/customizecolors.md)
+      + [Personnalisation des couleurs d&#39;une illustration vectorielle Adobe [!DNL Stock] ](stock/customizecolors.md)
 + Adobe 3D et VR {#3doverview}
    + [Présentation](3di/overview-3di.md)
    + Didacticiels {#3dtutorials}
@@ -165,7 +165,7 @@ ht-degree: 6%
       + [Conseils et techniques pour maîtriser l’éclairage 3D en imagerie de synthèse](3di/mastering3dlighting.md)
       + [Création de photographies virtuelles photoréalistes avec rendu et composition 3D](3di/photorealistic.md)
       + [Personnalisez et signez un modèle 3D avec [!DNL Dimension] et l&#39;Adobe [!DNL Stock]](3di/3ddimensionstock.md)
-+ Vidéo Adobe {#videooverview}
++ Adobe Video {#videooverview}
    + [Présentation](dva/overview-dva.md)
    + Didacticiels {#videotutorials}
       + [Modèles d’animations graphiques professionnels](dva/motion-graphics-templates.md)
