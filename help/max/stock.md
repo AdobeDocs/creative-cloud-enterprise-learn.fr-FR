@@ -85,7 +85,7 @@ Logo ![[!DNL Stock]](../assets/st_appicon_96.png)
 
 **Adobe des ressources [!DNL Stock]**
 
-[Formation et assistance](https://helpx.adobe.com/support/stock.html) est votre point de contact pour les tutoriels supplémentaires et les liens vers les forums de la communauté.
+[Formation et assistance](https://helpx.adobe.com/fr/support/stock.html) est votre point de contact pour les tutoriels supplémentaires et les liens vers les forums de la communauté.
 
 **Version D&#39;Octobre 2020**
 

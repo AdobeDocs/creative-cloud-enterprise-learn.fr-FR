@@ -83,7 +83,7 @@ Logo ![Photoshop](../assets/ps_appicon_96.png)
 
 **Ressources Photoshop**
 
-[Formation et assistance](https://helpx.adobe.com/support/photoshop.html) est votre point central pour consulter d&#39;autres tutoriels, les [Nouveautés](https://helpx.adobe.com/photoshop/using/whats-new.html) et des liens vers les forums de la communauté.
+[Formation et assistance](https://helpx.adobe.com/fr/support/photoshop.html) est votre point central pour consulter d&#39;autres tutoriels, les [Nouveautés](https://helpx.adobe.com/fr/photoshop/using/whats-new.html) et des liens vers les forums de la communauté.
 
 **Version D&#39;Octobre 2020**
 
