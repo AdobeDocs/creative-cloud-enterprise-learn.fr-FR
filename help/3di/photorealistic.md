@@ -6,9 +6,9 @@ role: User
 level: Beginner, Intermediate
 keywords: Photographie virtuelle, 100 Global MSV
 exl-id: 6c4b13c6-aab8-4df0-bb05-eb5d90aafbe4
-source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
+source-git-commit: f8798caa7e5d44b8289d16d65b5dd12f28abe3ea
 workflow-type: tm+mt
-source-wordcount: '2387'
+source-wordcount: '2376'
 ht-degree: 0%
 
 ---
@@ -28,7 +28,7 @@ Cette technique, qui consiste à superposer ou à « composer » des modèles 3D
 
 ![Modification du plan d’un modèle de sphère métallique dans une composition [!DNL Dimension] d’Adobe](assets/Photorealistic_3.png)
 
-L&#39;Adobe [!DNL Dimension] a permis aux utilisateurs de combiner facilement des éléments 2D et 3D directement dans l&#39;application à l&#39;aide de la fonction de correspondance d&#39;image d&#39;Adobe Sensei. Le principal avantage de cette composition d’éléments est qu’elle accélère le processus de création d’une image réaliste en remplaçant une scène 3D entièrement réalisée par une image d’arrière-plan, qui peut être capturée à partir de la réalité.
+L&#39;Adobe [!DNL Dimension] a permis aux utilisateurs de combiner facilement des éléments 2D et 3D directement dans l&#39;application à l&#39;aide de l&#39;IA dédiée aux Adobes. Le principal avantage de cette composition d’éléments est qu’elle accélère le processus de création d’une image réaliste en remplaçant une scène 3D entièrement réalisée par une image d’arrière-plan, qui peut être capturée à partir de la réalité.
 
 ![La fonction Adapter à l&#39;image de l&#39;Adobe [!DNL Dimension] analyse l&#39;image d&#39;arrière-plan et estime la distance focale et la position de la caméra utilisée pour la capture](assets/Photorealistic_4.gif)
 
@@ -38,7 +38,7 @@ Mais qu&#39;en est-il de tout ce qui ne se trouve pas dans le cadre de l&#39;app
 
 ![Image composite 3D photoréaliste d’un cyclomoteur dans un salon](assets/Photorealistic_5.png)
 
-L’option Adapter à l’image tentera d’« halluciner » l’environnement d’éclairage dans lequel une image d’arrière-plan a été prise. Il accomplit un travail impressionnant qui produira d&#39;excellents résultats en peu de temps, mais la capture de l&#39;environnement en même temps que l&#39;image d&#39;arrière-plan produira des résultats encore plus réalistes. Il s’agit même de la méthode utilisée pour entraîner la fonction Adobe Sensei à le faire seule.
+L’option Adapter à l’image tentera d’« halluciner » l’environnement d’éclairage dans lequel une image d’arrière-plan a été prise. Il accomplit un travail impressionnant qui produira d&#39;excellents résultats en peu de temps, mais la capture de l&#39;environnement en même temps que l&#39;image d&#39;arrière-plan produira des résultats encore plus réalistes. C&#39;est même la méthode utilisée pour entraîner l&#39;Adobe AI.
 
 ![Panorama HDR de bureaux à 360 degrés](assets/Photorealistic_6.png)
 

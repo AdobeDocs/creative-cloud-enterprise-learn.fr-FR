@@ -1,13 +1,13 @@
 ---
-title: « [!DNL Stock] »
+title: '[!DNL Stock]'
 description: Adobe [!DNL Stock] abonnement Entreprise permet aux équipes créatives d'accéder à plus de 200 millions d'images, de vidéos, de modèles, d'illustrations, de fichiers audio et de ressources 3D
 feature: Licensable Assets
 role: User
 level: Beginner, Intermediate
 exl-id: 0a0f5cf8-0326-48fc-a833-0f531617cc41
-source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
+source-git-commit: f8798caa7e5d44b8289d16d65b5dd12f28abe3ea
 workflow-type: tm+mt
-source-wordcount: '333'
+source-wordcount: '325'
 ht-degree: 0%
 
 ---
@@ -27,7 +27,7 @@ Les créatifs sont sous pression pour diffuser rapidement du nouveau contenu vis
     <div>
    <a href="stock.md#tutorial1"><strong>Trouvez les meilleures ressources plus rapidement avec l’Adobe [!DNL Stock]</strong></a>
     </div>
-    <em>Trouvez l’image libre de droits idéale pour améliorer votre projet créatif à l’aide de meilleurs résultats de recherche plus rapides optimisés par Adobe Sensei, notre moteur d’intelligence artificielle</em>
+    <em>Trouvez l’image libre de droits idéale pour améliorer votre projet créatif à l’aide de meilleurs résultats de recherche plus rapides optimisés par l’IA Adobe</em>
     <br>
   </td>
   <td>
@@ -54,9 +54,10 @@ Adobe Experience Manager</strong></a>
 >[!VIDEO](https://video.tv.adobe.com/v/326951?hidetitle=true)
 
 **Description**
-Trouvez l’image libre de droits idéale pour embellir votre projet créatif à l’aide de meilleurs résultats de recherche, plus rapides et optimisés par Adobe Sensei, notre logiciel d’intelligence artificielle.
+Trouvez l’image libre de droits idéale pour améliorer votre projet créatif à l’aide de meilleurs résultats de recherche plus rapides optimisés par l’IA dédiée aux Adobes.
 
 Dans ce tutoriel, vous apprendrez à :
+
 * Prenez le temps et le stress de votre recherche d’images et de vidéos de haute qualité
 * Gérez et suivez facilement les licences et l’utilisation des actifs dans votre entreprise
 * Recherchez, prévisualisez et achetez des licences directement depuis vos applications Adobe Creative Cloud
@@ -84,7 +85,7 @@ Logo ![[!DNL Stock]](../assets/st_appicon_96.png)
 
 **Adobe des ressources [!DNL Stock]**
 
-[Formation et assistance](https://helpx.adobe.com/fr/support/stock.html) est votre point de contact pour les tutoriels supplémentaires et les liens vers les forums de la communauté.
+[Formation et assistance](https://helpx.adobe.com/support/stock.html) est votre point de contact pour les tutoriels supplémentaires et les liens vers les forums de la communauté.
 
 **Version D&#39;Octobre 2020**
 

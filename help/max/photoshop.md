@@ -5,9 +5,9 @@ feature: Image Editing
 role: User
 level: Beginner, Intermediate
 exl-id: f42f9f4c-072d-496a-842a-3da503bdaca1
-source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
+source-git-commit: f8798caa7e5d44b8289d16d65b5dd12f28abe3ea
 workflow-type: tm+mt
-source-wordcount: '333'
+source-wordcount: '329'
 ht-degree: 0%
 
 ---
@@ -48,18 +48,18 @@ Photoshop est le meilleur logiciel d’imagerie et de design graphique au monde,
 </tr>
 </table>
 
-## Modifier les images pour les adapter à votre campagne (5:45) {#tutorial1}
+## Modifier les images pour les faire correspondre à votre campagne (5:45) {#tutorial1}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326950?hidetitle=true)
 
 **Description**
 Utilisez les puissants outils de sélection et de modification des couleurs d’Adobe Photoshop pour modifier radicalement une image afin qu’elle corresponde aux besoins de votre marque d’entreprise.
 
-Dans ce tutoriel, vous apprendrez à :
+Dans ce tutoriel, découvrez comment :
 * L’outil Sélection d’objet accélère et simplifie la sélection d’éléments
 * L’outil Remplissage d’après le contenu permet de mieux contrôler les zones échantillonnées d’une image source afin d’optimiser le clonage et la correction des zones cibles
 * Les formes peuvent être différentes pour de meilleurs résultats
-* Adobe Sensei permet d’exploiter l’intelligence artificielle pour des tâches courantes
+* L’IA dédiée aux Adobes exploite l’intelligence artificielle pour des tâches courantes
 
 **Présenté par :**
 A.J Wood, conseiller principal en solutions (médias numériques)
@@ -83,7 +83,7 @@ Logo ![Photoshop](../assets/ps_appicon_96.png)
 
 **Ressources Photoshop**
 
-[Formation et assistance](https://helpx.adobe.com/fr/support/photoshop.html) est votre point central pour consulter d&#39;autres tutoriels, les [Nouveautés](https://helpx.adobe.com/fr/photoshop/using/whats-new.html) et des liens vers les forums de la communauté.
+[Formation et assistance](https://helpx.adobe.com/support/photoshop.html) est votre point central pour consulter d&#39;autres tutoriels, les [Nouveautés](https://helpx.adobe.com/photoshop/using/whats-new.html) et des liens vers les forums de la communauté.
 
 **Version D&#39;Octobre 2020**
 
