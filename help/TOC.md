@@ -8,7 +8,7 @@ feature: Graphic Design, Image Editing, Vector Editing, UI Design, Licensable As
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: f60b915c0a289217dec46ca72659c015ae71aaef
+source-git-commit: c52f7a40d98aa5aef552a13bea2d3e5f5a89193e
 workflow-type: tm+mt
 source-wordcount: '808'
 ht-degree: 6%
@@ -135,7 +135,7 @@ ht-degree: 6%
    + [Présentation](stock/overview-stock.md)
    + Didacticiels {#stocktutorials}
       + [Des ressources numériques époustouflantes](stock/stunning-digital-assets.md)
-      + [Rechercher dans l&#39;historique des licences de l&#39;Adobe [!DNL Stock] &#x200B;](stock/searchstock.md)
+      + [Rechercher dans l&#39;historique des licences de l&#39;Adobe [!DNL Stock] ](stock/searchstock.md)
       + [Ajout d&#39;une esthétique dessinée à la main à des images d&#39;Adobes [!DNL Stock] créatives](stock/handdrawn.md)
       + [Ajoutez du style à la typographie avec des masques et des animations](stock/flairtypography.md)
       + [Animation d’une illustration vectorielle d’Adobe [!DNL Stock] dans Photoshop](stock/animatevector.md)
@@ -157,7 +157,7 @@ ht-degree: 6%
       + [Créer des compositions photo réalistes avec des images Adobes [!DNL Stock] x](stock/realisticcomposite.md)
       + [Personnalisation d&#39;une animation d&#39;écran de chargement avec Adobe [!DNL Stock]  et XD](stock/loadingscreen.md)
       + [Personnalisation d&#39;un modèle de présentation Adobe [!DNL Stock] professionnel](stock/presentationtemplate.md)
-      + [Personnalisation des couleurs d&#39;une illustration vectorielle Adobe [!DNL Stock] &#x200B;](stock/customizecolors.md)
+      + [Personnalisation des couleurs d&#39;une illustration vectorielle Adobe [!DNL Stock] ](stock/customizecolors.md)
 + Adobe 3D et VR {#3doverview}
    + [Présentation](3di/overview-3di.md)
    + Didacticiels {#3dtutorials}
@@ -175,7 +175,7 @@ ht-degree: 6%
 + Adobe XD {#xdoverview}
    + [Présentation](xd/overview-xd.md)
    + Didacticiels {#xdtutorials}
-   + [Familiarisez-vous avec les [!UICONTROL composants] dans Adobe XD](xd/components.md)
+      + [Familiarisez-vous avec les [!UICONTROL composants] dans Adobe XD](xd/components.md)
 + Déploiement et gestion {#deploy}
    + [Présentation](deploy/overview-deploy.md)
    + [Expiration du numéro de série](deploy/cceserial.md)
