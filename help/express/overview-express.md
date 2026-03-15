@@ -6,10 +6,10 @@ role: User
 level: Beginner, Intermediate
 jira: KT-13380
 exl-id: 3c144e1a-f823-4551-b705-aa9dbca548f2
-source-git-commit: d529664e5d0bb6f97c2624e6ce6e655cfc1e0ac9
+source-git-commit: 10dcd7a20e5f1e3fa649531559791e4dc804a7e5
 workflow-type: tm+mt
-source-wordcount: '251'
-ht-degree: 10%
+source-wordcount: '621'
+ht-degree: 4%
 
 ---
 
@@ -34,8 +34,9 @@ Apprenez à apporter cohérence, efficacité, professionnalisme et économies à
 ## Adobe des tutoriels [!DNL Express]
 
 <!-- COMMENT -->
-<!-- CARDS
+<!-- CARDS -->
 
+<!--
 * https://experienceleague.adobe.com/fr/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/overview-express-how-to#getting-started
   {target = _self}
   {title = Getting started}
@@ -78,8 +79,8 @@ Apprenez à apporter cohérence, efficacité, professionnalisme et économies à
   {description = Learn how different teams within your organization can benefit from using Adobe Express}
   {https://experienceleague.adobe.com/fr/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/media_1bf41d6490283a6dd13de00d05c2860c9b389a3fe.png?width=400&format=webply&optimize=medium}
   {cta = Browse tutorials}
-  
 -->
+
 <!-- END CARDS -->
 <!-- END COMMENT -->
 

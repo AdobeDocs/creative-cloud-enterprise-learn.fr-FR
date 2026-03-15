@@ -6,9 +6,9 @@ role: User
 level: Beginner
 jira: KT-13379
 exl-id: 3c4244db-f46d-4682-ac5a-f1dd075bf15c
-source-git-commit: 0af8b51fcfb15486bb72e6a40bbb65ab06a429ab
+source-git-commit: 10dcd7a20e5f1e3fa649531559791e4dc804a7e5
 workflow-type: tm+mt
-source-wordcount: '549'
+source-wordcount: '1286'
 ht-degree: 0%
 
 ---
@@ -20,8 +20,9 @@ Firefly est la nouvelle famille de modèles d’IA générative créative destin
 ## Tutoriels Firefly
 
 <!-- COMMENT -->
-<!-- CARDS
+<!-- CARDS -->
 
+<!--
 * https://experienceleague.adobe.com/fr/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/overview-of-firefly
   {title = Overview of Adobe Firefly}
   {description = Learn what you can create with Adobe Firefly}
@@ -242,7 +243,7 @@ Firefly est la nouvelle famille de modèles d’IA générative créative destin
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/fr/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/custom-model" title="Créer un modèle personnalisé" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3474933?quality=12&hidetitle=true&format=jpeg&nocache=1758117649719&captions=fre_fr" alt="Créer un modèle personnalisé"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3474933?captions=fre_fr&quality=12&hidetitle=true&format=jpeg&nocache=1758117649719" alt="Créer un modèle personnalisé"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -298,10 +299,10 @@ Firefly est la nouvelle famille de modèles d’IA générative créative destin
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="https://experienceleague.adobe.com/fr/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/text-to-image" target="_self" rel="referrer" title="Texte en image">Texte sur image</a>
                     </p>
-                    <p class="is-size-6">Découvrez comment créer une image à partir de descriptions de texte</p>
+                    <p class="is-size-6">Découvrez comment créer une image à partir de descriptions textuelles</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/fr/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/text-to-image" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Voir le tutoriel</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Afficher le tutoriel</span>
                 </a>
             </div>
         </div>
@@ -311,7 +312,7 @@ Firefly est la nouvelle famille de modèles d’IA générative créative destin
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/fr/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/text-effects" title="Effets de texte" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432210?quality=12&hidetitle=true&format=jpeg&nocache=1758117649937&captions=fre_fr" alt="Effets de texte"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432210?captions=fre_fr&quality=12&hidetitle=true&format=jpeg&nocache=1758117649937" alt="Effets de texte"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -321,10 +322,10 @@ Firefly est la nouvelle famille de modèles d’IA générative créative destin
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="https://experienceleague.adobe.com/fr/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/text-effects" target="_self" rel="referrer" title="Effets de texte">Effets de texte</a>
                     </p>
-                    <p class="is-size-6">Apprenez à créer du texte unique et inspirant pour vos projets à l’aide d’invites de texte simples</p>
+                    <p class="is-size-6">Découvrez comment créer du texte unique et inspirant pour vos projets à l’aide d’invites de texte simples</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/fr/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/text-effects" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Voir le tutoriel</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Afficher le tutoriel</span>
                 </a>
             </div>
         </div>
@@ -347,7 +348,7 @@ Firefly est la nouvelle famille de modèles d’IA générative créative destin
                     <p class="is-size-6">Découvrez comment utiliser le remplissage génératif pour ajouter, développer ou supprimer du contenu de vos images</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/fr/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/gen-fill" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Voir le tutoriel</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Afficher le tutoriel</span>
                 </a>
             </div>
         </div>
@@ -356,8 +357,8 @@ Firefly est la nouvelle famille de modèles d’IA générative créative destin
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/fr/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/gen-recolor" title="Redéfinition des couleurs générative" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/fr/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/media_10e132d32d4a984ce0afe99e7c6d3821f4df5929a.png?width=400&format=webply&optimize=medium" alt="Redéfinition des couleurs générative"
+                    <a href="https://experienceleague.adobe.com/fr/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/gen-recolor" title="Recoloration générative" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/fr/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/media_10e132d32d4a984ce0afe99e7c6d3821f4df5929a.png?width=400&format=webply&optimize=medium" alt="Recoloration générative"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
