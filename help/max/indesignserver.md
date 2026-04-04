@@ -63,21 +63,21 @@ Eric Rowse, Conseiller principal en solutions (médias numériques)
 <table>
 <tr>
  <td>
-   <a href="https://www.adobe.com/products/indesignserver/buying-guide.html">
+   <a href="https://www.adobe.com/fr/products/indesignserver/buying-guide.html">
       <img alt="InDesign Server : Guide d’achat" src="../assets/IDS_Thumbnail.jpg" />
    </a>
     <div>
-   <a href="https://www.adobe.com/products/indesignserver/buying-guide.html"><strong>InDesign Server : Guide d'achat</strong></a>
+   <a href="https://www.adobe.com/fr/products/indesignserver/buying-guide.html"><strong>InDesign Server : Guide d'achat</strong></a>
     </div>
     <em>Ressources disponibles pour les développeurs ou partenaires internes</em>
     <br>
   </td>
   <td>
-   <a href="https://www.adobe.com/products/indesignserver/partner.html">
+   <a href="https://www.adobe.com/fr/products/indesignserver/partner.html">
       <img alt="InDesign Server : Rechercher un partenaire" src="../assets/IDS_Thumbnail.jpg" />
    </a>
     <div>
-   <a href="https://www.adobe.com/products/indesignserver/partner.html"><strong>InDesign Server : Rechercher un partenaire</strong></a>
+   <a href="https://www.adobe.com/fr/products/indesignserver/partner.html"><strong>InDesign Server : Rechercher un partenaire</strong></a>
     </div>
     <em>Bien que vous disposiez de l'expertise nécessaire pour vous développer en interne, Adobe vous recommande de travailler avec des partenaires pour trouver la solution adaptée à vos besoins</em>
     <br>
@@ -94,7 +94,7 @@ Logo ![InDesign Server](../assets/id_server_appicon_96.png)
 
 **Ressources d&#39;InDesign Server**
 
-[Formation et assistance](https://www.adobe.com/products/indesignserver.html) est votre point de contact pour accéder à des tutoriels supplémentaires, aux nouveautés et aux liens vers les forums de la communauté.
+[Formation et assistance](https://www.adobe.com/fr/products/indesignserver.html) est votre point de contact pour accéder à des tutoriels supplémentaires, aux nouveautés et aux liens vers les forums de la communauté.
 
 **Version D&#39;Octobre 2020**
 
