@@ -21,7 +21,7 @@ En regardant les images ci-dessus, vous serez pardonné de supposer que tout ce 
 
 ![Une scène de The Abyss de James Cameron dans laquelle Mary Mastrantonio tend la main pour toucher le tentacule d&#39;eau en imagerie de synthèse](assets/Photorealistic_2.jpg)
 
-Cette technique, qui consiste à superposer ou à « composer » des modèles 3D dans une image ou une vidéo, n’est pas nouvelle. En fait, ses origines remontent aux premiers jours des effets spéciaux (qui remontent aux années 1980). Ce qui est nouveau et passionnant, c&#39;est que cette technique est devenue un outil puissant pour les utilisateurs de [l&#39;Adobe [!DNL Dimension]](https://www.adobe.com/products/dimension.html), ainsi qu&#39;un nouveau workflow intrigant pour les photographes.
+Cette technique, qui consiste à superposer ou à « composer » des modèles 3D dans une image ou une vidéo, n’est pas nouvelle. En fait, ses origines remontent aux premiers jours des effets spéciaux (qui remontent aux années 1980). Ce qui est nouveau et passionnant, c&#39;est que cette technique est devenue un outil puissant pour les utilisateurs de [l&#39;Adobe [!DNL Dimension]](https://www.adobe.com/fr/products/dimension.html), ainsi qu&#39;un nouveau workflow intrigant pour les photographes.
 
 
 ## Technologie derrière la création d&#39;images composites dans l&#39;Adobe [!DNL Dimension]
@@ -58,7 +58,7 @@ L&#39;un des aspects les plus importants pour capturer efficacement ce type de c
 
 ### Choix d’un emplacement
 
-Recherchez des emplacements intéressants à la fois pour leur contexte et leur éclairage. Pour le contexte, il peut être utile d’imaginer l’utilisation potentielle d’une scène. Par exemple, une vue d&#39;une route vide peut être utilisée pour ajouter une voiture 3D, tandis qu&#39;une vue d&#39;une table dans un café peut être utilisée pour [afficher le packaging](https://www.adobe.com/products/dimension/packaging-design-mockup.html) de produits alimentaires.
+Recherchez des emplacements intéressants à la fois pour leur contexte et leur éclairage. Pour le contexte, il peut être utile d’imaginer l’utilisation potentielle d’une scène. Par exemple, une vue d&#39;une route vide peut être utilisée pour ajouter une voiture 3D, tandis qu&#39;une vue d&#39;une table dans un café peut être utilisée pour [afficher le packaging](https://www.adobe.com/fr/products/dimension/packaging-design-mockup.html) de produits alimentaires.
 
 ![4 scènes de localisation pour une photo virtuelle sont comparées aux mêmes scènes avec une composition 3D](assets/Photorealistic_8.png)
 
