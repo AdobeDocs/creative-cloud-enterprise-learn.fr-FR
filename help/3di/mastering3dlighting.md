@@ -66,7 +66,7 @@ Les éclairages de l’environnement sont des images équirectangulaires (sphér
 
 ![Exemples d’éclairages de l’environnement réalisés à partir de photos, d’une scène studio 3D et d’une scène 3D abstraite](assets/Mastering3dlighting_5.jpg)
 
-Lorsque vous créez une scène dans [[!DNL Dimension]](https://www.adobe.com/products/dimension.html), un éclairage d&#39;environnement par défaut est créé pour vous. C’est pourquoi vous pouvez voir immédiatement tout ce qui se trouve dans la scène. Les ressources de démarrage de l’Adobe [!DNL Dimension] incluent un certain nombre d’éclairages de l’environnement, que vous pouvez tester immédiatement. En outre, [Adobe [!DNL Stock]](https://stock.adobe.com/search?filters[content_type:3d]=1&filters[3d_type_id][0]=2&load_type=3d+lp) offre une vaste sélection d&#39;éclairages de l&#39;environnement.
+Lorsque vous créez une scène dans [[!DNL Dimension]](https://www.adobe.com/fr/products/dimension.html), un éclairage d&#39;environnement par défaut est créé pour vous. C’est pourquoi vous pouvez voir immédiatement tout ce qui se trouve dans la scène. Les ressources de démarrage de l’Adobe [!DNL Dimension] incluent un certain nombre d’éclairages de l’environnement, que vous pouvez tester immédiatement. En outre, [Adobe [!DNL Stock]](https://stock.adobe.com/search?filters[content_type:3d]=1&filters[3d_type_id][0]=2&load_type=3d+lp) offre une vaste sélection d&#39;éclairages de l&#39;environnement.
 
 Les éclairages de l’environnement produisent des résultats très réalistes et peuvent vous faire gagner beaucoup de temps. Pour obtenir un résultat similaire manuellement, vous devez créer l’ensemble de l’environnement en 3D (y compris les différentes sources de lumière), ce qui représente un travail considérable.
 
