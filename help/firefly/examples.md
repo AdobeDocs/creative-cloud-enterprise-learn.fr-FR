@@ -26,4 +26,4 @@ Découvrez comment utiliser Firefly pour créer des présentations PowerPoint, d
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/3427611?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3437058?captions=fre_fr&quality=12&learn=on&hidetitle=true)

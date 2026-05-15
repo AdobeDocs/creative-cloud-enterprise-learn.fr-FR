@@ -30,4 +30,4 @@ Rejoignez Howard Pinsky dans ce webinaire pendant qu&#39;il plonge dans le Firef
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/3420252?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3455536?captions=fre_fr&quality=12&learn=on&hidetitle=true)

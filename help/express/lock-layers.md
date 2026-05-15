@@ -24,7 +24,7 @@ ht-degree: 0%
 
 Découvrez pourquoi il est important de verrouiller divers éléments de votre modèle afin qu’ils ne puissent pas être modifiés. Certains éléments, tels que les logos, ne doivent pas être modifiés afin de pouvoir être verrouillés avant de partager votre modèle.
 
->[!VIDEO](https://video.tv.adobe.com/v/3427095?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3437067?captions=fre_fr&quality=12&learn=on&hidetitle=true)
 
 ## Vidéos supplémentaires dans cette série
 

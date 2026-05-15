@@ -24,7 +24,7 @@ ht-degree: 0%
 
 Apprenez à apporter à votre entreprise cohérence, efficacité, professionnalisme et économies grâce aux modèles Adobes Express. Ce tutoriel explique comment créer un contenu réutilisable à partir de n’importe quel contenu existant (qu’il s’agisse d’un fichier Photoshop, Illustrator, InDesign ou même PowerPoint).
 
->[!VIDEO](https://video.tv.adobe.com/v/3420208?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3433966?captions=fre_fr&quality=12&learn=on&hidetitle=true)
 
 ## Vidéos supplémentaires dans cette série
 

@@ -32,4 +32,4 @@ Découvrez comment créer, utiliser et partager des ressources de marque pour vo
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/335333?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3449190?captions=fre_fr&hidetitle=true)

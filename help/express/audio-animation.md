@@ -24,7 +24,7 @@ ht-degree: 0%
 
 Apprenez à créer des projets attrayants et mémorables en ajoutant de l’audio, y compris des fichiers audio libres de droits disponibles avec Express.
 
->[!VIDEO](https://video.tv.adobe.com/v/3426983?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3433911?captions=fre_fr&quality=12&learn=on&hidetitle=true)
 
 ## Vidéos supplémentaires dans cette série
 

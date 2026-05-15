@@ -26,4 +26,4 @@ Apprenez à créer une image à partir de descriptions de texte. [La génératio
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/3427608?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3447672?captions=fre_fr&quality=12&learn=on&hidetitle=true)

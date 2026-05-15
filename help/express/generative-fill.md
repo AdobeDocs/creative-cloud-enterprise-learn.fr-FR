@@ -24,7 +24,7 @@ ht-degree: 0%
 
 Découvrez comment utiliser le remplissage génératif, optimisé par l’Adobe Firefly, pour ajouter et supprimer des éléments dans une image.
 
->[!VIDEO](https://video.tv.adobe.com/v/3427020?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3437834?captions=fre_fr&quality=12&learn=on&hidetitle=true)
 
 ## Vidéos supplémentaires dans cette série
 

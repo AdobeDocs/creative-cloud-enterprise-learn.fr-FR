@@ -24,7 +24,7 @@ ht-degree: 0%
 
 Découvrez comment utiliser les plans de travail et les calques dans un projet de conception. Ajoutez, supprimez, dupliquez, réorganisez et redimensionnez des plans de travail pour différents canaux sociaux. Vous pouvez également modifier l’ordre des éléments dans la pile de calques.
 
->[!VIDEO](https://video.tv.adobe.com/v/3420214?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3447067?captions=fre_fr&quality=12&learn=on&hidetitle=true)
 
 ## Vidéos supplémentaires dans cette série
 

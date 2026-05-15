@@ -31,4 +31,4 @@ Découvrez comment accélérer la création de contenu avec les outils alimenté
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/3425036?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3446239?captions=fre_fr&quality=12&learn=on&hidetitle=true)

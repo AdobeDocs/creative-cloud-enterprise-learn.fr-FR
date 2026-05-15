@@ -24,7 +24,7 @@ ht-degree: 0%
 
 Améliorez votre animation en ajoutant des éléments tels que des images et des titres à une animation. Découvrez comment ajouter, dupliquer, réorganiser ou remplacer des éléments dans une scène tout en conservant les animations intactes.
 
->[!VIDEO](https://video.tv.adobe.com/v/3426982?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3433922?captions=fre_fr&quality=12&learn=on&hidetitle=true)
 
 ## Vidéos supplémentaires dans cette série
 

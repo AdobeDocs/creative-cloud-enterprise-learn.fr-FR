@@ -24,7 +24,7 @@ ht-degree: 0%
 
 Apprenez à créer des designs percutants avec des effets de texte optimisés par l’Adobe Firefly. À l’aide d’une invite de texte, vous pouvez générer des effets de texte extraordinaires que vous pouvez affiner et embellir.
 
->[!VIDEO](https://video.tv.adobe.com/v/3427021?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3438812?captions=fre_fr&quality=12&learn=on&hidetitle=true)
 
 ## Vidéos supplémentaires dans cette série
 

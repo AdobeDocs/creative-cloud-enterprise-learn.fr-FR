@@ -24,7 +24,7 @@ ht-degree: 0%
 
 Apprenez à optimiser la taille de votre animation à l’aide des paramètres prédéfinis intégrés pour les publications sur les réseaux sociaux comme Instagram. Quelle que soit la façon dont vous redimensionnez vos animations, les paramètres sont conservés de sorte que vous n’avez pas besoin de les reconstruire.
 
->[!VIDEO](https://video.tv.adobe.com/v/3426984?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3437724?captions=fre_fr&quality=12&learn=on&hidetitle=true)
 
 ## Vidéos supplémentaires dans cette série
 

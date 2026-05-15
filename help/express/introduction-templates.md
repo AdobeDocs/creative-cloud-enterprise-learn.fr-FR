@@ -24,7 +24,7 @@ ht-degree: 0%
 
 Explorez des milliers de modèles conçus par des professionnels pour tous vos besoins en matière de médias sociaux et de marketing. Les modèles offrent un moyen rapide de créer du contenu personnalisé en le remixant avec vos propres mots et photos.
 
->[!VIDEO](https://video.tv.adobe.com/v/3426927?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3443535?captions=fre_fr&quality=12&learn=on&hidetitle=true)
 
 ## Vidéos supplémentaires dans cette série
 
