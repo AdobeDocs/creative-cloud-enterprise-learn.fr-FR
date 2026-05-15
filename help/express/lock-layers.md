@@ -6,9 +6,13 @@ role: User
 level: Beginner
 jira: KT-14885
 exl-id: f7aba5fa-40dd-48f2-afe3-d65ecc9a666c
-source-git-commit: f7eb9a548da23db3afcb3e6dfeb378f40181e1e0
+TQID: https://experienceleague.adobe.com/fKtZZFwi7HI-1JOrdM7YicWs8nU6tjZv9AEtTfjdkaE
+product_v2: id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: af4fdb8dfc8c84e5e51525c730d0ba8831179443
 workflow-type: tm+mt
-source-wordcount: '138'
+source-wordcount: 139
 ht-degree: 0%
 
 ---
@@ -17,7 +21,7 @@ ht-degree: 0%
 
 Découvrez pourquoi il est important de verrouiller divers éléments de votre modèle afin qu’ils ne puissent pas être modifiés. Certains éléments, tels que les logos, ne doivent pas être modifiés afin de pouvoir être verrouillés avant de partager votre modèle.
 
->[!VIDEO](https://video.tv.adobe.com/v/3437067?quality=12&learn=on&hidetitle=true&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/3427095?quality=12&learn=on&hidetitle=true)
 
 ## Vidéos supplémentaires dans cette série
 

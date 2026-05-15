@@ -5,10 +5,15 @@ role: Admin
 level: Beginner, Intermediate
 feature: Deploy
 exl-id: 9dbdb057-6684-4750-bf9d-8af7a32bfe14
-source-git-commit: f17ea20ac8623dae0c681753b4bde250a1c9b06e
+TQID: https://experienceleague.adobe.com/1Vae4kugu2cH2aiRmUYs8mRxEyc8cF9gqWaivm5AB4w
+product_v2: id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
+role_v2: id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: d095671a-1355-40aa-8b5f-06c33c68080b
+source-git-commit: af4fdb8dfc8c84e5e51525c730d0ba8831179443
 workflow-type: tm+mt
-source-wordcount: '615'
-ht-degree: 0%
+source-wordcount: 638
+ht-degree: 1%
 
 ---
 
@@ -22,7 +27,7 @@ Si votre organisation n’utilise pas de licences NUL et continue d’utiliser l
 
 ## À propos des licences nominatives
 
-Les [licences nominatives](https://helpx.adobe.com/fr/enterprise/using/licensing.html) sont un modèle de licence logicielle qui permet d&#39;attribuer des logiciels à une personne plutôt qu&#39;à un numéro de série ou à un périphérique. NUL offre aux administrateurs informatiques une sécurité de niveau entreprise avec une gestion avancée de l’identité des utilisateurs et permet un déploiement et une gestion faciles des applications à l’aide de Adobe Admin Console.
+Les [licences nominatives](https://helpx.adobe.com/enterprise/using/licensing.html) sont un modèle de licence logicielle qui permet d&#39;attribuer des logiciels à une personne plutôt qu&#39;à un numéro de série ou à un périphérique. NUL offre aux administrateurs informatiques une sécurité de niveau entreprise avec une gestion avancée de l’identité des utilisateurs et permet un déploiement et une gestion faciles des applications à l’aide de Adobe Admin Console.
 
 ## Avantages des licences nominatives :
 

@@ -6,9 +6,13 @@ role: User
 level: Beginner
 jira: null
 exl-id: 314d3e32-5e7f-4557-9439-e12ec9986256
-source-git-commit: a21ff3b9340b44320272e6e66248d9589655ae2b
+TQID: https://experienceleague.adobe.com/q8zRc-EvSNKj2Hi9UAbD3Bogu0lHuiyqRd7Wls4xcaQ
+product_v2: id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: af4fdb8dfc8c84e5e51525c730d0ba8831179443
 workflow-type: tm+mt
-source-wordcount: '92'
+source-wordcount: 92
 ht-degree: 0%
 
 ---
@@ -17,7 +21,7 @@ ht-degree: 0%
 
 Découvrez comment collaborer avec vos collègues sur des projets créatifs, notamment en les invitant, en définissant des autorisations, en résolvant les commentaires et en travaillant sur le projet simultanément.
 
->[!VIDEO](https://video.tv.adobe.com/v/3439539?quality=12&learn=on&hidetitle=true&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/3420253?quality=12&learn=on&hidetitle=true)
 
 ## Vidéos supplémentaires dans cette série
 

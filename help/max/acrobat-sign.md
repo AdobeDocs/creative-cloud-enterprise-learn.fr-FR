@@ -5,9 +5,13 @@ feature: Collaboration, Share, Integrations
 role: User
 level: Beginner, Intermediate
 exl-id: 7b7defa1-d2fb-4908-a605-4696fceeb467
-source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
+TQID: https://experienceleague.adobe.com/9wkX7D0IVInCzEFg6GNjZBb6deU28Xg76wdH6Ma8OVw
+product_v2: id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: af4fdb8dfc8c84e5e51525c730d0ba8831179443
 workflow-type: tm+mt
-source-wordcount: '610'
+source-wordcount: 624
 ht-degree: 0%
 
 ---
@@ -163,7 +167,7 @@ Logo ![DC](../assets/Doc-Cloud-256.png)
 
 **Ressources Acrobat et Adobe Sign**
 
-[Formation et assistance](https://helpx.adobe.com/fr/support/document-cloud.html) est votre point central pour consulter d&#39;autres tutoriels, les [Nouveautés](https://helpx.adobe.com/fr/acrobat/using/whats-new.html) et des liens vers les forums de la communauté.
+[Formation et assistance](https://helpx.adobe.com/support/document-cloud.html) est votre point central pour consulter d&#39;autres tutoriels, les [Nouveautés](https://helpx.adobe.com/acrobat/using/whats-new.html) et des liens vers les forums de la communauté.
 
 **Version D&#39;Octobre 2020**
 

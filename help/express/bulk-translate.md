@@ -6,9 +6,13 @@ role: User
 level: Intermediate
 jira: KT-14851
 exl-id: 1d07770d-e423-4c72-a771-97bca0df4fe1
-source-git-commit: 5067e02da7d74d366c797e81a6a5d0ee9ac69feb
+TQID: https://experienceleague.adobe.com/ijC1T8f4XNs3GzZZd4tsxJmxML-hqMHLzhnYoDl-BGM
+product_v2: id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+source-git-commit: af4fdb8dfc8c84e5e51525c730d0ba8831179443
 workflow-type: tm+mt
-source-wordcount: '126'
+source-wordcount: 128
 ht-degree: 0%
 
 ---
@@ -21,7 +25,7 @@ Apprenez à créer des variantes linguistiques de vos projets en traduisant auto
 >
 >Il est important de vérifier l’exactitude des traductions avant de les partager ou de les télécharger.
 
->[!VIDEO](https://video.tv.adobe.com/v/3438270?quality=12&learn=on&hidetitle=true&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/3427023?quality=12&learn=on&hidetitle=true)
 
 ## Vidéos supplémentaires dans cette série
 

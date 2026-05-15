@@ -6,9 +6,14 @@ role: User
 level: Beginner, Intermediate
 keywords: Photographie virtuelle, 100 Global MSV
 exl-id: 6c4b13c6-aab8-4df0-bb05-eb5d90aafbe4
-source-git-commit: f8798caa7e5d44b8289d16d65b5dd12f28abe3ea
+TQID: https://experienceleague.adobe.com/hLSElZumsN2H0Wh0jGmRY4zu84a5WmWVvtl1upQoRQ4
+product_v2: id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
+feature_v2: id: fec89bf3-1b77-4b07-a0b9-96726856a0ad
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: af4fdb8dfc8c84e5e51525c730d0ba8831179443
 workflow-type: tm+mt
-source-wordcount: '2376'
+source-wordcount: 2406
 ht-degree: 0%
 
 ---
@@ -21,14 +26,14 @@ En regardant les images ci-dessus, vous serez pardonné de supposer que tout ce 
 
 ![Une scène de The Abyss de James Cameron dans laquelle Mary Mastrantonio tend la main pour toucher le tentacule d&#39;eau en imagerie de synthèse](assets/Photorealistic_2.jpg)
 
-Cette technique, qui consiste à superposer ou à « composer » des modèles 3D dans une image ou une vidéo, n’est pas nouvelle. En fait, ses origines remontent aux premiers jours des effets spéciaux (qui remontent aux années 1980). Ce qui est nouveau et passionnant, c&#39;est que cette technique est devenue un outil puissant pour les utilisateurs de [l&#39;Adobe [!DNL Dimension]](https://www.adobe.com/fr/products/dimension.html), ainsi qu&#39;un nouveau workflow intrigant pour les photographes.
+Cette technique, qui consiste à superposer ou à « composer » des modèles 3D dans une image ou une vidéo, n’est pas nouvelle. En fait, ses origines remontent aux premiers jours des effets spéciaux (qui remontent aux années 1980). Ce qui est nouveau et passionnant, c&#39;est que cette technique est devenue un outil puissant pour les utilisateurs de [l&#39;Adobe [!DNL Dimension]](https://www.adobe.com/products/dimension.html), ainsi qu&#39;un nouveau workflow intrigant pour les photographes.
 
 
 ## Technologie derrière la création d&#39;images composites dans l&#39;Adobe [!DNL Dimension]
 
 ![Modification du plan d’un modèle de sphère métallique dans une composition [!DNL Dimension] d’Adobe](assets/Photorealistic_3.png)
 
-L&#39;Adobe [!DNL Dimension] a permis aux utilisateurs de combiner facilement des éléments 2D et 3D directement dans l&#39;application à l&#39;aide de l&#39;IA dédiée aux Adobes. Le principal avantage de cette composition d’éléments est qu’elle accélère le processus de création d’une image réaliste en remplaçant une scène 3D entièrement réalisée par une image d’arrière-plan, qui peut être capturée à partir de la réalité.
+L’Adobe [!DNL Dimension] a permis aux utilisateurs de combiner facilement des éléments 2D et 3D directement dans l’application à l’aide d’Adobe AI. Le principal avantage de cette composition d’éléments est qu’elle accélère le processus de création d’une image réaliste en remplaçant une scène 3D entièrement réalisée par une image d’arrière-plan, qui peut être capturée à partir de la réalité.
 
 ![La fonction Adapter à l&#39;image de l&#39;Adobe [!DNL Dimension] analyse l&#39;image d&#39;arrière-plan et estime la distance focale et la position de la caméra utilisée pour la capture](assets/Photorealistic_4.gif)
 
@@ -38,7 +43,7 @@ Mais qu&#39;en est-il de tout ce qui ne se trouve pas dans le cadre de l&#39;app
 
 ![Image composite 3D photoréaliste d’un cyclomoteur dans un salon](assets/Photorealistic_5.png)
 
-L’option Adapter à l’image tentera d’« halluciner » l’environnement d’éclairage dans lequel une image d’arrière-plan a été prise. Il accomplit un travail impressionnant qui produira d&#39;excellents résultats en peu de temps, mais la capture de l&#39;environnement en même temps que l&#39;image d&#39;arrière-plan produira des résultats encore plus réalistes. C&#39;est même la méthode utilisée pour entraîner l&#39;Adobe AI.
+L’option Adapter à l’image tentera d’« halluciner » l’environnement d’éclairage dans lequel une image d’arrière-plan a été prise. Il accomplit un travail impressionnant qui produira d&#39;excellents résultats en peu de temps, mais la capture de l&#39;environnement en même temps que l&#39;image d&#39;arrière-plan produira des résultats encore plus réalistes. Il s’agit même de la méthode utilisée pour entraîner l’IA d’Adobe.
 
 ![Panorama HDR de bureaux à 360 degrés](assets/Photorealistic_6.png)
 
@@ -58,7 +63,7 @@ L&#39;un des aspects les plus importants pour capturer efficacement ce type de c
 
 ### Choix d’un emplacement
 
-Recherchez des emplacements intéressants à la fois pour leur contexte et leur éclairage. Pour le contexte, il peut être utile d’imaginer l’utilisation potentielle d’une scène. Par exemple, une vue d&#39;une route vide peut être utilisée pour ajouter une voiture 3D, tandis qu&#39;une vue d&#39;une table dans un café peut être utilisée pour [afficher le packaging](https://www.adobe.com/fr/products/dimension/packaging-design-mockup.html) de produits alimentaires.
+Recherchez des emplacements intéressants à la fois pour leur contexte et leur éclairage. Pour le contexte, il peut être utile d’imaginer l’utilisation potentielle d’une scène. Par exemple, une vue d&#39;une route vide peut être utilisée pour ajouter une voiture 3D, tandis qu&#39;une vue d&#39;une table dans un café peut être utilisée pour [afficher le packaging](https://www.adobe.com/products/dimension/packaging-design-mockup.html) de produits alimentaires.
 
 ![4 scènes de localisation pour une photo virtuelle sont comparées aux mêmes scènes avec une composition 3D](assets/Photorealistic_8.png)
 
