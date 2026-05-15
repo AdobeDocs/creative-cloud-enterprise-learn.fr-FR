@@ -1,20 +1,30 @@
 ---
 title: InDesign Server
-description: Le logiciel serveur Adobe&amp ;reg ; InDesign&amp ;reg ; fournit un Adobe robuste et évolutif qui exploite les fonctionnalités de conception, de mise en page et typographiques d'InDesign pour vous permettre de créer des documents automatisés attrayants par programmation
+description: Le logiciel serveur Adobe&reg ; InDesign&reg ; fournit un Adobe robuste et évolutif qui exploite les fonctionnalités de conception, de mise en page et typographiques d'InDesign pour vous permettre de créer des documents automatisés attrayants par programmation
 feature: Graphic Design
 role: User
 level: Beginner, Intermediate
 exl-id: 534124fb-a903-430e-ad56-f124e4f024a0
-source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
+TQID: https://experienceleague.adobe.com/HAo866TVRBBSKgzQunMvpXxY8XqUZXEmsT4-aIk4vXQ
+product_v2:
+  - id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+source-git-commit: af4fdb8dfc8c84e5e51525c730d0ba8831179443
 workflow-type: tm+mt
-source-wordcount: '250'
+source-wordcount: 278
 ht-degree: 0%
 
 ---
 
 # InDesign Server
 
-Le logiciel Adobe InDesign® Server offre un moteur robuste et évolutif qui exploite les fonctionnalités de conception, de mise en page et typographiques d’InDesign pour vous permettre de créer des documents automatisés attrayants par programmation.
+Le logiciel ® Server offre un moteur robuste et évolutif qui exploite les fonctionnalités de conception, de mise en page et typographiques d’InDesign pour vous permettre de créer des documents automatisés attrayants par programmation.
 
 ## Parcourir les Tutorials de produit
 
@@ -43,7 +53,7 @@ Le logiciel Adobe InDesign® Server offre un moteur robuste et évolutif qui exp
 </tr>
 </table>
 
-## Contenu InDesign Server piloté par les données (4:14) {#tutorial1}
+## Contenu d&#39;InDesign Server piloté par les données (4:14) {#tutorial1}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326901?hidetitle=true)
 

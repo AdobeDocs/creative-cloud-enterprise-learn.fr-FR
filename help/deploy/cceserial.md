@@ -5,10 +5,18 @@ role: Admin
 level: Beginner, Intermediate
 feature: Deploy
 exl-id: bc457be0-86dc-4e8a-b6b2-34bc76af2d21
-source-git-commit: c57212d39b2e613964bc15d2967a1958dc0c8c8e
+TQID: https://experienceleague.adobe.com/itIkGEEJ-V0HT-g0WMngm-zZbcFdYiITBFofwKUHTMY
+product_v2:
+  - id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: af4fdb8dfc8c84e5e51525c730d0ba8831179443
 workflow-type: tm+mt
-source-wordcount: '840'
-ht-degree: 1%
+source-wordcount: 871
+ht-degree: 4%
 
 ---
 
@@ -44,7 +52,7 @@ Les applications Acrobat et Creative Cloud abonnement Entreprise commenceront à
 
 Les informations suivantes décrivent l’expérience de l’utilisateur final. Vous trouverez ci-dessous une courte vidéo, suivie d’une présentation de l’expérience utilisateur.
 
->[!VIDEO](https://video.tv.adobe.com/v/3441277?hidetitle=true&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/3441277?captions=fre_fr&hidetitle=true)
 
 **Avant l&#39;expiration**
 
@@ -93,5 +101,5 @@ Pour toutes les tentatives suivantes de lancement d&#39;Acrobat, l&#39;utilisate
 
 Si vous avez des questions sur l&#39;utilisation de l&#39;outil [AdobeExpiryCheck](https://helpx.adobe.com/fr/enterprise/kb/volume-license-expiration-check.html) ou si vous avez besoin d&#39;aide pour migrer du déploiement par numéro de série vers un utilisateur nommé, vous disposez de quelques options :
 * Envoyer un e-mail à l’équipe d’intégration d’Adobe Enterprise - **entonb@adobe.com**
-* Ouvrir un ticket d&#39;assistance dans [Admin Console](https://adminconsole.adobe.com/support)
+* Ouvrir un ticket d&#39;assistance dans [Admin Console](https://adminconsole.adobe.com/support/?locale=fr)
 * Contactez l’équipe chargée de votre compte Adobe

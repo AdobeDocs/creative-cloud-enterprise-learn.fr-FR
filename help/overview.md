@@ -5,9 +5,23 @@ feature: Graphic Design, Image Editing, Vector Editing, UI Design, Licensable As
 role: User
 level: Beginner, Intermediate, Experienced
 exl-id: d0223157-24aa-486b-806a-fc6f6a36d7cf
-source-git-commit: 10dcd7a20e5f1e3fa649531559791e4dc804a7e5
+TQID: https://experienceleague.adobe.com/r0Wb24k8et-PY1rHi-CNF2RffU-BPT4ibtmckgf5A7g
+product_v2:
+  - id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
+feature_v2:
+  - id: fec89bf3-1b77-4b07-a0b9-96726856a0ad
+subfeature_v2:
+  - id: aaae4770-bc47-47c2-876b-1fbcb533c42a
+  - id: b29e1156-4668-4c0c-84e3-9347e94225ed
+  - id: d1878b8b-dcd8-4fb4-9ec7-8030a8c54669
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: af4fdb8dfc8c84e5e51525c730d0ba8831179443
 workflow-type: tm+mt
-source-wordcount: '586'
+source-wordcount: 586
 ht-degree: 5%
 
 ---
@@ -113,7 +127,7 @@ Bienvenue dans le Creative Cloud du centre d’apprentissage en entreprise. Vous
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/fr/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/overview-express-how-to" target="_self" rel="referrer" title="Adobe Express">Adobe Express</a>
+                        <a href="https://experienceleague.adobe.com/fr/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/overview-express-how-to" target="_self" rel="referrer" title="Adobe Express">Adobe Express</a>
                     </p>
                     <p class="is-size-6">Commencez à créer des œuvres étonnantes</p>
                 </div>
@@ -161,7 +175,7 @@ Bienvenue dans le Creative Cloud du centre d’apprentissage en entreprise. Vous
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="https://experienceleague.adobe.com/fr/docs/creative-cloud-enterprise-learn/cce-learning-hub/stockoverview/overview-stock" target="_self" rel="referrer" title="Adobe Stock">Adobe Stock</a>
                     </p>
-                    <p class="is-size-6">Images numériques de haute qualité, illustrations, vidéos, audio, modèles, etc</p>
+                    <p class="is-size-6">Images numériques, illustrations, vidéos, fichiers audio, templates et autres ressources de haute qualité</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/fr/docs/creative-cloud-enterprise-learn/cce-learning-hub/stockoverview/overview-stock" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Parcourir les tutoriels</span>
@@ -184,7 +198,7 @@ Bienvenue dans le Creative Cloud du centre d’apprentissage en entreprise. Vous
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="https://experienceleague.adobe.com/fr/docs/creative-cloud-enterprise-learn/cce-learning-hub/3doverview/overview-3di" target="_self" rel="referrer" title="Adobe 3D et VR">Adobe 3D et VR</a>
                     </p>
-                    <p class="is-size-6">Créez des images 3D photoréalistes pour le branding, les prises de vue de produits et la conception de packages</p>
+                    <p class="is-size-6">Créez des images 3D photoréalistes pour l’image de marque, les photos de produits et la conception d’emballages</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/fr/docs/creative-cloud-enterprise-learn/cce-learning-hub/3doverview/overview-3di" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Parcourir les tutoriels</span>
@@ -230,7 +244,7 @@ Bienvenue dans le Creative Cloud du centre d’apprentissage en entreprise. Vous
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="https://experienceleague.adobe.com/fr/docs/creative-cloud-enterprise-learn/cce-learning-hub/xdoverview/overview-xd" target="_self" rel="referrer" title="Adobe XD">Adobe XD</a>
                     </p>
-                    <p class="is-size-6">Concevoir, prototyper et partager des expériences utilisateur</p>
+                    <p class="is-size-6">Conception, création de prototypes et partage d’expériences utilisateur</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/fr/docs/creative-cloud-enterprise-learn/cce-learning-hub/xdoverview/overview-xd" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Parcourir les tutoriels</span>
@@ -253,7 +267,7 @@ Bienvenue dans le Creative Cloud du centre d’apprentissage en entreprise. Vous
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="https://experienceleague.adobe.com/fr/docs/creative-cloud-enterprise-learn/cce-learning-hub/max/overview-max" target="_self" rel="referrer" title="Adobe MAX">Adobe MAX</a>
                     </p>
-                    <p class="is-size-6">En savoir plus sur les sessions d’entreprise MAX 2020</p>
+                    <p class="is-size-6">Tout savoir sur les sessions d’entreprise MAX 2020</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/fr/docs/creative-cloud-enterprise-learn/cce-learning-hub/max/overview-max" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Parcourir les tutoriels</span>

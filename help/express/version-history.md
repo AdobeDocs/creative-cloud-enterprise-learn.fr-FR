@@ -6,9 +6,16 @@ role: User
 level: Beginner
 jira: KT-14829
 exl-id: aa02b7fc-09be-47cd-8869-88b5d2511415
-source-git-commit: 5067e02da7d74d366c797e81a6a5d0ee9ac69feb
+TQID: https://experienceleague.adobe.com/H3XuPtFEbmCPJHPvCT4R0wDn-TIIlD1e6n7xsVS0sho
+product_v2:
+  - id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: af4fdb8dfc8c84e5e51525c730d0ba8831179443
 workflow-type: tm+mt
-source-wordcount: '109'
+source-wordcount: 109
 ht-degree: 0%
 
 ---
@@ -17,7 +24,7 @@ ht-degree: 0%
 
 Découvrez comment accéder à l’historique des versions et afficher et copier les versions précédentes de vos projets. Marquez des points pivots dans le développement pour revenir facilement à des moments spécifiques de la progression de votre projet.
 
->[!VIDEO](https://video.tv.adobe.com/v/3438699?quality=12&learn=on&hidetitle=true&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/3438699?captions=fre_fr&quality=12&learn=on&hidetitle=true)
 
 ## Vidéos supplémentaires dans cette série
 
