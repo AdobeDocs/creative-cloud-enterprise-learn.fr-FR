@@ -10,8 +10,8 @@ type: Tutorial
 auto-video-transcripts: true
 source-git-commit: c52f7a40d98aa5aef552a13bea2d3e5f5a89193e
 workflow-type: tm+mt
-source-wordcount: '808'
-ht-degree: 6%
+source-wordcount: '803'
+ht-degree: 5%
 
 ---
 
@@ -165,7 +165,7 @@ ht-degree: 6%
       + [Conseils et techniques pour maîtriser l’éclairage 3D en imagerie de synthèse](3di/mastering3dlighting.md)
       + [Création de photographies virtuelles photoréalistes avec rendu et composition 3D](3di/photorealistic.md)
       + [Personnalisez et signez un modèle 3D avec [!DNL Dimension] et l&#39;Adobe [!DNL Stock]](3di/3ddimensionstock.md)
-+ Adobe Video {#videooverview}
++ Vidéo Adobe {#videooverview}
    + [Présentation](dva/overview-dva.md)
    + Didacticiels {#videotutorials}
       + [Modèles d’animations graphiques professionnels](dva/motion-graphics-templates.md)
