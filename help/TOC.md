@@ -8,10 +8,10 @@ feature: Graphic Design, Image Editing, Vector Editing, UI Design, Licensable As
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: c52f7a40d98aa5aef552a13bea2d3e5f5a89193e
+source-git-commit: 71056d443a4a6b29978d55211ea961c6aee2ebe4
 workflow-type: tm+mt
-source-wordcount: '803'
-ht-degree: 5%
+source-wordcount: '761'
+ht-degree: 4%
 
 ---
 
@@ -135,7 +135,7 @@ ht-degree: 5%
    + [Présentation](stock/overview-stock.md)
    + Didacticiels {#stocktutorials}
       + [Des ressources numériques époustouflantes](stock/stunning-digital-assets.md)
-      + [Rechercher dans l&#39;historique des licences de l&#39;Adobe [!DNL Stock] &#x200B;](stock/searchstock.md)
+      + [Rechercher dans l&#39;historique des licences de l&#39;Adobe [!DNL Stock] ](stock/searchstock.md)
       + [Ajout d&#39;une esthétique dessinée à la main à des images d&#39;Adobes [!DNL Stock] créatives](stock/handdrawn.md)
       + [Ajoutez du style à la typographie avec des masques et des animations](stock/flairtypography.md)
       + [Animation d’une illustration vectorielle d’Adobe [!DNL Stock] dans Photoshop](stock/animatevector.md)
@@ -157,7 +157,7 @@ ht-degree: 5%
       + [Créer des compositions photo réalistes avec des images Adobes [!DNL Stock] x](stock/realisticcomposite.md)
       + [Personnalisation d&#39;une animation d&#39;écran de chargement avec Adobe [!DNL Stock]  et XD](stock/loadingscreen.md)
       + [Personnalisation d&#39;un modèle de présentation Adobe [!DNL Stock] professionnel](stock/presentationtemplate.md)
-      + [Personnalisation des couleurs d&#39;une illustration vectorielle Adobe [!DNL Stock] &#x200B;](stock/customizecolors.md)
+      + [Personnalisation des couleurs d&#39;une illustration vectorielle Adobe [!DNL Stock] ](stock/customizecolors.md)
 + Adobe 3D et VR {#3doverview}
    + [Présentation](3di/overview-3di.md)
    + Didacticiels {#3dtutorials}
@@ -180,29 +180,3 @@ ht-degree: 5%
    + [Présentation](deploy/overview-deploy.md)
    + [Expiration du numéro de série](deploy/cceserial.md)
    + [Système de licences nominatives](deploy/nameduserlicensing.md)
-+ Adobe MAX {#max}
-   + [Présentation](max/overview-max.md)
-   + Didacticiels {#tutorials}
-      + [Présentation](max/maxtutorials.md)
-      + Produits pour ordinateur {#desktop-products}
-         + [Acrobat et Sign](max/acrobat-sign.md)
-         + [[!DNL Dimension]](max/dimension.md)
-         + [Illustrator](max/illustrator.md)
-         + [InDesign](max/indesign.md)
-         + [Photoshop](max/photoshop.md)
-         + [[!DNL Rush]](max/rush.md)
-         + [XD](max/xd.md)
-      + Applications mobiles {#mobile-apps}
-         + [[!DNL Capture]](max/capture.md)
-         + [Fresco](max/fresco.md)
-         + [Illustrator sur iPad](max/illustratoripad.md)
-         + [Photoshop sur iPad](max/photoshopipad.md)
-      + Intégrations {#integrations}
-         + [AEM](max/aem.md)
-         + [Application de bureau Creative Cloud](max/creativeclouddesktopapp.md)
-         + [Bibliothèques CC](max/cclibraries.md)
-         + [InDesign Server](max/indesignserver.md)
-         + [[!DNL Stock]](max/stock.md)
-         + [Administration d’entreprise](max/enterprise.md)
-      + Projet pratique {#project}
-         + [Créer votre propre masque de visage](max/handsonproject.md)
