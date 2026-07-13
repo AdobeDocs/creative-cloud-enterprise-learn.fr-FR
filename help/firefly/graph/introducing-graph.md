@@ -26,4 +26,4 @@ Dans ce webinaire, découvrez le graphique du système de workflow entièrement 
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/3492621?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3492624?captions=fre_fr&quality=12&learn=on&hidetitle=true)
