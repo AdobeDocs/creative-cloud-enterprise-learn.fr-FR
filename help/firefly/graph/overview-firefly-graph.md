@@ -7,7 +7,7 @@ level: Beginner
 jira: KT-21971
 hide: true
 hidefromtoc: true
-source-git-commit: 446781c05fe19cf7be073b08dc4c50906745b76d
+source-git-commit: acbfa0d157359d805ee6f5af352799cf5d0ee7d9
 workflow-type: tm+mt
 source-wordcount: '219'
 ht-degree: 0%
@@ -26,7 +26,7 @@ Si vous avez déjà utilisé un outil d’IA générative, vous êtes probableme
 <tr>
  <td>
    <a href="what-is-firefly-graph.md">
-      <img alt="Plateau de bonbons" src="../assets/graph-what-is.png" />
+      <img alt="Plateau de bonbons" src="../assets/graph-1.png" />
    </a>
     <div>
    <a href="what-is-firefly-graph.md"><strong>Qu'est-ce que le graphique en Firefly ?</strong></a>
@@ -36,7 +36,7 @@ Si vous avez déjà utilisé un outil d’IA générative, vous êtes probableme
   </td>
   <td>
    <a href="key-concepts.md">
-      <img alt="Origami" src="../assets/graph-key-concepts.png" />
+      <img alt="Origami" src="../assets/graph-2.png" />
    </a>
     <div>
    <a href="key-concepts.md"><strong>Concepts clés</strong></a>
@@ -46,7 +46,7 @@ Si vous avez déjà utilisé un outil d’IA générative, vous êtes probableme
   </td>
   <td>
    <a href="create-your-first-graph.md">
-      <img alt="Pot de maquillage" src="../assets/graph-first.png" />
+      <img alt="Pot de maquillage" src="../assets/graph-3.png" />
    </a>
     <div>
    <a href="create-your-first-graph.md"><strong>Créez votre premier graphique</strong></a>
@@ -56,7 +56,7 @@ Si vous avez déjà utilisé un outil d’IA générative, vous êtes probableme
   </td>
   <td>
    <a href="customize-template.md">
-      <img alt="Abeilles" src="../assets/graph-template.png" />
+      <img alt="Abeilles" src="../assets/graph-4.png" />
    </a>
     <div>
    <a href="customize-template.md"><strong>Personnaliser un modèle</strong></a>
@@ -68,7 +68,7 @@ Si vous avez déjà utilisé un outil d’IA générative, vous êtes probableme
 <tr>
  <td>
    <a href="template-library.md">
-      <img alt="Livre numérique" src="../assets/graph-library.png" />
+      <img alt="Livre numérique" src="../assets/graph-5.png" />
    </a>
     <div>
    <a href="template-library.md"><strong>Bibliothèque de modèles</strong></a>
