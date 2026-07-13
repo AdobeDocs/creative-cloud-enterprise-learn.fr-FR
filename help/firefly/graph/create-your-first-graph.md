@@ -24,4 +24,4 @@ Une fois que vous savez ce que sont un nœud, une connexion et un modèle, vous 
 
 ## Étape suivante
 
-Vous souhaitez commencer à partir d’un modèle ? Rendez-vous sur [4. Bibliothèque de modèles](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/customize-template) pour qu&#39;elle reflète votre propre mémoire.
+Vous souhaitez commencer à partir d’un modèle ? Rendez-vous sur [4. Bibliothèque de modèles](https://experienceleague.adobe.com/fr/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/customize-template) pour qu&#39;elle reflète votre propre mémoire.
