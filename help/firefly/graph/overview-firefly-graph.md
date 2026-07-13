@@ -7,10 +7,10 @@ level: Beginner
 jira: KT-21971
 hide: true
 hidefromtoc: true
-source-git-commit: a7d2985143bdc7ebfd50eda769dc5d97ecf615ef
+source-git-commit: 08471504c8919e22a36ff8d6251e8b6eb792bbc7
 workflow-type: tm+mt
-source-wordcount: '234'
-ht-degree: 0%
+source-wordcount: '246'
+ht-degree: 2%
 
 ---
 
@@ -29,9 +29,8 @@ Si vous avez déjà utilisé un outil d’IA générative, vous êtes probableme
       <img alt="Pot de maquillage" src="../assets/graph-1.png" />
    </a>
     <div>
-   <a href="what-is-firefly-graph.md"><strong>Qu'est-ce que le graphique en Firefly ?</strong></a>
-    </div>
-    <em>Comparaison d'un graphique avec une seule invite</em>
+   <a href="what-is-firefly-graph.md"><strong>1. Qu'est-ce que le graphique en Firefly ?</strong></a></div>
+    <em>Familiarisez-vous avec le graphique en Firefly et comparez-le à une seule invite</em>
     
   </td>
   <td>
@@ -39,9 +38,8 @@ Si vous avez déjà utilisé un outil d’IA générative, vous êtes probableme
       <img alt="Pot de maquillage avec fond" src="../assets/graph-2.png" />
    </a>
     <div>
-   <a href="key-concepts.md"><strong>Concepts clés</strong></a>
-    </div>
-    <em>Nœuds, connexions et modèles</em>
+   <a href="key-concepts.md"><strong>2. Concepts clés</strong></a></div>
+    <em>En savoir plus sur les nœuds, les connexions et les modèles</em>
     
   </td>
   <td>
@@ -49,8 +47,7 @@ Si vous avez déjà utilisé un outil d’IA générative, vous êtes probableme
       <img alt="Nouvel arrière-plan du pot de maquillage" src="../assets/graph-3.png" />
    </a>
     <div>
-   <a href="create-your-first-graph.md"><strong>Créez votre premier graphique</strong></a>
-    </div>
+   <a href="create-your-first-graph.md"><strong>3. Créer votre premier graphique</strong></a></div>
     <em>Une procédure pas à pas en 5 étapes du canevas à l’exportation</em>
     
   </td>
@@ -59,8 +56,7 @@ Si vous avez déjà utilisé un outil d’IA générative, vous êtes probableme
       <img alt="Arrière-plan différent du pot de maquillage" src="../assets/graph-4.png" />
    </a>
     <div>
-   <a href="customize-template.md"><strong>Personnaliser un modèle</strong></a>
-    </div>
+   <a href="customize-template.md"><strong>4. Personnaliser un modèle</strong></a></div>
     <em>Créer un modèle reflétant votre propre idée de départ</em>
     
   </td>
@@ -71,8 +67,7 @@ Si vous avez déjà utilisé un outil d’IA générative, vous êtes probableme
       <img alt="Pot de maquillage avec fond final" src="../assets/graph-5.png" />
    </a>
     <div>
-   <a href="template-library.md"><strong>Bibliothèque de modèles</strong></a>
-    </div>
+   <a href="template-library.md"><strong>5. Bibliothèque de modèles</strong></a></div>
     <em>Parcourir tous les modèles, avec une description et un lien pour chacun</em>
     
   </td>
