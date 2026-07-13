@@ -1,5 +1,5 @@
 ---
-title: ​5. Bibliothèque de modèles de graphiques Firefly
+title: ​4. Bibliothèque de modèles de graphiques Firefly
 description: Parcourez les modèles de graphiques de Firefly prêts à l’emploi que vous pouvez ouvrir et adapter à votre propre projet
 feature: Image Editing, Gen AI
 role: User
@@ -7,14 +7,14 @@ level: Beginner
 jira: KT-
 hide: true
 hidefromtoc: true
-source-git-commit: 44e0b0e7a70592689a7bf2940656532e60ac9f61
+source-git-commit: 0337f4efb23d03491119d4c91aeb71c6a20934fb
 workflow-type: tm+mt
 source-wordcount: '274'
 ht-degree: 1%
 
 ---
 
-# &#x200B;5. Bibliothèque de modèles Firefly Graph
+# &#x200B;4. Bibliothèque de modèles Firefly Graph
 
 Chaque modèle est un graphique complet que quelqu’un a déjà créé. Ouvrez-en un pour voir exactement comment il fonctionne, puis personnalisez-le en permutant vos propres entrées.
 
