@@ -31,4 +31,4 @@ Il s’agit d’un nœud qui vous permet d’importer un graphique.
 
 ## Étape suivante
 
-Vous démarrez à partir d’un modèle ? Rendez-vous sur [4. Personnalisez un modèle](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/customize-template) pour qu&#39;il reflète votre propre résumé.
+Vous démarrez à partir d’un modèle ? Rendez-vous sur [4. Personnalisez un modèle](https://experienceleague.adobe.com/fr/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/customize-template) pour qu&#39;il reflète votre propre résumé.
