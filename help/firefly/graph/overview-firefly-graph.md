@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-21971
 hide: true
 hidefromtoc: true
-source-git-commit: 08471504c8919e22a36ff8d6251e8b6eb792bbc7
+source-git-commit: 886df44d056da6185d73fb5ad8a85c4454479bed
 workflow-type: tm+mt
-source-wordcount: '246'
+source-wordcount: '244'
 ht-degree: 2%
 
 ---
@@ -48,7 +48,7 @@ Si vous avez déjà utilisé un outil d’IA générative, vous êtes probableme
    </a>
     <div>
    <a href="create-your-first-graph.md"><strong>3. Créer votre premier graphique</strong></a></div>
-    <em>Une procédure pas à pas en 5 étapes du canevas à l’exportation</em>
+    <em>Une procédure pas à pas de la zone de travail à l'exportation</em>
     
   </td>
   <td>
