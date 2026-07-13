@@ -8,10 +8,10 @@ feature: Graphic Design, Image Editing, Vector Editing, UI Design, Licensable As
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: 44e0b0e7a70592689a7bf2940656532e60ac9f61
+source-git-commit: cea3bda4e2e40bc93cf279c2720c537a95902bd7
 workflow-type: tm+mt
 source-wordcount: '786'
-ht-degree: 4%
+ht-degree: 3%
 
 ---
 
@@ -129,21 +129,21 @@ ht-degree: 4%
    + Tutoriels Creative Production {#firefly-creative-production}
       + [Présentation de la  [!DNL Adobe Firefly] production créative](firefly/creative-production/overview-firefly-creative-production.md)
       + [Suppression et remplacement de l’arrière-plan](firefly/creative-production/background.md)
-   + Tutoriels Graph {#firefly-graph}
-      + [Vue d&#39;ensemble de  [!DNL Adobe Firefly Graph]](firefly/graph/overview-firefly-graph.md)
-      + [Qu’est-ce que le graphique en Firefly ?](firefly/graph/what-is-firefly-graph.md)
-      + [Concepts clés du graphique en Firefly](firefly/graph/key-concepts.md)
-      + [Créer votre premier graphique](firefly/graph/create-your-first-graph.md)
-      + [Personnaliser un modèle](firefly/graph/customize-template.md)
-      + [Bibliothèque de modèles](firefly/graph/template-library.md)
-      + [Présentation du webinaire Firefly Graph](firefly/graph/introducing-graph.md)
+   + Tutoriels Graph {hide-from-toc} {#firefly-graph}
+      + {hide-from-toc}[Présentation de [!DNL Adobe Firefly Graph]](firefly/graph/overview-firefly-graph.md)
+      + {hide-from-toc}[Qu&#39;est-ce que le graphique en Firefly ?](firefly/graph/what-is-firefly-graph.md)
+      + {hide-from-toc}[Concepts clés du graphique en Firefly](firefly/graph/key-concepts.md)
+      + {hide-from-toc}[Créer votre premier graphique](firefly/graph/create-your-first-graph.md)
+      + {hide-from-toc}[Personnaliser un modèle](firefly/graph/customize-template.md)
+      + {hide-from-toc}[Bibliothèque de modèles](firefly/graph/template-library.md)
+      + {hide-from-toc}[Présentation du webinaire Firefly Graph](firefly/graph/introducing-graph.md)
    + Webinaires {#firefly-webinars}
       + [Expérimenter avec l’Adobe Firefly](firefly/webinar-experimenting.md)
 + [!DNL Adobe Stock] {#stockoverview}
    + [Présentation](stock/overview-stock.md)
    + Didacticiels {#stocktutorials}
       + [Des ressources numériques époustouflantes](stock/stunning-digital-assets.md)
-      + [Rechercher dans l&#39;historique des licences de l&#39;Adobe [!DNL Stock] &#x200B;](stock/searchstock.md)
+      + [Rechercher dans l&#39;historique des licences de l&#39;Adobe [!DNL Stock] ](stock/searchstock.md)
       + [Ajout d&#39;une esthétique dessinée à la main à des images d&#39;Adobes [!DNL Stock] créatives](stock/handdrawn.md)
       + [Ajoutez du style à la typographie avec des masques et des animations](stock/flairtypography.md)
       + [Animation d’une illustration vectorielle d’Adobe [!DNL Stock] dans Photoshop](stock/animatevector.md)
@@ -165,7 +165,7 @@ ht-degree: 4%
       + [Créer des compositions photo réalistes avec des images Adobes [!DNL Stock] x](stock/realisticcomposite.md)
       + [Personnalisation d&#39;une animation d&#39;écran de chargement avec Adobe [!DNL Stock]  et XD](stock/loadingscreen.md)
       + [Personnalisation d&#39;un modèle de présentation Adobe [!DNL Stock] professionnel](stock/presentationtemplate.md)
-      + [Personnalisation des couleurs d&#39;une illustration vectorielle Adobe [!DNL Stock] &#x200B;](stock/customizecolors.md)
+      + [Personnalisation des couleurs d&#39;une illustration vectorielle Adobe [!DNL Stock] ](stock/customizecolors.md)
 + Adobe 3D et VR {#3doverview}
    + [Présentation](3di/overview-3di.md)
    + Didacticiels {#3dtutorials}
