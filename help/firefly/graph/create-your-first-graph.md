@@ -22,7 +22,7 @@ Une fois que vous savez ce que sont un nœud, une connexion et un modèle, vous 
 1. Sélectionnez **Créer un graphique**.
 1. Cliquez avec le bouton droit sur la zone de travail vide et sélectionnez **+ nouveau nœud**.
 1. Sélectionnez **Entrée** dans le menu de gauche, puis **Image d&#39;entrée**.
-   ![ nœud](../assets/node.png)
+   ![&#x200B; nœud](../assets/node.png)
 Il s’agit d’un nœud qui vous permet d’importer un graphique.
 1. Faites glisser et déposez une image sur le nœud.
    ![Nœud avec image](../assets/node-image.png)
