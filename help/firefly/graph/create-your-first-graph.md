@@ -1,5 +1,5 @@
 ---
-title: Créer votre premier graphique
+title: ​3. Créer votre premier graphique
 description: Procédure pas à pas pour créer votre premier workflow Firefly Graph, de la zone de travail vierge à l’exportation
 feature: Image Editing, Gen AI
 role: User
@@ -7,14 +7,14 @@ level: Beginner
 jira: KT-
 hide: true
 hidefromtoc: true
-source-git-commit: 6d02049085cd1077b309004ce6da04b45b43384e
+source-git-commit: 08471504c8919e22a36ff8d6251e8b6eb792bbc7
 workflow-type: tm+mt
-source-wordcount: '266'
+source-wordcount: '269'
 ht-degree: 0%
 
 ---
 
-# Création de votre premier graphique
+# &#x200B;3. Création de votre premier graphique
 
 Une fois que vous savez ce que sont un nœud, une connexion et un modèle, vous êtes prêt à créer votre premier workflow.
 
@@ -30,4 +30,4 @@ Si vous ne savez pas par où commencer, ouvrez l’un des modèles prêts à l�
 
 ## Étape suivante
 
-Vous démarrez à partir d’un modèle ? Rendez-vous sur [Personnaliser un modèle](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/customize-template) pour qu&#39;il reflète votre propre résumé.
+Vous démarrez à partir d’un modèle ? Rendez-vous sur [4. Personnalisez un modèle](https://experienceleague.adobe.com/fr/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/customize-template) pour qu&#39;il reflète votre propre résumé.

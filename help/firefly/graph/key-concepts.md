@@ -1,5 +1,5 @@
 ---
-title: Concepts clés du graphique Firefly
+title: ​2. Concepts clés du graphique Firefly
 description: Les quatre idées qui couvrent le modèle mental de Firefly Graph - nœud, connexion, workflow et modèle
 feature: Image Editing, Gen AI
 role: User
@@ -7,16 +7,18 @@ level: Beginner
 jira: KT-
 hide: true
 hidefromtoc: true
-source-git-commit: 6d02049085cd1077b309004ce6da04b45b43384e
+source-git-commit: 08471504c8919e22a36ff8d6251e8b6eb792bbc7
 workflow-type: tm+mt
-source-wordcount: '243'
+source-wordcount: '214'
 ht-degree: 0%
 
 ---
 
-# Concepts clés du graphique en Firefly
+# &#x200B;2. Concepts clés du graphique en Firefly
 
 Quatre idées couvrent le modèle mental dont vous avez besoin pour commencer avec Firefly Graph.
+
+![Concepts clés](../assets/concepts.png)
 
 ## Un nœud
 
@@ -25,10 +27,6 @@ Un nœud effectue une étape du workflow : un nœud, une tâche. Un nœud peut g
 ## Une connexion
 
 Une connexion transporte une entrée ou une sortie entre deux nœuds. Un graphique se lit de gauche à droite, de l’entrée source à la sortie finale.
-
-## Workflow (ou graphique)
-
-Un workflow, ou graphique, est la chaîne complète de bout en bout des nœuds connectés, de la première entrée à la sortie finale. Une fois créé, il peut être exécuté, affiné, enregistré et partagé.
 
 ## Un modèle
 
@@ -40,4 +38,4 @@ Le graphique est flexible de par sa conception. Cette flexibilité signifie qu&#
 
 ## Étape suivante
 
-Prêt à construire quelque chose ? Passez à [Créer votre premier graphique](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/create-your-first-graph) pour une visite guidée étape par étape.
+Prêt à construire quelque chose ? Passez à [3. Créez votre premier graphique](https://experienceleague.adobe.com/fr/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/create-your-first-graph) pour une présentation étape par étape.
