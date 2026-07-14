@@ -38,6 +38,6 @@ Le graphique est flexible de par sa conception. Cette flexibilité signifie qu&#
 
 ## Étape suivante
 
-Prêt à construire quelque chose ? Passez à [3. Créez votre premier graphique](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/create-your-first-graph) pour une présentation étape par étape.
+Prêt à construire quelque chose ? Passez à [3. Créez votre premier graphique](https://experienceleague.adobe.com/fr/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/create-your-first-graph) pour une présentation étape par étape.
 
-Revenez à [Commencer avec Firefly Graph](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Revenez à [Commencer avec Firefly Graph](https://experienceleague.adobe.com/fr/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
