@@ -7,16 +7,21 @@ level: Beginner
 jira: KT-
 hide: true
 hidefromtoc: true
-source-git-commit: 0337f4efb23d03491119d4c91aeb71c6a20934fb
+source-git-commit: de7e3db24f81f38010a9a7ec7d470db9f8cc5299
 workflow-type: tm+mt
-source-wordcount: '74'
+source-wordcount: '88'
 ht-degree: 2%
 
 ---
 
 # &#x200B;3. Création de votre premier graphique
 
-Une fois que vous savez ce que sont un nœud, une connexion et un modèle, vous êtes prêt à créer votre premier workflow.
+Une fois que vous savez ce que sont un nœud, une connexion et un modèle, vous êtes prêt à créer votre premier graphique.
+
+## Suivre
+
+[![Obtenir des fichiers](../assets/Getfiles.svg)](../assets/createyourfirstgraph.zip)
+Exemples de fichiers à suivre (ZIP, 1,45 Mo)
 
 <br> 
 
@@ -24,4 +29,4 @@ Une fois que vous savez ce que sont un nœud, une connexion et un modèle, vous 
 
 ## Étape suivante
 
-Vous souhaitez commencer à partir d’un modèle ? Rendez-vous sur [4. Bibliothèque de modèles](https://experienceleague.adobe.com/fr/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/customize-template) pour qu&#39;elle reflète votre propre mémoire.
+Vous souhaitez commencer à partir d’un modèle ? Rendez-vous sur [4. Personnalisez un modèle](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/customize-template) pour qu&#39;il reflète votre propre résumé.
