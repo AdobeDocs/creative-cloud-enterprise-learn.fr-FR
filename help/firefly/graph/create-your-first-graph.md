@@ -25,7 +25,7 @@ Exemples de fichiers à suivre (ZIP, 1,45 Mo)
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/3495912?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3495914?captions=fre_fr&quality=12&learn=on&hidetitle=true)
 
 ## Étape suivante
 
