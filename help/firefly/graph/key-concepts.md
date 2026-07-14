@@ -1,24 +1,24 @@
 ---
 title: ​2. Concepts clés du graphique Firefly
-description: Les quatre idées qui couvrent le modèle mental de Firefly Graph - nœud, connexion, workflow et modèle
+description: Découvrez les concepts clés pour vous aider à démarrer avec Firefly Graph
 feature: Image Editing, Gen AI
 role: User
 level: Beginner
 jira: KT-
 hide: true
 hidefromtoc: true
-source-git-commit: f7007b5c91413783dea7b061b06789f72951d7f4
+source-git-commit: d31d8b492c7f86f6369b88f8940dd752bd535e20
 workflow-type: tm+mt
-source-wordcount: '238'
+source-wordcount: '235'
 ht-degree: 0%
 
 ---
 
 # &#x200B;2. Concepts clés du graphique en Firefly
 
-Quatre idées couvrent le modèle mental dont vous avez besoin pour commencer avec Firefly Graph.
+Découvrez les concepts clés pour vous aider à démarrer avec Firefly Graph.
 
-![Concepts clés](../assets/concepts.png)
+![Concepts clés](../assets/concepts.png){align="center"}
 
 ## Un nœud
 
@@ -38,6 +38,6 @@ Le graphique est flexible de par sa conception. Cette flexibilité signifie qu&#
 
 ## Étape suivante
 
-Prêt à construire quelque chose ? Passez à [3. Créez votre premier graphique](https://experienceleague.adobe.com/fr/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/create-your-first-graph) pour une présentation étape par étape.
+Prêt à construire quelque chose ? Passez à [3. Créez votre premier graphique](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/create-your-first-graph) pour une présentation étape par étape.
 
-Revenez à [Commencer avec Firefly Graph](https://experienceleague.adobe.com/fr/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Revenez à [Commencer avec Firefly Graph](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
