@@ -73,7 +73,7 @@ Si vous avez déjà utilisé un outil d’IA générative, vous êtes probableme
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/fr/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/create-your-first-graph" title="3. Création de votre premier graphique" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3495912?quality=12&hidetitle=true&format=jpeg&nocache=1784039110238" alt="3. Création de votre premier graphique"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3495914?captions=fre_fr&quality=12&hidetitle=true&format=jpeg&nocache=1784039110238" alt="3. Création de votre premier graphique"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -117,7 +117,7 @@ Si vous avez déjà utilisé un outil d’IA générative, vous êtes probableme
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/fr/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/introducing-graph" title="Présentation du graphique en Firefly" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3492621?quality=12&hidetitle=true&format=jpeg&nocache=1784039110453" alt="Présentation du graphique en Firefly"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3492624?captions=fre_fr&quality=12&hidetitle=true&format=jpeg&nocache=1784039110453" alt="Présentation du graphique en Firefly"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
