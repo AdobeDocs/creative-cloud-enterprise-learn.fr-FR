@@ -8,10 +8,10 @@ feature: Graphic Design, Image Editing, Vector Editing, UI Design, Licensable As
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: 5bbcac38cff2c03e96c6342e49de07231c173d9c
+source-git-commit: 719a2d0ed899fc0ebec604802f5480085c67df7b
 workflow-type: tm+mt
-source-wordcount: '782'
-ht-degree: 4%
+source-wordcount: '789'
+ht-degree: 3%
 
 ---
 
@@ -129,13 +129,14 @@ ht-degree: 4%
    + Tutoriels Creative Production {#firefly-creative-production}
       + [Présentation de la  [!DNL Adobe Firefly] production créative](firefly/creative-production/overview-firefly-creative-production.md)
       + [Suppression et remplacement de l’arrière-plan](firefly/creative-production/background.md)
-   + Tutoriels Graph {#firefly-graph}
-      + [Vue d&#39;ensemble de  [!DNL Adobe Firefly Graph]](firefly/graph/overview-firefly-graph.md)
-      + [Qu’est-ce que le graphique en Firefly ?](firefly/graph/what-is-firefly-graph.md)
-      + [Concepts clés du graphique en Firefly](firefly/graph/key-concepts.md)
-      + [Créer votre premier graphique](firefly/graph/create-your-first-graph.md)
-      + [Personnaliser un modèle](firefly/graph/customize-template.md)
-      + [Bibliothèque de modèles](firefly/graph/template-library.md)
+   + {hide-from-toc}Tutoriels Graph  {#firefly-graph}
+      + {hide-from-toc}[Vue d&#39;ensemble du graphique d&#39;Adobe Firefly](firefly/graph/overview-firefly-graph.md)
+      + {hide-from-toc}[Qu&#39;est-ce que le graphique en Firefly ?](firefly/graph/what-is-firefly-graph.md)
+      + {hide-from-toc}[Concepts clés du graphique en Firefly](firefly/graph/key-concepts.md)
+      + {hide-from-toc}[Créez votre premier graphique](firefly/graph/create-your-first-graph.md)
+      + {hide-from-toc}[Personnaliser un modèle](firefly/graph/customize-template.md)
+      + {hide-from-toc}[Bibliothèque de modèles](firefly/graph/template-library.md)
+      + {hide-from-toc}[Présentation du webinaire Firefly Graph](firefly/graph/introducing-graph.md)
    + Webinaires {#firefly-webinars}
       + [Expérimenter avec l’Adobe Firefly](firefly/webinar-experimenting.md)
 + [!DNL Adobe Stock] {#stockoverview}

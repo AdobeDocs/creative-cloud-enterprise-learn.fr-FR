@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-21971
 hide: true
 hidefromtoc: true
-source-git-commit: 08471504c8919e22a36ff8d6251e8b6eb792bbc7
+source-git-commit: 0337f4efb23d03491119d4c91aeb71c6a20934fb
 workflow-type: tm+mt
-source-wordcount: '246'
+source-wordcount: '244'
 ht-degree: 2%
 
 ---
@@ -48,27 +48,27 @@ Si vous avez déjà utilisé un outil d’IA générative, vous êtes probableme
    </a>
     <div>
    <a href="create-your-first-graph.md"><strong>3. Créer votre premier graphique</strong></a></div>
-    <em>Une procédure pas à pas en 5 étapes du canevas à l’exportation</em>
+    <em>Une procédure pas à pas de la zone de travail à l'exportation</em>
     
   </td>
+  <td>
+   <a href="template-library.md">
+      <img alt="Pot de maquillage avec fond final" src="../assets/graph-5.png" />
+   </a>
+    <div>
+   <a href="template-library.md"><strong>4. Bibliothèque de modèles</strong></a></div>
+    <em>Parcourir tous les modèles, avec une description et un lien pour chacun</em>
+    
+  </td>
+</tr>
+<tr>
   <td>
    <a href="customize-template.md">
       <img alt="Arrière-plan différent du pot de maquillage" src="../assets/graph-4.png" />
    </a>
     <div>
-   <a href="customize-template.md"><strong>4. Personnaliser un modèle</strong></a></div>
+   <a href="customize-template.md"><strong>5. Personnaliser un modèle</strong></a></div>
     <em>Créer un modèle reflétant votre propre idée de départ</em>
-    
-  </td>
-</tr>
-<tr>
- <td>
-   <a href="template-library.md">
-      <img alt="Pot de maquillage avec fond final" src="../assets/graph-5.png" />
-   </a>
-    <div>
-   <a href="template-library.md"><strong>5. Bibliothèque de modèles</strong></a></div>
-    <em>Parcourir tous les modèles, avec une description et un lien pour chacun</em>
     
   </td>
   <td>
