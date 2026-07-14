@@ -94,7 +94,7 @@ Si vous avez déjà utilisé un outil d’IA générative, vous êtes probableme
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/customize-template" title="4. Personnaliser un modèle" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-cards/tutorial || 'default'}.png" alt="4. Personnaliser un modèle"
+                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-cards/tutorial || 'default'&rbrace;.png" alt="4. Personnaliser un modèle"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
