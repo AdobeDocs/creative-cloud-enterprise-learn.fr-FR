@@ -28,8 +28,8 @@ Si vous avez déjà utilisé un outil d’IA générative, vous êtes probableme
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/what-is-firefly-graph" title="1. Qu’est-ce que le graphique en Firefly ?" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/what-is-firefly-graph./media_1e4b47165b24a2520374b63071fd64c083a0fbeee.png?width=400&format=png&optimize=medium" alt="1. Qu’est-ce que le graphique en Firefly ?"
+                    <a href="https://experienceleague.adobe.com/fr/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/what-is-firefly-graph" title="1. Qu’est-ce que le graphique en Firefly ?" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/fr/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/what-is-firefly-graph./media_1e4b47165b24a2520374b63071fd64c083a0fbeee.png?width=400&format=png&optimize=medium" alt="1. Qu’est-ce que le graphique en Firefly ?"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -37,10 +37,10 @@ Si vous avez déjà utilisé un outil d’IA générative, vous êtes probableme
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/what-is-firefly-graph" target="_blank" rel="referrer" title="1. Qu’est-ce que le graphique en Firefly ?">1. Qu'est-ce que le graphique en Firefly ?</a></p>
+                        <a href="https://experienceleague.adobe.com/fr/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/what-is-firefly-graph" target="_blank" rel="referrer" title="1. Qu’est-ce que le graphique en Firefly ?">1. Qu'est-ce que le graphique en Firefly ?</a></p>
                     <p class="is-size-6">Familiarisez-vous avec le graphique en Firefly et sa présentation par rapport à une seule invite.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/what-is-firefly-graph" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/fr/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/what-is-firefly-graph" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Lecture</span>
                 
             </div>
@@ -50,8 +50,8 @@ Si vous avez déjà utilisé un outil d’IA générative, vous êtes probableme
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/key-concepts" title="2. Concepts clés du graphique en Firefly" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/key-concepts./media_1fc8692f32b84c93c75c094fb15d096fbdd023c5c.png?width=400&format=png&optimize=medium" alt="2. Concepts clés du graphique en Firefly"
+                    <a href="https://experienceleague.adobe.com/fr/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/key-concepts" title="2. Concepts clés du graphique en Firefly" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/fr/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/key-concepts./media_1fc8692f32b84c93c75c094fb15d096fbdd023c5c.png?width=400&format=png&optimize=medium" alt="2. Concepts clés du graphique en Firefly"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -59,10 +59,10 @@ Si vous avez déjà utilisé un outil d’IA générative, vous êtes probableme
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/key-concepts" target="_blank" rel="referrer" title="2. Concepts clés du graphique en Firefly">2. Concepts clés du graphique en Firefly</a></p>
+                        <a href="https://experienceleague.adobe.com/fr/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/key-concepts" target="_blank" rel="referrer" title="2. Concepts clés du graphique en Firefly">2. Concepts clés du graphique en Firefly</a></p>
                     <p class="is-size-6">Découvrez les concepts clés pour vous aider à démarrer avec Firefly Graph</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/key-concepts" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/fr/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/key-concepts" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Lecture</span>
                 
             </div>
@@ -72,7 +72,7 @@ Si vous avez déjà utilisé un outil d’IA générative, vous êtes probableme
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/create-your-first-graph" title="3. Création de votre premier graphique" target="_blank" rel="referrer">
+                    <a href="https://experienceleague.adobe.com/fr/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/create-your-first-graph" title="3. Création de votre premier graphique" target="_blank" rel="referrer">
                         <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3495912?quality=12&hidetitle=true&format=jpeg&nocache=1784039110238" alt="3. Création de votre premier graphique"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
@@ -81,10 +81,10 @@ Si vous avez déjà utilisé un outil d’IA générative, vous êtes probableme
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/create-your-first-graph" target="_blank" rel="referrer" title="3. Création de votre premier graphique">3. Créer votre premier graphique</a></p>
+                        <a href="https://experienceleague.adobe.com/fr/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/create-your-first-graph" target="_blank" rel="referrer" title="3. Création de votre premier graphique">3. Créer votre premier graphique</a></p>
                     <p class="is-size-6">Procédure pas à pas depuis Canvas pour exporter</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/create-your-first-graph" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/fr/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/create-your-first-graph" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
                 
             </div>
@@ -94,7 +94,7 @@ Si vous avez déjà utilisé un outil d’IA générative, vous êtes probableme
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/customize-template" title="4. Personnaliser un modèle" target="_blank" rel="referrer">
+                    <a href="https://experienceleague.adobe.com/fr/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/customize-template" title="4. Personnaliser un modèle" target="_blank" rel="referrer">
                         <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-cards/tutorial || 'default'&rbrace;.png" alt="4. Personnaliser un modèle"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
@@ -103,10 +103,10 @@ Si vous avez déjà utilisé un outil d’IA générative, vous êtes probableme
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/customize-template" target="_blank" rel="referrer" title="4. Personnaliser un modèle">4. Personnaliser un modèle</a></p>
+                        <a href="https://experienceleague.adobe.com/fr/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/customize-template" target="_blank" rel="referrer" title="4. Personnaliser un modèle">4. Personnaliser un modèle</a></p>
                     <p class="is-size-6">Créer un modèle qui reflète votre propre idée de départ</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/customize-template" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/fr/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/customize-template" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Lecture</span>
                 
             </div>
@@ -116,7 +116,7 @@ Si vous avez déjà utilisé un outil d’IA générative, vous êtes probableme
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/introducing-graph" title="Présentation du graphique en Firefly" target="_blank" rel="referrer">
+                    <a href="https://experienceleague.adobe.com/fr/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/introducing-graph" title="Présentation du graphique en Firefly" target="_blank" rel="referrer">
                         <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3492621?quality=12&hidetitle=true&format=jpeg&nocache=1784039110453" alt="Présentation du graphique en Firefly"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
@@ -125,11 +125,11 @@ Si vous avez déjà utilisé un outil d’IA générative, vous êtes probableme
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/introducing-graph" target="_blank" rel="referrer" title="Présentation du graphique en Firefly">Présentation Du Graphique En Firefly</a>
+                        <a href="https://experienceleague.adobe.com/fr/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/introducing-graph" target="_blank" rel="referrer" title="Présentation du graphique en Firefly">Présentation Du Graphique En Firefly</a>
                     </p>
                     <p class="is-size-6">Dans ce webinaire, découvrez le graphique du système de workflow entièrement visuel du Firefly</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/introducing-graph" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/fr/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/introducing-graph" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
                 
             </div>
