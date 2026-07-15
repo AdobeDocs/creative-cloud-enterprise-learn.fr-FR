@@ -4,9 +4,9 @@ description: Découvrez comment un graphique se compare à une seule invite et p
 feature: Image Editing, Gen AI
 role: User
 level: Beginner
-jira: KT-
+jira: KT-22055
 hide: true
-source-git-commit: a7178ae1f1b0f3887863103fbf41f17dce0de911
+source-git-commit: 718629560ca93a30b61ef0599dcb978a65e69135
 workflow-type: tm+mt
 source-wordcount: '316'
 ht-degree: 0%
@@ -19,7 +19,7 @@ La plupart des outils d’IA générative vous offrent une sortie à partir d’
 
 Le panneau Graphe Firefly fonctionne différemment. Au lieu d&#39;une seule invite, vous créez un **graphique** : un workflow visuel étape par étape où chaque entrée, transformation et sortie est capturée ensemble. Modifiez une étape et réexécutez-la. Vous ne reconstruisez pas toute la chaîne. Chaque étape est un nœud visible que votre équipe peut inspecter, ajuster et remettre intact.
 
-![Capture d&#39;écran du graphique visuel](../assets/what-is-1.png){align="center"}
+![Capture d&#39;écran du graphique visuel](../assets/graph.png){align="center"}
 
 En bref, Graph ne remplace pas votre processus créatif. Il transforme ce processus en quelque chose que vous pouvez voir, réutiliser et mettre à l’échelle.
 

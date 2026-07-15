@@ -1,20 +1,20 @@
 ---
-title: ​4. Personnalisation d’un modèle
+title: ​5. Personnalisation d’un modèle
 description: Une courte liste de contrôle pour transformer un modèle de graphique en Firefly en un workflow qui reflète votre propre mémoire et vos ressources
 feature: Image Editing, Gen AI
 role: User
 level: Beginner
-jira: KT-
+jira: KT-22056
 hide: true
 hidefromtoc: true
-source-git-commit: f7007b5c91413783dea7b061b06789f72951d7f4
+source-git-commit: 68283426ada0fc12630e61d3e4441bf11531816c
 workflow-type: tm+mt
 source-wordcount: '134'
 ht-degree: 3%
 
 ---
 
-# &#x200B;4. Personnaliser un modèle
+# &#x200B;5. Personnaliser un modèle
 
 Chaque modèle est livré avec des exemples d’entrées et un cas d’utilisation générique. Il s&#39;agit d&#39;un workflow qui fonctionne pour *vous* uniquement lorsqu&#39;il reflète votre propre résumé, vos ressources et votre résultat.
 
