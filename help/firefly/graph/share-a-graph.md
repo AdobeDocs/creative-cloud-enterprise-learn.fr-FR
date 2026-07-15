@@ -4,12 +4,12 @@ description: Apprenez à partager un graphique avec d’autres personnes
 feature: Image Editing, Gen AI
 role: User
 level: Beginner
-jira: KT-
+jira: KT-22058
 hide: true
 hidefromtoc: true
-source-git-commit: 68283426ada0fc12630e61d3e4441bf11531816c
+source-git-commit: e8ff9999edb2a79f8ad9b479985e4aa9e1047ff2
 workflow-type: tm+mt
-source-wordcount: '380'
+source-wordcount: '382'
 ht-degree: 0%
 
 ---
@@ -34,10 +34,11 @@ Découvrez comment partager un graphique avec d’autres personnes. Le partage d
 
    ![Accès](../assets/share_3.png){align="center"}
 
-   Activez l&#39;option Détectable via la recherche pour que les membres puissent trouver le graphique sans avoir besoin du lien.
-Une bannière de confirmation indique exactement qui peut afficher le graphique à l’aide du lien. Vérifiez cela avant d’envoyer le lien n’importe où. Cela s’applique à tous les futurs destinataires de ce lien, et pas seulement à la prochaine personne invitée.
+1. Activez l&#39;option Détectable via la recherche pour que les membres puissent trouver le graphique sans avoir besoin du lien.
 
    ![Bannière](../assets/share_4.png){align="center"}
+
+   Une bannière de confirmation indique exactement qui peut afficher le graphique à l’aide du lien. Vérifiez cela avant d’envoyer le lien n’importe où. Cela s’applique à tous les futurs destinataires de ce lien, et pas seulement à la prochaine personne invitée.
 
 1. Saisissez une adresse e-mail directement dans le champ d’invitation pour accorder un accès nommé à une personne, indépendamment du paramètre général du lien. Sélectionnez leur entrée dans la suggestion qui apparaît sous le champ.
 
@@ -55,6 +56,6 @@ Une bannière de confirmation indique exactement qui peut afficher le graphique 
 
 ## Étape suivante
 
-Vous souhaitez commencer à partir d’un modèle ? Rendez-vous sur [5. Personnalisez un modèle](https://experienceleague.adobe.com/fr/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/customize-template) pour qu&#39;il reflète votre propre résumé.
+Vous souhaitez commencer à partir d’un modèle ? Rendez-vous sur [5. Personnalisez un modèle](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/customize-template) pour qu&#39;il reflète votre propre résumé.
 
-Revenez à [Commencer avec Firefly Graph](https://experienceleague.adobe.com/fr/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Revenez à [Commencer avec Firefly Graph](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
