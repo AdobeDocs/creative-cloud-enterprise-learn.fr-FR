@@ -39,6 +39,6 @@ Voilà le changement : le même travail, mais chaque décision prise en cours de
 
 ## Étape suivante
 
-Une fois que vous êtes à l&#39;aise avec l&#39;idée, passez à [2. Concepts clés : nœuds, connexions et modèles](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/key-concepts) pour apprendre le vocabulaire que vous utiliserez pour construire un graphique.
+Une fois que vous êtes à l&#39;aise avec l&#39;idée, passez à [2. Concepts clés : nœuds, connexions et modèles](https://experienceleague.adobe.com/fr/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/key-concepts) pour apprendre le vocabulaire que vous utiliserez pour construire un graphique.
 
-Revenez à [Commencer avec Firefly Graph](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Revenez à [Commencer avec Firefly Graph](https://experienceleague.adobe.com/fr/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
