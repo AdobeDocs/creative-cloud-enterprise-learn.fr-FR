@@ -4,11 +4,11 @@ description: Découvrez les concepts clés pour vous aider à démarrer avec Fir
 feature: Image Editing, Gen AI
 role: User
 level: Beginner
-jira: KT-
+jira: KT-22053
 hide: true
-source-git-commit: a7178ae1f1b0f3887863103fbf41f17dce0de911
+source-git-commit: 17cd1dad0b66c7d6bc041252863a4dfbae692076
 workflow-type: tm+mt
-source-wordcount: '217'
+source-wordcount: '240'
 ht-degree: 1%
 
 ---
@@ -17,26 +17,38 @@ ht-degree: 1%
 
 Découvrez les concepts clés pour vous aider à démarrer avec Firefly Graph.
 
-![Concepts clés](../assets/concepts.png){align="center"}
-
 ## Nœud
 
 Un nœud effectue une étape du workflow : un nœud, une tâche. Un nœud peut générer une image, appliquer un masque, modifier une couleur ou exécuter toute autre action créative.
+
+![Nœud](../assets/node.png){align="center"}
+
+## Port
+
+Points de connexion sur un nœud. Les ports de sortie transmettent les données d&#39;un nœud ; les ports d&#39;entrée reçoivent les données entrantes. La connexion des ports est la façon dont les données circulent dans votre workflow.
+
+![Port](../assets/port.png){align="center"}
+
+## Widget
+
+Commandes interactives sur un nœud, telles que les champs de texte, les listes déroulantes et les curseurs, qui vous permettent de configurer ses paramètres directement dans l’éditeur.
+
+![Widget](../assets/widget.png){align="center"}
 
 ## Connexion
 
 Une connexion transporte une entrée ou une sortie entre deux nœuds. Un graphique se lit de gauche à droite, de l’entrée source à la sortie finale.
 
-## Modèle
+![Connexion](../assets/connection.png){align="center"}
 
-Un modèle est un graphique que quelqu’un a déjà créé. En partant d’un modèle, vous supprimez la zone de travail vide et vous disposez d’un point de départ fonctionnel pour vous adapter à votre propre document.
+## Graphe
 
-## Pourquoi cela est important avant de créer
+Le workflow complet que vous générez dans l’éditeur. Un graphique est composé de nœuds et de connexions disposés sur la zone de travail pour produire une sortie finale.
 
-Le graphique est flexible de par sa conception. Cette flexibilité signifie qu&#39;il vaut la peine d&#39;être précis quant au résultat et au workflow que vous souhaitez *avant* de commencer à créer.
+![Graphique](../assets/graph.png){align="center"}
 
 ## Étape suivante
 
-Prêt à construire quelque chose ? Passez à [3. Créez votre premier graphique](https://experienceleague.adobe.com/fr/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/create-your-first-graph) pour une présentation étape par étape.
+Prêt à construire quelque chose ? Passez à [3. Créez votre premier graphique](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/create-your-first-graph) pour une présentation étape par étape.
 
-Revenez à [Commencer avec Firefly Graph](https://experienceleague.adobe.com/fr/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Revenez à [Commencer avec Firefly Graph](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
