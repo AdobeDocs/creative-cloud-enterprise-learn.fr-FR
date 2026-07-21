@@ -25,4 +25,4 @@ Index de référence rapide de modèles de graphiques Firefly, organisé en fonc
 * [**Extraction de style**](/help/firefly/graph/templates/style-extraction.md) : flux dans une image de référence approuvée. Le nœud de style extrait son traitement de couleur, de lumière et de texture, puis applique ce traitement à toute nouvelle image exécutée sur le même graphique.
 * [**Vibes de coucher de soleil**](/help/firefly/graph/templates/sunset-vibes.md) — Découvrez comment créer une image typographique 3D avec le mot « Vibe » à partir d’une invite de texte. Le modèle gère automatiquement le positionnement et la balance des couleurs.
 
-Revenez à [Commencer avec Firefly Graph](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Revenez à [Commencer avec Firefly Graph](https://experienceleague.adobe.com/fr/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
