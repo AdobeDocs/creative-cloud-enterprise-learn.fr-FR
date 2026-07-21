@@ -6,10 +6,10 @@ role: User
 level: Beginner
 jira: KT-21971
 hide: true
-source-git-commit: eaec81eb392c356a1819c459b50a627bd43dff9d
+source-git-commit: 179d0655d8daf0a01e1cfa99d5a01a04b0be99e0
 workflow-type: tm+mt
-source-wordcount: '248'
-ht-degree: 4%
+source-wordcount: '236'
+ht-degree: 0%
 
 ---
 
@@ -28,7 +28,7 @@ Si vous avez déjà utilisé un outil d’IA générative, vous êtes probableme
       <img alt="Pot de maquillage" src="../assets/graph-1.png" />
    </a>
     <div>
-   <a href="what-is-firefly-graph.md"><strong>1. Qu'est-ce que le graphique en Firefly ?</strong></a>
+   <a href="what-is-firefly-graph.md"><strong>1. Qu’est-ce que le graphique en Firefly ?</strong></a>
     </div>
     <em>Familiarisez-vous avec le graphique en Firefly et comparez-le à une seule invite</em>
     <br>
@@ -66,11 +66,20 @@ Si vous avez déjà utilisé un outil d’IA générative, vous êtes probableme
 </tr>
 <tr>
   <td>
-   <a href="customize-template.md">
+   <a href="template-library.md">
+      <img alt="Pot de maquillage en variations" src="../assets/graph-templates.png" />
+   </a>
+    <div>
+   <a href="template-library.md"><strong>5. Bibliothèque de modèles</strong></a>
+    </div>
+    <em>Tout savoir sur les différents modèles</em>
+    <br>
+  </td>
+  <a href="customize-template.md">
       <img alt="Pot de maquillage avec arrière-plan différent" src="../assets/graph-5.png" />
    </a>
     <div>
-   <a href="customize-template.md"><strong>5. Personnaliser un modèle</strong></a>
+   <a href="customize-template.md"><strong>6. Personnaliser un modèle</strong></a>
     </div>
     <em>Créer un modèle reflétant votre propre idée de départ</em>
     <br>
@@ -83,11 +92,6 @@ Si vous avez déjà utilisé un outil d’IA générative, vous êtes probableme
    <a href="introducing-graph.md"><strong>Présentation du webinaire Firefly Graph</strong></a>
     </div>
     <em>Découvrez le graphique du système de workflow entièrement visuel du Firefly dans ce webinaire</em>
-    <br>
-  </td>
-  <td>
-    <img alt="Espaceur" src="../../assets/Gray_thumbnail.png" />
-    <div>
     <br>
   </td>
   <td>

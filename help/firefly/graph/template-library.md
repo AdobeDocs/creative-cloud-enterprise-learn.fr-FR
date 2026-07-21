@@ -1,5 +1,5 @@
 ---
-title: Bibliothèque de modèles de graphiques Firefly
+title: Bibliothèque de modèles
 description: Parcourez les modèles de graphiques de Firefly prêts à l’emploi que vous pouvez ouvrir et adapter à votre propre projet
 feature: Image Editing, Gen AI
 role: User
@@ -7,28 +7,20 @@ level: Beginner
 jira: KT-
 hide: true
 hidefromtoc: true
-source-git-commit: 62358737152306c9fbe246b62fc046222a7366c7
+source-git-commit: 179d0655d8daf0a01e1cfa99d5a01a04b0be99e0
 workflow-type: tm+mt
-source-wordcount: '192'
+source-wordcount: '179'
 ht-degree: 0%
 
 ---
 
-# Bibliothèque de modèles Firefly Graph
+# &#x200B;5. Bibliothèque de modèles
 
-Chaque modèle est un graphique complet que quelqu’un a déjà créé. Ouvrez-en un pour voir exactement comment il fonctionne, puis personnalisez-le en permutant vos propres entrées.
+Index de référence rapide de modèles de graphiques Firefly, organisé en fonction de ce que chacun produit ou fait. Chaque exemple est un point de départ : échangez votre propre marque, produit et invites avant d’utiliser un modèle en production.
 
-| Modèle | Ce qu’il fait | Lien |
-|---|---|---|
-| **Générateur d’effets spéciaux à puce** | Générez des séquences d’effets spéciaux de style à puce. | Ouvrir le modèle |
-| **Design System Generator** | Créez des ressources système de conception réutilisables. | Ouvrir le modèle |
-| **Hero’s Journey Story Builder** | Créez des séquences narratives et des structures narratives pour des storyboards ou des arcs de campagne. | Ouvrir le modèle |
-| **Nuanciers et coups de pinceau en temps réel personnalisés** | Créez des effets d’ombrage et de contour personnalisés en temps réel. | Ouvrir le modèle |
-| **Conversion d’esquisse en 3D** | Convertissez une esquisse en vue de retournement 3D. | Ouvrir le modèle |
-| **Correction colorimétrique ciblée** | Appliquez une correction sélective et localisée des couleurs, de manière non destructive. | Ouvrir le modèle |
-| **Photos Cohérentes** | Générez un ensemble cohérent de captures d’écran dans un groupe. | Ouvrir le modèle |
-| **Séance photo éditoriale + échange de vêtements** | Créez un style éditorial en permutant un vêtement sur une photo. | Ouvrir le modèle |
+## Génération et style d’image
 
-## Étape suivante
-
-Vous ne savez pas quel modèle correspond à votre projet ? Commencez par pour les concepts de base, puis revenez pour ouvrir la correspondance la plus proche.
+* [**Prise en main - Générer une image**](/help/firefly/graph/templates/get-started-gen-image.md) : graphique le plus simple possible : un nœud d&#39;invite en un nœud de génération en une sortie. Utilisez-le comme premier modèle à ouvrir avec un tout nouvel utilisateur.
+* [**Génération cohérente de caractères**](/help/firefly/graph/templates/character-gen.md) — Chargez une image de référence du personnage, puis permutez la scène ou l&#39;invite de pose pour chaque nouvelle prise de vue. La référence de caractère reste verrouillée lorsque la scène environnante change.
+* [**Extraction de style**](/help/firefly/graph/templates/style-extraction.md) : flux dans une image de référence approuvée. Le nœud de style extrait son traitement de couleur, de lumière et de texture, puis applique ce traitement à toute nouvelle image exécutée sur le même graphique.
+* [**Sunset Vibes**](/help/firefly/graph/templates/sunset-vibes.md) — Découvrez comment créer une image typographique 3D avec le mot « Vibe » à partir d’une invite de texte. Le modèle gère automatiquement le positionnement et la balance des couleurs.
