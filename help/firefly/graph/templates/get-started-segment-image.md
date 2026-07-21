@@ -29,4 +29,4 @@ Découvrez comment charger une image source et exécuter le nœud de segmentatio
 * **Vente au détail** : isolez un vêtement d&#39;une photo de style de vie pour créer une image de catalogue propre uniquement pour le produit.
 * **Automobile** : découpez un véhicule à partir d&#39;une prise de vue d&#39;emplacement pour le placer sur un fond de studio pour l&#39;impression.
 
-Revenez à [Commencer avec Firefly Graph](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Revenez à [Commencer avec Firefly Graph](https://experienceleague.adobe.com/fr/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).

@@ -29,4 +29,4 @@ Apprenez à alimenter un produit phare ou une image de sujet pour générer une 
 * **Vente au détail** - Créez une image figée à 360 degrés d&#39;une nouvelle chaussure pour une page de lancement de produit.
 * **Automobile** - Générez une photo d&#39;un véhicule en héros rotatif pour une salle d&#39;exposition numérique, sans session en studio avec platine tournante.
 
-Revenez à [Commencer avec Firefly Graph](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Revenez à [Commencer avec Firefly Graph](https://experienceleague.adobe.com/fr/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
