@@ -4,9 +4,9 @@ description: Apprenez à alimenter un produit phare ou une image de sujet pour g
 feature: Graphic Design, Gen AI
 role: User
 level: Beginner
-jira: KT-
+jira: KT-22104
 hide: true
-source-git-commit: d9650e6e2864d46a099c228eaff6d33975742f3a
+source-git-commit: 1b6b9793b2fa33365ccf6fb0f049632a67f09cae
 workflow-type: tm+mt
 source-wordcount: '192'
 ht-degree: 1%
@@ -15,8 +15,7 @@ ht-degree: 1%
 
 # Bullet Time VFX
 
-Découvrez comment alimenter une image de produit ou de sujet principal pour générer une séquence de rotation de
-faites des angles autour de lui, puis coupez automatiquement le balayage de l’image figée. [Ouvrir le modèle VFX Bullet Time](https://firefly.adobe.com/graph/edit/id/urn:aaid:sc:US:3efb4f51-345d-58eb-b7c8-7b289f0dd1c4).
+Apprenez à alimenter un produit phare ou une image de sujet pour générer une séquence d&#39;angles rotative autour de celui-ci, puis à assembler automatiquement le balayage par image figée. [Ouvrir le modèle VFX Bullet Time](https://firefly.adobe.com/graph/edit/id/urn:aaid:sc:US:3efb4f51-345d-58eb-b7c8-7b289f0dd1c4).
 
 >[!TIP]
 >
@@ -30,4 +29,4 @@ faites des angles autour de lui, puis coupez automatiquement le balayage de l’
 * **Vente au détail** - Créez une image figée à 360 degrés d&#39;une nouvelle chaussure pour une page de lancement de produit.
 * **Automobile** - Générez une photo d&#39;un véhicule en héros rotatif pour une salle d&#39;exposition numérique, sans session en studio avec platine tournante.
 
-Revenez à [Commencer avec Firefly Graph](https://experienceleague.adobe.com/fr/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Revenez à [Commencer avec Firefly Graph](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).

@@ -4,9 +4,9 @@ description: Apprenez à masquer une zone spécifique nécessitant une correctio
 feature: Graphic Design, Gen AI
 role: User
 level: Beginner
-jira: KT-
+jira: KT-22102
 hide: true
-source-git-commit: d9650e6e2864d46a099c228eaff6d33975742f3a
+source-git-commit: 1b6b9793b2fa33365ccf6fb0f049632a67f09cae
 workflow-type: tm+mt
 source-wordcount: '179'
 ht-degree: 1%
@@ -29,4 +29,4 @@ Apprenez à masquer une zone spécifique nécessitant une correction et à défi
 * **Vente au détail** : standardisez la couleur du produit sur un ensemble de photos prises sous un éclairage incohérent.
 * **Finance** : corrigez une couleur de marque perdue dans un lot de photos marketing avant de publier.
 
-Revenez à [Commencer avec Firefly Graph](https://experienceleague.adobe.com/fr/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Revenez à [Commencer avec Firefly Graph](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).

@@ -4,9 +4,9 @@ description: Découvrez comment générer une référence de caractère cohéren
 feature: Graphic Design, Gen AI
 role: User
 level: Beginner
-jira: KT-
+jira: KT-22097
 hide: true
-source-git-commit: d9650e6e2864d46a099c228eaff6d33975742f3a
+source-git-commit: 1b6b9793b2fa33365ccf6fb0f049632a67f09cae
 workflow-type: tm+mt
 source-wordcount: '170'
 ht-degree: 1%
@@ -29,4 +29,4 @@ Découvrez comment charger une image de référence du personnage, puis interver
 * **Vente au détail** : conservez un personnage de rayons de marque sur des dizaines de photos de produits saisonniers et de publications sur les réseaux sociaux.
 * **Éducation** : assurez la cohérence d&#39;un personnage d&#39;instructeur animé dans toutes les vidéos de leçon d&#39;un cours.
 
-Revenez à [Commencer avec Firefly Graph](https://experienceleague.adobe.com/fr/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Revenez à [Commencer avec Firefly Graph](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).

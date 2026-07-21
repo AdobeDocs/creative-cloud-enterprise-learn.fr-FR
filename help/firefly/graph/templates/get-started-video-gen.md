@@ -4,9 +4,9 @@ description: Apprenez à insérer les images clés approuvées et une courte inv
 feature: Graphic Design, Gen AI
 role: User
 level: Beginner
-jira: KT-
+jira: KT-22103
 hide: true
-source-git-commit: d9650e6e2864d46a099c228eaff6d33975742f3a
+source-git-commit: 1b6b9793b2fa33365ccf6fb0f049632a67f09cae
 workflow-type: tm+mt
 source-wordcount: '177'
 ht-degree: 1%
@@ -30,4 +30,4 @@ Apprenez à insérer les images clés approuvées et une courte invite de mouvem
 * **Vente au détail** : étendez une seule photo de campagne en une courte vidéo pour les réseaux sociaux.
 
 
-Revenez à [Commencer avec Firefly Graph](https://experienceleague.adobe.com/fr/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Revenez à [Commencer avec Firefly Graph](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).

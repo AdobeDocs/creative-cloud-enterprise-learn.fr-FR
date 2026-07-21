@@ -4,9 +4,9 @@ description: Apprenez à créer une image typographique 3D avec le mot « Vibe �
 feature: Graphic Design, Gen AI
 role: User
 level: Beginner
-jira: KT-
+jira: KT-22099
 hide: true
-source-git-commit: 179d0655d8daf0a01e1cfa99d5a01a04b0be99e0
+source-git-commit: 1b6b9793b2fa33365ccf6fb0f049632a67f09cae
 workflow-type: tm+mt
 source-wordcount: '159'
 ht-degree: 1%
@@ -29,4 +29,4 @@ Apprenez à créer une image typographique 3D avec le mot « Vibe » à partir d
 * **Boissons** : associez un slogan de saison à un cadre de vie chaleureux pour une promotion estivale.
 * **Vente au détail** - Générez un fichier texte et arrière-plan de style rapide pour une annonce de vente flash.
 
-Revenez à [Commencer avec Firefly Graph](https://experienceleague.adobe.com/fr/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Revenez à [Commencer avec Firefly Graph](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).

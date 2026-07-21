@@ -3,9 +3,9 @@ title: Composite et fusion de calques
 description: Apprenez à empiler un découpage de produit et une scène d’arrière-plan comme entrées de calque distinctes
 role: User
 level: Beginner
-jira: KT-
+jira: KT-22101
 hide: true
-source-git-commit: d9650e6e2864d46a099c228eaff6d33975742f3a
+source-git-commit: 1b6b9793b2fa33365ccf6fb0f049632a67f09cae
 workflow-type: tm+mt
 source-wordcount: '179'
 ht-degree: 1%
@@ -29,4 +29,4 @@ Découvrez comment empiler un découpage de produit et une scène d’arrière-p
 * **Vente au détail** : mélangez un découpage de produit dans un fond de style de vie saisonnier pour une bannière de page d’accueil.
 * **Voyage** : composez une toile de fond de destination derrière une photo de produit pour une promotion de marque commune.
 
-Revenez à [Commencer avec Firefly Graph](https://experienceleague.adobe.com/fr/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Revenez à [Commencer avec Firefly Graph](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
