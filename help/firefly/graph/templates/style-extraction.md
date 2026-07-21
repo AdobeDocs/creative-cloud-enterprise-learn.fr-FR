@@ -29,4 +29,4 @@ Apprenez à créer un style à partir d’une image de référence qui peut ensu
 * **Vente au détail** : extrayez le look approuvé d&#39;un directeur artistique à partir d&#39;une photo de héros et appliquez-le à la photographie d&#39;un produit pendant toute une saison.
 * **Boissons** : faites correspondre les nouveaux rendus d’emballage à l’ambiance d’une photo de campagne primée.
 
-Revenez à [Commencer avec Firefly Graph](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Revenez à [Commencer avec Firefly Graph](https://experienceleague.adobe.com/fr/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).

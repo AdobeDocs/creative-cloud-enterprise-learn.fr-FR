@@ -24,4 +24,4 @@ Chaque modèle est livré avec des exemples d’entrées et un cas d’utilisati
 4. **Modifiez une variable et réexécutez-la**, afin de voir exactement ce que cette étape contrôle.
 5. **Enregistrez votre version personnalisée sous son propre nom.**
 
-Revenez à [Commencer avec Firefly Graph](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Revenez à [Commencer avec Firefly Graph](https://experienceleague.adobe.com/fr/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
