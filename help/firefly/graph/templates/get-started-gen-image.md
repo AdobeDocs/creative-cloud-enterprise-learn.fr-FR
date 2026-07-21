@@ -1,21 +1,21 @@
 ---
 title: Prise en main - Génération d’une image
-description: Apprenez à utiliser le graphique le plus simple possible
+description: 'Découvrez comment créer un graphique de base : un nœud d’invite en un nœud de génération en une sortie'
 feature: Graphic Design, Gen AI
 role: User
 level: Beginner
 jira: KT-
 hide: true
-source-git-commit: 179d0655d8daf0a01e1cfa99d5a01a04b0be99e0
+source-git-commit: bab6c055a00501f11e18fd80af7afcaf555a3694
 workflow-type: tm+mt
-source-wordcount: '174'
+source-wordcount: '180'
 ht-degree: 1%
 
 ---
 
 # Prise en main - Génération d’une image
 
-Apprenez les bases avec le graphique le plus simple possible : un nœud d’invite en un nœud de génération en une sortie. [Ouvrez Prise en main - Générez un modèle d&#39;image](https://firefly.adobe.com/graph/edit/id/urn:aaid:sc:VA6C2:f556b557-d31b-4659-b9d1-358ed567c61d).
+Découvrez comment créer un graphique de base : un nœud d’invite en un nœud de génération en une sortie. [Ouvrez Prise en main - Générez un modèle d&#39;image](https://firefly.adobe.com/graph/edit/id/urn:aaid:sc:VA6C2:f556b557-d31b-4659-b9d1-358ed567c61d).
 
 >[!TIP]
 >
@@ -30,4 +30,4 @@ Apprenez les bases avec le graphique le plus simple possible : un nœud d’invi
 * **Éducation** : créez un premier exemple d&#39;image pour montrer le graphique aux nouveaux membres de l&#39;équipe avant d&#39;affecter un travail réel au projet.
 
 
-Revenez à [Commencer avec Firefly Graph](https://experienceleague.adobe.com/fr/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Revenez à [Commencer avec Firefly Graph](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
