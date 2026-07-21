@@ -32,4 +32,4 @@ Apprenez les bases avec le graphique le plus simple possible : un nœud d’invi
 * **Éducation** : créez un premier exemple d&#39;image pour montrer le graphique aux nouveaux membres de l&#39;équipe avant d&#39;affecter un travail réel au projet.
 
 
-Revenez à [Commencer avec Firefly Graph](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Revenez à [Commencer avec Firefly Graph](https://experienceleague.adobe.com/fr/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
