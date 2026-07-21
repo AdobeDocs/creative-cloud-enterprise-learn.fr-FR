@@ -29,4 +29,4 @@ Découvrez comment charger une image de référence du personnage, puis interver
 * **Vente au détail** : conservez un personnage de rayons de marque sur des dizaines de photos de produits saisonniers et de publications sur les réseaux sociaux.
 * **Éducation** : assurez la cohérence d&#39;un personnage d&#39;instructeur animé dans toutes les vidéos de leçon d&#39;un cours.
 
-Revenez à [Commencer avec Firefly Graph](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Revenez à [Commencer avec Firefly Graph](https://experienceleague.adobe.com/fr/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).

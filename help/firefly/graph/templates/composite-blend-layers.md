@@ -29,4 +29,4 @@ Découvrez comment empiler un découpage de produit et une scène d’arrière-p
 * **Vente au détail** : mélangez un découpage de produit dans un fond de style de vie saisonnier pour une bannière de page d’accueil.
 * **Voyage** : composez une toile de fond de destination derrière une photo de produit pour une promotion de marque commune.
 
-Revenez à [Commencer avec Firefly Graph](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Revenez à [Commencer avec Firefly Graph](https://experienceleague.adobe.com/fr/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).

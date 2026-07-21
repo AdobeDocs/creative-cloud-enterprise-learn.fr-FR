@@ -36,4 +36,4 @@ Index de référence rapide de modèles de graphiques Firefly, organisé en fonc
 * [**Prise en main - Génération de vidéos**](/help/firefly/graph/templates/get-started-video-gen.md) — Découvrez comment insérer l&#39;illustration clé fixe approuvée et une courte invite de mouvement. Le modèle génère une séquence vidéo construite à partir de cette même illustration plutôt qu’une nouvelle prise de vue.
 * [**Bullet Time VFX**](/help/firefly/graph/templates/bullet-time-vfx.md) : découvrez comment alimenter une image de produit ou de sujet phare pour générer une séquence d&#39;angles rotative autour de celle-ci, puis assembler automatiquement le balayage des images figées.
 
-Revenez à [Commencer avec Firefly Graph](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Revenez à [Commencer avec Firefly Graph](https://experienceleague.adobe.com/fr/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
