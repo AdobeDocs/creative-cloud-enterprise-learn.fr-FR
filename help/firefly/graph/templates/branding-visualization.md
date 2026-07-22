@@ -6,7 +6,7 @@ role: User
 level: Beginner
 jira: KT-
 hide: true
-source-git-commit: af06d76d4cad7ccf7adeb845d71525480b68ea4f
+source-git-commit: b19c93a5c0f7b0009a17ae97eb35f6738cf21630
 workflow-type: tm+mt
 source-wordcount: '192'
 ht-degree: 1%
@@ -21,12 +21,12 @@ Apprenez à visualiser votre logo ou votre marque dans les scènes de produit. A
 >
 >**Avant de commencer** : pour obtenir de meilleurs résultats, personnalisez ce modèle en fonction de votre marque, produit et workflow. Permutez vos images de référence, vos invites et vos copies avant d’utiliser une sortie.
 
-![Visualisation de la marque](../../assets/branding-visualization.png){align="center"}
-
 [!BADGE Cas d’utilisation]{type=Informative tooltip="Exemples d’utilisation"}
 
 * **Technologie** : visualisez une nouvelle sous-marque de produit à la fois comme un art clé et comme un teaser de lancement avant d&#39;engager le budget de conception ou de média dans la production complète.
 * **Boissons** : testez trois directions de logo et de palette de couleurs comme illustration principale d&#39;aspect fini avant d&#39;en choisir une à mettre en production.
 * **Finance** : affichez un aperçu d&#39;une nouvelle carte ou identité d&#39;application en tant que visuel de marque avant qu&#39;elle n&#39;atteigne une révision de conception.
 
-Revenez à [Commencer avec Firefly Graph](https://experienceleague.adobe.com/fr/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+![Visualisation de la marque](../../assets/branding-visualization.png){align="center"}
+
+Revenez à [Commencer avec Firefly Graph](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).

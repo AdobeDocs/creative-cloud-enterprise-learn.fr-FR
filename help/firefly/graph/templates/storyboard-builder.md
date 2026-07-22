@@ -6,7 +6,7 @@ role: User
 level: Beginner
 jira: KT-
 hide: true
-source-git-commit: 5a555416c5f45ca92de7df48e4b7cf8418102269
+source-git-commit: b19c93a5c0f7b0009a17ae97eb35f6738cf21630
 workflow-type: tm+mt
 source-wordcount: '183'
 ht-degree: 1%
@@ -21,12 +21,12 @@ Apprenez à transformer automatiquement vos idées en storyboard à l’aide d�
 >
 >**Avant de commencer** : pour obtenir de meilleurs résultats, personnalisez ce modèle en fonction de votre marque, produit et workflow. Permutez vos images de référence, vos invites et vos copies avant d’utiliser une sortie.
 
-![Créateur de storyboards](../../assets/storyboard-builder.png){align="center"}
-
 [!BADGE Cas d’utilisation]{type=Informative tooltip="Exemples d’utilisation"}
 
 * **Communications et télécom** : storyboard est un point de lancement de 30 secondes pour un nouveau plan, qui permet de tester trois structures narratives différentes avant de réserver un tournage.
 * **Boissons** : créez un storyboard scène par scène pour une campagne saisonnière et réorganisez les rythmes pour tester la fréquence avant de verrouiller la découpe.
 * **Voyage** : créez un storyboard de l&#39;arc narratif d&#39;une campagne de destination avant de vous engager dans une liste de prises de vue.
 
-Revenez à [Commencer avec Firefly Graph](https://experienceleague.adobe.com/fr/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+![Créateur de storyboards](../../assets/storyboard-builder.png){align="center"}
+
+Revenez à [Commencer avec Firefly Graph](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).

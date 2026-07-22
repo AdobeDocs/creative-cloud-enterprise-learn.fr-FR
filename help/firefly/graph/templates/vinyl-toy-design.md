@@ -6,7 +6,7 @@ role: User
 level: Beginner
 jira: KT-
 hide: true
-source-git-commit: 5a555416c5f45ca92de7df48e4b7cf8418102269
+source-git-commit: b19c93a5c0f7b0009a17ae97eb35f6738cf21630
 workflow-type: tm+mt
 source-wordcount: '179'
 ht-degree: 1%
@@ -21,12 +21,12 @@ Apprenez à saisir une référence de personnage ou de mascotte et à en effectu
 >
 >**Avant de commencer** : pour obtenir de meilleurs résultats, personnalisez ce modèle en fonction de votre marque, produit et workflow. Permutez vos images de référence, vos invites et vos copies avant d’utiliser une sortie.
 
-![Conception de jouet en vinyle](../../assets/vinyl-toy-design.png){align="center"}
-
 [!BADGE Cas d’utilisation]{type=Informative tooltip="Exemples d’utilisation"}
 
 * **Vente au détail** : concevez un objet de collection en édition limitée associé au lancement d&#39;un programme de fidélité, révisé comme concept avant de vous engager dans une phase de fabrication.
 * **Boissons** : créez une maquette de figure à collectionner d&#39;une mascotte de marque pour une livraison de marchandises à tirage limité.
 * **Divertissement** : prévisualisez un personnage sous forme de jouet en vinyle pour une présentation sous licence.
 
-Revenez à [Commencer avec Firefly Graph](https://experienceleague.adobe.com/fr/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+![Conception de jouet en vinyle](../../assets/vinyl-toy-design.png){align="center"}
+
+Revenez à [Commencer avec Firefly Graph](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).

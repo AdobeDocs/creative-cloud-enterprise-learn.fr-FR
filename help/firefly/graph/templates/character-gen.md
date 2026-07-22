@@ -6,7 +6,7 @@ role: User
 level: Beginner
 jira: KT-22097
 hide: true
-source-git-commit: 1b6b9793b2fa33365ccf6fb0f049632a67f09cae
+source-git-commit: b19c93a5c0f7b0009a17ae97eb35f6738cf21630
 workflow-type: tm+mt
 source-wordcount: '170'
 ht-degree: 1%
@@ -21,12 +21,12 @@ Découvrez comment charger une image de référence du personnage, puis interver
 >
 >**Avant de commencer** : pour obtenir de meilleurs résultats, personnalisez ce modèle en fonction de votre marque, produit et workflow. Permutez vos images de référence, vos invites et vos copies avant d’utiliser une sortie.
 
-![Gène de caractère cohérent](../../assets/character-gen.png){align="center"}
-
 [!BADGE Cas d’utilisation]{type=Informative tooltip="Exemples d’utilisation"}
 
 * **Voyages** - Gardez un guide ou un personnage de mascotte récurrent cohérent dans une série de destinations multi-vidéos et dans le contenu social, sans donner de nouveau briefing à un illustrateur pour chaque scène.
 * **Vente au détail** : conservez un personnage de rayons de marque sur des dizaines de photos de produits saisonniers et de publications sur les réseaux sociaux.
 * **Éducation** : assurez la cohérence d&#39;un personnage d&#39;instructeur animé dans toutes les vidéos de leçon d&#39;un cours.
 
-Revenez à [Commencer avec Firefly Graph](https://experienceleague.adobe.com/fr/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+![Gène de caractère cohérent](../../assets/character-gen.png){align="center"}
+
+Revenez à [Commencer avec Firefly Graph](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
