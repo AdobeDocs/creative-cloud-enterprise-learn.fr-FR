@@ -75,4 +75,4 @@ Index de référence rapide de modèles de graphiques Firefly, organisé en fonc
 | [**Concevoir le générateur de système**](/help/firefly/graph/templates/design-system-generator.md) | Ce modèle de graphique permet de générer une charte graphique à partir d’une capture d’écran de site web. | Technologie, finance, communications et télécommunications |
 | [**Génération de photos**](/help/firefly/graph/templates/headshots-generation.md) | Ce modèle de graphique permet d’harmoniser un lot de photos d’entreprise. | Technologie, finance, santé |
 
-Revenez à [Commencer avec Firefly Graph](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Revenez à [Commencer avec Firefly Graph](https://experienceleague.adobe.com/fr/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
