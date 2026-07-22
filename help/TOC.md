@@ -9,9 +9,9 @@ role: User
 type: Tutorial
 auto-video-transcripts: true
 nudge: true
-source-git-commit: d9650e6e2864d46a099c228eaff6d33975742f3a
+source-git-commit: 10d27af0ddb89cb7e52816e09682d94a102948f7
 workflow-type: tm+mt
-source-wordcount: '825'
+source-wordcount: '843'
 ht-degree: 3%
 
 ---
@@ -130,7 +130,7 @@ ht-degree: 3%
   + Tutoriels Creative Production {#firefly-creative-production}
     + [Présentation de la  [!DNL Adobe Firefly] production créative](firefly/creative-production/overview-firefly-creative-production.md)
     + [Suppression et remplacement de l’arrière-plan](firefly/creative-production/background.md)
-  + {hide-from-toc}Tutoriels Graph  {#firefly-graph}
+  + Tutoriels Graph {hide-from-toc} {#firefly-graph}
     + {hide-from-toc}[Vue d&#39;ensemble du graphique d&#39;Adobe Firefly](firefly/graph/overview-firefly-graph.md)
     + {hide-from-toc}[Qu&#39;est-ce que le graphique en Firefly ?](firefly/graph/what-is-firefly-graph.md)
     + {hide-from-toc}[Concepts clés du graphique en Firefly](firefly/graph/key-concepts.md)
@@ -149,13 +149,19 @@ ht-degree: 3%
       + {hide-from-toc}[Correction sélective des couleurs](firefly/graph/templates/selective-color-correction.md)
       + {hide-from-toc}[Prise en main - Génération de vidéos](firefly/graph/templates/get-started-video-gen.md)
       + {hide-from-toc}[Bullet Time VFX](firefly/graph/templates/bullet-time-vfx.md)
+      + {hide-from-toc}[Texte sur storyboard](firefly/graph/templates/text-to-storyboard.md)
+      + {hide-from-toc}[Créateur de storyboards](firefly/graph/templates/storyboard-builder.md)
+      + {hide-from-toc}[Nuanceurs en temps réel](firefly/graph/templates/real-time-shaders.md)
+      + {hide-from-toc}[Génération du modèle de caractère](firefly/graph/templates/character-model-generation.md)
+      + {hide-from-toc}[Conception de jouet en vinyle](firefly/graph/templates/vinyl-toy-design.md)
+      + {hide-from-toc}[Conversion d’esquisse en 3D](firefly/graph/templates/sketch-to-3d.md)
   + Webinaires {#firefly-webinars}
     + [Expérimenter avec l’Adobe Firefly](firefly/webinar-experimenting.md)
 + [!DNL Adobe Stock] {#stockoverview}
   + [Présentation](stock/overview-stock.md)
   + Didacticiels {#stocktutorials}
     + [Des ressources numériques époustouflantes](stock/stunning-digital-assets.md)
-    + [Rechercher dans l&#39;historique des licences de l&#39;Adobe [!DNL Stock] &#x200B;](stock/searchstock.md)
+    + [Rechercher dans l&#39;historique des licences de l&#39;Adobe [!DNL Stock] ](stock/searchstock.md)
     + [Ajout d&#39;une esthétique dessinée à la main à des images d&#39;Adobes [!DNL Stock] créatives](stock/handdrawn.md)
     + [Ajoutez du style à la typographie avec des masques et des animations](stock/flairtypography.md)
     + [Animation d’une illustration vectorielle d’Adobe [!DNL Stock] dans Photoshop](stock/animatevector.md)
@@ -177,7 +183,7 @@ ht-degree: 3%
     + [Créer des compositions photo réalistes avec des images Adobes [!DNL Stock] x](stock/realisticcomposite.md)
     + [Personnalisation d&#39;une animation d&#39;écran de chargement avec Adobe [!DNL Stock]  et XD](stock/loadingscreen.md)
     + [Personnalisation d&#39;un modèle de présentation Adobe [!DNL Stock] professionnel](stock/presentationtemplate.md)
-    + [Personnalisation des couleurs d&#39;une illustration vectorielle Adobe [!DNL Stock] &#x200B;](stock/customizecolors.md)
+    + [Personnalisation des couleurs d&#39;une illustration vectorielle Adobe [!DNL Stock] ](stock/customizecolors.md)
 + Adobe 3D et VR {#3doverview}
   + [Présentation](3di/overview-3di.md)
   + Didacticiels {#3dtutorials}
