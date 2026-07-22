@@ -29,4 +29,4 @@ Apprenez à visualiser votre logo ou votre marque dans les scènes de produit. A
 * **Boissons** : testez trois directions de logo et de palette de couleurs comme illustration principale d&#39;aspect fini avant d&#39;en choisir une à mettre en production.
 * **Finance** : affichez un aperçu d&#39;une nouvelle carte ou identité d&#39;application en tant que visuel de marque avant qu&#39;elle n&#39;atteigne une révision de conception.
 
-Revenez à [Commencer avec Firefly Graph](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Revenez à [Commencer avec Firefly Graph](https://experienceleague.adobe.com/fr/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).

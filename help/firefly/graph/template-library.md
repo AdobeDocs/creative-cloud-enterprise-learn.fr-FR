@@ -61,4 +61,4 @@ Index de référence rapide de modèles de graphiques Firefly, organisé en fonc
 * [**Générateur de système de conception**](/help/firefly/graph/templates/design-system-generator.md) : dans ce modèle de graphique, vous générez un système de conception basé sur une capture d&#39;écran de site Web. Le graphique produit un ensemble d’icônes, de motifs et de composants de mise en page correspondants dans une seule exécution par lots.
 * [**Génération d&#39;images principales**](/help/firefly/graph/templates/headshots-generation.md) : dans ce modèle de graphique, vous harmonisez un lot d&#39;images principales d&#39;entreprise. Chargez les photos source, une par personne, et le graphique normalise l’éclairage, l’arrière-plan et le recadrage sur l’ensemble en une seule fois.
 
-Revenez à [Commencer avec Firefly Graph](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Revenez à [Commencer avec Firefly Graph](https://experienceleague.adobe.com/fr/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
