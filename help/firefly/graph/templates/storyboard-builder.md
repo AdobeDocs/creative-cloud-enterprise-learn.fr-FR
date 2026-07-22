@@ -29,4 +29,4 @@ Apprenez à transformer automatiquement vos idées en storyboard à l’aide d�
 * **Boissons** : créez un storyboard scène par scène pour une campagne saisonnière et réorganisez les rythmes pour tester la fréquence avant de verrouiller la découpe.
 * **Voyage** : créez un storyboard de l&#39;arc narratif d&#39;une campagne de destination avant de vous engager dans une liste de prises de vue.
 
-Revenez à [Commencer avec Firefly Graph](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Revenez à [Commencer avec Firefly Graph](https://experienceleague.adobe.com/fr/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).

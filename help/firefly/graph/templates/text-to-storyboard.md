@@ -29,4 +29,4 @@ Découvrez comment générer un storyboard à partir d’un script ou d’une li
 * **Vente au détail** : créez un storyboard pour une vidéo de lancement de produit directement à partir du résumé de campagne, avant la réservation d&#39;un réalisateur.
 * **Technologie** : créez un storyboard à partir d’une vidéo explicative à partir d’un script de fonctionnalité pour aligner les parties prenantes avant le début de l’animation.
 
-Revenez à [Commencer avec Firefly Graph](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Revenez à [Commencer avec Firefly Graph](https://experienceleague.adobe.com/fr/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).

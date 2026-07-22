@@ -29,4 +29,4 @@ Apprenez à créer un style d’animation 3D pour une illustration. Le modèle g
 * **Technologie** : générez un modèle de personnage 3D de base à partir d’un résumé écrit, prêt à être remis à un modélisateur pour nettoyage.
 * **Éducation** : créez un modèle de personnage d’instructeur 3D à utiliser dans les leçons vidéo d’un cours.
 
-Revenez à [Commencer avec Firefly Graph](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Revenez à [Commencer avec Firefly Graph](https://experienceleague.adobe.com/fr/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).

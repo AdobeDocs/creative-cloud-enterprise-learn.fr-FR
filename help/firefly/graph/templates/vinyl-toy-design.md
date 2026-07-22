@@ -29,4 +29,4 @@ Apprenez à saisir une référence de personnage ou de mascotte et à en effectu
 * **Boissons** : créez une maquette de figure à collectionner d&#39;une mascotte de marque pour une livraison de marchandises à tirage limité.
 * **Divertissement** : prévisualisez un personnage sous forme de jouet en vinyle pour une présentation sous licence.
 
-Revenez à [Commencer avec Firefly Graph](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Revenez à [Commencer avec Firefly Graph](https://experienceleague.adobe.com/fr/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).

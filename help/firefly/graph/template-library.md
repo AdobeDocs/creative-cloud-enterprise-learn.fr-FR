@@ -48,4 +48,4 @@ Index de référence rapide de modèles de graphiques Firefly, organisé en fonc
 * [**Conception de jouet en vinyle**](/help/firefly/graph/templates/vinyl-toy-design.md) : dans ce modèle de graphique, vous devez saisir une référence de personnage ou de mascotte et la restituer sous forme de jouet en vinyle stylisé. Il existe des angles de retournement pour un dossier de licence ou d’examen de produit.
 * [**Retournement d&#39;esquisse en 3D**](/help/firefly/graph/templates/sketch-to-3d.md) : dans ce modèle de graphique, vous transformez une esquisse en un caractère 3D. Le graphique crée un retournement 3D rotatif à partir de celui-ci, prêt pour une révision de conception interne avant tout prototype physique.
 
-Revenez à [Commencer avec Firefly Graph](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Revenez à [Commencer avec Firefly Graph](https://experienceleague.adobe.com/fr/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
