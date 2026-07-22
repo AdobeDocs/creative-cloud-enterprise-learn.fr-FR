@@ -29,4 +29,4 @@ Découvrez comment placer un rendu de produit sur le nœud de fond de studio et 
 * **Technologie** : créez des rendus de qualité studio d&#39;un nouvel appareil pour une page de lancement avant que les unités ne soient disponibles pour la photographie.
 * **Vente au détail** : créez des photos de studio cohérentes sur toute une gamme de produits sans réserver de sessions photographiques individuelles.
 
-Revenez à [Commencer avec Firefly Graph](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Revenez à [Commencer avec Firefly Graph](https://experienceleague.adobe.com/fr/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).

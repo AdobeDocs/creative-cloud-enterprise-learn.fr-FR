@@ -29,4 +29,4 @@ Découvrez comment générer une charte graphique à partir d’une capture d’
 * **Finance** - Créez une icône et un système de couleurs cohérents pour une nouvelle conception d&#39;application avant le début du développement.
 * **Communications et télécom** : générez un langage visuel adapté pour un nouveau niveau de forfait sur le web et dans la signalétique en magasin.
 
-Revenez à [Commencer avec Firefly Graph](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Revenez à [Commencer avec Firefly Graph](https://experienceleague.adobe.com/fr/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).

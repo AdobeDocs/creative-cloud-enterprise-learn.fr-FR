@@ -29,4 +29,4 @@ Apprenez à visualiser les décalcomanies ou les logos sur des maquettes de prod
 * **Automobile** : prévisualisez un nouveau design de livrée ou de décalcomanie sur un modèle de véhicule avant de passer à la production.
 * **Vente au détail** - Testez un nouveau positionnement de logo sur une gamme de maquettes de vêtements complète avant l&#39;approbation de l&#39;impression.
 
-Revenez à [Commencer avec Firefly Graph](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Revenez à [Commencer avec Firefly Graph](https://experienceleague.adobe.com/fr/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).

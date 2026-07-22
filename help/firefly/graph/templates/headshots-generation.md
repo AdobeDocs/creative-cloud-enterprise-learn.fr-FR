@@ -30,4 +30,4 @@ et recadrez l’ensemble en une seule fois. [Ouvrir le modèle de génération d
 * **Finance** : normalisez les photos prises par une équipe de conseillers pour une page de rencontre d&#39;équipe.
 * **Santé** : standardisez les photos du personnel dans plusieurs cliniques pour un aspect de site web unifié.
 
-Revenez à [Commencer avec Firefly Graph](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Revenez à [Commencer avec Firefly Graph](https://experienceleague.adobe.com/fr/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).

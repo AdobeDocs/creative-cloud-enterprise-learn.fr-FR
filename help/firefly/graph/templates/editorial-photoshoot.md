@@ -29,4 +29,4 @@ Apprenez à saisir une référence de modèle et à permuter l’entrée du vêt
 * **Beauté** - Créez une série éditoriale cohérente sur plusieurs looks de produit à l’aide d’une seule référence de modèle.
 * **En extérieur** : générez un ensemble éditorial complet sur une nouvelle gamme de coloris de veste à partir d’une seule prise de vue de mannequin.
 
-Revenez à [Commencer avec Firefly Graph](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Revenez à [Commencer avec Firefly Graph](https://experienceleague.adobe.com/fr/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).

@@ -29,4 +29,4 @@ Apprenez à visualiser votre produit dans différentes scènes. Déposez un rend
 * **Boissons** : prévisualisez un nouveau design de bouteille dans une scène de glacière de grande distribution entièrement personnalisée avant la production.
 * **Technologie** : créez une maquette d&#39;appareil dans une scène d&#39;étagère de magasin de marque pour une platine de lancement.
 
-Revenez à [Commencer avec Firefly Graph](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Revenez à [Commencer avec Firefly Graph](https://experienceleague.adobe.com/fr/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
