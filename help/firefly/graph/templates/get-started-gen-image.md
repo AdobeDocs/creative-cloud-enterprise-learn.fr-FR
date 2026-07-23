@@ -6,9 +6,9 @@ role: User
 level: Beginner
 jira: KT-22096
 hide: true
-source-git-commit: b19c93a5c0f7b0009a17ae97eb35f6738cf21630
+source-git-commit: b25e3d05a2ee86c105584b5d1c50d0a1ddd5288f
 workflow-type: tm+mt
-source-wordcount: '180'
+source-wordcount: '182'
 ht-degree: 1%
 
 ---
@@ -21,7 +21,9 @@ Découvrez comment créer un graphique de base : un nœud d’invite en un nœud
 >
 >**Avant de commencer** : pour obtenir de meilleurs résultats, personnalisez ce modèle en fonction de votre marque, produit et workflow. Permutez vos images de référence, vos invites et vos copies avant d’utiliser une sortie.
 
-[!BADGE Cas d’utilisation]{type=Informative tooltip="Exemples d’utilisation"}
+![Image de la génération](../../assets/get-started-gen-image.png){align="center"}
+
+[!BADGE Exemples du secteur]{type=Informative tooltip="Exemples d’utilisation"}
 
 * **Vente au détail** - Générez une première image d&#39;héros de produit à partir d&#39;un résumé, pour connaître le flux de nœuds de base avant de toucher un véritable actif de campagne.
 * **Intégrité** : testez le flux de génération d&#39;image le plus simple sur une photo de produit d&#39;espace réservé avant de passer à un calendrier de contenu complet.
@@ -29,4 +31,4 @@ Découvrez comment créer un graphique de base : un nœud d’invite en un nœud
 
 ![Image de la génération](../../assets/get-started-gen-image.png){align="center"}
 
-Revenez à [Commencer avec Firefly Graph](https://experienceleague.adobe.com/fr/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Revenez à [Commencer avec Firefly Graph](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).

@@ -6,9 +6,9 @@ role: User
 level: Beginner
 jira: KT-22102
 hide: true
-source-git-commit: b19c93a5c0f7b0009a17ae97eb35f6738cf21630
+source-git-commit: b25e3d05a2ee86c105584b5d1c50d0a1ddd5288f
 workflow-type: tm+mt
-source-wordcount: '179'
+source-wordcount: '182'
 ht-degree: 1%
 
 ---
@@ -21,7 +21,9 @@ Apprenez à masquer une zone spécifique nécessitant une correction et à défi
 >
 >**Avant de commencer** : pour obtenir de meilleurs résultats, personnalisez ce modèle en fonction de votre marque, produit et workflow. Permutez vos images de référence, vos invites et vos copies avant d’utiliser une sortie.
 
-[!BADGE Cas d’utilisation]{type=Informative tooltip="Exemples d’utilisation"}
+![Correction sélective des couleurs](../../assets/selective-color.png){align="center"}
+
+[!BADGE Exemples du secteur]{type=Informative tooltip="Exemples d’utilisation"}
 
 * **Communications et télécommunications** : correction de la couleur de la marque sur un lot de photographies de magasin de détail afin que chaque emplacement corresponde à la couleur de signature de la marque, sans reclassement complet.
 * **Vente au détail** : standardisez la couleur du produit sur un ensemble de photos prises sous un éclairage incohérent.
@@ -29,4 +31,4 @@ Apprenez à masquer une zone spécifique nécessitant une correction et à défi
 
 ![Correction sélective des couleurs](../../assets/selective-color.png){align="center"}
 
-Revenez à [Commencer avec Firefly Graph](https://experienceleague.adobe.com/fr/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Revenez à [Commencer avec Firefly Graph](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).

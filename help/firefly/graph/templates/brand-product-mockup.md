@@ -4,11 +4,11 @@ description: Découvrez comment visualiser votre produit dans différentes scèn
 feature: Graphic Design, Gen AI
 role: User
 level: Beginner
-jira: KT-
+jira: KT-22121
 hide: true
-source-git-commit: b19c93a5c0f7b0009a17ae97eb35f6738cf21630
+source-git-commit: b25e3d05a2ee86c105584b5d1c50d0a1ddd5288f
 workflow-type: tm+mt
-source-wordcount: '178'
+source-wordcount: '181'
 ht-degree: 1%
 
 ---
@@ -21,7 +21,9 @@ Apprenez à visualiser votre produit dans différentes scènes. Déposez un rend
 >
 >**Avant de commencer** : pour obtenir de meilleurs résultats, personnalisez ce modèle en fonction de votre marque, produit et workflow. Permutez vos images de référence, vos invites et vos copies avant d’utiliser une sortie.
 
-[!BADGE Cas d’utilisation]{type=Informative tooltip="Exemples d’utilisation"}
+![Maquette de produit de branding](../../assets/brand-mockup.png){align="center"}
+
+[!BADGE Exemples du secteur]{type=Informative tooltip="Exemples d’utilisation"}
 
 * **Vente au détail** : créez une maquette de nouvelle gamme de produits saisonniers dans une scène d&#39;affichage en magasin, avant que l&#39;affichage physique n&#39;existe.
 * **Boissons** : prévisualisez un nouveau design de bouteille dans une scène de glacière de grande distribution entièrement personnalisée avant la production.
@@ -29,4 +31,4 @@ Apprenez à visualiser votre produit dans différentes scènes. Déposez un rend
 
 ![Maquette de produit de branding](../../assets/brand-mockup.png){align="center"}
 
-Revenez à [Commencer avec Firefly Graph](https://experienceleague.adobe.com/fr/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Revenez à [Commencer avec Firefly Graph](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).

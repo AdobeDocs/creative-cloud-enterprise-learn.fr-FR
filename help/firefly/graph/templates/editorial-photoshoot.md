@@ -4,11 +4,11 @@ description: Apprenez à saisir une référence de modèle et à permuter l’en
 feature: Graphic Design, Gen AI
 role: User
 level: Beginner
-jira: KT-
+jira: KT-22126
 hide: true
-source-git-commit: b19c93a5c0f7b0009a17ae97eb35f6738cf21630
+source-git-commit: b25e3d05a2ee86c105584b5d1c50d0a1ddd5288f
 workflow-type: tm+mt
-source-wordcount: '177'
+source-wordcount: '179'
 ht-degree: 1%
 
 ---
@@ -21,7 +21,9 @@ Apprenez à saisir une référence de modèle et à permuter l’entrée du vêt
 >
 >**Avant de commencer** : pour obtenir de meilleurs résultats, personnalisez ce modèle en fonction de votre marque, produit et workflow. Permutez vos images de référence, vos invites et vos copies avant d’utiliser une sortie.
 
-[!BADGE Cas d’utilisation]{type=Informative tooltip="Exemples d’utilisation"}
+![Séance photo éditoriale](../../assets/editorial-photoshoot.png){align="center"}
+
+[!BADGE Exemples du secteur]{type=Informative tooltip="Exemples d’utilisation"}
 
 * **Vente au détail** : échangez des vêtements sur un modèle en une prise de vue éditoriale complète pour un lookbook de saison, sans réorganiser le modèle pour chaque look individuel.
 * **Beauté** - Créez une série éditoriale cohérente sur plusieurs looks de produit à l’aide d’une seule référence de modèle.
@@ -29,4 +31,4 @@ Apprenez à saisir une référence de modèle et à permuter l’entrée du vêt
 
 ![Séance photo éditoriale](../../assets/editorial-photoshoot.png){align="center"}
 
-Revenez à [Commencer avec Firefly Graph](https://experienceleague.adobe.com/fr/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Revenez à [Commencer avec Firefly Graph](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).

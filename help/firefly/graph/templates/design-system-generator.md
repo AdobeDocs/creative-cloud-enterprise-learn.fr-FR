@@ -4,11 +4,11 @@ description: Découvrez comment générer une charte graphique à partir d’une
 feature: Graphic Design, Gen AI
 role: User
 level: Beginner
-jira: KT-
+jira: KT-22125
 hide: true
-source-git-commit: b19c93a5c0f7b0009a17ae97eb35f6738cf21630
+source-git-commit: b25e3d05a2ee86c105584b5d1c50d0a1ddd5288f
 workflow-type: tm+mt
-source-wordcount: '180'
+source-wordcount: '183'
 ht-degree: 1%
 
 ---
@@ -21,7 +21,9 @@ Découvrez comment générer une charte graphique à partir d’une capture d’
 >
 >**Avant de commencer** : pour obtenir de meilleurs résultats, personnalisez ce modèle en fonction de votre marque, produit et workflow. Permutez vos images de référence, vos invites et vos copies avant d’utiliser une sortie.
 
-[!BADGE Cas d’utilisation]{type=Informative tooltip="Exemples d’utilisation"}
+![Concevoir le générateur de système](../../assets/design-system.png){align="center"}
+
+[!BADGE Exemples du secteur]{type=Informative tooltip="Exemples d’utilisation"}
 
 * **Technologie** : générez un ensemble d’icônes et de motifs d’arrière-plan réutilisables pour un lancement trimestriel de la fonctionnalité, réutilisés dans les publicités, les pages d’accueil et les réseaux sociaux sans conception de compte-rendu.
 * **Finance** - Créez une icône et un système de couleurs cohérents pour une nouvelle conception d&#39;application avant le début du développement.
@@ -29,4 +31,4 @@ Découvrez comment générer une charte graphique à partir d’une capture d’
 
 ![Concevoir le générateur de système](../../assets/design-system.png){align="center"}
 
-Revenez à [Commencer avec Firefly Graph](https://experienceleague.adobe.com/fr/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Revenez à [Commencer avec Firefly Graph](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).

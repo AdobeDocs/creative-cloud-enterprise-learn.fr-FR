@@ -4,11 +4,11 @@ description: Apprenez à créer un style animé 3D pour une illustration
 feature: Graphic Design, Gen AI
 role: User
 level: Beginner
-jira: KT-
+jira: KT-22123
 hide: true
-source-git-commit: b19c93a5c0f7b0009a17ae97eb35f6738cf21630
+source-git-commit: b25e3d05a2ee86c105584b5d1c50d0a1ddd5288f
 workflow-type: tm+mt
-source-wordcount: '183'
+source-wordcount: '186'
 ht-degree: 1%
 
 ---
@@ -21,7 +21,9 @@ Apprenez à créer un style d’animation 3D pour une illustration. Le modèle g
 >
 >**Avant de commencer** : pour obtenir de meilleurs résultats, personnalisez ce modèle en fonction de votre marque, produit et workflow. Permutez vos images de référence, vos invites et vos copies avant d’utiliser une sortie.
 
-[!BADGE Cas d’utilisation]{type=Informative tooltip="Exemples d’utilisation"}
+![Génération du modèle de caractère](../../assets/character-model-generation.png){align="center"}
+
+[!BADGE Exemples du secteur]{type=Informative tooltip="Exemples d’utilisation"}
 
 * **En extérieur** - Créez un modèle 3D d’un personnage de mascotte de piste à utiliser dans les rendus d’emballage et les vidéos, en commençant par un résumé de personnage approuvé unique.
 * **Technologie** : générez un modèle de personnage 3D de base à partir d’un résumé écrit, prêt à être remis à un modélisateur pour nettoyage.
@@ -29,4 +31,4 @@ Apprenez à créer un style d’animation 3D pour une illustration. Le modèle g
 
 ![Génération du modèle de caractère](../../assets/character-model-generation.png){align="center"}
 
-Revenez à [Commencer avec Firefly Graph](https://experienceleague.adobe.com/fr/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Revenez à [Commencer avec Firefly Graph](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).

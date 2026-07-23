@@ -6,9 +6,9 @@ role: User
 level: Beginner
 jira: KT-22103
 hide: true
-source-git-commit: b19c93a5c0f7b0009a17ae97eb35f6738cf21630
+source-git-commit: b25e3d05a2ee86c105584b5d1c50d0a1ddd5288f
 workflow-type: tm+mt
-source-wordcount: '177'
+source-wordcount: '179'
 ht-degree: 1%
 
 ---
@@ -21,7 +21,9 @@ Apprenez à insérer les images clés approuvées et une courte invite de mouvem
 >
 >**Avant de commencer** : pour obtenir de meilleurs résultats, personnalisez ce modèle en fonction de votre marque, produit et workflow. Permutez vos images de référence, vos invites et vos copies avant d’utiliser une sortie.
 
-[!BADGE Cas d’utilisation]{type=Informative tooltip="Exemples d’utilisation"}
+![Génération vidéo](../../assets/video-generation.png){align="center"}
+
+[!BADGE Exemples du secteur]{type=Informative tooltip="Exemples d’utilisation"}
 
 * **Finance** : transformez l’illustration clé d’une campagne d’impression approuvée en une courte vidéo pour les réseaux sociaux payants, sans planifier de tournage vidéo distinct.
 * **Boissons** : animez un produit phare dans un court teaser pour le jour du lancement.
@@ -29,4 +31,4 @@ Apprenez à insérer les images clés approuvées et une courte invite de mouvem
 
 ![Génération vidéo](../../assets/video-generation.png){align="center"}
 
-Revenez à [Commencer avec Firefly Graph](https://experienceleague.adobe.com/fr/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Revenez à [Commencer avec Firefly Graph](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).

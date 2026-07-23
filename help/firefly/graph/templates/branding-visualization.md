@@ -4,11 +4,11 @@ description: Apprenez à visualiser votre logo ou votre marque dans les scènes 
 feature: Graphic Design, Gen AI
 role: User
 level: Beginner
-jira: KT-
+jira: KT-22122
 hide: true
-source-git-commit: b19c93a5c0f7b0009a17ae97eb35f6738cf21630
+source-git-commit: b25e3d05a2ee86c105584b5d1c50d0a1ddd5288f
 workflow-type: tm+mt
-source-wordcount: '192'
+source-wordcount: '194'
 ht-degree: 1%
 
 ---
@@ -21,7 +21,9 @@ Apprenez à visualiser votre logo ou votre marque dans les scènes de produit. A
 >
 >**Avant de commencer** : pour obtenir de meilleurs résultats, personnalisez ce modèle en fonction de votre marque, produit et workflow. Permutez vos images de référence, vos invites et vos copies avant d’utiliser une sortie.
 
-[!BADGE Cas d’utilisation]{type=Informative tooltip="Exemples d’utilisation"}
+![Visualisation de la marque](../../assets/branding-visualization.png){align="center"}
+
+[!BADGE Exemples du secteur]{type=Informative tooltip="Exemples d’utilisation"}
 
 * **Technologie** : visualisez une nouvelle sous-marque de produit à la fois comme un art clé et comme un teaser de lancement avant d&#39;engager le budget de conception ou de média dans la production complète.
 * **Boissons** : testez trois directions de logo et de palette de couleurs comme illustration principale d&#39;aspect fini avant d&#39;en choisir une à mettre en production.
@@ -29,4 +31,4 @@ Apprenez à visualiser votre logo ou votre marque dans les scènes de produit. A
 
 ![Visualisation de la marque](../../assets/branding-visualization.png){align="center"}
 
-Revenez à [Commencer avec Firefly Graph](https://experienceleague.adobe.com/fr/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Revenez à [Commencer avec Firefly Graph](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
