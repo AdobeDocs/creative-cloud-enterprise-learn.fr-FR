@@ -6,10 +6,10 @@ role: User
 level: Beginner
 jira: KT-22100
 hide: true
-source-git-commit: b25e3d05a2ee86c105584b5d1c50d0a1ddd5288f
+source-git-commit: 864fd8649a947b8c3ff506b17d8f8160f45ea4ee
 workflow-type: tm+mt
-source-wordcount: '177'
-ht-degree: 1%
+source-wordcount: '175'
+ht-degree: 0%
 
 ---
 
@@ -17,18 +17,16 @@ ht-degree: 1%
 
 Découvrez comment charger une image source et exécuter le nœud de segmentation pour isoler le sujet de son arrière-plan. [Ouvrez Prise en main : segmentez un modèle d&#39;image](https://firefly.adobe.com/graph/edit/id/urn:aaid:sc:VA6C2:c090820d-b733-44c7-910d-5e216c19c5cc).
 
+[!BADGE Exemples du secteur]{type=Informative tooltip="Exemples du secteur"}
+
+* **Santé** : segmentez un appareil médical à partir d&#39;une prise de vue en studio très chargée pour le déposer sur un arrière-plan clinique propre pour une page de produit, sans nouvelle numérisation de l&#39;arrière-plan.
+* **Vente au détail** : isolez un vêtement d&#39;une photo de style de vie pour créer une image de catalogue propre uniquement pour le produit.
+* **Automobile** : découpez un véhicule à partir d&#39;une prise de vue d&#39;emplacement pour le placer sur un fond de studio pour l&#39;impression.
+
 >[!TIP]
 >
 >**Avant de commencer** : pour obtenir de meilleurs résultats, personnalisez ce modèle en fonction de votre marque, produit et workflow. Permutez vos images de référence, vos invites et vos copies avant d’utiliser une sortie.
 
 ![Segmenter l&#39;image](../../assets/get-started-segment-image.png){align="center"}
 
-[!BADGE Exemples du secteur]{type=Informative tooltip="Exemples d’utilisation"}
-
-* **Santé** : segmentez un appareil médical à partir d&#39;une prise de vue en studio très chargée pour le déposer sur un arrière-plan clinique propre pour une page de produit, sans nouvelle numérisation de l&#39;arrière-plan.
-* **Vente au détail** : isolez un vêtement d&#39;une photo de style de vie pour créer une image de catalogue propre uniquement pour le produit.
-* **Automobile** : découpez un véhicule à partir d&#39;une prise de vue d&#39;emplacement pour le placer sur un fond de studio pour l&#39;impression.
-
-![Segmenter l&#39;image](../../assets/get-started-segment-image.png){align="center"}
-
-Revenez à [Commencer avec Firefly Graph](https://experienceleague.adobe.com/fr/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Revenez à [Commencer avec Firefly Graph](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).

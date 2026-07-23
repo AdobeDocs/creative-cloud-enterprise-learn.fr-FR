@@ -6,10 +6,10 @@ role: User
 level: Beginner
 jira: KT-22128
 hide: true
-source-git-commit: b25e3d05a2ee86c105584b5d1c50d0a1ddd5288f
+source-git-commit: 864fd8649a947b8c3ff506b17d8f8160f45ea4ee
 workflow-type: tm+mt
-source-wordcount: '182'
-ht-degree: 1%
+source-wordcount: '180'
+ht-degree: 0%
 
 ---
 
@@ -17,18 +17,16 @@ ht-degree: 1%
 
 Découvrez comment placer un rendu de produit sur le nœud de fond de studio et ajuster les nœuds du squelette d’éclairage jusqu’à ce que le résultat ressemble à une véritable capture de studio. [Ouvrez le modèle Photography Studio](https://firefly.adobe.com/graph/edit/id/urn:aaid:sc:US:63ad7c3b-2cb3-5474-ba8c-7e1c8d8a570f).
 
+[!BADGE Exemples du secteur]{type=Informative tooltip="Exemples du secteur"}
+
+* **Boissons** : générez des photos épurées de produits de studio d’une nouvelle référence SKU de saveur avant la prise de vue physique du produit prévue.
+* **Technologie** : créez des rendus de qualité studio d&#39;un nouvel appareil pour une page de lancement avant que les unités ne soient disponibles pour la photographie.
+* **Vente au détail** : créez des photos de studio cohérentes sur toute une gamme de produits sans réserver de sessions photographiques individuelles.
+
 >[!TIP]
 >
 >**Avant de commencer** : pour obtenir de meilleurs résultats, personnalisez ce modèle en fonction de votre marque, produit et workflow. Permutez vos images de référence, vos invites et vos copies avant d’utiliser une sortie.
 
 ![Studio de photographie](../../assets/photography-studio.png){align="center"}
 
-[!BADGE Exemples du secteur]{type=Informative tooltip="Exemples d’utilisation"}
-
-* **Boissons** : générez des photos épurées de produits de studio d’une nouvelle référence SKU de saveur avant la prise de vue physique du produit prévue.
-* **Technologie** : créez des rendus de qualité studio d&#39;un nouvel appareil pour une page de lancement avant que les unités ne soient disponibles pour la photographie.
-* **Vente au détail** : créez des photos de studio cohérentes sur toute une gamme de produits sans réserver de sessions photographiques individuelles.
-
-![Studio de photographie](../../assets/photography-studio.png){align="center"}
-
-Revenez à [Commencer avec Firefly Graph](https://experienceleague.adobe.com/fr/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Revenez à [Commencer avec Firefly Graph](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
