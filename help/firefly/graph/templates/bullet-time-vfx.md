@@ -6,7 +6,7 @@ role: User
 level: Beginner
 jira: KT-22104
 hide: true
-source-git-commit: 1b6b9793b2fa33365ccf6fb0f049632a67f09cae
+source-git-commit: b19c93a5c0f7b0009a17ae97eb35f6738cf21630
 workflow-type: tm+mt
 source-wordcount: '192'
 ht-degree: 1%
@@ -21,12 +21,12 @@ Apprenez à alimenter un produit phare ou une image de sujet pour générer une 
 >
 >**Avant de commencer** : pour obtenir de meilleurs résultats, personnalisez ce modèle en fonction de votre marque, produit et workflow. Permutez vos images de référence, vos invites et vos copies avant d’utiliser une sortie.
 
-![Bullet Time VFX](../../assets/bullet-time-vfx.png){align="center"}
-
 [!BADGE Cas d’utilisation]{type=Informative tooltip="Exemples d’utilisation"}
 
 * **En extérieur** - Créez une photo d&#39;un grimpeur en mouvement prise en héros à la balle pour une annonce publicitaire payante sur les réseaux sociaux, sans équipement multi-caméras sur place.
 * **Vente au détail** - Créez une image figée à 360 degrés d&#39;une nouvelle chaussure pour une page de lancement de produit.
 * **Automobile** - Générez une photo d&#39;un véhicule en héros rotatif pour une salle d&#39;exposition numérique, sans session en studio avec platine tournante.
+
+![Bullet Time VFX](../../assets/bullet-time-vfx.png){align="center"}
 
 Revenez à [Commencer avec Firefly Graph](https://experienceleague.adobe.com/fr/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).

@@ -6,7 +6,7 @@ role: User
 level: Beginner
 jira: KT-22098
 hide: true
-source-git-commit: 1b6b9793b2fa33365ccf6fb0f049632a67f09cae
+source-git-commit: b19c93a5c0f7b0009a17ae97eb35f6738cf21630
 workflow-type: tm+mt
 source-wordcount: '185'
 ht-degree: 1%
@@ -21,12 +21,12 @@ Apprenez à importer une image de référence pour en extraire le traitement de 
 >
 >**Avant de commencer** : pour obtenir de meilleurs résultats, personnalisez ce modèle en fonction de votre marque, produit et workflow. Permutez vos images de référence, vos invites et vos copies avant d’utiliser une sortie.
 
-![Gène de caractère cohérent](../../assets/style-extraction.png){align="center"}
-
 [!BADGE Cas d’utilisation]{type=Informative tooltip="Exemples d’utilisation"}
 
 * **Voyage** : extrayez la couleur et le traitement de la lumière d&#39;une photo de campagne de héros approuvée et appliquez-la sur vingt nouvelles images de destination pour une cohérence visuelle.
 * **Vente au détail** : extrayez le look approuvé d&#39;un directeur artistique à partir d&#39;une photo de héros et appliquez-le à la photographie d&#39;un produit pendant toute une saison.
 * **Boissons** : faites correspondre les nouveaux rendus d’emballage à l’ambiance d’une photo de campagne primée.
+
+![Gène de caractère cohérent](../../assets/style-extraction.png){align="center"}
 
 Revenez à [Commencer avec Firefly Graph](https://experienceleague.adobe.com/fr/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
