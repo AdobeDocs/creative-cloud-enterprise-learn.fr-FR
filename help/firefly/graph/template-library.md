@@ -7,7 +7,7 @@ level: Beginner
 jira: KT-22134
 hide: true
 hidefromtoc: true
-source-git-commit: bd878f1297ab60bcdf5e9e7e2d8c5ab9fa6a68b5
+source-git-commit: 45c4d9faf5ca3a49ae8a0266d415db8640fd79e0
 workflow-type: tm+mt
 source-wordcount: '609'
 ht-degree: 3%
@@ -31,8 +31,8 @@ Index de référence rapide de modèles de graphiques Firefly, organisé en fonc
 
 | Modèle de graphique | Description | Exemples d’utilisation |
 |---|---|---|
-| [**Prise en main - Segmenter une image**](/help/firefly/graph/templates/get-started-segment-image.md) | Chargez une image source et exécutez le nœud de segmentation pour isoler le sujet de son arrière-plan. | <ul><li>Nettoyer le découpage</li><li>Isolation de catalogue</li><li>Permutation de fond</li></ul> |
-| [**Composer et fusionner des calques**](/help/firefly/graph/templates/composite-blend-layers.md) | Empilez un découpage de produit et une scène d’arrière-plan en tant qu’entrées de calque distinctes. | <ul><li>Composition Style de vie/réseaux sociaux</li><li>Bannière de page d’accueil</li><li>composite de marque commune</li></ul> |
+| [**Prise en main - Segmenter une image**](/help/firefly/graph/templates/get-started-segment-image.md) | Chargez une image source et exécutez le nœud de segmentation pour isoler le sujet de son arrière-plan. | <ul><li>Nettoyer le découpage</li><li>Isolation de catalogue</li><li>permutation de fond</li></ul> |
+| [**Composer et fusionner des calques**](/help/firefly/graph/templates/composite-blend-layers.md) | Empilez un découpage de produit et une scène d’arrière-plan en tant qu’entrées de calque distinctes. | <ul><li>Composition Style de vie/réseaux sociaux</li><li>Bannière de page d’accueil</li><li>Composition comarquée</li></ul> |
 | [**Correction sélective des couleurs**](/help/firefly/graph/templates/selective-color-correction.md) | Masquez une zone spécifique nécessitant une correction et définissez la couleur cible sur ce nœud uniquement. | <ul><li>Correspondance des couleurs de la marque</li><li>Normalisation des couleurs</li><li>Correction des couleurs parasites</li></ul> |
 
 ## Vidéo et mouvement
@@ -66,7 +66,7 @@ Index de référence rapide de modèles de graphiques Firefly, organisé en fonc
 | [**Maquette de produit de marque**](/help/firefly/graph/templates/brand-product-mockup.md) | Visualisez votre produit dans différentes scènes. | <ul><li>Maquette en magasin</li><li>Maquette de produit</li><li>Maquette architecturale</li></ul> |
 | [**Séance photo éditoriale**](/help/firefly/graph/templates/editorial-photoshoot.md) | Chargez une référence de modèle et permutez l&#39;entrée du vêtement pour chaque nouveau look. | <ul><li>Prise de vue Lookbook</li><li>Série éditoriale</li><li>Alignement Colorway</li></ul> |
 | [**Studio de photographie**](/help/firefly/graph/templates/photography-studio.md) | Placez un rendu de produit en arrière-plan du studio et ajustez l’éclairage jusqu’à ce que le résultat ressemble à une vraie capture de studio. | <ul><li>Prise de vue studio SKU</li><li>Lancer le rendu de page</li><li>Photos de gamme de produits</li></ul> |
-| [**Appliquer la décalcomanie aux surfaces**](/help/firefly/graph/templates/decal-to-surfaces.md) | Chargez la maquette du produit de base et la décalcomanie ou le logo en tant qu’entrées distinctes. | <ul><li>Aperçu du changement de marque</li><li> Aperçu de la diffusion</li><li>Test de positionnement du logo</li></ul> |
+| [**Appliquer la décalcomanie aux surfaces**](/help/firefly/graph/templates/decal-to-surfaces.md) | Chargez la maquette du produit de base et la décalcomanie ou le logo en tant qu’entrées distinctes. | <ul><li>Aperçu du changement de marque</li><li>Aperçu de la diffusion</li><li>Test de positionnement du logo</li></ul> |
 
 ## Opérations par lots et de cohérence
 
