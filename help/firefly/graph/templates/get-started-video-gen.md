@@ -6,10 +6,10 @@ role: User
 level: Beginner
 jira: KT-22103
 hide: true
-source-git-commit: b19c93a5c0f7b0009a17ae97eb35f6738cf21630
+source-git-commit: 864fd8649a947b8c3ff506b17d8f8160f45ea4ee
 workflow-type: tm+mt
 source-wordcount: '177'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -17,15 +17,15 @@ ht-degree: 1%
 
 Apprenez à insérer les images clés approuvées et une courte invite de mouvement. Le modèle génère une séquence vidéo construite à partir de cette même illustration plutôt qu’une nouvelle prise de vue. [Ouvrez Prise en main - Génération vidéo](https://firefly.adobe.com/graph/edit/id/urn:aaid:sc:US:4729e537-95d5-56a6-b7c4-a1d4dadb76c9).
 
->[!TIP]
->
->**Avant de commencer** : pour obtenir de meilleurs résultats, personnalisez ce modèle en fonction de votre marque, produit et workflow. Permutez vos images de référence, vos invites et vos copies avant d’utiliser une sortie.
-
-[!BADGE Cas d’utilisation]{type=Informative tooltip="Exemples d’utilisation"}
+[!BADGE Exemples du secteur]{type=Informative tooltip="Exemples du secteur"}
 
 * **Finance** : transformez l’illustration clé d’une campagne d’impression approuvée en une courte vidéo pour les réseaux sociaux payants, sans planifier de tournage vidéo distinct.
 * **Boissons** : animez un produit phare dans un court teaser pour le jour du lancement.
 * **Vente au détail** : étendez une seule photo de campagne en une courte vidéo pour les réseaux sociaux.
+
+>[!TIP]
+>
+>**Avant de commencer** : pour obtenir de meilleurs résultats, personnalisez ce modèle en fonction de votre marque, produit et workflow. Permutez vos images de référence, vos invites et vos copies avant d’utiliser une sortie.
 
 ![Génération vidéo](../../assets/video-generation.png){align="center"}
 

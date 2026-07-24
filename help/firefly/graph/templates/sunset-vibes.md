@@ -6,10 +6,10 @@ role: User
 level: Beginner
 jira: KT-22099
 hide: true
-source-git-commit: b19c93a5c0f7b0009a17ae97eb35f6738cf21630
+source-git-commit: 864fd8649a947b8c3ff506b17d8f8160f45ea4ee
 workflow-type: tm+mt
 source-wordcount: '159'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -17,17 +17,16 @@ ht-degree: 1%
 
 Apprenez à créer une image typographique 3D avec le mot « Vibe » à partir d’une invite de texte. [Ouvrir le modèle Sunset Vibes](https://firefly.adobe.com/graph/edit/id/urn:aaid:sc:US:364c621e-ca81-5a5b-a550-dabed63fb7bc).
 
->[!TIP]
->
->**Avant de commencer** : pour obtenir de meilleurs résultats, personnalisez ce modèle en fonction de votre marque, produit et workflow. Permutez vos images de référence, vos invites et vos copies avant d’utiliser une sortie.
-
-[!BADGE Cas d’utilisation]{type=Informative tooltip="Exemples d’utilisation"}
+[!BADGE Exemples du secteur]{type=Informative tooltip="Exemples du secteur"}
 
 * **Voyage** - Superposez un nouveau slogan de destination sur un arrière-plan stylisé de coucher de soleil pour un carrousel de réseaux sociaux, créé et testé dans un après-midi.
 * **Boissons** : associez un slogan de saison à un cadre de vie chaleureux pour une promotion estivale.
 * **Vente au détail** - Générez un fichier texte et arrière-plan de style rapide pour une annonce de vente flash.
 
-![Vibes de coucher de soleil](../../assets/sunset-vibes.png){align="center"}
+>[!TIP]
+>
+>**Avant de commencer** : pour obtenir de meilleurs résultats, personnalisez ce modèle en fonction de votre marque, produit et workflow. Permutez vos images de référence, vos invites et vos copies avant d’utiliser une sortie.
 
+![Vibes de coucher de soleil](../../assets/sunset-vibes.png){align="center"}
 
 Revenez à [Commencer avec Firefly Graph](https://experienceleague.adobe.com/fr/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).

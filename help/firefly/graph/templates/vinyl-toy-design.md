@@ -4,12 +4,12 @@ description: Apprenez à saisir une référence de personnage ou de mascotte et 
 feature: Graphic Design, Gen AI
 role: User
 level: Beginner
-jira: KT-
+jira: KT-22133
 hide: true
-source-git-commit: b19c93a5c0f7b0009a17ae97eb35f6738cf21630
+source-git-commit: 864fd8649a947b8c3ff506b17d8f8160f45ea4ee
 workflow-type: tm+mt
 source-wordcount: '179'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -17,15 +17,15 @@ ht-degree: 1%
 
 Apprenez à saisir une référence de personnage ou de mascotte et à en effectuer le rendu sous forme de jouet en vinyle stylisé. Il existe des angles de retournement pour un dossier de licence ou d’examen de produit. [Ouvrez le modèle de conception de jouet en vinyle](https://firefly.adobe.com/graph/edit/id/urn:aaid:sc:US:6b1e062a-bf16-5dc9-99dd-c3bd4061e238).
 
->[!TIP]
->
->**Avant de commencer** : pour obtenir de meilleurs résultats, personnalisez ce modèle en fonction de votre marque, produit et workflow. Permutez vos images de référence, vos invites et vos copies avant d’utiliser une sortie.
-
-[!BADGE Cas d’utilisation]{type=Informative tooltip="Exemples d’utilisation"}
+[!BADGE Exemples du secteur]{type=Informative tooltip="Exemples du secteur"}
 
 * **Vente au détail** : concevez un objet de collection en édition limitée associé au lancement d&#39;un programme de fidélité, révisé comme concept avant de vous engager dans une phase de fabrication.
 * **Boissons** : créez une maquette de figure à collectionner d&#39;une mascotte de marque pour une livraison de marchandises à tirage limité.
 * **Divertissement** : prévisualisez un personnage sous forme de jouet en vinyle pour une présentation sous licence.
+
+>[!TIP]
+>
+>**Avant de commencer** : pour obtenir de meilleurs résultats, personnalisez ce modèle en fonction de votre marque, produit et workflow. Permutez vos images de référence, vos invites et vos copies avant d’utiliser une sortie.
 
 ![Conception de jouet en vinyle](../../assets/vinyl-toy-design.png){align="center"}
 
