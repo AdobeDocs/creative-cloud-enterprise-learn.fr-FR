@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Prévisualisez toute votre vision de séance photo avec toute la puissance de l’Adobe Firefly.
 
->[!VIDEO](https://video.tv.adobe.com/v/3497049?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3497051?captions=fre_fr&quality=12&learn=on&hidetitle=true)
