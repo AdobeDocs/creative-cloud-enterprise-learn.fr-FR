@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Découvrez comment l&#39;IA généralisée vous permet de prévisualiser l&#39;intégralité d&#39;une séance photo et de placer votre produit dans des environnements ambitieux afin de pouvoir verrouiller l&#39;emplacement, les paramètres et les personnages avec l&#39;approbation du client avant qu&#39;une seule image ne soit capturée.
 
->[!VIDEO](https://video.tv.adobe.com/v/3497049?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3497051?captions=fre_fr&quality=12&learn=on&hidetitle=true)

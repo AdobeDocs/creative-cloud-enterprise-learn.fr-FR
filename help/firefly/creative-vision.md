@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Apprenez à libérer les idées de votre équipe créative et à définir un style partagé tôt, auquel vos clients peuvent réagir instantanément. Avec l&#39;Adobe Firefly, les concepts dépassent les mots pour devenir des visuels riches qui ne laissent aucune place à la mauvaise interprétation.
 
->[!VIDEO](https://video.tv.adobe.com/v/3497191?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3497197?captions=fre_fr&quality=12&learn=on&hidetitle=true)
