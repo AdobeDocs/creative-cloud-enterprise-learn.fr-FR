@@ -9,9 +9,9 @@ role: User
 type: Tutorial
 auto-video-transcripts: true
 nudge: true
-source-git-commit: f0ad6793dd537c72a691b38946acb633ad9bbc43
+source-git-commit: 389890ce1b958a53c3541db6bbfb2c7d532e22ac
 workflow-type: tm+mt
-source-wordcount: '872'
+source-wordcount: '880'
 ht-degree: 3%
 
 ---
@@ -132,6 +132,7 @@ ht-degree: 3%
     + [Suppression et remplacement de l’arrière-plan](firefly/creative-production/background.md)
     + {hide-from-toc}[Prévisualisation de séance photo](firefly/photoshoot-pre-visualization.md)
     + {hide-from-toc}[Explorez des idées de produits sans réunions, marqueurs ni maquettes](firefly/explore-product-ideas.md)
+    + {hide-from-toc}[Convertir un mot en une vision créative partagée](firefly/creative-vision.md)
   + {hide-from-toc}Tutoriels Graph  {#firefly-graph}
     + {hide-from-toc}[Vue d&#39;ensemble du graphique d&#39;Adobe Firefly](firefly/graph/overview-firefly-graph.md)
     + {hide-from-toc}[Qu&#39;est-ce que le graphique en Firefly ?](firefly/graph/what-is-firefly-graph.md)
