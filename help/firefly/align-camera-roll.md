@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Découvrez comment des équipes créatives utilisent des tableaux d&#39;Adobe Firefly pour tester des idées à un stade précoce, en arrivant sur le plateau avec l&#39;assurance que chaque prise aboutira exactement comme prévu.
 
->[!VIDEO](https://video.tv.adobe.com/v/3502280?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3502282?captions=fre_fr&quality=12&learn=on&hidetitle=true)
