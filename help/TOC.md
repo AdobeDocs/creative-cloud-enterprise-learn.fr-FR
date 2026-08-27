@@ -9,9 +9,9 @@ role: User
 type: Tutorial
 auto-video-transcripts: true
 nudge: true
-source-git-commit: ca32f73972c01089fd3741643c32bfc63cb974fc
+source-git-commit: dec5f84efd42c91c97fc49e3043c09add3d78ed6
 workflow-type: tm+mt
-source-wordcount: '885'
+source-wordcount: '905'
 ht-degree: 3%
 
 ---
@@ -134,7 +134,7 @@ ht-degree: 3%
     + {hide-from-toc}[Explorez des idées de produits sans réunions, marqueurs ni maquettes](firefly/explore-product-ideas.md)
     + {hide-from-toc}[Convertir un mot en une vision créative partagée](firefly/creative-vision.md)
     + {hide-from-toc}[Aligner avant la pellicule](firefly/align-camera-roll.md)
-  + {hide-from-toc}Tutoriels Graph  {#firefly-graph}
+  + Tutoriels Graph {hide-from-toc} {#firefly-graph}
     + {hide-from-toc}[Vue d&#39;ensemble du graphique d&#39;Adobe Firefly](firefly/graph/overview-firefly-graph.md)
     + {hide-from-toc}[Qu&#39;est-ce que le graphique en Firefly ?](firefly/graph/what-is-firefly-graph.md)
     + {hide-from-toc}[Concepts clés du graphique en Firefly](firefly/graph/key-concepts.md)
@@ -168,11 +168,12 @@ ht-degree: 3%
       + {hide-from-toc}[Génération de photos](firefly/graph/templates/headshots-generation.md)
   + Webinaires {#firefly-webinars}
     + [Expérimenter avec l’Adobe Firefly](firefly/webinar-experimenting.md)
+    + [Réfléchissez à haute voix : transformez vos idées en visuels saisissants](https://experienceleague.adobe.com/en/on-demand-events/turn-ideas-into-striking-visuals)
 + [!DNL Adobe Stock] {#stockoverview}
   + [Présentation](stock/overview-stock.md)
   + Didacticiels {#stocktutorials}
     + [Des ressources numériques époustouflantes](stock/stunning-digital-assets.md)
-    + [Rechercher dans l&#39;historique des licences de l&#39;Adobe [!DNL Stock] &#x200B;](stock/searchstock.md)
+    + [Rechercher dans l&#39;historique des licences de l&#39;Adobe [!DNL Stock] ](stock/searchstock.md)
     + [Ajout d&#39;une esthétique dessinée à la main à des images d&#39;Adobes [!DNL Stock] créatives](stock/handdrawn.md)
     + [Ajoutez du style à la typographie avec des masques et des animations](stock/flairtypography.md)
     + [Animation d’une illustration vectorielle d’Adobe [!DNL Stock] dans Photoshop](stock/animatevector.md)
@@ -194,7 +195,7 @@ ht-degree: 3%
     + [Créer des compositions photo réalistes avec des images Adobes [!DNL Stock] x](stock/realisticcomposite.md)
     + [Personnalisation d&#39;une animation d&#39;écran de chargement avec Adobe [!DNL Stock]  et XD](stock/loadingscreen.md)
     + [Personnalisation d&#39;un modèle de présentation Adobe [!DNL Stock] professionnel](stock/presentationtemplate.md)
-    + [Personnalisation des couleurs d&#39;une illustration vectorielle Adobe [!DNL Stock] &#x200B;](stock/customizecolors.md)
+    + [Personnalisation des couleurs d&#39;une illustration vectorielle Adobe [!DNL Stock] ](stock/customizecolors.md)
 + Adobe 3D et VR {#3doverview}
   + [Présentation](3di/overview-3di.md)
   + Didacticiels {#3dtutorials}
