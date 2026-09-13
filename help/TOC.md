@@ -168,7 +168,7 @@ ht-degree: 3%
       + {hide-from-toc}[Génération de photos](firefly/graph/templates/headshots-generation.md)
   + Webinaires {#firefly-webinars}
     + [Expérimenter avec l’Adobe Firefly](firefly/webinar-experimenting.md)
-    + [Réfléchissez à haute voix : transformez vos idées en visuels saisissants](https://experienceleague.adobe.com/en/on-demand-events/turn-ideas-into-striking-visuals)
+    + [Réfléchissez à haute voix : transformez vos idées en visuels saisissants](https://experienceleague.adobe.com/fr/on-demand-events/turn-ideas-into-striking-visuals)
 + [!DNL Adobe Stock] {#stockoverview}
   + [Présentation](stock/overview-stock.md)
   + Didacticiels {#stocktutorials}
