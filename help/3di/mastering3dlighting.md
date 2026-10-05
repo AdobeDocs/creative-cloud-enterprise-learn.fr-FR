@@ -38,7 +38,7 @@ La mécanique de la lumière dans une Scène 3D générée par ordinateur suit l
 
 Certains matériaux sont plus sensibles que d’autres aux conditions d’éclairage. Prenez les métaux par exemple : un objet chromé reflète pratiquement tout ce qui l’entoure. Si une lumière est déplacée, devient plus claire ou s’élargit, toutes ces informations sont visibles directement sur la surface chromée dans des détails presque miroirs, de sorte qu’elle peut sembler complètement différente d’une condition d’éclairage à l’autre.
 
-![scène en 3D d’une voiture dans un parking avec une enseigne au néon sur le mur. L&#39;éclairage passe de la lumière du jour à une DEL néon provenant de l&#39;enseigne ](assets/Mastering3dlighting_1.gif)
+![scène en 3D d’une voiture dans un parking avec une enseigne au néon sur le mur. L&#39;éclairage passe de la lumière du jour à une DEL néon provenant de l&#39;enseigne &#x200B;](assets/Mastering3dlighting_1.gif)
 
 ## Comment utiliser des éclairages 3D pour créer des rendus 3D efficaces
 
@@ -71,7 +71,7 @@ Les Éclairages d&#39;environnement sont des images équirectangulaires (sphéri
 
 ![Exemples d’éclairages d&#39;environnement réalisés à partir de photos, d’une scène de studio 3D et d’une Scène 3D abstraite](assets/Mastering3dlighting_5.jpg)
 
-Lorsque vous créez une nouvelle scène dans [[!DNL Dimension]](https://www.adobe.com/products/dimension.html), un éclairage d&#39;environnement par défaut est défini pour vous. C&#39;est pourquoi vous êtes immédiatement en mesure de voir quoi que ce soit dans la scène. Les ressources de démarrage de l’Adobe [!DNL Dimension] incluent un certain nombre d’éclairages d&#39;environnement, que vous pouvez tester immédiatement. En outre, [Adobe [!DNL Stock]](https://stock.adobe.com/search?filters[content_type:3d]=1&filters[3d_type_id][0]=2&load_type=3d+lp) offre une vaste sélection d&#39;éclairages d&#39;environnement.
+Lorsque vous créez une nouvelle scène dans [[!DNL Dimension]](https://www.adobe.com/products/dimension.html), un éclairage d&#39;environnement par défaut est défini pour vous. C&#39;est pourquoi vous êtes immédiatement en mesure de voir quoi que ce soit dans la scène. Les ressources de démarrage de l’Adobe [!DNL Dimension] incluent un certain nombre d’éclairages d&#39;environnement, que vous pouvez tester immédiatement. En outre, [Adobe [!DNL Stock]](https://stock.adobe.com/search?filters[content_type:3d]=1&filters[3d_type_id]&#x200B;[0]=2&load_type=3d+lp) offre une vaste sélection d&#39;éclairages d&#39;environnement.
 
 Les Éclairages d&#39;environnement produisent des résultats très réalistes et peuvent vous faire gagner beaucoup de temps. Pour obtenir un résultat similaire manuellement, vous devez créer l’ensemble de l’environnement en 3D (y compris les différentes sources de lumière), ce qui représente un travail considérable.
 
