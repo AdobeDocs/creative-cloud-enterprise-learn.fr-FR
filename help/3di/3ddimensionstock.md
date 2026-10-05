@@ -29,7 +29,7 @@ ht-degree: 0%
 
 Personnalisez et créez une marque de mannequin 3D dans [!DNL Dimension] en utilisant des matériaux, des propriétés environnementales, l’éclairage et la photographie, afin de créer des images photoréalistes pour tout projet de conception.
 
->[!VIDEO](https://video.tv.adobe.com/v/331005?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3410482?captions=fre_fr&hidetitle=true)
 
 Cliquez sur l’icône du fichier de PDF pour télécharger le Guide de référence rapide de ce tutoriel.
 

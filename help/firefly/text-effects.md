@@ -32,4 +32,4 @@ Apprenez à créer du texte unique et inspirant pour vos projets à l’aide d�
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/3420829?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3432210?captions=fre_fr&quality=12&learn=on&hidetitle=true)

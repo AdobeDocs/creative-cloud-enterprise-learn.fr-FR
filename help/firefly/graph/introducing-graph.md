@@ -31,6 +31,6 @@ Dans ce webinaire, découvrez le Graphe du système de workflow entièrement vis
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/3492621?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3492624?captions=fre_fr&quality=12&learn=on&hidetitle=true)
 
 Revenez à [Prise en main de Firefly Graph](https://experienceleague.adobe.com/fr/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
