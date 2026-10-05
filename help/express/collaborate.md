@@ -4,27 +4,31 @@ description: Découvrez comment collaborer avec des collègues sur des projets c
 feature: Collaboration
 role: User
 level: Beginner
-jira: null
+jira:
 exl-id: 314d3e32-5e7f-4557-9439-e12ec9986256
-TQID: https://experienceleague.adobe.com/q8zRc-EvSNKj2Hi9UAbD3Bogu0lHuiyqRd7Wls4xcaQ
+TQID: 'https://experienceleague.adobe.com/q8zRc-EvSNKj2Hi9UAbD3Bogu0lHuiyqRd7Wls4xcaQ'
 product_v2:
   - id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
+    internal-label: Creative Cloud
+feature_v2:
+  - id: 1fb90542-ecf7-55a9-93b7-4011ddcd40b5
+    internal-label: Collaboration
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: af4fdb8dfc8c84e5e51525c730d0ba8831179443
+    internal-label: Beginner
+source-git-commit: b4ccb0a72c95fa56cd4908aae754dfb8b399cd31
 workflow-type: tm+mt
-source-wordcount: 92
+source-wordcount: '92'
 ht-degree: 0%
-
 ---
-
 # Comment collaborer
 
 Découvrez comment collaborer avec vos collègues sur des projets créatifs, notamment en les invitant, en définissant des autorisations, en résolvant les commentaires et en travaillant sur le projet simultanément.
 
->[!VIDEO](https://video.tv.adobe.com/v/3439539?captions=fre_fr&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3420253?quality=12&learn=on&hidetitle=true)
 
 ## Vidéos supplémentaires dans cette série
 

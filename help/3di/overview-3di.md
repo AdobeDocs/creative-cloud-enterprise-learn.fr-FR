@@ -6,24 +6,29 @@ role: User
 level: Beginner, Intermediate
 jira: KT-6945
 exl-id: f9d03c3d-0767-476f-a7e1-0b283cf16cd3
-TQID: https://experienceleague.adobe.com/NPmS-BMJjiAZnLUNwDLGufCEduFrXAS0-TAScXzGbL0
+TQID: 'https://experienceleague.adobe.com/NPmS-BMJjiAZnLUNwDLGufCEduFrXAS0-TAScXzGbL0'
 product_v2:
   - id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
+    internal-label: Creative Cloud
+feature_v2:
+  - id: c03edad5-0111-525a-a563-c422672a5e57
+    internal-label: 3D
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: af4fdb8dfc8c84e5e51525c730d0ba8831179443
+    internal-label: Beginner
+source-git-commit: b4ccb0a72c95fa56cd4908aae754dfb8b399cd31
 workflow-type: tm+mt
-source-wordcount: 311
+source-wordcount: '311'
 ht-degree: 0%
-
 ---
-
 # Tutoriels Adobe 3D et VR
 
-Créez plus rapidement du contenu attrayant en 3D avec des modèles, des matières et un éclairage de haute qualité. [!DNL Dimension] facilite la création de visualisations de marque, d&#39;illustrations, de maquettes de produits, de conceptions de packaging et d&#39;autres travaux créatifs. Sélectionnez une image pour afficher un tutoriel.
+Créez plus rapidement du contenu attrayant en 3D avec des modèles, des matériaux et un éclairage de haute qualité. [!DNL Dimension] facilite la création de visualisations de marque, d&#39;illustrations, de maquettes de produits, de conceptions de packaging et d&#39;autres travaux créatifs. Sélectionnez une image pour afficher un tutoriel.
 
 <table>
 <tr>
@@ -34,7 +39,7 @@ Créez plus rapidement du contenu attrayant en 3D avec des modèles, des matièr
     <div>
    <a href="substance-3d-stager.md"><strong>Conception et rendu 3D</strong></a>
     </div>
-    <em>Importez du contenu, organisez votre scène, appliquez des matières et des textures, ajustez l'éclairage physique et basé sur l'image, enregistrez des appareils photo avec différentes résolutions et rendez des images photoréalistes</em>
+    <em>Importez du contenu, organisez votre scène, appliquez des matériaux et des textures, ajustez l'éclairage physique et basé sur l'image, enregistrez des caméras avec différentes résolutions et restituez des images photoréalistes</em>
     <br>
   </td>
   <td>
@@ -96,7 +101,7 @@ Créez plus rapidement du contenu attrayant en 3D avec des modèles, des matièr
     <div>
    <a href="3ddimensionstock.md"><strong>Personnalisez et créez une marque pour un mannequin 3D avec [!DNL Dimension] et l’Adobe [!DNL Stock]</strong></a>
     </div>
-    <em>Personnalisez et créez une marque pour un modèle 3D dans [!DNL Dimension] en utilisant les matériaux, les propriétés environnementales, l’éclairage et la photographie, pour créer des images photoréalistes pour tout projet de conception</em>
+    <em>Personnalisez et créez une marque pour un mannequin 3D dans [!DNL Dimension] en utilisant des matériaux, des propriétés environnementales, l’éclairage et la photographie, afin de créer des images photoréalistes pour tout projet de conception</em>
     <br>
   </td>
   <td>

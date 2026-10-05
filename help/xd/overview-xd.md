@@ -6,24 +6,31 @@ role: User
 level: Beginner, Intermediate
 jira: KT-6944
 exl-id: 411ef3da-42c1-4c98-a75d-dca990546eb4
-TQID: https://experienceleague.adobe.com/M7ZbwU4I7Dq26Hh3Ps-WJD7jhYwwVo5VrNfllLeTwEU
+TQID: 'https://experienceleague.adobe.com/M7ZbwU4I7Dq26Hh3Ps-WJD7jhYwwVo5VrNfllLeTwEU'
 product_v2:
   - id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
+    internal-label: Creative Cloud
+feature_v2:
+  - id: 401e32ea-dbf3-5b5e-950e-e7ccc600fa78
+    internal-label: UI Design
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: a09a5a04-e30b-4d55-b031-38e6f5ec86db
+    internal-label: Experience design
   - id: e9001ce2-5245-4a8e-8601-dd958009072f
-source-git-commit: af4fdb8dfc8c84e5e51525c730d0ba8831179443
+    internal-label: Web experience
+source-git-commit: b4ccb0a72c95fa56cd4908aae754dfb8b399cd31
 workflow-type: tm+mt
-source-wordcount: 462
+source-wordcount: '462'
 ht-degree: 0%
-
 ---
-
 # Tutoriels Adobe XD
 
 Adobe XD est un outil de conception et de prototypage d’expérience utilisateur permettant de concevoir des sites web, des applications, des interfaces vocales, des jeux et d’autres types d’expériences numériques. Sélectionnez une image pour afficher un tutoriel.
@@ -35,9 +42,9 @@ Adobe XD est un outil de conception et de prototypage d’expérience utilisateu
       <img alt="Familiarisation avec les composants dans Adobe XD" src="assets/Componentsxd.jpg" />
    </a>
     <div>
-   <a href="components.md"><strong>Familiarisez-vous avec les composants  dans Adobe XD</strong></a>
+   <a href="components.md"><strong>Familiarisez-vous avec les composants [!UICONTROL] dans Adobe XD</strong></a>
     </div>
-    <em>Découvrez comment utiliser les composants  pour bénéficier d'une flexibilité sans précédent afin d'appliquer vitesse et cohérence à votre workflow de conception</em>
+    <em>Découvrez comment utiliser les composants [!UICONTROL] pour bénéficier d'une flexibilité sans précédent afin d'appliquer vitesse et cohérence à votre workflow de conception</em>
     <br>
   </td>
   <td>
@@ -109,7 +116,7 @@ Adobe XD est un outil de conception et de prototypage d’expérience utilisateu
     <div>
    <a href="assets/MobileWebExperienceswithXD.pdf" target="_blank"><strong>Conception d’une expérience web mobile avec XD (PDF)</strong></a>
     </div>
-    <em>Découvrez les coulisses du processus de conception de la galerie web mobile Russell Brown MAX Madness à l’aide d’Adobe XD</em>
+    <em>Découvrez le processus de conception de la galerie web mobile Russell Brown MAX Madness à l’aide d’Adobe XD</em> et découvrez les dessous des scènes
     <br>
   </td>
 </tr>
@@ -126,20 +133,20 @@ Adobe XD est un outil de conception et de prototypage d’expérience utilisateu
   </td>
   <td>
    <a href="assets/PrototypeaMobileWebExperiencewithAdobeXD.pdf" target="_blank">
-      <img alt="Dynamisez la grille de répétition dans XD avec du texte et des graphiques externes" src="assets/PrototypeaMobileWebExperiencewithAdobeXD.jpg" />
+      <img alt="Dynamisez la Grille de répétition dans XD avec du texte et des graphiques externes" src="assets/PrototypeaMobileWebExperiencewithAdobeXD.jpg" />
    </a>
     <div>
-   <a href="assets/PrototypeaMobileWebExperiencewithAdobeXD.pdf" target="_blank"><strong>Dynamisez la grille de répétition dans XD avec du texte et des graphiques externes (PDF)</strong></a>
+   <a href="assets/PrototypeaMobileWebExperiencewithAdobeXD.pdf" target="_blank"><strong>Dynamisez la Grille de répétition dans XD avec du texte et des graphiques externes (PDF)</strong></a>
     </div>
     <em>Combinez la grille de répétition avec du texte et des graphiques externes pour augmenter votre productivité</em>
     <br>
   </td>
   <td>
    <a href="assets/BehindtheScenesofMAXMadnesswithAdobeXD.pdf" target="_blank">
-      <img alt="Dans les coulisses de la folie MAX avec Adobe XD" src="assets/BehindtheScenesofMAXMadnesswithAdobeXD.jpg" />
+      <img alt="Derrière les Scènes de MAX Madness avec Adobe XD" src="assets/BehindtheScenesofMAXMadnesswithAdobeXD.jpg" />
    </a>
     <div>
-   <a href="assets/BehindtheScenesofMAXMadnesswithAdobeXD.pdf" target="_blank"><strong>Les coulisses de la folie MAX avec Adobe XD (PDF)</strong></a>
+   <a href="assets/BehindtheScenesofMAXMadnesswithAdobeXD.pdf" target="_blank"><strong>Derrière les Scènes de MAX Madness avec Adobe XD (PDF)</strong></a>
     </div>
     <em>Offrir une expérience web mobile optimisée peut vraiment trouver un écho auprès de vos utilisateurs</em>
     <br>

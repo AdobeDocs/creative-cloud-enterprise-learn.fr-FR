@@ -5,23 +5,29 @@ role: Admin
 level: Beginner, Intermediate
 feature: Deploy
 exl-id: 9dbdb057-6684-4750-bf9d-8af7a32bfe14
-TQID: https://experienceleague.adobe.com/1Vae4kugu2cH2aiRmUYs8mRxEyc8cF9gqWaivm5AB4w
+TQID: 'https://experienceleague.adobe.com/1Vae4kugu2cH2aiRmUYs8mRxEyc8cF9gqWaivm5AB4w'
 product_v2:
   - id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
+    internal-label: Creative Cloud
+feature_v2:
+  - id: f3adbe6f-7e4c-5fb5-874d-60c3e79c80a8
+    internal-label: Deploy
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
-source-git-commit: af4fdb8dfc8c84e5e51525c730d0ba8831179443
+    internal-label: Security
+source-git-commit: b4ccb0a72c95fa56cd4908aae754dfb8b399cd31
 workflow-type: tm+mt
-source-wordcount: 638
+source-wordcount: '638'
 ht-degree: 1%
-
 ---
-
 # Numéros de série arrivant à expiration ? Pourquoi il est temps d’utiliser les licences nominatives
 
 Dans le climat actuel, la gestion informatique a dû rapidement se tourner vers une expérience entièrement numérique. À mesure que les équipes apprennent à travailler de manière productive depuis leur domicile, le besoin d&#39;outils pour assurer la continuité des activités s&#39;accroît. Ces défis ont un impact sur tout déploiement informatique à grande échelle, en particulier lorsqu’il s’agit de gérer les utilisateurs dans un environnement de travail virtuel.
@@ -32,7 +38,7 @@ Si votre organisation n’utilise pas de licences NUL et continue d’utiliser l
 
 ## À propos des licences nominatives
 
-Les [licences nominatives](https://helpx.adobe.com/fr/enterprise/using/licensing.html) sont un modèle de licence logicielle qui permet d&#39;attribuer des logiciels à une personne plutôt qu&#39;à un numéro de série ou à un périphérique. NUL offre aux administrateurs informatiques une sécurité de niveau entreprise avec une gestion avancée de l’identité des utilisateurs et permet un déploiement et une gestion faciles des applications à l’aide de Adobe Admin Console.
+Les [licences nominatives](https://helpx.adobe.com/enterprise/using/licensing.html) sont un modèle de licence logicielle qui permet d&#39;attribuer des logiciels à une personne plutôt qu&#39;à un numéro de série ou à un périphérique. NUL offre aux administrateurs informatiques une sécurité de niveau entreprise avec une gestion avancée de l’identité des utilisateurs et permet un déploiement et une gestion faciles des applications à l’aide de Adobe Admin Console.
 
 ## Avantages des licences nominatives :
 
