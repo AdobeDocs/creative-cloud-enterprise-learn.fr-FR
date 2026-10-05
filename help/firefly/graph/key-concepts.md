@@ -64,6 +64,6 @@ Le workflow complet que vous générez dans l’éditeur. Un graphe est composé
 
 ## Étape suivante
 
-Prêt à construire quelque chose ? Passez à [3. Créez votre premier graphe](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/create-your-first-graph) pour une procédure pas à pas.
+Prêt à construire quelque chose ? Passez à [3. Créez votre premier graphe](https://experienceleague.adobe.com/fr/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/create-your-first-graph) pour une procédure pas à pas.
 
-Revenez à [Prise en main de Firefly Graph](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Revenez à [Prise en main de Firefly Graph](https://experienceleague.adobe.com/fr/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).

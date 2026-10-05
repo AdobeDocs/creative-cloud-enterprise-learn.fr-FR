@@ -36,4 +36,4 @@ Découvrez comment appliquer une pile à un découpage de produit et à une scè
 
 ![Composer et fusionner des calques](../../assets/composite-blend-layers.png){align="center"}
 
-Revenez à [Prise en main de Firefly Graph](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Revenez à [Prise en main de Firefly Graph](https://experienceleague.adobe.com/fr/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).

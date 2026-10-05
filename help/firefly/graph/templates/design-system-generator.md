@@ -41,4 +41,4 @@ Découvrez comment générer une charte graphique à partir d’une capture d’
 
 ![Concevoir le générateur de système](../../assets/design-system.png){align="center"}
 
-Revenez à [Prise en main de Firefly Graph](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Revenez à [Prise en main de Firefly Graph](https://experienceleague.adobe.com/fr/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).

@@ -41,4 +41,4 @@ Apprenez à charger une image de référence du personnage, puis à intervertir 
 
 ![Gène de caractère cohérent](../../assets/character-gen.png){align="center"}
 
-Revenez à [Prise en main de Firefly Graph](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
+Revenez à [Prise en main de Firefly Graph](https://experienceleague.adobe.com/fr/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph).
