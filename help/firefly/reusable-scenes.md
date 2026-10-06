@@ -1,28 +1,34 @@
 ---
-title: Créer des scènes réutilisables pour la marchandise
+title: Créer des Scènes réutilisables pour la marchandise
 description: Apprenez à créer des scènes réutilisables pour des marchandises telles que des sacs à main et des accessoires
 feature: Graphic Design, Gen AI
 role: User
 level: Beginner
 jira: KT-15372
 exl-id: 54fffb74-f0c8-49d8-802d-b24687ec3cf9
-TQID: https://experienceleague.adobe.com/itJ9rgCYX-3BtPla7koelyhIKMU7ouZ7nK7fld2iTtM
+TQID: 'https://experienceleague.adobe.com/itJ9rgCYX-3BtPla7koelyhIKMU7ouZ7nK7fld2iTtM'
 product_v2:
   - id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
+    internal-label: Creative Cloud
+feature_v2:
+  - id: b1f6f7fb-294d-52dd-8e6a-2bf31bf93853
+    internal-label: Graphic Design
+  - id: c31d989b-c5df-5b16-8862-a611a5e6e70b
+    internal-label: Gen AI
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: af4fdb8dfc8c84e5e51525c730d0ba8831179443
+    internal-label: Beginner
+source-git-commit: b4ccb0a72c95fa56cd4908aae754dfb8b399cd31
 workflow-type: tm+mt
-source-wordcount: 61
+source-wordcount: '61'
 ht-degree: 3%
-
 ---
-
 # Création de scènes réutilisables pour la marchandise
 
-Apprenez à créer des scènes réutilisables pour des marchandises telles que des sacs à main et des accessoires. La création de scènes réutilisables accélère le merchandising numérique en vous permettant d&#39;actualiser votre marchandise Web de manière saisonnière ou à tout moment. Essayez l&#39;Adobe Firefly [ici](https://firefly.adobe.com/?locale=fr).
+Apprenez à créer des scènes réutilisables pour des marchandises telles que des sacs à main et des accessoires. La création de scènes réutilisables accélère le merchandising numérique en vous permettant d&#39;actualiser votre marchandise Web de façon saisonnière ou au moment de votre choix. Essayez l&#39;Adobe Firefly [ici](https://firefly.adobe.com/?locale=fr).
 
 <br> 
 

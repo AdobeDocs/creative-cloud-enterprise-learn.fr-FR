@@ -6,20 +6,24 @@ role: User
 level: Beginner
 jira: KT-13417
 exl-id: 770172e2-2cd4-4333-81bf-8b1af6eef1c0
-TQID: https://experienceleague.adobe.com/JYD8EkA9UM6xGJalICaolk0hqYo3aSfN9h61JYHFsiI
+TQID: 'https://experienceleague.adobe.com/JYD8EkA9UM6xGJalICaolk0hqYo3aSfN9h61JYHFsiI'
 product_v2:
   - id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
+    internal-label: Creative Cloud
+feature_v2:
+  - id: b1f6f7fb-294d-52dd-8e6a-2bf31bf93853
+    internal-label: Graphic Design
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: af4fdb8dfc8c84e5e51525c730d0ba8831179443
+    internal-label: Beginner
+source-git-commit: b4ccb0a72c95fa56cd4908aae754dfb8b399cd31
 workflow-type: tm+mt
-source-wordcount: 137
+source-wordcount: '137'
 ht-degree: 0%
-
 ---
-
 # Configuration d’un kit de marque
 
 Découvrez comment créer une collection de ressources de marque pour créer des designs cohérents et professionnels pour votre entreprise ou vos projets personnels. Un kit de marque est une collection de ressources de marque telles que des logos, des couleurs, des polices, des graphismes et des modèles. Ils peuvent être créés à partir de zéro ou à partir d’une bibliothèque existante et partagés avec des collègues, qui peuvent avoir des droits de modification ou d’affichage.
