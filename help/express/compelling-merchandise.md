@@ -33,6 +33,6 @@ ht-degree: 2%
 
 Découvrez comment une équipe commerciale peut facilement créer des images attrayantes pour un nouvel ensemble d&#39;inventaire dans sa boutique en ligne. Dans ce workflow, le responsable de marchandise crée un nouveau modèle en l’Adobe Express d’une nouvelle marchandise. Le spécialiste du marketing crée ensuite un nouveau projet de publicité web et ajuste le texte et les images des bibliothèques intégrées en fonction de leurs besoins. Ils montent également une vidéo marketing pour le nouvel inventaire.
 
-Ce tutoriel utilise le nouvel [Adobe Express](https://www.adobe.com/express/).
+Ce tutoriel utilise le nouvel [Adobe Express](https://www.adobe.com/fr/express/).
 
 >[!VIDEO](https://video.tv.adobe.com/v/3447133?captions=fre_fr&quality=12&learn=on&hidetitle=true)

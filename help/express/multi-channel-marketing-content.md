@@ -33,6 +33,6 @@ ht-degree: 3%
 
 Découvrez comment les équipes de marketing événementiel peuvent créer du contenu unique pour attirer les spectateurs vers des événements en ligne. Dans ce workflow, un spécialiste du marketing B2B démarre un nouveau projet en Adobe Express à l’aide d’un modèle issu du kit de marque et des bibliothèques. Le spécialiste du marketing B2B crée des variations pour différents canaux sociaux et web et partage le contenu sur les réseaux sociaux et les plateformes d’hébergement vidéo.
 
-Ce tutoriel utilise le nouvel [Adobe Express](https://www.adobe.com/express/).
+Ce tutoriel utilise le nouvel [Adobe Express](https://www.adobe.com/fr/express/).
 
 >[!VIDEO](https://video.tv.adobe.com/v/3444981?captions=fre_fr&quality=12&learn=on&hidetitle=true)

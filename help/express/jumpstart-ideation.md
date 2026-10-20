@@ -33,6 +33,6 @@ ht-degree: 2%
 
 Découvrez comment prendre de l’avance en développant du contenu créatif pour une campagne marketing. Dans ce workflow, un responsable produit de marque démarre un nouveau projet en Adobe Express et crée des pages permettant aux équipes de laisser tomber leurs idées, leurs images et leurs réflexions pour réfléchir et les partager avec d’autres. Les membres de l’équipe modifient simultanément en temps réel en ajoutant leurs images et leurs idées. Chaque membre de l&#39;équipe utilise une combinaison de ressources de marque préexistantes dans [CC Libraries](cc-libraries.md) et de texte sur image pour communiquer des idées. Les concepteurs ajoutent au forum des prototypes conçus dans des applications Creative Cloud qui sont liés et mis à jour automatiquement lors de la création de nouvelles révisions.
 
-Ce tutoriel utilise le nouvel [Adobe Express](https://www.adobe.com/express/).
+Ce tutoriel utilise le nouvel [Adobe Express](https://www.adobe.com/fr/express/).
 
 >[!VIDEO](https://video.tv.adobe.com/v/3446162?captions=fre_fr&quality=12&learn=on&hidetitle=true)

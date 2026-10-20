@@ -30,6 +30,6 @@ ht-degree: 4%
 ---
 # Création d’affiches de webinaire avec Firefly
 
-Apprenez à utiliser la fonctionnalité Texte sur image, optimisée par l’Adobe Firefly, dans l’Adobe Express pour créer une affiche de webinaire pour un événement de réalité virtuelle. Ce tutoriel utilise le nouvel [Adobe Express](https://www.adobe.com/express/).
+Apprenez à utiliser la fonctionnalité Texte sur image, optimisée par l’Adobe Firefly, dans l’Adobe Express pour créer une affiche de webinaire pour un événement de réalité virtuelle. Ce tutoriel utilise le nouvel [Adobe Express](https://www.adobe.com/fr/express/).
 
 >[!VIDEO](https://video.tv.adobe.com/v/3446865?captions=fre_fr&quality=12&learn=on&hidetitle=true)
