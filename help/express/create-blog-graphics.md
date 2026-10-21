@@ -31,6 +31,6 @@ ht-degree: 5%
 ---
 # Mener facilement des campagnes sur les réseaux sociaux
 
-Apprenez à utiliser la fonctionnalité Texte sur image, optimisée par l’Adobe Firefly, pour créer du contenu graphique unique destiné aux campagnes web, aux blogs et aux réseaux sociaux. Ce tutoriel utilise le nouvel [Adobe Express](https://www.adobe.com/express/).
+Apprenez à utiliser la fonctionnalité Texte sur image, optimisée par l’Adobe Firefly, pour créer du contenu graphique unique destiné aux campagnes web, aux blogs et aux réseaux sociaux. Ce tutoriel utilise le nouvel [Adobe Express](https://www.adobe.com/fr/express/).
 
 >[!VIDEO](https://video.tv.adobe.com/v/3441365?captions=fre_fr&quality=12&learn=on&hidetitle=true)

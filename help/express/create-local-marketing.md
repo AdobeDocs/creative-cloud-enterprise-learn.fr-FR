@@ -30,6 +30,6 @@ ht-degree: 4%
 ---
 # Création de contenu de dépliant pour une campagne marketing avec Firefly
 
-Apprenez à utiliser la fonctionnalité Texte sur image, optimisée par l’Adobe Firefly, dans Adobe Express pour créer du contenu localisé à partir d’une campagne marketing hôtelière mondiale. Ce tutoriel utilise le nouvel [Adobe Express](https://www.adobe.com/express/).
+Apprenez à utiliser la fonctionnalité Texte sur image, optimisée par l’Adobe Firefly, dans Adobe Express pour créer du contenu localisé à partir d’une campagne marketing hôtelière mondiale. Ce tutoriel utilise le nouvel [Adobe Express](https://www.adobe.com/fr/express/).
 
 >[!VIDEO](https://video.tv.adobe.com/v/3443586?captions=fre_fr&quality=12&learn=on&hidetitle=true)

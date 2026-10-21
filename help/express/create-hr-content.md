@@ -30,6 +30,6 @@ ht-degree: 4%
 ---
 # Création de contenu RH multicanal pour les événements
 
-Apprenez à créer rapidement du contenu de RH multicanal qui correspond à la marque de votre entreprise. La diffusion rapide de contenu multicanal vous permet de communiquer avec un plus grand nombre d&#39;employés, ce qui les aide à rester informés des dernières nouvelles. Ce tutoriel utilise le nouvel [Adobe Express](https://www.adobe.com/express/).
+Apprenez à créer rapidement du contenu de RH multicanal qui correspond à la marque de votre entreprise. La diffusion rapide de contenu multicanal vous permet de communiquer avec un plus grand nombre d&#39;employés, ce qui les aide à rester informés des dernières nouvelles. Ce tutoriel utilise le nouvel [Adobe Express](https://www.adobe.com/fr/express/).
 
 >[!VIDEO](https://video.tv.adobe.com/v/3434599?captions=fre_fr&quality=12&learn=on&hidetitle=true)

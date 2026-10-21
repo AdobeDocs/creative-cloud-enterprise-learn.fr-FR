@@ -33,6 +33,6 @@ ht-degree: 2%
 
 Découvrez comment les équipes marketing de terrain distribuées peuvent facilement personnaliser le contenu de leur région pour des campagnes marketing locales. Dans ce workflow, l&#39;équipe marketing mondiale crée des ressources de marque et publie le contenu sous forme de [modèles](create-templates.md) en Adobe Express. Un spécialiste du marketing de terrain utilise l&#39;Adobe Express pour accéder aux ressources de la campagne et adapte ses conceptions aux besoins de la région. D’autres équipes régionales démarrent ensuite de nouveaux projets Express à partir de modèles de marque pour de nouveaux dépliants, des bannières web et d’autres contenus.
 
-Ce tutoriel utilise le nouvel [Adobe Express](https://www.adobe.com/express/).
+Ce tutoriel utilise le nouvel [Adobe Express](https://www.adobe.com/fr/express/).
 
 >[!VIDEO](https://video.tv.adobe.com/v/3433988?captions=fre_fr&quality=12&learn=on&hidetitle=true)
