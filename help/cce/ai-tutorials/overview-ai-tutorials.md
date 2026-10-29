@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-23021
 hide: true
 hidefromtoc: true
-source-git-commit: 9737f2658a0d2570b9731f78d50fa7633855cf01
+source-git-commit: f7f52e4c28c9c376b51b83fc5711dc963dca0e7e
 workflow-type: tm+mt
-source-wordcount: '90'
+source-wordcount: '120'
 ht-degree: 0%
 ---
 # Tutoriels Creative Cloud abonnement Entreprise AI
@@ -31,8 +31,13 @@ Explorez les tutoriels qui peuvent vous aider à découvrir des idées, à crée
     <br>
   </td>
   <td>
-    <img alt="Espaceur" src="../../assets/acrobat_PDF_whitespacer_96.png" />
+   <a href="seamless-vector.md">
+      <img alt="Motifs vectoriels transparents en quelques minutes, et non en quelques heures" src="../../assets/seamless-vector.png" />
+   </a>
     <div>
+   <a href="seamless-vector.md"><strong>Des motifs vectoriels transparents en quelques minutes, et non en quelques heures</strong></a>
+    </div>
+    <em>Apprenez à créer un modèle de marque transparent dans Illustrator sans vérifier manuellement chaque bord de répétition</em>
     <br>
   </td>
   <td>
