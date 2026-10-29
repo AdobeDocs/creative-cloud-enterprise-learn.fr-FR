@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-23021
 hide: true
 hidefromtoc: true
-source-git-commit: 63b6d4f6bba92207bff7cd9b981c9c10a8a3dbbf
+source-git-commit: cf848c3ca49226d8264100a7c6143bff7b0cd38d
 workflow-type: tm+mt
-source-wordcount: '234'
+source-wordcount: '266'
 ht-degree: 0%
 ---
 # Tutoriels Creative Cloud abonnement Entreprise AI
@@ -68,8 +68,13 @@ Explorez les tutoriels qui peuvent vous aider à découvrir des idées, à crée
     <br>
   </td>
   <td>
-    <img alt="Espaceur" src="../../assets/acrobat_PDF_whitespacer_96.png" />
+   <a href="brief-to-storyboard.md">
+      <img alt="Du résumé au storyboard : explorer les directions de la vidéo avant la production" src="../../assets/brief-to-storyboard.png" />
+   </a>
     <div>
+   <a href="brief-to-storyboard.md"><strong>Du court au storyboard : découvrez les instructions vidéo avant la production</strong></a>
+    </div>
+    <em>Apprenez à transformer une présentation créative en un forum partagé de directions visuelles fortes</em>
     <br>
   </td>
   <td>
