@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-23021
 hide: true
 hidefromtoc: true
-source-git-commit: b1cffc816ca06a24dce4b70f938c5ed0c8d36db0
+source-git-commit: 63b6d4f6bba92207bff7cd9b981c9c10a8a3dbbf
 workflow-type: tm+mt
-source-wordcount: '193'
+source-wordcount: '234'
 ht-degree: 0%
 ---
 # Tutoriels Creative Cloud abonnement Entreprise AI
@@ -97,6 +97,38 @@ Explorez les tutoriels qui peuvent vous aider à découvrir des idées, à crée
    <a href="retouch-faster.md"><strong>Retouche plus rapide et conservation des pixels d’origine</strong></a>
     </div>
     <em>Découvrez comment ajouter des ombres naturelles à une photo de produit dans Photoshop tout en conservant vos pixels d'origine intacts</em>
+    <br>
+  </td>
+  <td>
+    <img alt="Espaceur" src="../../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Espaceur" src="../../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Espaceur" src="../../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
+    <br>
+  </td>
+</tr>
+</table>
+
+## Éditeur vidéo
+
+<table style="table-layout:fixed">
+<tr>
+  <td>
+   <a href="fill-gaps.md">
+      <img alt="Remplir les vides dans votre coupe : rouleau B, audio et éléments qui se terminent trop tôt" src="../../assets/fill-gaps.png" />
+   </a>
+    <div>
+   <a href="fill-gaps.md"><strong>Remplir les espaces dans votre découpe : rouleau B, audio et éléments qui se terminent trop tôt</strong></a>
+    </div>
+    <em>Découvrez comment utiliser l’extension générative dans Premiere</em>
     <br>
   </td>
   <td>
