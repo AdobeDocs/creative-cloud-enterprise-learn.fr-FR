@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-23021
 hide: true
 hidefromtoc: true
-source-git-commit: 95ceedf2be8ea49003f3e2388f3556746dee6b7a
+source-git-commit: 72601cd9612b12283c0bae7b4b21d030e8cf1d77
 workflow-type: tm+mt
-source-wordcount: '298'
+source-wordcount: '329'
 ht-degree: 0%
 ---
 # Tutoriels Creative Cloud abonnement Entreprise AI
@@ -141,9 +141,14 @@ Explorez les tutoriels qui peuvent vous aider à découvrir des idées, à crée
     <em>Découvrez comment utiliser l’extension générative dans Premiere</em>
     <br>
   </td>
-  <td>
-    <img alt="Espaceur" src="../../assets/acrobat_PDF_whitespacer_96.png" />
+ <td>
+   <a href="rough-cut.md">
+      <img alt="Accéder plus rapidement à votre premier montage" src="../../assets/rough-cut.png" />
+   </a>
     <div>
+   <a href="rough-cut.m"><strong>Accédez plus rapidement à votre premier montage</strong></a>
+    </div>
+    <em>Apprenez à créer un premier montage à partir d'interviews et à filmer plus rapidement dans Premiere, sans parcourir chaque élément</em>
     <br>
   </td>
   <td>
