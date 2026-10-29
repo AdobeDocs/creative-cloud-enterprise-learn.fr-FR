@@ -3,11 +3,9 @@ title: Creative Cloud pour les Tutorials IA d’entreprise
 description: En savoir plus sur les tutoriels d’IA de Creative Cloud abonnement Entreprise
 feature: Image Editing, Gen AI
 role: User
-level: Beginner
+level: Intermediate
 jira: KT-23021
-hide: true
-hidefromtoc: true
-source-git-commit: 72601cd9612b12283c0bae7b4b21d030e8cf1d77
+source-git-commit: 008d64be8a58330f687edf18aae398b506e13ca2
 workflow-type: tm+mt
 source-wordcount: '329'
 ht-degree: 0%
