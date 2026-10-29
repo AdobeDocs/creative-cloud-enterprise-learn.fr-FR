@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-23021
 hide: true
 hidefromtoc: true
-source-git-commit: cf848c3ca49226d8264100a7c6143bff7b0cd38d
+source-git-commit: 95ceedf2be8ea49003f3e2388f3556746dee6b7a
 workflow-type: tm+mt
-source-wordcount: '266'
+source-wordcount: '298'
 ht-degree: 0%
 ---
 # Tutoriels Creative Cloud abonnement Entreprise AI
@@ -105,8 +105,13 @@ Explorez les tutoriels qui peuvent vous aider à découvrir des idées, à crée
     <br>
   </td>
   <td>
-    <img alt="Espaceur" src="../../assets/acrobat_PDF_whitespacer_96.png" />
+   <a href="build-presets.md">
+      <img alt="Création de paramètres prédéfinis pour une couleur homogène sur l’ensemble d’une prise de vue" src="../../assets/build-presets.png" />
+   </a>
     <div>
+   <a href="build-presets.md"><strong>Créez des paramètres prédéfinis pour obtenir une couleur homogène sur l'ensemble d'une prise</strong></a>
+    </div>
+    <em>Apprenez à donner un aspect cohérent à une séance photo entière sans modifier chaque image une par une</em>
     <br>
   </td>
   <td>
