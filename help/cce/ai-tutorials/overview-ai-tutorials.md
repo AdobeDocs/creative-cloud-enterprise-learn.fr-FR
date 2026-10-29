@@ -7,14 +7,14 @@ level: Beginner
 jira: KT-23021
 hide: true
 hidefromtoc: true
-source-git-commit: 91f579e542ea780ee55aaeb65eefd213f41ed1d7
+source-git-commit: 9737f2658a0d2570b9731f78d50fa7633855cf01
 workflow-type: tm+mt
-source-wordcount: '88'
+source-wordcount: '90'
 ht-degree: 0%
 ---
 # Tutoriels Creative Cloud abonnement Entreprise AI
 
-Explorez les tutoriels qui peuvent vous aider à découvrir des idées, à créer du contenu et à rationaliser les workflows créatifs dans tout le Creative Cloud. Ces tutoriels sont regroupés par rôle : Designer graphique, Creative/Art Director, Photoshop Artist/Retoucher et Éditeur vidéo.
+Explorez les tutoriels qui peuvent vous aider à découvrir des idées, à créer du contenu et à rationaliser les workflows créatifs à l’aide de l’IA dans le Creative Cloud. Ces tutoriels sont regroupés par rôle : Designer graphique, Creative/Art Director, Photoshop Artist/Retoucher et Éditeur vidéo.
 
 ## Designer graphique
 
@@ -31,17 +31,17 @@ Explorez les tutoriels qui peuvent vous aider à découvrir des idées, à crée
     <br>
   </td>
   <td>
-    <img alt="Espaceur" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <img alt="Espaceur" src="../../assets/acrobat_PDF_whitespacer_96.png" />
     <div>
     <br>
   </td>
   <td>
-    <img alt="Espaceur" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <img alt="Espaceur" src="../../assets/acrobat_PDF_whitespacer_96.png" />
     <div>
     <br>
   </td>
   <td>
-    <img alt="Espaceur" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <img alt="Espaceur" src="../../assets/acrobat_PDF_whitespacer_96.png" />
     <div>
     <br>
   </td>
