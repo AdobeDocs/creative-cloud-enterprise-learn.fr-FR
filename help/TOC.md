@@ -9,19 +9,20 @@ role: User
 type: Tutorial
 auto-video-transcripts: true
 nudge: true
-source-git-commit: dec5f84efd42c91c97fc49e3043c09add3d78ed6
+source-git-commit: c6178a0e0fe5fd98319a3184530e7a1e62b51236
 workflow-type: tm+mt
-source-wordcount: '905'
+source-wordcount: '918'
 ht-degree: 3%
-
 ---
 
-
-# Creative Cloud pour les Tutorials d’entreprise {#cce-learning-hub}
+# Tutoriels Creative Cloud abonnement Entreprise {#cce-learning-hub}
 
 + [Présentation](overview.md)
 + Creative Cloud abonnement Entreprise {#cceoverview}
   + [Présentation](cce/overview-cce.md)
+  + {hide-from-toc}[Tutoriels IA] {#cceaitutorials}
+    + {hide-from-toc}[Présentation](cce/ai-tutorials/overview-ai-tutorials.md)
+    + {hide-from-toc}[Convertissez les illustrations vectorielles plates selon n’importe quel angle, sans les redessiner](cce/ai-tutorials/turn-flat-vector-art.md)
   + Didacticiels {#ccetutorials}
     + [Acrobat pour les créateurs de contenu](cce/acrobat-content-creators.md)
     + [Amélioration des workflows CC avec CC Libraries](cce/cc-workflows-cc-libraries.md)
@@ -72,7 +73,7 @@ ht-degree: 3%
     + [Utilisation du remplissage génératif](express/generative-fill.md)
     + [Amélioration de la conception de votre texte avec la génération AI](express/gen-text.md)
     + [Comment utiliser l’IA gén. de texte à modèle](express/text-to-template.md)
-    + [Comment traduire en masse votre contenu](express/bulk-translate.md)
+    + [Comment translater votre contenu en bloc](express/bulk-translate.md)
     + [Modification d’un PDF](express/edit-a-pdf.md)
     + [Utilisation du planificateur pour la publication](express/schedule.md)
     + [Associer des objets](express/group-objects.md)
@@ -133,17 +134,17 @@ ht-degree: 3%
     + {hide-from-toc}[Prévisualisation de séance photo](firefly/photoshoot-pre-visualization.md)
     + {hide-from-toc}[Explorez des idées de produits sans réunions, marqueurs ni maquettes](firefly/explore-product-ideas.md)
     + {hide-from-toc}[Convertir un mot en une vision créative partagée](firefly/creative-vision.md)
-    + {hide-from-toc}[Aligner avant la pellicule](firefly/align-camera-roll.md)
-  + {hide-from-toc}Tutoriels Graph  {#firefly-graph}
-    + {hide-from-toc}[Vue d&#39;ensemble du graphique d&#39;Adobe Firefly](firefly/graph/overview-firefly-graph.md)
-    + {hide-from-toc}[Qu&#39;est-ce que le graphique en Firefly ?](firefly/graph/what-is-firefly-graph.md)
-    + {hide-from-toc}[Concepts clés du graphique en Firefly](firefly/graph/key-concepts.md)
-    + {hide-from-toc}[Créez votre premier graphique](firefly/graph/create-your-first-graph.md)
-    + {hide-from-toc}[Partager votre graphique](firefly/graph/share-a-graph.md)
+    + {hide-from-toc}[Aligner avant le déroulement de la caméra](firefly/align-camera-roll.md)
+  + {hide-from-toc} tutoriels Graphe {#firefly-graph}
+    + {hide-from-toc}[Présentation du Graphe d&#39;Adobe Firefly](firefly/graph/overview-firefly-graph.md)
+    + {hide-from-toc}[Qu&#39;est-ce que Firefly Graph ?](firefly/graph/what-is-firefly-graph.md)
+    + {hide-from-toc}[Concepts clés de Firefly Graph](firefly/graph/key-concepts.md)
+    + {hide-from-toc}[Créez votre premier graphe](firefly/graph/create-your-first-graph.md)
+    + {hide-from-toc}[Partager votre graphe](firefly/graph/share-a-graph.md)
     + {hide-from-toc}[Bibliothèque de modèles](firefly/graph/template-library.md)
     + {hide-from-toc}[Personnaliser un modèle](firefly/graph/customize-template.md)
     + {hide-from-toc}[Présentation du webinaire Firefly Graph](firefly/graph/introducing-graph.md)
-    + {hide-from-toc} modèles de graphiques {#graph-templates}
+    + {hide-from-toc} modèles de Graphe {#graph-templates}
       + {hide-from-toc}[Prise en main - Génération d&#39;une image](firefly/graph/templates/get-started-gen-image.md)
       + {hide-from-toc}[Génération de caractères cohérente](firefly/graph/templates/character-gen.md)
       + {hide-from-toc}[Extraction de style](firefly/graph/templates/style-extraction.md)
@@ -168,12 +169,12 @@ ht-degree: 3%
       + {hide-from-toc}[Génération de photos](firefly/graph/templates/headshots-generation.md)
   + Webinaires {#firefly-webinars}
     + [Expérimenter avec l’Adobe Firefly](firefly/webinar-experimenting.md)
-    + [Réfléchissez à haute voix : transformez vos idées en visuels saisissants](https://experienceleague.adobe.com/fr/on-demand-events/turn-ideas-into-striking-visuals)
+    + [Réfléchissez à haute voix : transformez vos idées en visuels saisissants](https://experienceleague.adobe.com/en/on-demand-events/turn-ideas-into-striking-visuals)
 + [!DNL Adobe Stock] {#stockoverview}
   + [Présentation](stock/overview-stock.md)
   + Didacticiels {#stocktutorials}
     + [Des ressources numériques époustouflantes](stock/stunning-digital-assets.md)
-    + [Rechercher dans l&#39;historique des licences de l&#39;Adobe [!DNL Stock] &#x200B;](stock/searchstock.md)
+    + [Rechercher dans l&#39;historique des licences de l&#39;Adobe [!DNL Stock] ](stock/searchstock.md)
     + [Ajout d&#39;une esthétique dessinée à la main à des images d&#39;Adobes [!DNL Stock] créatives](stock/handdrawn.md)
     + [Ajoutez du style à la typographie avec des masques et des animations](stock/flairtypography.md)
     + [Animation d’une illustration vectorielle d’Adobe [!DNL Stock] dans Photoshop](stock/animatevector.md)
@@ -195,7 +196,7 @@ ht-degree: 3%
     + [Créer des compositions photo réalistes avec des images Adobes [!DNL Stock] x](stock/realisticcomposite.md)
     + [Personnalisation d&#39;une animation d&#39;écran de chargement avec Adobe [!DNL Stock]  et XD](stock/loadingscreen.md)
     + [Personnalisation d&#39;un modèle de présentation Adobe [!DNL Stock] professionnel](stock/presentationtemplate.md)
-    + [Personnalisation des couleurs d&#39;une illustration vectorielle Adobe [!DNL Stock] &#x200B;](stock/customizecolors.md)
+    + [Personnalisation des couleurs d&#39;une illustration vectorielle Adobe [!DNL Stock] ](stock/customizecolors.md)
 + Adobe 3D et VR {#3doverview}
   + [Présentation](3di/overview-3di.md)
   + Didacticiels {#3dtutorials}
@@ -207,7 +208,7 @@ ht-degree: 3%
   + [Présentation](dva/overview-dva.md)
   + Didacticiels {#videotutorials}
     + [Modèles d’animations graphiques professionnels](dva/motion-graphics-templates.md)
-    + [Révision vidéo avec Frame.io](dva/video-review-frame-io.md)
+    + [Révision vidéo avec Cadre.io](dva/video-review-frame-io.md)
   + Guides de référence rapide {#videorefguides}
     + [Guides vidéo](dva/overview-dva-ref.md)
 + Adobe XD {#xdoverview}
