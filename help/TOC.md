@@ -9,19 +9,27 @@ role: User
 type: Tutorial
 auto-video-transcripts: true
 nudge: true
-source-git-commit: dec5f84efd42c91c97fc49e3043c09add3d78ed6
+source-git-commit: dac9b2dca8056ae4ef125af7d46624437f414114
 workflow-type: tm+mt
-source-wordcount: '905'
+source-wordcount: '976'
 ht-degree: 3%
-
 ---
 
-
-# Creative Cloud pour les Tutorials d’entreprise {#cce-learning-hub}
+# Tutoriels Creative Cloud abonnement Entreprise {#cce-learning-hub}
 
 + [Présentation](overview.md)
 + Creative Cloud abonnement Entreprise {#cceoverview}
   + [Présentation](cce/overview-cce.md)
+  + Tutoriels sur l’IA {#cceaitutorials}
+    + [Présentation](cce/ai-tutorials/overview-ai-tutorials.md)
+    + [Transformez une illustration vectorielle plate selon n’importe quel angle, sans la redessiner](cce/ai-tutorials/turn-flat-vector-art.md)
+    + [Motifs vectoriels transparents en quelques minutes, et non en quelques heures](cce/ai-tutorials/seamless-vector.md)
+    + [20 directions à partir d&#39;un dossier, avant le déjeuner](cce/ai-tutorials/one-brief.md)
+    + [Du résumé au storyboard : explorer les directions de la vidéo avant la production](cce/ai-tutorials/brief-to-storyboard.md)
+    + [Retouche plus rapide et conservation des pixels d’origine](cce/ai-tutorials/retouch-faster.md)
+    + [Création de paramètres prédéfinis pour une couleur homogène sur l’ensemble d’une prise de vue](cce/ai-tutorials/build-presets.md)
+    + [Remplir les vides dans votre coupe : rouleau B, audio et éléments qui se terminent trop tôt](cce/ai-tutorials/fill-gaps.md)
+    + [Accéder plus rapidement à votre premier montage](cce/ai-tutorials/rough-cut.md)
   + Didacticiels {#ccetutorials}
     + [Acrobat pour les créateurs de contenu](cce/acrobat-content-creators.md)
     + [Amélioration des workflows CC avec CC Libraries](cce/cc-workflows-cc-libraries.md)
@@ -72,7 +80,7 @@ ht-degree: 3%
     + [Utilisation du remplissage génératif](express/generative-fill.md)
     + [Amélioration de la conception de votre texte avec la génération AI](express/gen-text.md)
     + [Comment utiliser l’IA gén. de texte à modèle](express/text-to-template.md)
-    + [Comment traduire en masse votre contenu](express/bulk-translate.md)
+    + [Comment translater votre contenu en bloc](express/bulk-translate.md)
     + [Modification d’un PDF](express/edit-a-pdf.md)
     + [Utilisation du planificateur pour la publication](express/schedule.md)
     + [Associer des objets](express/group-objects.md)
@@ -133,17 +141,17 @@ ht-degree: 3%
     + {hide-from-toc}[Prévisualisation de séance photo](firefly/photoshoot-pre-visualization.md)
     + {hide-from-toc}[Explorez des idées de produits sans réunions, marqueurs ni maquettes](firefly/explore-product-ideas.md)
     + {hide-from-toc}[Convertir un mot en une vision créative partagée](firefly/creative-vision.md)
-    + {hide-from-toc}[Aligner avant la pellicule](firefly/align-camera-roll.md)
-  + {hide-from-toc}Tutoriels Graph  {#firefly-graph}
-    + {hide-from-toc}[Vue d&#39;ensemble du graphique d&#39;Adobe Firefly](firefly/graph/overview-firefly-graph.md)
-    + {hide-from-toc}[Qu&#39;est-ce que le graphique en Firefly ?](firefly/graph/what-is-firefly-graph.md)
-    + {hide-from-toc}[Concepts clés du graphique en Firefly](firefly/graph/key-concepts.md)
-    + {hide-from-toc}[Créez votre premier graphique](firefly/graph/create-your-first-graph.md)
-    + {hide-from-toc}[Partager votre graphique](firefly/graph/share-a-graph.md)
+    + {hide-from-toc}[Aligner avant le déroulement de la caméra](firefly/align-camera-roll.md)
+  + {hide-from-toc} tutoriels Graphe {#firefly-graph}
+    + {hide-from-toc}[Présentation du Graphe d&#39;Adobe Firefly](firefly/graph/overview-firefly-graph.md)
+    + {hide-from-toc}[Qu&#39;est-ce que Firefly Graph ?](firefly/graph/what-is-firefly-graph.md)
+    + {hide-from-toc}[Concepts clés de Firefly Graph](firefly/graph/key-concepts.md)
+    + {hide-from-toc}[Créez votre premier graphe](firefly/graph/create-your-first-graph.md)
+    + {hide-from-toc}[Partager votre graphe](firefly/graph/share-a-graph.md)
     + {hide-from-toc}[Bibliothèque de modèles](firefly/graph/template-library.md)
     + {hide-from-toc}[Personnaliser un modèle](firefly/graph/customize-template.md)
     + {hide-from-toc}[Présentation du webinaire Firefly Graph](firefly/graph/introducing-graph.md)
-    + {hide-from-toc} modèles de graphiques {#graph-templates}
+    + {hide-from-toc} modèles de Graphe {#graph-templates}
       + {hide-from-toc}[Prise en main - Génération d&#39;une image](firefly/graph/templates/get-started-gen-image.md)
       + {hide-from-toc}[Génération de caractères cohérente](firefly/graph/templates/character-gen.md)
       + {hide-from-toc}[Extraction de style](firefly/graph/templates/style-extraction.md)
@@ -207,7 +215,7 @@ ht-degree: 3%
   + [Présentation](dva/overview-dva.md)
   + Didacticiels {#videotutorials}
     + [Modèles d’animations graphiques professionnels](dva/motion-graphics-templates.md)
-    + [Révision vidéo avec Frame.io](dva/video-review-frame-io.md)
+    + [Révision vidéo avec Cadre.io](dva/video-review-frame-io.md)
   + Guides de référence rapide {#videorefguides}
     + [Guides vidéo](dva/overview-dva-ref.md)
 + Adobe XD {#xdoverview}
