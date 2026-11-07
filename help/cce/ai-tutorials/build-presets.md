@@ -14,4 +14,4 @@ ht-degree: 0%
 
 Apprenez à donner un aspect cohérent à une séance photo entière sans modifier chaque image une par une. Dans ce tutoriel, découvrez comment créer un paramètre prédéfini de couleur dans Lightroom, puis appliquer cette nuance de couleur à un lot d’images avec des actions en bloc dans le Firefly. Vos fichiers sont restitués dans le même format et aux mêmes dimensions en pixels que les originaux. Regardez le tutoriel et essayez-le lors de votre prochaine prise de vue.
 
->[!VIDEO](https://video.tv.adobe.com/v/3506009?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3506013?captions=fre_fr&quality=12&learn=on&hidetitle=true)

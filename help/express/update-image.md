@@ -33,4 +33,4 @@ ht-degree: 0%
 
 Mettez rapidement à jour une image graphique statique en remplaçant les éléments à l’aide d’un remplissage génératif, en modifiant le texte en le faisant correspondre à la police et à la couleur et en supprimant l’arrière-plan sur les nouvelles images. Il s’agit d’un moyen simple et rapide de réutiliser des actifs graphiques tels que les bilans financiers.
 
->[!VIDEO](https://video.tv.adobe.com/v/3427116?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3506344?captions=fre_fr&quality=12&learn=on&hidetitle=true)

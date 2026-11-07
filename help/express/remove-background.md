@@ -33,7 +33,7 @@ ht-degree: 0%
 
 Découvrez comment supprimer l’arrière-plan de vos images en un clic avec une action rapide. Après avoir supprimé l’arrière-plan, votre image peut être téléchargée et utilisée à plusieurs fins.
 
->[!VIDEO](https://video.tv.adobe.com/v/3420220?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3506207?captions=fre_fr&quality=12&learn=on&hidetitle=true)
 
 ## Vidéos supplémentaires dans cette série
 

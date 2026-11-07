@@ -33,7 +33,7 @@ ht-degree: 0%
 
 Découvrez les différentes façons de démarrer un projet vidéo, y compris l’utilisation des modèles vidéo pour les réseaux sociaux.
 
->[!VIDEO](https://video.tv.adobe.com/v/3427070?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3506119?captions=fre_fr&quality=12&learn=on&hidetitle=true)
 
 ## Vidéos supplémentaires dans cette série
 

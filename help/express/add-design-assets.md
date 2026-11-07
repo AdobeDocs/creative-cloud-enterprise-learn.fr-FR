@@ -28,7 +28,7 @@ ht-degree: 0%
 
 Apprenez à ajouter des éléments de design visuel à vos projets pour les rendre plus attrayants et attrayants. Il existe quatre types d’éléments : actifs de conception, arrière-plans, formes et icônes. Chaque type d’élément a des centaines de composants différents parmi lesquels choisir. Chaque élément est conçu par des professionnels et prêt à être ajouté à des projets.
 
->[!VIDEO](https://video.tv.adobe.com/v/3426935?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3506155?captions=fre_fr&quality=12&learn=on&hidetitle=true)
 
 ## Vidéos supplémentaires dans cette série
 

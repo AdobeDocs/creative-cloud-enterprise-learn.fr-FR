@@ -33,7 +33,7 @@ ht-degree: 0%
 
 Apprenez à effacer des zones spécifiques de vos images. Vous pouvez également utiliser l’outil de restauration pour récupérer des parties de votre image.
 
->[!VIDEO](https://video.tv.adobe.com/v/3427019?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3506182?captions=fre_fr&quality=12&learn=on&hidetitle=true)
 
 ## Vidéos supplémentaires dans cette série
 

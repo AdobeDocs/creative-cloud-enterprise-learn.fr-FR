@@ -28,7 +28,7 @@ ht-degree: 0%
 
 Découvrez comment enregistrer et partager des modèles dans un kit ou une bibliothèque de marque pour votre équipe.
 
->[!VIDEO](https://video.tv.adobe.com/v/3427098?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3506259?captions=fre_fr&quality=12&learn=on&hidetitle=true)
 
 ## Vidéos supplémentaires dans cette série
 

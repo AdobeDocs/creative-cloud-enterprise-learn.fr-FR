@@ -14,4 +14,4 @@ ht-degree: 0%
 
 Dans ce tutoriel, Mary Poplin, spécialiste en technologies créatives, explique comment transformer un bref et quelques références en cadres de scénarimages, générer de courts tests de mouvement et comparer deux directions côte à côte, afin de pouvoir choisir celle qui mérite d’être produite. Regardez le tutoriel et testez-le dans des forums Firefly lors de votre prochaine présentation vidéo.
 
->[!VIDEO](https://video.tv.adobe.com/v/3505948?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3505978?captions=fre_fr&quality=12&learn=on&hidetitle=true)

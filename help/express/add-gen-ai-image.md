@@ -33,7 +33,7 @@ ht-degree: 0%
 
 Découvrez comment ajouter des images d’IA générative, optimisées par Adobe Firefly, à vos projets créatifs. Personnalisez votre contenu en générant des images basées sur des invites textuelles, avec des options pour différents styles et types de contenu.
 
->[!VIDEO](https://video.tv.adobe.com/v/3426933?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3506245?captions=fre_fr&quality=12&learn=on&hidetitle=true)
 
 ## Vidéos supplémentaires dans cette série
 

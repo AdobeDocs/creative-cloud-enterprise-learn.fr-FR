@@ -14,4 +14,4 @@ ht-degree: 0%
 
 Pas besoin de reconstituer manuellement les modèles pour chaque livrable. Créez des motifs vectoriels fluides en quelques minutes, et non en quelques heures. Dans ce tutoriel, découvrez comment utiliser l’option Texte sur motif dans Illustrator pour explorer les options, ajouter votre propre illustration de marque à la répétition et redimensionner le motif pour différentes applications sans modifier la mise en page. Créez ensuite trois coloris à partir d’un design entièrement modifiable, prêts pour l’emballage, les textiles, les affichages, etc.
 
->[!VIDEO](https://video.tv.adobe.com/v/3505925?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3505930?captions=fre_fr&quality=12&learn=on&hidetitle=true)

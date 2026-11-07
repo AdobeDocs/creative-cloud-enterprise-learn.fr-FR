@@ -30,7 +30,7 @@ ht-degree: 0%
 
 Découvrez toutes les façons d’ajouter du texte à des projets créatifs, notamment la modification, le déplacement et la suppression de calques de texte, la modification des polices, l’ajustement de la taille et de la mise en page du texte, l’alignement du texte, la modification de la couleur de remplissage et du contour, l’ajout d’ombres portées, ainsi que l’utilisation de formes et la découpe de texte. Des polices recommandées sont fournies pour vous inspirer.
 
->[!VIDEO](https://video.tv.adobe.com/v/3420222?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3506362?captions=fre_fr&quality=12&learn=on&hidetitle=true)
 
 ## Vidéos supplémentaires dans cette série
 

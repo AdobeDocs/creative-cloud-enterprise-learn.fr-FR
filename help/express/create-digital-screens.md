@@ -33,4 +33,4 @@ ht-degree: 0%
 
 Apprenez à créer des annonces attrayantes sur écran numérique pour le bureau. La conversion de texte en modèle, optimisée par Adobe Firefly, vous permet de générer une image personnalisée avec de l’espace pour une copie de texte. Un remplissage génératif et des animations sont ajoutés pour rendre l’annonce plus attrayante.
 
->[!VIDEO](https://video.tv.adobe.com/v/3427119?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3506317?captions=fre_fr&quality=12&learn=on&hidetitle=true)

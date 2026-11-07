@@ -14,4 +14,4 @@ ht-degree: 0%
 
 Votre B-roll est court de quelques secondes et le tournage est terminé. Et maintenant ? Apprenez à utiliser l’extension générative dans Premiere pour générer des métrages supplémentaires à partir d’un élément existant, afin de réaliser la découpe exactement là où vous en avez besoin.
 
->[!VIDEO](https://video.tv.adobe.com/v/3505947?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3505969?captions=fre_fr&quality=12&learn=on&hidetitle=true)

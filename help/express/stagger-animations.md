@@ -28,7 +28,7 @@ ht-degree: 0%
 
 Apprenez à décaler les animations pour obtenir le comportement parfait afin d’attirer l’attention d’une personne. Ajustez le minutage des différents éléments pour faciliter la lecture du message.
 
->[!VIDEO](https://video.tv.adobe.com/v/3426981?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3506248?captions=fre_fr&quality=12&learn=on&hidetitle=true)
 
 ## Vidéos supplémentaires dans cette série
 

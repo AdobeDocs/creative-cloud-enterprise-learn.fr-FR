@@ -14,4 +14,4 @@ ht-degree: 0%
 
 Apprenez à créer un premier montage à partir d’interviews et à défiler les séquences plus rapidement dans Premiere, sans parcourir chaque élément. Découvrez comment le montage basé sur le texte vous permet de choisir un dialogue à partir d’une transcription et comment Media Intelligence trouve un rouleau B pour décrire ce qui s’affiche à l’écran, comme « les mains qui peignent une fresque murale. Vous décidez toujours ce qui reste, où cela coupe et comment l&#39;histoire se sent.
 
->[!VIDEO](https://video.tv.adobe.com/v/3506011?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3506023?captions=fre_fr&quality=12&learn=on&hidetitle=true)

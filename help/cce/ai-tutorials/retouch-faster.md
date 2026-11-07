@@ -14,4 +14,4 @@ ht-degree: 0%
 
 Vous avez besoin que vos photos de produit correspondent sans modifier la photo d’origine ? Découvrez comment ajouter des ombres naturelles à une photo de produit dans Photoshop tout en conservant vos pixels d’origine intacts. Découvrez comment l’option Harmoniser génère des ombres, puis la peinture sur un masque de fusion pour révéler la photo d’origine en dessous. Le résultat correspond au style de votre marque et reste entièrement modifiable.
 
->[!VIDEO](https://video.tv.adobe.com/v/3505928?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3505959?captions=fre_fr&quality=12&learn=on&hidetitle=true)

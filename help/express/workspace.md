@@ -28,7 +28,7 @@ ht-degree: 0%
 
 Découvrez comment naviguer dans l’espace de travail dans Adobe Express. L’espace de travail comprend de puissantes fonctionnalités de recherche pour trouver des arrière-plans, des modèles audio et des photos. Vous pouvez accéder à vos propres marques et modèles, et rechercher des thèmes spécifiques. Les médias peuvent être chargés à partir d’appareils ou choisis dans Adobe Stock collection. Les actifs de conception, les arrière-plans, les formes et les icônes sont disponibles pour une utilisation dans les projets. En outre, vous pouvez inviter des collègues à collaborer sur la conception de projets.
 
->[!VIDEO](https://video.tv.adobe.com/v/3426932?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3506326?captions=fre_fr&quality=12&learn=on&hidetitle=true)
 
 ## Vidéos supplémentaires dans cette série
 
