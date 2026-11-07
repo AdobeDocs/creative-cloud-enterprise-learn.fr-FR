@@ -28,7 +28,7 @@ ht-degree: 0%
 
 Explorez la page d’accueil pour naviguer facilement dans l’application. Découvrez les actions rapides, les modèles, les designs saisonniers, les marques, les bibliothèques, la planification, les tutoriels et plus encore.
 
->[!VIDEO](https://video.tv.adobe.com/v/3426924?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3506353?captions=fre_fr&quality=12&learn=on&hidetitle=true)
 
 ## Vidéos supplémentaires dans cette série
 

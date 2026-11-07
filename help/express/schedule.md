@@ -30,7 +30,7 @@ ht-degree: 0%
 
 Planifiez des publications pour les réseaux sociaux pour Instagram, Facebook, Twitter, Pinterest et LinkedIn. Vous pouvez choisir des propriétés spécifiques pour chaque plateforme. Par exemple, dans Instagram, vous pouvez choisir si votre contenu doit être une publication, une histoire ou une bande.
 
->[!VIDEO](https://video.tv.adobe.com/v/3420242?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3506299?captions=fre_fr&quality=12&learn=on&hidetitle=true)
 
 ## Vidéos supplémentaires dans cette série
 

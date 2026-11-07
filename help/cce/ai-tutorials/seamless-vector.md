@@ -14,4 +14,4 @@ ht-degree: 0%
 
 Apprenez à créer un motif de marque transparent dans Illustrator sans vérifier manuellement chaque arête de répétition. Découvrez comment l’option Générer des motifs crée un point de départ, comment déposer votre propre icône de logo dans la vignette et comment mettre à l’échelle la répétition pour le packaging, les notes et les arrière-plans d’événements. Vous verrez également comment la fonctionnalité Redéfinition des couleurs générative crée trois coloris à partir d’un design entièrement modifiable.
 
->[!VIDEO](https://video.tv.adobe.com/v/3505924?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3505939?captions=fre_fr&quality=12&learn=on&hidetitle=true)

@@ -33,7 +33,7 @@ ht-degree: 0%
 
 Découvrez comment ajouter de nouveaux éléments vidéo au montage, ajuster leur longueur, ajouter des transitions et fractionner des éléments pour créer de nouvelles scènes.
 
->[!VIDEO](https://video.tv.adobe.com/v/3427091?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3506272?captions=fre_fr&quality=12&learn=on&hidetitle=true)
 
 ## Vidéos supplémentaires dans cette série
 

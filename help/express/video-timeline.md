@@ -33,7 +33,7 @@ ht-degree: 0%
 
 Découvrez le montage, où vous pouvez organiser et modifier des objets vidéo tels que des vidéos, des images, du texte et des graphiques dans votre projet. Le montage chronologique est une représentation des objets et de l’ordre des objets qui composent une vidéo.
 
->[!VIDEO](https://video.tv.adobe.com/v/3427090?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3506191?captions=fre_fr&quality=12&learn=on&hidetitle=true)
 
 ## Vidéos supplémentaires dans cette série
 

@@ -33,7 +33,7 @@ ht-degree: 0%
 
 Découvrez les différentes façons d’ajouter une image et des effets d’image à vos projets créatifs. Remplacez les images de modèle par des graphiques Adobe Stock plus adaptés. Utilisez le panneau Calques pour réorganiser les calques, rechercher de nouvelles images et modifier le recadrage. La nature non destructive du recadrage vous permet de modifier la forme du recadrage à tout moment.
 
->[!VIDEO](https://video.tv.adobe.com/v/3420226?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3506227?captions=fre_fr&quality=12&learn=on&hidetitle=true)
 
 ## Vidéos supplémentaires dans cette série
 

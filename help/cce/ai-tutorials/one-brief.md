@@ -14,4 +14,4 @@ ht-degree: 0%
 
 Apprenez à transformer un résumé créatif en une planche partagée aux orientations visuelles fortes, avec des outils génératifs pour faire le gros du travail et vous lancer. Mary Poplin, technologue créative, explique comment utiliser des tableaux de Firefly pour insérer des croquis et des références, générer un lot d’options, réduire les idées et se limiter aux deux ou trois directions qu’il vaut la peine de défendre.
 
->[!VIDEO](https://video.tv.adobe.com/v/3505927?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3505950?captions=fre_fr&quality=12&learn=on&hidetitle=true)

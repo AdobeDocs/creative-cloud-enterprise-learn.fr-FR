@@ -28,7 +28,7 @@ ht-degree: 0%
 
 Découvrez les nouvelles fonctionnalités d’IA de génération dans Adobe Express. À l’aide d’une invite de texte, vous pouvez facilement créer des conceptions et des modèles, ajouter des éléments aux images et appliquer des effets spéciaux au texte.
 
->[!VIDEO](https://video.tv.adobe.com/v/3427018?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3506211?captions=fre_fr&quality=12&learn=on&hidetitle=true)
 
 ## Vidéos supplémentaires dans cette série
 
